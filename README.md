@@ -265,6 +265,8 @@ Los hablantes avanzados o nativos que desean compartir sus conocimientos carecen
 
 ---
 #### 1.2.2.4. Lean UX Canvas.
+<p align="center"><img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-I/LeanUXCanva.jpg">
+  
 ## 1.3. Segmentos objetivo.
 Esta sección incluye la descripción de los segmentos asociados al dominio del problema, incluyendo características demográficas e información estadística de sustento.
 
