@@ -315,8 +315,36 @@ Usuarios con nivel avanzado o fluido en el idioma, que desean perfeccionar sus h
 
 # **Capítulo II: Requirements Elicitation & Analysis**
 ## 2.1. Competidores.
-### 2.1.1. Análisis competitivo.
-### 2.1.2. Estrategias y tácticas frente a competidores.
+### 2.1.1. Competitive Analysis Landscape  
+
+| Por qué llevar a cabo este análisis? | Este análisis es clave para entender el mercado de las plataformas digitales de aprendizaje de idiomas, identificar necesidades de los usuarios y cómo **QuizzBee** puede ofrecer soluciones innovadoras y efectivas para diferenciarse de sus competidores. |
+|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Características | Duolingo | Quizlet | Memrise | Busuu | **QuizzBee** |
+|-----------------|----------|---------|---------|-------|-------------|
+| **Perfil**      | Plataforma global para aprender idiomas de manera gamificada con ejercicios cortos y recompensas. | Aplicación centrada en el aprendizaje a través de flashcards y quizzes creados por la comunidad. | App que enseña idiomas con contenido audiovisual y repeticiones espaciadas. | Plataforma con cursos estructurados y tutorías de idioma con hablantes nativos. | Plataforma SaaS que conecta a *personas que quieren reforzar lo aprendido* con *personas que ya dominan el idioma* mediante quizzes, retos y speaking rooms; incorpora vidas, niveles y tienda de recompensas canjeables por certificados/exámenes. |
+| **Ventaja competitiva**<br>¿Qué valor ofrece a los clientes? | Experiencia altamente gamificada con un sistema de niveles, vidas y recompensas. | Permite a los usuarios crear y compartir quizzes personalizados. | Uso de videos de hablantes nativos y repetición espaciada para mejorar la retención. | Interacción con hablantes nativos y cursos estructurados. | Combina contenido generado por usuarios avanzados + speaking rooms + sistema de puntos canjeables por certificados oficiales; incentiva creación de contenido y práctica real. |
+| **Mercado objetivo** | Estudiantes y adultos que buscan aprender un idioma desde cero o reforzar conocimientos. | Estudiantes y profesores que buscan reforzar conocimientos a través de quizzes. | Personas interesadas en aprender vocabulario y frases con apoyo audiovisual. | Estudiantes y profesionales que desean mejorar competencias lingüísticas con apoyo humano. | Estudiantes, autodidactas, jóvenes profesionales y hablantes avanzados que desean crear contenido; instituciones educativas y academias de idiomas. |
+| **Estrategias de marketing** | Marketing de contenido, gamificación extrema, publicidad en redes. | Uso en contextos académicos, alianzas con profesores y colegios. | Estrategia freemium y publicidad digital. | Suscripción premium y alianzas con instituciones educativas. | Alianzas con academias y universidades, campus ambassadors, marketing de contenido orientado a preparación de exámenes y creador de contenido (UGC), campañas en redes y eventos de speaking. |
+| **Precios & Costos** | Modelo freemium con publicidad; versión premium: $7 – $15/mes. | Freemium, premium desde $3 – $7/mes. | Freemium, premium desde $5 – $10/mes. | Premium desde $7 – $15/mes con tutorías adicionales. | **Freemium** (vidas limitadas). Premium: vidas ilimitadas, speaking rooms y contenido exclusivo — propuesta orientativa $5–$12/mes; monetización adicional por canje de certificaciones y comisiones a creadores. |
+| **Productos & Servicios** | Ejercicios de vocabulario, gramática, listening, sistema de vidas. | Flashcards, quizzes creados por usuarios. | Videos, vocabulario, repeticiones espaciadas. | Cursos estructurados, práctica con tutores. | Quizzes y retos gamificados, creador de quizzes, speaking rooms, sistema de puntos y tienda de recompensas (vouchers para exámenes/certificados), dashboards de progreso, panel para creadores. |
+| **Canales de distribución**  | App móvil y plataforma web. | Web y app móvil. | App móvil y web. | App móvil y web. | App móvil y plataforma web; integraciones con academias, landing page institucional y marketplace de creadores. |
+| **Fortalezas**               | Gran base de usuarios, gamificación. | Gran biblioteca generada por usuarios. | Material audiovisual auténtico. | Tutorías con hablantes nativos. | Diferenciación por **canje real de puntos por certificados**, enfoque en speaking y UGC, incentivos para creadores y doble segmento (aprendices + expertos). |
+| **Debilidades**              | Poca práctica real de speaking. | Calidad variable del contenido UGC. | Aprendizaje no siempre estructurado. | Coste elevado para acceso completo. | Necesita alcanzar masa crítica de usuarios y cerrar alianzas con certificadores; inversión inicial en adquisición y verificación de creadores. |
+| **Oportunidades**            | Expandir speaking rooms. | Integración en instituciones. | Incorporar certificaciones oficiales. | Expandir en mercados emergentes. | Alianzas con centros de examen, venta de vouchers, integración B2B con academias/universidades, nichos (preparación TOEFL/IELTS). |
+| **Amenazas**                 | Competencia gratuita y copias de features. | Plataformas con gamificación más atractiva. | Apps más completas. | Alternativas económicas. | Competidores grandes podrían replicar el canje por certificados o speaking rooms; dependencia de acuerdos con certificadoras. |
+
+---
+### 2.1.2. Estrategias y Tácticas frente a Competidores  
+
+Estas son las principales estrategias que aplicará **QuizzBee**:  
+
+- **Conectar segmentos de usuarios**: personas que quieren reforzar lo aprendido con usuarios avanzados que ya dominan el idioma y pueden crear quizzes, retos y speaking rooms.  
+- **Sistema de gamificación innovador**: uso de niveles, vidas limitadas en el plan básico y vidas ilimitadas en el plan premium para fomentar la suscripción.  
+- **Recompensas reales**: sistema de puntos canjeables por beneficios tangibles como acceso a exámenes oficiales (TOEFL, IELTS) o certificados de participación.  
+- **Contenido generado por usuarios avanzados**: los expertos en el idioma podrán crear quizzes y retos que enriquezcan la comunidad, motivando tanto a aprendices como a creadores.  
+- **Alianzas con instituciones educativas**: integración de QuizzBee como herramienta complementaria en colegios, universidades y academias de idiomas.  
+- **Foco en speaking rooms**: diferenciarse de competidores al potenciar el speaking colaborativo y en tiempo real entre estudiantes y usuarios avanzados.  
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 
