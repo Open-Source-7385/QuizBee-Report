@@ -1,5 +1,9 @@
 ## **Universidad Peruana De Ciencias Aplicadas**  
 
+ <p align="center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> 
+ </p>
+
+ 
 ### Facultad de Ingenieria  
 ### Carrera de Ingenieria de Software   
 ### Ciclo: 2025-02
