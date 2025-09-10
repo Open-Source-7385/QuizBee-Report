@@ -181,7 +181,14 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 # **Capítulo IV: Product Design**
 ## 4.1. Style Guidelines.
+Se define las decisiones visuales y de comunicación aplicadas en QuizBee, incluyendo branding, tipografía, colores, espaciado y el tono de comunicación adoptado en la plataforma y el landing page.
 ### 4.1.1. General Style Guidelines.
+- **Branding:**
+ El branding se enfoca en comunicar frescura, confianza y dinamismo. La identidad visual intenta proyectar una perspectiva de aprendizaje colaborativo y lúdico, distanciándose de la rigurosidad académica y acercándose a una experiencia más moderna y atractiva.
+- Typography
+- Colors
+- Spacing
+- Tono de comunicacion
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
