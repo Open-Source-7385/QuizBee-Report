@@ -183,9 +183,18 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 ## 4.1. Style Guidelines.
 Se define las decisiones visuales y de comunicación aplicadas en QuizBee, incluyendo branding, tipografía, colores, espaciado y el tono de comunicación adoptado en la plataforma y el landing page.
 ### 4.1.1. General Style Guidelines.
-- **Branding:**
- El branding se enfoca en comunicar frescura, confianza y dinamismo. La identidad visual intenta proyectar una perspectiva de aprendizaje colaborativo y lúdico, distanciándose de la rigurosidad académica y acercándose a una experiencia más moderna y atractiva.
-- Typography
+
+- **Branding:** Nos enfocamos en comunicar frescura, confianza y dinamismo. La identidad visual intenta proyectar una perspectiva de aprendizaje colaborativo y lúdico,
+  distanciándose de la rigurosidad académica y acercándose a una experiencia más moderna y atractiva.
+  
+- **Typography:** Se utilizó una tipografía moderna y altamente legible, pensada para mantener consistencia visual en cualquier dispositivo, ya sea escritorio o móvil. La elección de fuentes busca transmitir frescura y dinamismo en los títulos, a la vez que garantiza una lectura clara
+  
+  - **Titulos:** Se utiliza Poppins Bold con el propósito de otorgar fuerza, protagonismo y jerarquía a los encabezados más importantes. Esta fuente gráfica brinda modernidad y garantiza que los encabezados se destaquen inmediatamente.
+    
+  - **Textos:** Se emplea Roboto Regular, pues ofrece una lectura cómoda en bloques grandes y logra un aspecto limpio y profesional. Es perfecto para redactar párrafos y descripciones.
+    
+  - **Textos en Botones:** Se utiliza Poppins Semibold, lo que garantiza visibilidad y contraste, lo que a su vez proporciona claridad y favorece la interacción del usuario.
+    
 - Colors
 - Spacing
 - Tono de comunicacion
