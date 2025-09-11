@@ -208,6 +208,44 @@ Se define las decisiones visuales y de comunicación aplicadas en QuizBee, inclu
 - **Tono de comunicacion:** El tono que se estableció para QuizBee es entusiasta, casual y respetuoso, con el objetivo de crear un vínculo cercano con los usuarios sin disminuir la credibilidad ni la confianza. Se pretende proyectar una voz que estimule al usuario y lo acompañe en su proceso de aprendizaje, transmitiendo optimismo y manteniendo un comportamiento cordial en todo momento.
   
 ### 4.1.2. Web Style Guidelines.
+En esta sección se definen los estándares visuales y de interacción para asegurar consistencia en todas las versiones de la plataforma (desktop, tablet y mobile).
+- **Layout & Responsive:**
+  - Estructura basada en un grid flexible de 12 columnas.
+
+  - Breakpoints principales:
+
+    - Mobile: ≤ 576px
+
+    - Tablet: 577px – 992px
+
+    - Desktop: ≥ 993px
+      
+  - Los elementos se adaptan manteniendo proporciones, espaciados y jerarquía visual en todas las resoluciones.
+
+- **Navegación:**
+  
+  - Menú principal siempre visible en desktop y accesible mediante hamburger menu en mobile.
+
+  - Botones de acción (CTA) como “Empezar ahora” permanecen visibles y accesibles en todas las resoluciones.
+ 
+- **Botones e Interacciones:**
+  
+  - Botones primarios con fondo azul/celeste y texto blanco.
+
+  - Hover: tono más oscuro para dar feedback.
+
+  - Disabled: gris claro con texto desactivado.
+
+  - Bordes redondeados para mantener el estilo amigable y moderno.
+
+- **Espaciado:**
+
+  - Márgenes y paddings adaptativos según resolución.
+
+  - En mobile, se prioriza la verticalidad y el scroll fluido.
+
+  - En desktop, se aprovecha mejor el espacio horizontal con columnas.
+    
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
