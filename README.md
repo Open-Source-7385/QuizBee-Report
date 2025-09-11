@@ -203,8 +203,10 @@ Se define las decisiones visuales y de comunicación aplicadas en QuizBee, inclu
     
   - **Fondo base:** Blanco humo (F5F9FC), empleado como fondo principal en el landing y las secciones informativas. Este tono neutro aporta claridad, sensación de amplitud y permite que los colores primarios y complementarios resalten de forma natural.
   
-- Spacing
-- Tono de comunicacion
+- **Spacing:** El espaciado es un elemento esencial en la identidad visual de QuizBee, debido a que garantiza que la interfaz no se vea sobrecargada y que navegar por ella sea fácil y claro. Se ha determinado un espaciamiento amplio entre secciones, lo que posibilita una jerarquía visual clara y ayuda al usuario a distinguir fácilmente la importancia de cada bloque de contenido.
+  
+- **Tono de comunicacion:** El tono que se estableció para QuizBee es entusiasta, casual y respetuoso, con el objetivo de crear un vínculo cercano con los usuarios sin disminuir la credibilidad ni la confianza. Se pretende proyectar una voz que estimule al usuario y lo acompañe en su proceso de aprendizaje, transmitiendo optimismo y manteniendo un comportamiento cordial en todo momento.
+  
 ### 4.1.2. Web Style Guidelines.
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
