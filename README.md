@@ -191,11 +191,18 @@ Se define las decisiones visuales y de comunicación aplicadas en QuizBee, inclu
   
   - **Titulos:** Se utiliza Poppins Bold con el propósito de otorgar fuerza, protagonismo y jerarquía a los encabezados más importantes. Esta fuente gráfica brinda modernidad y garantiza que los encabezados se destaquen inmediatamente.
     
-  - **Textos:** Se emplea Roboto Regular, pues ofrece una lectura cómoda en bloques grandes y logra un aspecto limpio y profesional. Es perfecto para redactar párrafos y descripciones.
+  - **Parrafos:** Se emplea Roboto Regular, pues ofrece una lectura cómoda en bloques grandes y logra un aspecto limpio y profesional. Es perfecto para redactar párrafos y descripciones.
     
   - **Textos en Botones:** Se utiliza Poppins Semibold, lo que garantiza visibilidad y contraste, lo que a su vez proporciona claridad y favorece la interacción del usuario.
     
-- Colors
+- **Colors:** La paleta de colores de QuizBee gira en torno al celeste, un tono que transmite frescura, claridad y confianza, alineándose con nuestra propuesta de ser una plataforma dinámica y accesible para el aprendizajey reforzarmiento del ingles. La elección de estos colores tiene como objetivo crear un entorno visual agradable que impulse al usuario a interactuar sin sentirse agobiado.
+  
+  - **Color principal:** Celeste claro (A5E8FF), que es el color mayoritario en el diseño y se emplea en componentes esenciales de la interfaz. Simboliza ligereza, apertura e innovación, rasgos que fortalecen la naturaleza de la aplicación.
+    
+  - **Color complementario:** Celeste más intenso (3ABEF9), aplicado en botones, llamados a la acción y elementos destacados. Su función es atraer la atención del usuario en los momentos clave, asegurando un contraste claro con el fondo y generando jerarquía visual.
+    
+  - **Fondo base:** Blanco humo (F5F9FC), empleado como fondo principal en el landing y las secciones informativas. Este tono neutro aporta claridad, sensación de amplitud y permite que los colores primarios y complementarios resalten de forma natural.
+  
 - Spacing
 - Tono de comunicacion
 ### 4.1.2. Web Style Guidelines.
