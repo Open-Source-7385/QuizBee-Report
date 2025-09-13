@@ -174,6 +174,28 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 # **Capítulo III: Requirements Specification**
 ## 3.1. User Stories.
+
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>Epic/User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td><strong>Escenario 1</strong>:  <br/> <strong>Escenario 2</strong>: </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ## 3.2. Impact Mapping.
 ## 3.3. Product Backlog.
 
