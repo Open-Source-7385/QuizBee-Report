@@ -362,6 +362,83 @@ Usuarios con nivel avanzado o fluido en el idioma, que desean perfeccionar sus h
 - ¿Qué tan dispuesto estarías a pagar por un plan premium que te ofrezca beneficios como reuniones ilimitadas, quizzes exclusivos y certificados?  
 - ¿Te sentirías más motivado si tu progreso dentro de la plataforma pudiera convertirse en una certificación oficial reconocida?  
 ### 2.2.2. Registro de entrevistas.
+#### Segmento 1:
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista1.png">
+
+
+- Entrevista N°1: Diego Avalos
+- Sexo: Masculino
+- Edad: 21 años
+
+- Ubicación en la que vive: Independencia, Lima, Perú
+
+#### Entrevista: ####
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+- Momento en el que inicia: 0:02
+
+- Duración: 7:07
+
+**Resumen:**
+Adrián es un joven que actualmente cursa el quinto año de secundaria en el colegio Trilce, sede Los Olivos. Nos comparte que, aunque todavía no ha decidido con claridad qué carrera le gustaría seguir, una de las opciones que más le atrae es Psicología, ya que considera que es una profesión interesante y, en sus palabras, "bastante tranquila".
+Además, Adrián nos comentó que en alguna ocasión realizó un test vocacional con el acompañamiento de un psicólogo, sin embargo, la experiencia no resultó tan útil o reveladora como él esperaba. A pesar de ello, mantiene la curiosidad y apertura por seguir explorando su vocación.
+En ese sentido, está dispuesto a probar nuevas alternativas y le parece una idea interesante la posibilidad de realizar un test vocacional en línea, siempre y cuando exista la guía de un profesional que pueda orientarlo adecuadamente durante el proceso. Considera que contar con una plataforma digital o aplicación que combine tecnología con asesoramiento humano sería una buena forma de ayudar a estudiantes como él a descubrir una carrera que realmente se ajuste a sus intereses y personalidad.
+
+
+
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista2.png">
+
+
+- Entrevista N°2:PaolaGarcia 
+- Sexo: Femenino
+- Edad: 18 años
+
+- Ubicación en la que vive: San Martin de Porres, Lima, Perú
+
+#### Entrevista: ####
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+- Momento en el que inicia: 0:02
+
+- Duración: 7:07
+
+**Resumen:**
+Adrián es un joven que actualmente cursa el quinto año de secundaria en el colegio Trilce, sede Los Olivos. Nos comparte que, aunque todavía no ha decidido con claridad qué carrera le gustaría seguir, una de las opciones que más le atrae es Psicología, ya que considera que es una profesión interesante y, en sus palabras, "bastante tranquila".
+Además, Adrián nos comentó que en alguna ocasión realizó un test vocacional con el acompañamiento de un psicólogo, sin embargo, la experiencia no resultó tan útil o reveladora como él esperaba. A pesar de ello, mantiene la curiosidad y apertura por seguir explorando su vocación.
+En ese sentido, está dispuesto a probar nuevas alternativas y le parece una idea interesante la posibilidad de realizar un test vocacional en línea, siempre y cuando exista la guía de un profesional que pueda orientarlo adecuadamente durante el proceso. Considera que contar con una plataforma digital o aplicación que combine tecnología con asesoramiento humano sería una buena forma de ayudar a estudiantes como él a descubrir una carrera que realmente se ajuste a sus intereses y personalidad.
+
+
+
+#### Segmento 2:
+
+
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista3.PNG">
+
+
+- Entrevista N°1: Anyelo Alejos
+- Sexo: Masculino
+- Edad: 20 años
+
+- Ubicación en la que vive: Independencia, Lima, Perú
+
+#### Entrevista: ####
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+- Momento en el que inicia: 0:02
+
+- Duración: 7:07
+
+**Resumen:**
+Adrián es un joven que actualmente cursa el quinto año de secundaria en el colegio Trilce, sede Los Olivos. Nos comparte que, aunque todavía no ha decidido con claridad qué carrera le gustaría seguir, una de las opciones que más le atrae es Psicología, ya que considera que es una profesión interesante y, en sus palabras, "bastante tranquila".
+Además, Adrián nos comentó que en alguna ocasión realizó un test vocacional con el acompañamiento de un psicólogo, sin embargo, la experiencia no resultó tan útil o reveladora como él esperaba. A pesar de ello, mantiene la curiosidad y apertura por seguir explorando su vocación.
+En ese sentido, está dispuesto a probar nuevas alternativas y le parece una idea interesante la posibilidad de realizar un test vocacional en línea, siempre y cuando exista la guía de un profesional que pueda orientarlo adecuadamente durante el proceso. Considera que contar con una plataforma digital o aplicación que combine tecnología con asesoramiento humano sería una buena forma de ayudar a estudiantes como él a descubrir una carrera que realmente se ajuste a sus intereses y personalidad.
+
+
+
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
