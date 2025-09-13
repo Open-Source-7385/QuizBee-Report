@@ -248,8 +248,38 @@ En esta sección se definen los estándares visuales y de interacción para aseg
     
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
+La información se organiza primordialmente de manera jerárquica, destacando los elementos más relevantes: el encabezado con la propuesta de valor, el llamado a la acción más importante y las secciones esenciales (Quiénes somos, Funcionalidades, Descarga, Contacto).
+
+En ciertos apartados, se opta por una disposición secuencial, como en la descripción de las funcionalidades, donde se detallan paso a paso las ventajas y modos de uso (Retos diarios → Competencias gamificadas → Práctica con hablantes).
+
+Para el contenido general, se utiliza un modelo de categorización por temas, organizando la información en bloques definidos: misión, visión, enfoque y comunidad; funcionalidades clave; opciones de descarga; y formulario de contacto.
+
+En el formulario, la organización sigue una secuencia cronológica, comenzando con la solicitud de los datos básicos del usuario y luego confirmando que el equipo se pondrá en contacto.
+
+Esta combinación de métodos de organización asegura que la experiencia sea clara, sencilla y fácil de navegar, sin importar el dispositivo que se utilice.
+
 ### 4.2.2. Labeling Systems.
+El sistema de etiquetado  tiene como objetivo preservar la claridad y la sencillez, empleando vocabulario breve y explícito que transmita de manera instantánea la función de cada parte. Se evitan expresiones especializadas o poco claras que puedan causar malentendidos en los usuarios.
+
+Las etiquetas principales definidas para el landing son:
+
+- Inicio → acceso directo a la página principal y propuesta de valor.
+
+- Quiénes somos → bloque informativo que presenta misión, visión, enfoque y comunidad.
+
+- Funcionalidades → sección donde se explican los beneficios de la app (retos diarios, competencias, práctica con hablantes).
+
+- Descargar → llamada a la acción con botones hacia App Store y Google Play.
+
+- Contacto → formulario sencillo para que los usuarios puedan comunicarse.
+
+Los botones de acción utilizan frases cortas en imperativo para incentivar la interacción, como “Empezar ahora”, “Descargar” o “Enviar”, manteniendo consistencia en el tono y evitando redundancias.
+
+Este método de etiquetado permite que cada parte sea identificada al instante y que las conexiones entre el contenido y la acción sean evidentes para el usuario.
+
 ### 4.2.3. SEO Tags and Meta Tags
+En esta sección se definen las etiquetas SEO y meta tags que se aplicarán en las principales páginas del sitio (Landing Page y Web Application), con el fin de optimizar la visibilidad en buscadores y garantizar una adecuada indexación.
+
 ### 4.2.4. Searching Systems.
 ### 4.2.5. Navigation Systems.
 ## 4.3. Landing Page UI Design.
