@@ -314,6 +314,114 @@ Usuarios con nivel avanzado o fluido en el idioma, que desean perfeccionar sus h
 # **Capítulo II: Requirements Elicitation & Analysis**
 ## 2.1. Competidores.
 ### 2.1.1. Análisis competitivo.
+
+<table border="1">
+  <tr>
+    <th colspan="6" style="text-align:left">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+    <td colspan="5">Este análisis se está llevando a cabo porque queremos conocer las ventajas y desventajas de nuestra aplicación frente a la competencia, y cómo nos diferenciamos de ellas.</td>
+  </tr>
+  <tr>
+  <td colspan="2"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
+  <td><strong>Nuestra APP</strong><br><img src="img/logo-fueltrack.jpg" height="120"/></td>
+  <td><strong>OTRA APP</strong><br><img src="img/logo-zavgar.jpg" height="120"/></td>
+  <td><strong>OTRA APP</strong><br><img src="img/logo-fuelcloud.jpg" height="120"/></td>
+  <td><strong>OTRA APP</strong><br><img src="img/logo-wialon.jpg" height="120"/></td>
+</tr>
+
+  <tr>
+    <th rowspan="3">Perfil</th>
+    <td><strong>Visión general</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+  </tr>
+  <tr>
+    <td><strong>Ventaja competitiva</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+  </tr>
+  <tr>
+    <td><strong>¿Qué valor ofrece al cliente?</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO.</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Perfil de Marketing</th>
+    <td><strong>Mercado objetivo</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO.</td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+  </tr>
+  <tr>
+    <td><strong>Estrategias de marketing</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+  </tr>
+  <tr>
+    <th rowspan="3">Perfil de Producto</th>
+    <td><strong>Productos & Servicios</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO.</td>
+    <td>P=TEXTO</td>
+  </tr>
+  <tr>
+    <td><strong>Precios & Costos</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO.</td>
+    <td>TEXTO</td>
+  </tr>
+  <tr>
+    <td><strong>Canales de distribución</strong></td>
+    <td>TEXTO.</td>
+    <td>TEXTO.</td>
+    <td>TEXTO.</td>
+    <td>TEXTO</td>
+  </tr>
+  <tr>
+    <th rowspan="4">Análisis SWOT</th>
+    <td><strong>Fortalezas</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO.</td>
+  </tr>
+  <tr>
+    <td><strong>Debilidades</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO.</td>
+    <td>TEXTO.</td>
+    <td>TEXTO</td>
+  </tr>
+  <tr>
+    <td><strong>Oportunidades</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO</td>
+    <td>TEXTO.</td>
+    <td>TEXTO</td>
+  </tr>
+  <tr>
+    <td><strong>Amenazas</strong></td>
+    <td>TEXTO</td>
+    <td>TEXTO.</td>
+    <td>TEXTO.</td>
+    <td>TEXTO</td>
+  </tr>
+</table>
+
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
