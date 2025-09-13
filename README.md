@@ -280,8 +280,54 @@ Este método de etiquetado permite que cada parte sea identificada al instante y
 ### 4.2.3. SEO Tags and Meta Tags
 En esta sección se definen las etiquetas SEO y meta tags que se aplicarán en las principales páginas del sitio (Landing Page y Web Application), con el fin de optimizar la visibilidad en buscadores y garantizar una adecuada indexación.
 
+- Landing Page :
+
+  - Title: QuizBee 
+
+  - Meta Description: Plataforma innovadora para aprender inglés mediante retos diarios, competencias gamificadas y práctica real con hablantes en videollamadas.
+
+  - Meta Keywords: aprender inglés, retos diarios inglés, inglés gamificado, practicar inglés con hablantes, clases de inglés en videollamada
+
+  - Meta Author: Equipo QuizBee
+
+- Web Application :
+
+  - Title: QuizBee App 
+
+  - Meta Description: Participa en desafíos diarios, gana puntos en competencias gamificadas y mejora tu inglés con sesiones en vivo por videollamada.
+
+  - Meta Keywords: retos de inglés, gamificación inglés, práctica en vivo inglés, inglés interactivo, mejorar inglés rápido
+
+  - Meta Author: Equipo QuizBee
+
 ### 4.2.4. Searching Systems.
+El sistema de búsqueda está diseñado para que los usuarios encuentren de manera rápida y clara los contenidos y recursos que necesitan dentro de la plataforma.
+
+En la aplicación web, se ofrecerá una barra de búsqueda principal. Los usuarios podrán localizar retos específicos, lecciones temáticas, competencias gamificadas y videollamadas programadas.
+
+Los resultados podrán refinarse mediante filtros como:
+
+- Nivel de dificultad (básico, intermedio, avanzado).
+
+- Tipo de actividad (reto escrito, reto hablado, competencia, práctica con experto).
+
+- Duración estimada (corta, media, larga).
+
+- Popularidad o relevancia (más usados, más recomendados).
+
+Después de la búsqueda, los datos se presentarán en listas visuales con íconos representativos de cada tipo de recurso, junto a descripciones breves y botones de acción (ej. “Iniciar reto”).
+
+De esta forma, el sistema de búsqueda no solo evita que los usuarios se pierdan entre la información, sino que los guía hacia las actividades que mejor se adaptan a sus metas de aprendizaje.
+
 ### 4.2.5. Navigation Systems.
+En el Landing Page y la aplicación web se aplicará una navegación fluida y guiada por el scroll, donde el usuario recorre el contenido de forma secuencial y jerárquica, pasando de las secciones principales en un orden lógico: Inicio → Quiénes Somos → Funcionalidades → Contacto →Descarga.
+
+En la Landing Page, los usuarios recorrerán el contenido de forma secuencial y jerárquica, con botones de llamada a la acción (CTAs) estratégicos como "Empiaza Ahora", que los llevan directamente al registro o inicio de sesion.
+
+En la aplicación web, se implementará una navegación tipo tab bar (en móviles) y sidebar (en escritorio), permitiendo acceder fácilmente a las funciones principales: Retos diarios, Videollamadas, Competencias, Perfil y Configuración.
+
+Además, se incluirán elementos de navegación contextual como breadcrumbs para ubicar al usuario dentro del sistema, y enlaces rápidos hacia secciones de soporte y comunidad. Esto garantiza que el recorrido sea fluido, motivador y que el usuario cumpla su meta: aprender y practicar inglés sin perderse en el camino.
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
