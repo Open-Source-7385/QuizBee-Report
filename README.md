@@ -176,254 +176,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 ## 3.1. User Stories.
 
 <table border="1" cellspacing="0" cellpadding="6">
-  <thead>
-    <tr>
-      <th>Epic/User Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Criterios de aceptación</th>
-      <th>Relacionado con (Epic ID)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>HU01</td>
-      <td>Iniciar sesión con credenciales</td>
-      <td>Un usuario registrado desea iniciar sesión utilizando sus credenciales para poder acceder a su cuenta de manera segura y tener acceso a las funcionalidades de la plataforma.</td>
-      <td><strong>Escenario 1 Inicio de sesión exitoso </strong>: 
-      Given que soy un usuario registrado con credenciales válidas, 
-      When ingreso mi correo y contraseña correctos, 
-      Then el sistema me permite acceder a mi cuenta y ver mi panel principal.<br/> 
-      <strong>Escenario 2 Error de credenciales</strong>: 
-      Given que intento iniciar sesión con credenciales incorrectas, 
-      When ingreso un correo o contraseña inválidos, 
-      Then el sistema me muestra un mensaje de error indicando que los datos no son correctos.</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>HU02</td>
-      <td>Recuperar contraseña</td>
-      <td>Un usuario registrado que ha olvidado su contraseña necesita restablecerla mediante su correo electrónico con el fin de recuperar el acceso a su cuenta y seguir utilizando la plataforma sin inconvenientes.</td>
-      <td><strong>Escenario 1 Solicitud de restablecimiento exitosa </strong>: 
-      Given que olvidé mi contraseña,
-      When ingreso mi correo registrado y solicito recuperación,
-      Then el sistema me envía un enlace de restablecimiento válido a mi correo.<br/> 
-      <strong>Escenario 2 Correo no registrado</strong>: 
-      Given que intento recuperar acceso,
-      When ingreso un correo que no está registrado,
-      Then el sistema me muestra un mensaje indicando que no existe una cuenta con ese correo.</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>HU03</td>
-      <td>Registro de Usuario</td>
-      <td>Una persona interesada en la plataforma desea registrarse creando una nueva cuenta con sus datos personales y credenciales únicas, para así poder acceder a todas las funcionalidades y participar en los retos de aprendizaje de inglés.</td>
-      <td><strong>Escenario 1 Registro exitoso </strong>: 
-      Given que soy un usuario nuevo sin cuenta creada,
-      When ingreso mis datos válidos (nombre, correo, contraseña) en el formulario de registro,
-      Then el sistema crea mi cuenta<br/> 
-      <strong>Escenario 2 Registro fallido por correo no valido</strong>: 
-      Given que intento registrarme con un correo no valido,
-      When envío el formulario de registro con ese correo,
-      Then el sistema me muestra un mensaje de error indicando que el correo no es valido</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>HU04</td>
-      <td>Control de Roles y Permisos</td>
-      <td>Un usuario registrado necesita poder cambiar su rol dentro de la plataforma entre “Novato” y “Creador de Retos”, con el fin de personalizar su experiencia, ya sea aprendiendo mediante desafíos o creando contenido para otros usuarios.</td>
-      <td><strong>Escenario 1 Cambio de rol a Novato </strong>: 
-      Given que soy un usuario autenticado con rol actual “Creador de Retos”
-      When accedo a la configuración de cuenta y selecciono cambiar mi rol a “Novato”
-      Then el sistema guarda el cambio y me muestra los retos diseñados para el aprendizaje paso a paso.<br/> 
-      <strong>Escenario 2 Cambio de rol a Creador de Retos</strong>: 
-      Given que soy un usuario autenticado con rol actual “Novato”
-      When accedo a la configuración de cuenta y selecciono cambiar mi rol a “Creador de Retos”
-      Then el sistema guarda el cambio y habilita las herramientas necesarias para diseñar y publicar nuevos retos.</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>HU05</td>
-      <td>Cerrar Sesion</td>
-      <td>Un usuario autenticado desea cerrar sesión en su cuenta para proteger su información personal y evitar que terceros accedan a su perfil en dispositivos compartidos o públicos</td>
-      <td><strong>Escenario 1 Cierre de sesión exitoso </strong>: 
-      Given que estoy autenticado en mi cuenta
-      When selecciono la opción “Cerrar sesión”
-      Then el sistema me redirige a la página de inicio y finaliza mi sesión.<br/> 
-      <strong>Escenario 2 Confirmación visual de cierre de sesión</strong>: 
-      Given que estoy autenticado en mi cuenta
-      When selecciono la opción “Cerrar sesión”
-      Then el sistema muestra un mensaje de confirmación como “Has cerrado sesión correctamente”, y me redirige a la pantalla de inicio.</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td>HU06</td>
-      <td>Crear Quiz</td>
-      <td>Un usuario desea crear un quiz ingresando preguntas y respuestas para practicar y reforzar sus conocimientos.</td>
-      <td><strong>Escenario 1 Creación de quiz con éxito </strong>: 
-      Given que estoy en la pantalla de creación de quiz, 
-      When ingreso preguntas y respuestas válidas y selecciono "Guardar", 
-      Then el sistema me permite usar el quiz de inmediato.<br/> 
-      <strong>Escenario 2 Creación fallida por campos vacíos</strong>: 
-      Given que estoy en la pantalla de creación de quiz, 
-      When intento guardar dejando una pregunta o respuesta en blanco, 
-      Then el sistema me muestra un mensaje de error indicando que debo completar todos los campos..</td>
-      <td></td>
-    </tr>
-     <tr>
-      <td>HU06</td>
-      <td>Crear Quiz</td>
-      <td>Un usuario desea crear un quiz ingresando preguntas y respuestas para practicar y reforzar sus conocimientos.</td>
-      <td><strong>Escenario 1 Creación de quiz con éxito </strong>: 
-      Given que estoy en la pantalla de creación de quiz, 
-      When ingreso preguntas y respuestas válidas y selecciono "Guardar", 
-      Then el sistema me permite usar el quiz de inmediato.<br/> 
-      <strong>Escenario 2 Creación fallida por campos vacíos</strong>: 
-      Given que estoy en la pantalla de creación de quiz, 
-      When intento guardar dejando una pregunta o respuesta en blanco, 
-      Then el sistema me muestra un mensaje de error indicando que debo completar todos los campos..</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HU07</td>
-      <td>Responder Quiz</td>
-      <td>Un usuario desea crear un quiz ingresando preguntas y respuestas para practicar y reforzar sus conocimientos.</td>
-      <td><strong>Escenario 1 Respuesta correcta</strong>: 
-      Given que estoy realizando un quiz
-      When selecciono la respuesta correcta de una pregunta
-      Then el sistema me muestra una confirmación positiva.<br/> 
-      <strong>Escenario 2 Respuesta incorrecta</strong>: 
-      Given que estoy realizando un quiz
-      When selecciono una respuesta equivocada
-      Then el sistema me indica que fallé y me muestra la opción correcta.</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HU08</td>
-      <td>Feedback inmediato</td>
-      <td>Un usuario quiere recibir retroalimentación inmediata después de cada respuesta para reforzar lo aprendido en el momento.</td>
-      <td><strong>Escenario 1 Feedback positivo</strong>: 
-      Given que respondo correctamente una pregunta
-      When envío mi respuesta
-      Then el sistema me muestra un mensaje positivo confirmando el acierto.<br/> 
-      <strong>Escenario 2 Feedback negativo</strong>: 
-      Given que respondo incorrectamente una pregunta
-      When envío mi respuesta
-      Then el sistema me indica que fallé y muestra la respuesta correcta..</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HU09</td>
-      <td>Ver Puntaje</td>
-      <td>Un usuario desea ver su puntaje acumulado mientras resuelve un quiz para medir su desempeño.</td>
-      <td><strong>Escenario 1 Puntaje actualizado correctamente</strong>: 
-      Given que estoy respondiendo un quiz
-      When contesto una pregunta correctamente
-      Then el puntaje acumulado aumenta en pantalla.<br/> 
-      <strong>Escenario 2 Puntaje mostrado al final</strong>: 
-      Given que completé un quiz
-      When llego a la última pregunta
-      Then el sistema me muestra mi puntaje total.</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HU10</td>
-      <td>Editar o Borrar Preguntas</td>
-      <td>Un usuario quiere editar o borrar preguntas de un quiz para hacerlo mas desafiante o mas sencillo</td>
-      <td><strong>Escenario 1 Editar pregunta</strong>: 
-      Given que ya ingresé preguntas en un quiz
-      When selecciono una para editar y cambio su enunciado
-      Then el sistema actualiza la pregunta con la nueva información..<br/> 
-      <strong>Escenario 2 Borrar pregunta</strong>: 
-      Given que tengo varias preguntas cargadas en un quiz
-      When elijo eliminar una de ellas
-      Then el sistema la quita de la lista.</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HU11</td>
-      <td>Editar o Borrar Preguntas</td>
-      <td>Un usuario quiere editar o borrar preguntas de un quiz para hacerlo mas desafiante o mas sencillo</td>
-      <td><strong>Escenario 1 Editar pregunta</strong>: 
-      Given que ya ingresé preguntas en un quiz
-      When selecciono una para editar y cambio su enunciado
-      Then el sistema actualiza la pregunta con la nueva información..<br/> 
-      <strong>Escenario 2 Borrar pregunta</strong>: 
-      Given que tengo varias preguntas cargadas en un quiz
-      When elijo eliminar una de ellas
-      Then el sistema la quita de la lista.</td>
-      <td></td>
-    </tr>
-     <tr>
-      <td>HU12</td>
-      <td>Resumen Final</td>
-      <td>Un usuario quiere ver un resumen al terminar un quiz con su puntaje y las respuestas correctas e incorrectas.</td>
-      <td><strong>Escenario 1 Resumen visible</strong>: 
-      Given que completé todas las preguntas de un quiz
-      When llego al final
-      Then el sistema me muestra un resumen con mis resultados.<br/> 
-      <strong>Escenario 2 Cierre del resumen</strong>: 
-      Given que visualicé el resumen de un quiz
-      When selecciono la opción “Cerrar resumen”
-      Then el sistema oculta el resumen y me muestra la pantalla inicial del quiz.</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HU13</td>
-      <td>Navegar entre Preguntas</td>
-      <td>Un usuario quiere poder retroceder o avanzar entre preguntas, para revisar o cambiar sus respuestas.</td>
-      <td><strong>Escenario 1 Avanzar a la siguiente pregunta</strong>: 
-      Given que estoy respondiendo una pregunta
-      When selecciono “Siguiente”
-      Then el sistema me muestra la siguiente pregunta disponible.<br/> 
-      <strong>Escenario 2 Volver a una pregunta anterior</strong>: 
-      Given que estoy en una pregunta distinta de la primera
-      When selecciono “Anterior”
-      Then el sistema me muestra la pregunta previa.</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HU14</td>
-      <td>Temporizador en el Quiz</td>
-      <td>Un usuario quiere tener un temporizador visible durante el quiz para controlar el tiempo que tarda en completarlo.</td>
-      <td><strong>Escenario 1 Temporizador en cuenta regresiva</strong>: 
-      Given que inicio un quiz con límite de tiempo
-      When comienza el quiz
-      Then el sistema inicia un contador regresivo visible.<br/> 
-      <strong>Escenario 2 Tiempo agotado</strong>: 
-      Given que el temporizador llega a cero
-      When estoy en medio del quiz
-      Then el sistema finaliza automáticamente y muestra mis resultados hasta ese momento.</td>
-      <td></td>
-    </tr>
-     <tr>
-      <td>HU15</td>
-      <td>Ver Instrucciones</td>
-      <td>Un usuario quiere visualizar una breve instrucción antes de iniciar un quiz para entender cómo funcionará.</td>
-      <td><strong>Escenario 1 Instrucciones visibles</strong>: 
-      Given que seleccioné un quiz
-      When se carga la pantalla inicial
-      Then el sistema me muestra instrucciones sobre cómo responder.<br/> 
-      <strong>Escenario 2 Iniciar desde instrucciones</strong>: 
-      Given que estoy en la pantalla de instrucciones
-      When presiono el botón “Comenzar quiz”
-      Then el sistema me lleva a la primera pregunta.</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>HU16</td>
-      <td>Preguntas sin responder</td>
-      <td>Un usuario quiere que el sistema le indique qué preguntas dejó sin responder antes de terminar el quiz.</td>
-      <td><strong>Escenario 1 Aviso de preguntas vacías</strong>: 
-      Given que llegué al final del quiz
-      When intento finalizar sin responder todo
-      Then el sistema me muestra un aviso indicando las preguntas pendientes..<br/> 
-      <strong>Escenario 2 Finalizar con preguntas sin responder</strong>: 
-      Given que no respondí todas las preguntas
-      When confirmo que quiero finalizar el quiz
-      Then el sistema me permite terminar, pero aclara que algunas quedaron sin responder.</td>
-      <td></td>
-    </tr>
+  
+  <tbody
     <tr>
       <td>HU17</td>
       <td>Mensaje de confirmación al terminar un quiz</td>
@@ -452,6 +206,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | US06 | Configuración de perfil | Given que estoy autenticado,<br> When accedo a configuración,<br> Then puedo editar mi nombre, idioma y nivel de inglés. | E03 |
 | US07 | Cambio de contraseña | Given que deseo más seguridad,<br> When ingreso mi contraseña actual y la nueva,<br> Then el sistema actualiza mi clave exitosamente. | E03 |
 | US08 | Eliminar cuenta | Given que quiero darme de baja,<br> When confirmo la eliminación de mi cuenta,<br> Then el sistema borra mis datos de forma irreversible. | E03 |
+| US | Cerrar Sesion | ,<br><br>  | E03 |
 | US09 | Creación de quiz |Como creador, quiero crear un quiz con preguntas y respuestas para compartirlo.|  Given que soy creador,<br> When accedo a la sección “crear quiz” e ingreso preguntas,<br> Then el sistema guarda y publica el quiz. | E04 |
 | US10 | Publicación de quiz | Given que terminé de crear un quiz,<br> When lo marco como “publicar”,<br> Then se vuelve visible para los demás usuarios. | E04 |
 | US11 | Edición de quiz publicado | Given que soy creador,<br> When actualizo un quiz ya publicado,<br> Then los cambios se reflejan manteniendo historial. | E04 |
@@ -460,12 +215,19 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | US14 | Búsqueda de quizzes por nivel | Given que estoy buscando prácticas,<br> When selecciono mi nivel A2,<br> Then se listan únicamente quizzes A2. | E05 |
 | US15 | Búsqueda de quizzes por categoría | Given que quiero reforzar vocabulario,<br> When filtro por categoría “vocabulary”,<br> Then se muestran solo quizzes de vocabulario. | E05 |
 | US16 | Resolver quiz | Given que inicio un quiz,<br> When respondo todas las preguntas,<br> Then recibo mi puntaje inmediato. | E07 |
+| US | Ver instrucciones | Un usuario quiere visualizar una breve instrucción antes de iniciar un quiz para entender cómo funcionará.. | |
+| US | Navegar entre preguntas | Un usuario quiere poder retroceder o avanzar entre preguntas, para revisar o cambiar sus respuestas. | |
+| US | Temporizador en el Quiz | Un usuario quiere tener un temporizador visible durante el quiz para controlar el tiempo que tarda en completarlo. | |
+| US | Preguntas sin responder | Un usuario quiere que el sistema le indique qué preguntas dejó sin responder antes de terminar el quiz | |
+| US | Mensaje de confirmacion al terminar el quiz | El usuario quiere que el sistema le pida confirmación antes de enviar sus respuestas finales, para evitar terminar por error | |
 | US17 | Ranking global | Given que ya he jugado varios quizzes,<br> When consulto el ranking global,<br> Then veo mi posición frente a otros usuarios. | E07 |
 | US18 | Ranking por nivel | Given que compito con otros usuarios,<br> When accedo al ranking A2,<br> Then veo solo jugadores de mi nivel. | E07 |
 | US19 | Ranking por país | Given que quiero compararme localmente,<br> When selecciono “Perú”,<br> Then veo ranking con jugadores peruanos. | E07 |
 | US20 | Historial de quizzes | Given que he resuelto quizzes previamente,<br> When accedo a mi historial,<br> Then veo listado de quizzes con fecha y puntaje. | E08 |
 | US21 | Historial de puntuaciones gráficas | Given que quiero revisar mi avance,<br> When abro mi historial,<br> Then se muestran gráficos de progreso en el tiempo. | E08 |
 | US22 | Feedback de quiz | Given que resolví un quiz,<br> When lo califico con estrellas y comentarios,<br> Then el creador recibe mi feedback. | E06 |
+| US | Feedback inmediato | Un usuario quiere recibir retroalimentación inmediata después de cada respuesta para reforzar lo aprendido en el momento. |  |
+| US | Resumen Final | Un usuario quiere ver un resumen al terminar un quiz con su puntaje y las respuestas correctas e incorrectas. |  |
 | US23 | Ver feedback recibido | Given que soy creador,<br> When consulto el feedback de mis quizzes,<br> Then veo comentarios y calificaciones de usuarios. | E06 |
 | US24 | Notificación de feedback nuevo | Given que recibo feedback,<br> When un usuario deja un comentario,<br> Then me llega una notificación. | E06 |
 | US25 | Compra de vidas extra | Given que estoy en plan gratuito y sin vidas,<br> When intento seguir jugando,<br> Then puedo comprar vidas adicionales con pago. | E09 |
@@ -486,6 +248,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | US40 | Validación JWT | Given que llamo a un endpoint protegido,<br> When incluyo un token válido,<br> Then el acceso es concedido.<br> But when el token es inválido,<br> Then recibo un error 401. | E15 |
 | US41 | Control de roles en API | Given que soy admin,<br> When accedo a /admin/users,<br> Then puedo ver y gestionar usuarios.<br> But when soy estudiante,<br> Then recibo acceso denegado. | E15 |
 | US42 | Expiración de sesión | Given que mi token expira,<br> When intento acceder a la API,<br> Then recibo error 401 y debo iniciar sesión nuevamente. | E15 |
+
 
 
 | Epic ID | Título                                     | Descripción breve                                              |
