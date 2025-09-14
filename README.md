@@ -368,10 +368,80 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Then el sistema oculta el resumen y me muestra la pantalla inicial del quiz.</td>
       <td>EP02</td>
     </tr>
+    <tr>
+      <td>HU13</td>
+      <td>Navegar entre Preguntas</td>
+      <td>Un usuario quiere poder retroceder o avanzar entre preguntas, para revisar o cambiar sus respuestas.</td>
+      <td><strong>Escenario 1 Avanzar a la siguiente pregunta</strong>: 
+      Given que estoy respondiendo una pregunta
+      When selecciono “Siguiente”
+      Then el sistema me muestra la siguiente pregunta disponible.<br/> 
+      <strong>Escenario 2 Volver a una pregunta anterior</strong>: 
+      Given que estoy en una pregunta distinta de la primera
+      When selecciono “Anterior”
+      Then el sistema me muestra la pregunta previa.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>HU14</td>
+      <td>Temporizador en el Quiz</td>
+      <td>Un usuario quiere tener un temporizador visible durante el quiz para controlar el tiempo que tarda en completarlo.</td>
+      <td><strong>Escenario 1 Temporizador en cuenta regresiva</strong>: 
+      Given que inicio un quiz con límite de tiempo
+      When comienza el quiz
+      Then el sistema inicia un contador regresivo visible.<br/> 
+      <strong>Escenario 2 Tiempo agotado</strong>: 
+      Given que el temporizador llega a cero
+      When estoy en medio del quiz
+      Then el sistema finaliza automáticamente y muestra mis resultados hasta ese momento.</td>
+      <td>EP02</td>
+    </tr>
+     <tr>
+      <td>HU15</td>
+      <td>Ver Instrucciones</td>
+      <td>Un usuario quiere visualizar una breve instrucción antes de iniciar un quiz para entender cómo funcionará.</td>
+      <td><strong>Escenario 1 Instrucciones visibles</strong>: 
+      Given que seleccioné un quiz
+      When se carga la pantalla inicial
+      Then el sistema me muestra instrucciones sobre cómo responder.<br/> 
+      <strong>Escenario 2 Iniciar desde instrucciones</strong>: 
+      Given que estoy en la pantalla de instrucciones
+      When presiono el botón “Comenzar quiz”
+      Then el sistema me lleva a la primera pregunta.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>HU16</td>
+      <td>Preguntas sin responder</td>
+      <td>Un usuario quiere que el sistema le indique qué preguntas dejó sin responder antes de terminar el quiz.</td>
+      <td><strong>Escenario 1 Aviso de preguntas vacías</strong>: 
+      Given que llegué al final del quiz
+      When intento finalizar sin responder todo
+      Then el sistema me muestra un aviso indicando las preguntas pendientes..<br/> 
+      <strong>Escenario 2 Finalizar con preguntas sin responder</strong>: 
+      Given que no respondí todas las preguntas
+      When confirmo que quiero finalizar el quiz
+      Then el sistema me permite terminar, pero aclara que algunas quedaron sin responder.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>HU17</td>
+      <td>Mensaje de confirmación al terminar un quiz</td>
+      <td>El usuario quiere que el sistema le pida confirmación antes de enviar sus respuestas finales, para evitar terminar por error.</td>
+      <td><strong>Escenario 1 Confirmación de envío</strong>: 
+      Given que estoy en la última pregunta
+      When presiono “Finalizar quiz”
+      Then el sistema me muestra un mensaje de confirmación antes de terminar.<br/> 
+      <strong>Escenario 2 Cancelar finalización</strong>: 
+      Given que apareció el mensaje de confirmación
+      When selecciono “Cancelar”
+      Then el sistema me devuelve al quiz sin perder mis respuestas.</td>
+      <td>EP02</td>
+    </tr>
   </tbody>
 </table>
 
-//MAS HISTORIAS PARA LA SEGUNDA EPICA DE QUIZZIES AND QUESTIONS: Resolver un quiz , Crear un quiz personalizado,Seleccionar nivel de dificultad, Guardar progreso en quizzes, Reportar una pregunta, recompensas por quizzes completados, Rehacer un quiz
+
 
 ## 3.2. Impact Mapping.
 ## 3.3. Product Backlog.
