@@ -330,7 +330,7 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
-
+https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%201.png
 ### 4.3.2. Landing Page Mock-up.
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
