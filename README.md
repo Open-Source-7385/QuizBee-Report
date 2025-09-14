@@ -256,6 +256,90 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Then el sistema muestra un mensaje de confirmación como “Has cerrado sesión correctamente”, y me redirige a la pantalla de inicio.</td>
       <td>EP01</td>
     </tr>
+    <tr>
+      <td>HU06</td>
+      <td>Crear Quiz</td>
+      <td>Un usuario desea crear un quiz ingresando preguntas y respuestas para practicar y reforzar sus conocimientos.</td>
+      <td><strong>Escenario 1 Creación de quiz con éxito </strong>: 
+      Given que estoy en la pantalla de creación de quiz, 
+      When ingreso preguntas y respuestas válidas y selecciono "Guardar", 
+      Then el sistema me permite usar el quiz de inmediato.<br/> 
+      <strong>Escenario 2 Creación fallida por campos vacíos</strong>: 
+      Given que estoy en la pantalla de creación de quiz, 
+      When intento guardar dejando una pregunta o respuesta en blanco, 
+      Then el sistema me muestra un mensaje de error indicando que debo completar todos los campos..</td>
+      <td>EP02</td>
+    </tr>
+     <tr>
+      <td>HU06</td>
+      <td>Crear Quiz</td>
+      <td>Un usuario desea crear un quiz ingresando preguntas y respuestas para practicar y reforzar sus conocimientos.</td>
+      <td><strong>Escenario 1 Creación de quiz con éxito </strong>: 
+      Given que estoy en la pantalla de creación de quiz, 
+      When ingreso preguntas y respuestas válidas y selecciono "Guardar", 
+      Then el sistema me permite usar el quiz de inmediato.<br/> 
+      <strong>Escenario 2 Creación fallida por campos vacíos</strong>: 
+      Given que estoy en la pantalla de creación de quiz, 
+      When intento guardar dejando una pregunta o respuesta en blanco, 
+      Then el sistema me muestra un mensaje de error indicando que debo completar todos los campos..</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>HU07</td>
+      <td>Responder Quiz</td>
+      <td>Un usuario desea crear un quiz ingresando preguntas y respuestas para practicar y reforzar sus conocimientos.</td>
+      <td><strong>Escenario 1 Respuesta correcta</strong>: 
+      Given que estoy realizando un quiz
+      When selecciono la respuesta correcta de una pregunta
+      Then el sistema me muestra una confirmación positiva.<br/> 
+      <strong>Escenario 2 Respuesta incorrecta</strong>: 
+      Given que estoy realizando un quiz
+      When selecciono una respuesta equivocada
+      Then el sistema me indica que fallé y me muestra la opción correcta.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>HU08</td>
+      <td>Feedback inmediato</td>
+      <td>Un usuario quiere recibir retroalimentación inmediata después de cada respuesta para reforzar lo aprendido en el momento.</td>
+      <td><strong>Escenario 1 Feedback positivo</strong>: 
+      Given que respondo correctamente una pregunta
+      When envío mi respuesta
+      Then el sistema me muestra un mensaje positivo confirmando el acierto.<br/> 
+      <strong>Escenario 2 Feedback negativo</strong>: 
+      Given que respondo incorrectamente una pregunta
+      When envío mi respuesta
+      Then el sistema me indica que fallé y muestra la respuesta correcta..</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>HU09</td>
+      <td>Ver Puntaje</td>
+      <td>Un usuario desea ver su puntaje acumulado mientras resuelve un quiz para medir su desempeño.</td>
+      <td><strong>Escenario 1 Puntaje actualizado correctamente</strong>: 
+      Given que estoy respondiendo un quiz
+      When contesto una pregunta correctamente
+      Then el puntaje acumulado aumenta en pantalla.<br/> 
+      <strong>Escenario 2 Puntaje mostrado al final</strong>: 
+      Given que completé un quiz
+      When llego a la última pregunta
+      Then el sistema me muestra mi puntaje total.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>HU10</td>
+      <td>Ver Puntaje</td>
+      <td>Un usuario desea ver su puntaje acumulado mientras resuelve un quiz para medir su desempeño.</td>
+      <td><strong>Escenario 1 Puntaje actualizado correctamente</strong>: 
+      Given que estoy respondiendo un quiz
+      When contesto una pregunta correctamente
+      Then el puntaje acumulado aumenta en pantalla.<br/> 
+      <strong>Escenario 2 Puntaje mostrado al final</strong>: 
+      Given que completé un quiz
+      When llego a la última pregunta
+      Then el sistema me muestra mi puntaje total.</td>
+      <td>EP02</td>
+    </tr>
   </tbody>
 </table>
 
