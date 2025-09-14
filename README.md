@@ -175,27 +175,6 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 # **Capítulo III: Requirements Specification**
 ## 3.1. User Stories.
 
-<table border="1" cellspacing="0" cellpadding="6">
-  
-  <tbody
-    <tr>
-      <td>HU17</td>
-      <td>Mensaje de confirmación al terminar un quiz</td>
-      <td>El usuario quiere que el sistema le pida confirmación antes de enviar sus respuestas finales, para evitar terminar por error.</td>
-      <td><strong>Escenario 1 Confirmación de envío</strong>: 
-      Given que estoy en la última pregunta
-      When presiono “Finalizar quiz”
-      Then el sistema me muestra un mensaje de confirmación antes de terminar.<br/> 
-      <strong>Escenario 2 Cancelar finalización</strong>: 
-      Given que apareció el mensaje de confirmación
-      When selecciono “Cancelar”
-      Then el sistema me devuelve al quiz sin perder mis respuestas.</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-
 | User Story ID | Título | Descripcion |Acceptance Criteria  | Epic Relacionado |
 |---------------|--------|------|-----------------------------------|------------------|
 | US01 | Registro de usuario | Como usuario, quiero registrarme con mi correo y contraseña para acceder a QuizzBee. | Given que soy un usuario sin cuenta,<br> When ingreso mis datos en el formulario de registro,<br> Then el sistema debe crear una cuenta y enviarme confirmación. | E01 |
