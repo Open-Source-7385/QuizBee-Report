@@ -442,6 +442,52 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 </table>
 
 
+| User Story ID | Título | Descripcion |Acceptance Criteria  | Epic Relacionado |
+|---------------|--------|------|-----------------------------------|------------------|
+| US01 | Registro de usuario | Como usuario, quiero registrarme con mi correo y contraseña para acceder a QuizzBee. | Given que soy un usuario sin cuenta,<br> When ingreso mis datos en el formulario de registro,<br> Then el sistema debe crear una cuenta y enviarme confirmación. | E01 |
+| US02 | Inicio de sesión |Como usuario, quiero iniciar sesión con mis credenciales para entrar a la plataforma.  | Given que ya tengo una cuenta,<br> When ingreso mis credenciales válidas,<br> Then el sistema me autentica y me redirige a mi dashboard. | E01 |
+| US03 | Recuperación de contraseña | Como usuario, quiero recuperar mi contraseña si la olvido para no perder acceso.| Given que olvidé mi contraseña,<br> When ingreso mi correo en “recuperar acceso”,<br> Then recibo instrucciones por email para restaurarla. | E01 |
+| US04 | Experiencia de autenticación guiada |Given que estoy en el proceso de registro,<br> When cometo un error en un campo,<br> Then el sistema me muestra mensajes claros para corregirlo. | E02 |
+| US05 | Validación de correo | Given que me registro por primera vez,<br> When recibo el correo de validación,<br> Then debo confirmar para activar mi cuenta. | E02 |
+| US06 | Configuración de perfil | Given que estoy autenticado,<br> When accedo a configuración,<br> Then puedo editar mi nombre, idioma y nivel de inglés. | E03 |
+| US07 | Cambio de contraseña | Given que deseo más seguridad,<br> When ingreso mi contraseña actual y la nueva,<br> Then el sistema actualiza mi clave exitosamente. | E03 |
+| US08 | Eliminar cuenta | Given que quiero darme de baja,<br> When confirmo la eliminación de mi cuenta,<br> Then el sistema borra mis datos de forma irreversible. | E03 |
+| US09 | Creación de quiz |Como creador, quiero crear un quiz con preguntas y respuestas para compartirlo.|  Given que soy creador,<br> When accedo a la sección “crear quiz” e ingreso preguntas,<br> Then el sistema guarda y publica el quiz. | E04 |
+| US10 | Publicación de quiz | Given que terminé de crear un quiz,<br> When lo marco como “publicar”,<br> Then se vuelve visible para los demás usuarios. | E04 |
+| US11 | Edición de quiz publicado | Given que soy creador,<br> When actualizo un quiz ya publicado,<br> Then los cambios se reflejan manteniendo historial. | E04 |
+| US12 | Eliminación de quiz | Given que ya no quiero un quiz,<br> When lo elimino,<br> Then desaparece del listado público. | E04 |
+| US13 | Búsqueda de quizzes por idioma | Given que estoy en la sección de quizzes,<br> When filtro por idioma,<br> Then solo veo quizzes en ese idioma. | E05 |
+| US14 | Búsqueda de quizzes por nivel | Given que estoy buscando prácticas,<br> When selecciono mi nivel A2,<br> Then se listan únicamente quizzes A2. | E05 |
+| US15 | Búsqueda de quizzes por categoría | Given que quiero reforzar vocabulario,<br> When filtro por categoría “vocabulary”,<br> Then se muestran solo quizzes de vocabulario. | E05 |
+| US16 | Resolver quiz | Given que inicio un quiz,<br> When respondo todas las preguntas,<br> Then recibo mi puntaje inmediato. | E07 |
+| US17 | Ranking global | Given que ya he jugado varios quizzes,<br> When consulto el ranking global,<br> Then veo mi posición frente a otros usuarios. | E07 |
+| US18 | Ranking por nivel | Given que compito con otros usuarios,<br> When accedo al ranking A2,<br> Then veo solo jugadores de mi nivel. | E07 |
+| US19 | Ranking por país | Given que quiero compararme localmente,<br> When selecciono “Perú”,<br> Then veo ranking con jugadores peruanos. | E07 |
+| US20 | Historial de quizzes | Given que he resuelto quizzes previamente,<br> When accedo a mi historial,<br> Then veo listado de quizzes con fecha y puntaje. | E08 |
+| US21 | Historial de puntuaciones gráficas | Given que quiero revisar mi avance,<br> When abro mi historial,<br> Then se muestran gráficos de progreso en el tiempo. | E08 |
+| US22 | Feedback de quiz | Given que resolví un quiz,<br> When lo califico con estrellas y comentarios,<br> Then el creador recibe mi feedback. | E06 |
+| US23 | Ver feedback recibido | Given que soy creador,<br> When consulto el feedback de mis quizzes,<br> Then veo comentarios y calificaciones de usuarios. | E06 |
+| US24 | Notificación de feedback nuevo | Given que recibo feedback,<br> When un usuario deja un comentario,<br> Then me llega una notificación. | E06 |
+| US25 | Compra de vidas extra | Given que estoy en plan gratuito y sin vidas,<br> When intento seguir jugando,<br> Then puedo comprar vidas adicionales con pago. | E09 |
+| US26 | Suscripción premium | Given que quiero beneficios ilimitados,<br> When selecciono plan premium y realizo el pago,<br> Then mi cuenta pasa al estado premium. | E09 |
+| US27 | Cancelación de suscripción | Given que no quiero seguir en premium,<br> When cancelo el plan,<br> Then mi cuenta vuelve al modo gratuito al final del ciclo. | E09 |
+| US28 | Ver historial de pagos | Given que soy usuario premium,<br> When consulto mi perfil,<br> Then veo un historial de mis pagos y facturas. | E09 |
+| US29 | Participación en sala de speaking | Given que soy usuario premium,<br> When me uno a una sala de speaking,<br> Then puedo interactuar en tiempo real con otros. | E10 |
+| US30 | Creación de sala de speaking | Given que soy creador,<br> When organizo una sala de speaking,<br> Then los usuarios pueden unirse en la fecha y hora definidas. | E12 |
+| US31 | Moderación de sala | Given que soy creador,<br> When gestiono mi sala,<br> Then puedo silenciar, expulsar o invitar usuarios. | E12 |
+| US32 | Grabación de sesiones speaking | Given que estoy en una sala,<br> When activo la opción de grabar,<br> Then la reunión queda registrada para revisión. | E12 |
+| US33 | Navegación en la landing page | Given que soy visitante,<br> When accedo a la landing page,<br> Then puedo ver secciones de beneficios, testimonios y planes. | E13 |
+| US34 | Testimonios en la landing page | Given que soy visitante indeciso,<br> When veo testimonios reales,<br> Then aumento mi confianza en registrarme. | E13 |
+| US35 | Responsive design | Given que ingreso desde un smartphone,<br> When navego en cualquier página,<br> Then el contenido debe ajustarse responsivamente. | E13 |
+| US36 | Backend API de login | Given que envío credenciales válidas,<br> When accedo al endpoint /login,<br> Then recibo token y confirmación. | E14 |
+| US37 | Backend API de quizzes | Given que envío datos de un quiz nuevo,<br> When llamo al endpoint /quizzes,<br> Then se crea y devuelve el objeto quiz en JSON. | E14 |
+| US38 | Backend API de feedback | Given que completo un quiz,<br> When llamo al endpoint /feedback,<br> Then se guarda el comentario vinculado al quiz y usuario. | E14 |
+| US39 | Seguridad de contraseñas | Given que registro un usuario,<br> When guardo la contraseña,<br> Then el sistema debe cifrarla antes de almacenarla. | E15 |
+| US40 | Validación JWT | Given que llamo a un endpoint protegido,<br> When incluyo un token válido,<br> Then el acceso es concedido.<br> But when el token es inválido,<br> Then recibo un error 401. | E15 |
+| US41 | Control de roles en API | Given que soy admin,<br> When accedo a /admin/users,<br> Then puedo ver y gestionar usuarios.<br> But when soy estudiante,<br> Then recibo acceso denegado. | E15 |
+| US42 | Expiración de sesión | Given que mi token expira,<br> When intento acceder a la API,<br> Then recibo error 401 y debo iniciar sesión nuevamente. | E15 |
+
+
 | Epic ID | Título                                     | Descripción breve                                              |
 |--------|--------------------------------------------|----------------------------------------------------------------|
 | E01    | Gestión de Acceso de Usuarios              | Como usuario, quiero registrarme <br> e iniciar sesión para acceder a la plataforma. |
@@ -456,7 +502,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | E10    | Participación en salas de speaking         | Como usuario, quiero unirme a salas de práctica <br> de speaking en tiempo real. |
 | E12    | Creación y moderación de salas             | Como creador, quiero organizar una sala <br> para practicar con usuarios. |
 | E13    | Navegación en la Landing Page              | Como visitante, quiero navegar en una landing page <br> con información clara para decidir. |
-
+| E14    |Gestión de Quizzes                          | Como developer, quiero exponer un endpoint <br>para crear, listar y obtener quizzes, para que los creadores publiquen y los usuarios accedan. |
+| E15    |Seguridad y Autenticación                          |Como developer, quiero implementar JWT de autorización para proteger los recursos |
 ## 3.2. Impact Mapping.
 ## 3.3. Product Backlog.
 
