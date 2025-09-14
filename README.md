@@ -550,6 +550,14 @@ En ese sentido, está dispuesto a probar nuevas alternativas y le parece una ide
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+**User Persona 1:** Personas que quieren reforzar lo aprendido de algún idioma
+
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/UserPersona_Segmento1.png" alt="User Persona 1" width="600"/>
+
+**User Persona 2:** Personas que ya dominan algún idioma
+
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/UserPersona_Segmento2.png" alt="User Persona 2" width="600"/>
+
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
