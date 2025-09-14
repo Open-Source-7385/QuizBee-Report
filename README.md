@@ -244,7 +244,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
     </tr>
     <tr>
       <td>HU05</td>
-      <td>Control de Roles y Permisos</td>
+      <td>Cerrar Sesion</td>
       <td>Un usuario autenticado desea cerrar sesión en su cuenta para proteger su información personal y evitar que terceros accedan a su perfil en dispositivos compartidos o públicos</td>
       <td><strong>Escenario 1 Cierre de sesión exitoso </strong>: 
       Given que estoy autenticado en mi cuenta
