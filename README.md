@@ -190,7 +190,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       <td></td>
       <td></td>
       <td></td>
-      <td><strong>Escenario 1</strong>:  <br/> <strong>Escenario 2</strong>: </td>
+      <td><strong></strong>:  <br/> <strong></strong>: </td>
       <td></td>
     </tr>
   </tbody>
