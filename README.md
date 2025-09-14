@@ -178,8 +178,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | User Story ID | Título | Descripcion |Acceptance Criteria  | Epic Relacionado |
 |---------------|--------|------|-----------------------------------|------------------|
 | US01 | Registro de usuario | Given que un usuario desea acceder a QuizzBee, <br> When ingresa su correo y contraseña en el formulario de registro,<br> Then el sistema crea una nueva cuenta y permite que el usuario acceda a la plataforma de manera segura. |  | E01 |
-| US02 | Inicio de sesión |Como usuario, quiero iniciar sesión con mis credenciales para entrar a la plataforma.  |  | E01 |
-| US03 | Recuperación de contraseña | Given que un usuario ya tiene una cuenta en QuizzBee <br> When ingresa su correo y contraseña en el formulario de inicio de sesión,<br>Then el sistema verifica sus credenciales y le permite acceder a la plataforma de manera segura.|  | E01 |
+| US02 | Inicio de sesión |Given que un usuario ya tiene una cuenta en QuizzBee <br> When ingresa su correo y contraseña en el formulario de inicio de sesión,<br>Then el sistema verifica sus credenciales y le permite acceder a la plataforma de manera segura. |  | E01 |
+| US03 | Recuperación de contraseña |Given que un usuario olvidó su contraseña, <br> When solicita recuperar su cuenta e ingresa su correo electrónico en la opción de “Olvidé mi contraseña”, <br> Then el sistema envía un enlace de recuperación al correo proporcionado para que el usuario pueda restablecer su contraseña de manera segura.|  | E01 |
 | US04 | Experiencia de autenticación guiada |Given que estoy en el proceso de registro,<br> When cometo un error en un campo,<br> Then el sistema me muestra mensajes claros para corregirlo. | |E02 |
 | US05 | Validación de correo | Given que me registro por primera vez,<br> When recibo el correo de validación,<br> Then debo confirmar para activar mi cuenta. | |E02 |
 | US06 | Configuración de perfil | Given que estoy autenticado,<br> When accedo a configuración,<br> Then puedo editar mi nombre, idioma y nivel de inglés. | |E03 |
