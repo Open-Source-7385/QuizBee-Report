@@ -328,16 +328,44 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
     </tr>
     <tr>
       <td>HU10</td>
-      <td>Ver Puntaje</td>
-      <td>Un usuario desea ver su puntaje acumulado mientras resuelve un quiz para medir su desempeño.</td>
-      <td><strong>Escenario 1 Puntaje actualizado correctamente</strong>: 
-      Given que estoy respondiendo un quiz
-      When contesto una pregunta correctamente
-      Then el puntaje acumulado aumenta en pantalla.<br/> 
-      <strong>Escenario 2 Puntaje mostrado al final</strong>: 
-      Given que completé un quiz
-      When llego a la última pregunta
-      Then el sistema me muestra mi puntaje total.</td>
+      <td>Editar o Borrar Preguntas</td>
+      <td>Un usuario quiere editar o borrar preguntas de un quiz para hacerlo mas desafiante o mas sencillo</td>
+      <td><strong>Escenario 1 Editar pregunta</strong>: 
+      Given que ya ingresé preguntas en un quiz
+      When selecciono una para editar y cambio su enunciado
+      Then el sistema actualiza la pregunta con la nueva información..<br/> 
+      <strong>Escenario 2 Borrar pregunta</strong>: 
+      Given que tengo varias preguntas cargadas en un quiz
+      When elijo eliminar una de ellas
+      Then el sistema la quita de la lista.</td>
+      <td>EP02</td>
+    </tr>
+    <tr>
+      <td>HU11</td>
+      <td>Editar o Borrar Preguntas</td>
+      <td>Un usuario quiere editar o borrar preguntas de un quiz para hacerlo mas desafiante o mas sencillo</td>
+      <td><strong>Escenario 1 Editar pregunta</strong>: 
+      Given que ya ingresé preguntas en un quiz
+      When selecciono una para editar y cambio su enunciado
+      Then el sistema actualiza la pregunta con la nueva información..<br/> 
+      <strong>Escenario 2 Borrar pregunta</strong>: 
+      Given que tengo varias preguntas cargadas en un quiz
+      When elijo eliminar una de ellas
+      Then el sistema la quita de la lista.</td>
+      <td>EP02</td>
+    </tr>
+     <tr>
+      <td>HU12</td>
+      <td>Resumen Final</td>
+      <td>Un usuario quiere ver un resumen al terminar un quiz con su puntaje y las respuestas correctas e incorrectas.</td>
+      <td><strong>Escenario 1 Resumen visible</strong>: 
+      Given que completé todas las preguntas de un quiz
+      When llego al final
+      Then el sistema me muestra un resumen con mis resultados.<br/> 
+      <strong>Escenario 2 Cierre del resumen</strong>: 
+      Given que visualicé el resumen de un quiz
+      When selecciono la opción “Cerrar resumen”
+      Then el sistema oculta el resumen y me muestra la pantalla inicial del quiz.</td>
       <td>EP02</td>
     </tr>
   </tbody>
