@@ -268,7 +268,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que estoy en la pantalla de creación de quiz, 
       When intento guardar dejando una pregunta o respuesta en blanco, 
       Then el sistema me muestra un mensaje de error indicando que debo completar todos los campos..</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
      <tr>
       <td>HU06</td>
@@ -282,7 +282,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que estoy en la pantalla de creación de quiz, 
       When intento guardar dejando una pregunta o respuesta en blanco, 
       Then el sistema me muestra un mensaje de error indicando que debo completar todos los campos..</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
     <tr>
       <td>HU07</td>
@@ -296,7 +296,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que estoy realizando un quiz
       When selecciono una respuesta equivocada
       Then el sistema me indica que fallé y me muestra la opción correcta.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
     <tr>
       <td>HU08</td>
@@ -310,7 +310,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que respondo incorrectamente una pregunta
       When envío mi respuesta
       Then el sistema me indica que fallé y muestra la respuesta correcta..</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
     <tr>
       <td>HU09</td>
@@ -324,7 +324,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que completé un quiz
       When llego a la última pregunta
       Then el sistema me muestra mi puntaje total.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
     <tr>
       <td>HU10</td>
@@ -338,7 +338,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que tengo varias preguntas cargadas en un quiz
       When elijo eliminar una de ellas
       Then el sistema la quita de la lista.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
     <tr>
       <td>HU11</td>
@@ -352,7 +352,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que tengo varias preguntas cargadas en un quiz
       When elijo eliminar una de ellas
       Then el sistema la quita de la lista.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
      <tr>
       <td>HU12</td>
@@ -366,7 +366,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que visualicé el resumen de un quiz
       When selecciono la opción “Cerrar resumen”
       Then el sistema oculta el resumen y me muestra la pantalla inicial del quiz.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
     <tr>
       <td>HU13</td>
@@ -380,7 +380,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que estoy en una pregunta distinta de la primera
       When selecciono “Anterior”
       Then el sistema me muestra la pregunta previa.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
     <tr>
       <td>HU14</td>
@@ -394,7 +394,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que el temporizador llega a cero
       When estoy en medio del quiz
       Then el sistema finaliza automáticamente y muestra mis resultados hasta ese momento.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
      <tr>
       <td>HU15</td>
@@ -408,7 +408,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que estoy en la pantalla de instrucciones
       When presiono el botón “Comenzar quiz”
       Then el sistema me lleva a la primera pregunta.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
     <tr>
       <td>HU16</td>
@@ -422,7 +422,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que no respondí todas las preguntas
       When confirmo que quiero finalizar el quiz
       Then el sistema me permite terminar, pero aclara que algunas quedaron sin responder.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
     <tr>
       <td>HU17</td>
@@ -436,7 +436,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Given que apareció el mensaje de confirmación
       When selecciono “Cancelar”
       Then el sistema me devuelve al quiz sin perder mis respuestas.</td>
-      <td>EP02</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
