@@ -442,6 +442,20 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 </table>
 
 
+| Epic ID | Título                                     | Descripción breve                                              |
+|--------|--------------------------------------------|----------------------------------------------------------------|
+| E01    | Gestión de Acceso de Usuarios              | Como usuario, quiero registrarme <br> e iniciar sesión para acceder a la plataforma. |
+| E02    | Experiencia de Usuario en Autenticación    | Como usuario, quiero tener una experiencia clara <br> y asistida durante los procesos de registro y autenticación. |
+| E03    | Administración de roles y verificación     | Como administrador, quiero validar <br> y gestionar roles de usuario (creador, admin). |
+| E04    | Creación y publicación de quizzes          | Como creador, quiero crear y publicar quizzes <br> para que otros usuarios los resuelvan. |
+| E05    | Descubrimiento y búsqueda de quizzes       | Como usuario, quiero buscar quizzes <br> según mi nivel e idioma. |
+| E06    | Retroalimentación y mejora de quizzes      | Como creador, quiero ver el feedback <br> y puntuación para mejorar mis quizzes. |
+| E07    | Resolución de quizzes y puntuaciones       | Como usuario, quiero resolver quizzes <br> y obtener una puntuación para medir mi avance. |
+| E08    | Historial y seguimiento del progreso       | Como usuario, quiero ver mis resultados <br> históricos para conocer mi progreso. |
+| E09    | Gestión de Suscripciones y Pagos           | Como usuario, quiero suscribirme a un plan premium <br> para tener vidas ilimitadas. |
+| E10    | Participación en salas de speaking         | Como usuario, quiero unirme a salas de práctica <br> de speaking en tiempo real. |
+| E12    | Creación y moderación de salas             | Como creador, quiero organizar una sala <br> para practicar con usuarios. |
+| E13    | Navegación en la Landing Page              | Como visitante, quiero navegar en una landing page <br> con información clara para decidir. |
 
 ## 3.2. Impact Mapping.
 ## 3.3. Product Backlog.
