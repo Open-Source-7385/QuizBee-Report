@@ -187,11 +187,18 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><strong></strong>:  <br/> <strong></strong>: </td>
-      <td></td>
+      <td>HU01</td>
+      <td>Iniciar sesión con credenciales</td>
+      <td>Un usuario registrado desea iniciar sesión utilizando sus credenciales para poder acceder a su cuenta de manera segura y tener acceso a las funcionalidades de la plataforma.</td>
+      <td><strong>Escenario 1 Inicio de sesión exitoso </strong>: 
+      Given que soy un usuario registrado con credenciales válidas, 
+      When ingreso mi correo y contraseña correctos, 
+      Then el sistema me permite acceder a mi cuenta y ver mi panel principal.<br/> 
+      <strong>Escenario 2 Error de credenciales</strong>: 
+      Given que intento iniciar sesión con credenciales incorrectas, 
+      When ingreso un correo o contraseña inválidos, 
+      Then el sistema me muestra un mensaje de error indicando que los datos no son correctos.</td>
+      <td>EP01</td>
     </tr>
   </tbody>
 </table>
