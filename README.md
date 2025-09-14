@@ -259,6 +259,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
   </tbody>
 </table>
 
+//MAS HISTORIAS PARA LA SEGUNDA EPICA DE QUIZZIES AND QUESTIONS: Resolver un quiz , Crear un quiz personalizado,Seleccionar nivel de dificultad, Guardar progreso en quizzes, Reportar una pregunta, recompensas por quizzes completados, Rehacer un quiz
+
 ## 3.2. Impact Mapping.
 ## 3.3. Product Backlog.
 
