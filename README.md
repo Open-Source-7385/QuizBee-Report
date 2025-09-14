@@ -200,6 +200,62 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
       Then el sistema me muestra un mensaje de error indicando que los datos no son correctos.</td>
       <td>EP01</td>
     </tr>
+    <tr>
+      <td>HU02</td>
+      <td>Recuperar contraseña</td>
+      <td>Un usuario registrado que ha olvidado su contraseña necesita restablecerla mediante su correo electrónico con el fin de recuperar el acceso a su cuenta y seguir utilizando la plataforma sin inconvenientes.</td>
+      <td><strong>Escenario 1 Solicitud de restablecimiento exitosa </strong>: 
+      Given que olvidé mi contraseña,
+      When ingreso mi correo registrado y solicito recuperación,
+      Then el sistema me envía un enlace de restablecimiento válido a mi correo.<br/> 
+      <strong>Escenario 2 Correo no registrado</strong>: 
+      Given que intento recuperar acceso,
+      When ingreso un correo que no está registrado,
+      Then el sistema me muestra un mensaje indicando que no existe una cuenta con ese correo.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>HU03</td>
+      <td>Registro de Usuario</td>
+      <td>Una persona interesada en la plataforma desea registrarse creando una nueva cuenta con sus datos personales y credenciales únicas, para así poder acceder a todas las funcionalidades y participar en los retos de aprendizaje de inglés.</td>
+      <td><strong>Escenario 1 Registro exitoso </strong>: 
+      Given que soy un usuario nuevo sin cuenta creada,
+      When ingreso mis datos válidos (nombre, correo, contraseña) en el formulario de registro,
+      Then el sistema crea mi cuenta<br/> 
+      <strong>Escenario 2 Registro fallido por correo no valido</strong>: 
+      Given que intento registrarme con un correo no valido,
+      When envío el formulario de registro con ese correo,
+      Then el sistema me muestra un mensaje de error indicando que el correo no es valido</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>HU04</td>
+      <td>Control de Roles y Permisos</td>
+      <td>Un usuario registrado necesita poder cambiar su rol dentro de la plataforma entre “Novato” y “Creador de Retos”, con el fin de personalizar su experiencia, ya sea aprendiendo mediante desafíos o creando contenido para otros usuarios.</td>
+      <td><strong>Escenario 1 Cambio de rol a Novato </strong>: 
+      Given que soy un usuario autenticado con rol actual “Creador de Retos”
+      When accedo a la configuración de cuenta y selecciono cambiar mi rol a “Novato”
+      Then el sistema guarda el cambio y me muestra los retos diseñados para el aprendizaje paso a paso.<br/> 
+      <strong>Escenario 2 Cambio de rol a Creador de Retos</strong>: 
+      Given que soy un usuario autenticado con rol actual “Novato”
+      When accedo a la configuración de cuenta y selecciono cambiar mi rol a “Creador de Retos”
+      Then el sistema guarda el cambio y habilita las herramientas necesarias para diseñar y publicar nuevos retos.</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td>HU05</td>
+      <td>Control de Roles y Permisos</td>
+      <td>Un usuario autenticado desea cerrar sesión en su cuenta para proteger su información personal y evitar que terceros accedan a su perfil en dispositivos compartidos o públicos</td>
+      <td><strong>Escenario 1 Cierre de sesión exitoso </strong>: 
+      Given que estoy autenticado en mi cuenta
+      When selecciono la opción “Cerrar sesión”
+      Then el sistema me redirige a la página de inicio y finaliza mi sesión.<br/> 
+      <strong>Escenario 2 Confirmación visual de cierre de sesión</strong>: 
+      Given que estoy autenticado en mi cuenta
+      When selecciono la opción “Cerrar sesión”
+      Then el sistema muestra un mensaje de confirmación como “Has cerrado sesión correctamente”, y me redirige a la pantalla de inicio.</td>
+      <td>EP01</td>
+    </tr>
   </tbody>
 </table>
 
