@@ -474,32 +474,34 @@ link: ....
 <img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/UserPersona_Segmento2.png" alt="User Persona 2" width="600"/>
 
 ### 2.3.2. User Task Matrix.
-- Primer Segmento
-
-| **Tarea**                                      | **Martin Castillo – Frecuencia** | **Martin Castillo – Importancia** |
-|------------------------------------------------|-------------------------------|---------------------------------|
-|                  | Alta | Alta | 
-|                   | Media | Alta | 
-|                    | Alta | Alta | 
-|                    | Alta | Alta | 
-|                   | Media | Alta | 
-|                   | Baja | Media | 
-|                   | Media | Alta | 
-|                   | Baja | Media | 
+- **Primer Segmento:** Personas que quisieran reforzar lo aprendido de algún idioma
 
 
-- Segundo Segmento
-  
- **Tarea**                                      | **Pilar Rios – Frecuencia** | **Pilar Rios – Importancia** |
-|------------------------------------------------|-------------------------------|---------------------------------|
-|                  | Alta | Alta | 
-|                   | Media | Alta | 
-|                    | Alta | Alta | 
-|                    | Alta | Alta | 
-|                   | Media | Alta | 
-|                   | Baja | Media | 
-|                   | Media | Alta | 
-|                   | Baja | Media | 
+| Tarea del Usuario              | Frecuencia | Importancia |
+|--------------------------------|-------------|-------------|
+| Buscar quizzes por nivel        | Alta        | Alta        |
+| Resolver quizzes                | Muy Alta    | Muy Alta    |
+| Navegar entre preguntas         | Alta        | Alta        |
+| Controlar el tiempo de práctica | Media       | Alta        |
+| Confirmar finalización          | Media       | Media       |
+| Revisar puntaje y resultados    | Muy Alta    | Muy Alta    |
+| Revisar historial de quizzes    | Media       | Alta        |
+
+
+- **Segundo Segmento:** Personas que ya dominan algún idioma 
+
+
+| Tarea del Usuario               | Frecuencia | Importancia |
+|---------------------------------|-------------|-------------|
+| Crear nuevos quizzes             | Alta        | Muy Alta    |
+| Editar quizzes existentes        | Media       | Alta        |
+| Publicar quizzes creados         | Alta        | Muy Alta    |
+| Revisar feedback recibido        | Media       | Alta        |
+| Recibir notificación de feedback | Media       | Media       |
+| Eliminar quizzes obsoletos       | Baja        | Media       |
+| Revisar historial de quizzes     | Media       | Alta        |
+| Moderar salas de speaking        | Media       | Alta        |
+
 
 
 ### 2.3.3. User Journey Mapping.
