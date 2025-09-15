@@ -246,6 +246,10 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | E14    |Gestión de Quizzes                          | Como developer, quiero exponer un endpoint <br>para crear, listar y obtener quizzes, para que los creadores publiquen y los usuarios accedan. |
 | E15    |Seguridad y Autenticación                          |Como developer, quiero implementar JWT de autorización para proteger los recursos |
 ## 3.2. Impact Mapping.
+
+<img width ="600" height="350" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-3/Impact%20Mapping.png">
+
+
 ## 3.3. Product Backlog.
 
 ---
