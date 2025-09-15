@@ -219,14 +219,14 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | US40 | Navegación en la landing page | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma. | Given que soy visitante,<br> When accedo a la landing page,<br> Then puedo ver secciones de beneficios, testimonios y planes. |E13 |
 | US41 | Testimonios en la landing page | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme. | Given que soy visitante indeciso,<br> When veo testimonios reales,<br> Then aumento mi confianza en registrarme. |E13 |
 | US42 | Responsive design | Como usuario móvil, quiero que todas las páginas se adapten correctamente a dispositivos móviles para tener una experiencia óptima desde cualquier dispositivo. | Given que ingreso desde un smartphone,<br> When navego en cualquier página,<br> Then el contenido debe ajustarse responsivamente. |E13 |
-| US43 | Backend API de login | Como desarrollador, quiero implementar una API de autenticación para permitir que los usuarios inicien sesión y reciban tokens de acceso. | Given que envío credenciales válidas,<br> When accedo al endpoint /login,<br> Then recibo token y confirmación. |E14 |
-| US44 | Backend API de quizzes | Como desarrollador, quiero implementar APIs para gestionar quizzes desde el backend y permitir operaciones CRUD. | Given que envío datos de un quiz nuevo,<br> When llamo al endpoint /quizzes,<br> Then se crea y devuelve el objeto quiz en JSON. |E14 |
-| US45 | Backend API de feedback | Como desarrollador, quiero implementar APIs para gestionar feedback de usuarios sobre quizzes completados. | Given que completo un quiz,<br> When llamo al endpoint /feedback,<br> Then se guarda el comentario vinculado al quiz y usuario. |E14 |
-| US46 | Seguridad de contraseñas | Como desarrollador, quiero implementar encriptación de contraseñas para garantizar la seguridad de las credenciales de usuario. | Given que registro un usuario,<br> When guardo la contraseña,<br> Then el sistema debe cifrarla antes de almacenarla. |E15 |
-| US47 | Validación JWT | Como desarrollador, quiero implementar validación de tokens JWT para proteger endpoints de la API. | Given que llamo a un endpoint protegido,<br> When incluyo un token válido,<br> Then el acceso es concedido.<br> But when el token es inválido,<br> Then recibo un error 401. |E15 |
-| US48 | Control de roles en API | Como desarrollador, quiero implementar control de acceso basado en roles para restringir operaciones según el tipo de usuario. | Given que soy admin,<br> When accedo a /admin/users,<br> Then puedo ver y gestionar usuarios.<br> But when soy estudiante,<br> Then recibo acceso denegado. |E15 |
-| US49 | Expiración de sesión | Como desarrollador, quiero implementar manejo de expiración de tokens para mantener la seguridad de las sesiones de usuario. | Given que mi token expira,<br> When intento acceder a la API,<br> Then recibo error 401 y debo iniciar sesión nuevamente. |E15 |
-
+| TS01 | Backend API de login | Como desarrollador, quiero implementar una API de autenticación para permitir que los usuarios inicien sesión y reciban tokens de acceso. | Given que envío credenciales válidas,<br> When accedo al endpoint /login,<br> Then recibo token y confirmación. |E14 |
+| TS02 | Backend API de quizzes | Como desarrollador, quiero implementar APIs para gestionar quizzes desde el backend y permitir operaciones CRUD. | Given que envío datos de un quiz nuevo,<br> When llamo al endpoint /quizzes,<br> Then se crea y devuelve el objeto quiz en JSON. |E14 |
+| TS03 | Backend API de feedback | Como desarrollador, quiero implementar APIs para gestionar feedback de usuarios sobre quizzes completados. | Given que completo un quiz,<br> When llamo al endpoint /feedback,<br> Then se guarda el comentario vinculado al quiz y usuario. |E14 |
+| TS04 | Seguridad de contraseñas | Como desarrollador, quiero implementar encriptación de contraseñas para garantizar la seguridad de las credenciales de usuario. | Given que registro un usuario,<br> When guardo la contraseña,<br> Then el sistema debe cifrarla antes de almacenarla. |E15 |
+| TS05 | Validación JWT | Como desarrollador, quiero implementar validación de tokens JWT para proteger endpoints de la API. | Given que llamo a un endpoint protegido,<br> When incluyo un token válido,<br> Then el acceso es concedido.<br> But when el token es inválido,<br> Then recibo un error 401. |E15 |
+| TS06 | Control de roles en API | Como desarrollador, quiero implementar control de acceso basado en roles para restringir operaciones según el tipo de usuario. | Given que soy admin,<br> When accedo a /admin/users,<br> Then puedo ver y gestionar usuarios.<br> But when soy estudiante,<br> Then recibo acceso denegado. |E15 |
+| TS07 | Expiración de sesión | Como desarrollador, quiero implementar manejo de expiración de tokens para mantener la seguridad de las sesiones de usuario. | Given que mi token expira,<br> When intento acceder a la API,<br> Then recibo error 401 y debo iniciar sesión nuevamente. |E15 |
+| TS07 | Conectar a Base de Datos |Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL. | Given que las credenciales de la base de datos son correctas <br>When se levanta el servidor <br>Then la conexión se establece sin errores.|E14 |
 
 
 | Epic ID | Título                                     | Descripción breve                                              |
@@ -244,7 +244,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | E12    | Creación y moderación de salas             | Como creador, quiero organizar una sala <br> para practicar con usuarios. |
 | E13    | Navegación en la Landing Page              | Como visitante, quiero navegar en una landing page <br> con información clara para decidir. |
 | E14    |Gestión de Quizzes                          | Como developer, quiero exponer un endpoint <br>para crear, listar y obtener quizzes, para que los creadores publiquen y los usuarios accedan. |
-| E15    |Seguridad y Autenticación                          |Como developer, quiero implementar JWT de autorización para proteger los recursos |
+| E15    |Seguridad y Autenticación                   |Como developer, quiero implementar JWT de autorización para proteger los recursos |
+
 ## 3.2. Impact Mapping.
 
 <img width ="700" height="500" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-3/Impact%20Mapping.png">
@@ -252,7 +253,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 ## 3.3. Product Backlog.
 
-| #Orden | User Story ID | Description |StoryPoint(1/2/3/5/8) |
+| #Orden | User Story ID | Description |StoryPoint(1/3/5/8) |
 |---------------|--------|------|------------------------------|
 | 01 | US01 | Como nuevo usuario, quiero registrarme en QuizzBee con mi correo y contraseña para poder acceder a la plataforma y crear mi perfil. |3 |
 | 02 | US02 | Como usuario registrado, quiero iniciar sesión con mis credenciales para acceder a mi cuenta y utilizar las funcionalidades de la plataforma. |2 |
@@ -296,13 +297,13 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | 40 | US40 | Como visitante, quiero acceder a una landing page informativa para conocer los beneficios, testimonios y planes disponibles. | 1|
 | 41 | US41 | Como visitante indeciso, quiero ver testimonios reales de usuarios para aumentar mi confianza antes de registrarme. | 1|
 | 42 | US42 | Como usuario móvil, quiero que el contenido se ajuste responsivamente para tener una experiencia óptima en cualquier dispositivo. |3 |
-| 43 | US43 | Como desarrollador, quiero implementar autenticación por API para que los usuarios puedan iniciar sesión y recibir tokens de acceso. | 3|
-| 44 | US44 | Como desarrollador, quiero crear endpoints para la gestión de quizzes para permitir operaciones CRUD en formato JSON. |3 |
-| 45 | US45 | Como desarrollador, quiero implementar endpoints de feedback para guardar comentarios vinculados a quizzes y usuarios. |3 |
-| 46 | US46 | Como desarrollador, quiero implementar cifrado de contraseñas para garantizar la seguridad de las credenciales de usuario. |3 |
-| 47 | US47 | Como desarrollador, quiero implementar validación de tokens para controlar el acceso a endpoints protegidos y manejar tokens inválidos. |5 |
-| 48 | US48 | Como desarrollador, quiero implementar control de acceso basado en roles para diferenciar permisos entre administradores y usuarios regulares. |5 |
-| 49 | US49 | Como desarrollador, quiero manejar la expiración de tokens para mantener la seguridad y requerir re-autenticación cuando sea necesario. | 3|
+| 43 | TS01 | Como desarrollador, quiero implementar autenticación por API para que los usuarios puedan iniciar sesión y recibir tokens de acceso. | 3|
+| 44 | TS02 | Como desarrollador, quiero crear endpoints para la gestión de quizzes para permitir operaciones CRUD en formato JSON. |3 |
+| 45 | TS03 | Como desarrollador, quiero implementar endpoints de feedback para guardar comentarios vinculados a quizzes y usuarios. |3 |
+| 46 | TS04 | Como desarrollador, quiero implementar cifrado de contraseñas para garantizar la seguridad de las credenciales de usuario. |3 |
+| 47 | TS05 | Como desarrollador, quiero implementar validación de tokens para controlar el acceso a endpoints protegidos y manejar tokens inválidos. |5 |
+| 48 | TS06 | Como desarrollador, quiero implementar control de acceso basado en roles para diferenciar permisos entre administradores y usuarios regulares. |5 |
+| 49 | TS07 | Como desarrollador, quiero manejar la expiración de tokens para mantener la seguridad y requerir re-autenticación cuando sea necesario. | 3|
 
 
 ---
