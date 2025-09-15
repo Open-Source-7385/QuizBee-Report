@@ -254,55 +254,55 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 | #Orden | User Story ID | Description |StoryPoint(1/2/3/5/8) |
 |---------------|--------|------|------------------------------|
-| 01 | US01 | Given que un usuario desea acceder a QuizzBee, <br> When ingresa su correo y contraseña en el formulario de registro,<br> Then el sistema crea una nueva cuenta y permite que el usuario acceda a la plataforma de manera segura. | |
-| 02 | US02 | Given que un usuario ya tiene una cuenta en QuizzBee <br> When ingresa su correo y contraseña en el formulario de inicio de sesión,<br>Then el sistema verifica sus credenciales y le permite acceder a la plataforma de manera segura. | |
-| 03 | US03 | Given que un usuario olvidó su contraseña, <br> When solicita recuperar su cuenta e ingresa su correo electrónico en la opción de “Olvidé mi contraseña”, <br> Then el sistema envía un enlace de recuperación al correo proporcionado para que el usuario pueda restablecer su contraseña de manera segura | |
-| 04 | US04 | Given que estoy en el proceso de registro,<br> When cometo un error en un campo,<br> Then el sistema me muestra mensajes claros para corregirlo. | |
-| 05 | US05 | Given que me registro por primera vez,<br> When recibo el correo de validación,<br> Then debo confirmar para activar mi cuenta. | |
-| 06 | US06 | Given que estoy autenticado,<br> When accedo a configuración,<br> Then puedo editar mi nombre, idioma y nivel de inglés. | |
-| 07 | US07 | Given que deseo más seguridad,<br> When ingreso mi contraseña actual y la nueva,<br> Then el sistema actualiza mi clave exitosamente. | |
-| 08 | US08 | Given que quiero darme de baja,<br> When confirmo la eliminación de mi cuenta,<br> Then el sistema borra mis datos de forma irreversible. | |
-| 09 | US09 | Given que el usuario está autenticado en su cuenta,<br> When selecciona la opción “Cerrar sesión”, <br> Then el sistema finaliza la sesión actual  | |
-| 10 | US10 | Given que soy creador,<br> When accedo a la sección “crear quiz” e ingreso preguntas,<br> Then el sistema guarda y publica el quiz | |
-| 11 | US11 | Given que terminé de crear un quiz,<br> When lo marco como “publicar”,<br> Then se vuelve visible para los demás usuarios. | |
-| 12 | US12 | Given que soy creador,<br> When actualizo un quiz ya publicado,<br> Then los cambios se reflejan manteniendo historial. | |
-| 13 | US13 | Given que ya no quiero un quiz,<br> When lo elimino,<br> Then desaparece del listado público. | |
-| 14 | US14 | Given que estoy en la sección de quizzes,<br> When filtro por idioma,<br> Then solo veo quizzes en ese idioma | |
-| 15 | US15 | Given que estoy buscando prácticas,<br> When selecciono mi nivel A2,<br> Then se listan únicamente quizzes A2. | |
-| 16 | US16 | Given que quiero reforzar vocabulario,<br> When filtro por categoría “vocabulary”,<br> Then se muestran solo quizzes de vocabulario. | |
-| 17 | US17 | Given que inicio un quiz,<br> When respondo todas las preguntas,<br> Then recibo mi puntaje inmediato. | |
-| 18 | US18 | Given que el usuario selecciona un quiz,<br> When se carga la pantalla inicial, <br> Then el sistema muestra una breve instrucción que explica cómo funcionará el quiz antes de comenzar. | |
-| 19 | US19 | Given que el usuario está resolviendo un quiz, <br> When decide retroceder o avanzar entre preguntas, <br> Then el sistema le permite revisar o cambiar sus respuestas antes de finalizar. | |
-| 20 | US20 | Given que el usuario está respondiendo un quiz, <br> When inicia la actividad, <br> Then el sistema muestra un temporizador visible que le permite controlar el tiempo que tarda en completarlo. | |
-| 21 | US21 | Given que el usuario está realizando un quiz, <br> When intenta finalizarlo sin responder todas las preguntas, <br> Then el sistema le indica cuáles quedaron sin responder | |
-| 22 | US22 | Given que el usuario está en la última pregunta del quiz, <br> When selecciona la opción “Finalizar quiz”, <br> Then el sistema le solicita una confirmación antes de enviar sus respuestas para evitar finalizar por error | |
-| 23 | US23 | Given que ya he jugado varios quizzes,<br> When consulto el ranking global,<br> Then veo mi posición frente a otros usuarios. | |
-| 24 | US24 | Given que compito con otros usuarios,<br> When accedo al ranking A2,<br> Then veo solo jugadores de mi nivel. | |
-| 25 | US25 | Given que quiero compararme localmente,<br> When selecciono “Perú”,<br> Then veo ranking con jugadores peruanos. | |
-| 26 | US26 | Given que he resuelto quizzes previamente,<br> When accedo a mi historial,<br> Then veo listado de quizzes con fecha y puntaje. | |
-| 27 | US27 | Given que quiero revisar mi avance,<br> When abro mi historial,<br> Then se muestran gráficos de progreso en el tiempo. | |
-| 28 | US28 | Given que resolví un quiz,<br> When lo califico con estrellas y comentarios,<br> Then el creador recibe mi feedback. | |
-| 29 | US29 | Given que el usuario ha completado todas las preguntas de un quiz, <br> When llega al final del mismo, <br> Then el sistema muestra un resumen con su puntaje y las respuestas correctas e incorrectas. | |
-| 30 | US30 | Given que soy creador,<br> When consulto el feedback de mis quizzes,<br> Then veo comentarios y calificaciones de usuarios | |
-| 31 | US31 | Given que recibo feedback,<br> When un usuario deja un comentario,<br> Then me llega una notificación. | |
-| 32 | US32 | Given que estoy en plan gratuito y sin vidas,<br> When intento seguir jugando,<br> Then puedo comprar vidas adicionales con pago. | |
-| 33 | US33 | Given que quiero beneficios ilimitados,<br> When selecciono plan premium y realizo el pago,<br> Then mi cuenta pasa al estado premium. | |
-| 34 | US34 | Given que no quiero seguir en premium,<br> When cancelo el plan,<br> Then mi cuenta vuelve al modo gratuito al final del ciclo. | |
-| 35 | US35 | Given que soy usuario premium,<br> When consulto mi perfil,<br> Then veo un historial de mis pagos y facturas. | |
-| 36 | US36 | Given que soy usuario premium,<br> When me uno a una sala de speaking,<br> Then puedo interactuar en tiempo real con otros. | |
-| 37 | US37 | Given que soy creador,<br> When organizo una sala de speaking,<br> Then los usuarios pueden unirse en la fecha y hora definidas. | |
-| 38 | US38 | Given que soy creador,<br> When gestiono mi sala,<br> Then puedo silenciar, expulsar o invitar usuarios. | |
-| 39 | US39 | Given que estoy en una sala,<br> When activo la opción de grabar,<br> Then la reunión queda registrada para revisión. | |
-| 40 | US40 | Given que soy visitante,<br> When accedo a la landing page,<br> Then puedo ver secciones de beneficios, testimonios y planes. | |
-| 41 | US41 | Given que soy visitante indeciso,<br> When veo testimonios reales,<br> Then aumento mi confianza en registrarme. | |
-| 42 | US42 | Given que ingreso desde un smartphone,<br> When navego en cualquier página,<br> Then el contenido debe ajustarse responsivamente | |
-| 43 | US43 | Given que envío credenciales válidas,<br> When accedo al endpoint /login,<br> Then recibo token y confirmación. | |
-| 44 | US44 | Given que envío datos de un quiz nuevo,<br> When llamo al endpoint /quizzes,<br> Then se crea y devuelve el objeto quiz en JSON. | |
-| 45 | US45 | Given que completo un quiz,<br> When llamo al endpoint /feedback,<br> Then se guarda el comentario vinculado al quiz y usuario. | |
-| 46 | US46 | Given que registro un usuario,<br> When guardo la contraseña,<br> Then el sistema debe cifrarla antes de almacenarla. | |
-| 47 | US47 | Given que llamo a un endpoint protegido,<br> When incluyo un token válido,<br> Then el acceso es concedido.<br> But when el token es inválido,<br> Then recibo un error 401. | |
-| 48 | US48 | Given que soy admin,<br> When accedo a /admin/users,<br> Then puedo ver y gestionar usuarios.<br> But when soy estudiante,<br> Then recibo acceso denegado. | |
-| 49 | US49 | Given que mi token expira,<br> When intento acceder a la API,<br> Then recibo error 401 y debo iniciar sesión nuevamente. | |
+| 01 | US01 | Given que un usuario desea acceder a QuizzBee, <br> When ingresa su correo y contraseña en el formulario de registro,<br> Then el sistema crea una nueva cuenta y permite que el usuario acceda a la plataforma de manera segura. |3 |
+| 02 | US02 | Given que un usuario ya tiene una cuenta en QuizzBee <br> When ingresa su correo y contraseña en el formulario de inicio de sesión,<br>Then el sistema verifica sus credenciales y le permite acceder a la plataforma de manera segura. |2 |
+| 03 | US03 | Given que un usuario olvidó su contraseña, <br> When solicita recuperar su cuenta e ingresa su correo electrónico en la opción de “Olvidé mi contraseña”, <br> Then el sistema envía un enlace de recuperación al correo proporcionado para que el usuario pueda restablecer su contraseña de manera segura |3 |
+| 04 | US04 | Given que estoy en el proceso de registro,<br> When cometo un error en un campo,<br> Then el sistema me muestra mensajes claros para corregirlo. | 2|
+| 05 | US05 | Given que me registro por primera vez,<br> When recibo el correo de validación,<br> Then debo confirmar para activar mi cuenta. | 3|
+| 06 | US06 | Given que estoy autenticado,<br> When accedo a configuración,<br> Then puedo editar mi nombre, idioma y nivel de inglés. | 3|
+| 07 | US07 | Given que deseo más seguridad,<br> When ingreso mi contraseña actual y la nueva,<br> Then el sistema actualiza mi clave exitosamente. | 2|
+| 08 | US08 | Given que quiero darme de baja,<br> When confirmo la eliminación de mi cuenta,<br> Then el sistema borra mis datos de forma irreversible. | 3|
+| 09 | US09 | Given que el usuario está autenticado en su cuenta,<br> When selecciona la opción “Cerrar sesión”, <br> Then el sistema finaliza la sesión actual  |1 |
+| 10 | US10 | Given que soy creador,<br> When accedo a la sección “crear quiz” e ingreso preguntas,<br> Then el sistema guarda y publica el quiz | 5|
+| 11 | US11 | Given que terminé de crear un quiz,<br> When lo marco como “publicar”,<br> Then se vuelve visible para los demás usuarios. | 2|
+| 12 | US12 | Given que soy creador,<br> When actualizo un quiz ya publicado,<br> Then los cambios se reflejan manteniendo historial. |3 |
+| 13 | US13 | Given que ya no quiero un quiz,<br> When lo elimino,<br> Then desaparece del listado público. |2 |
+| 14 | US14 | Given que estoy en la sección de quizzes,<br> When filtro por idioma,<br> Then solo veo quizzes en ese idioma | 2|
+| 15 | US15 | Given que estoy buscando prácticas,<br> When selecciono mi nivel A2,<br> Then se listan únicamente quizzes A2. |2 |
+| 16 | US16 | Given que quiero reforzar vocabulario,<br> When filtro por categoría “vocabulary”,<br> Then se muestran solo quizzes de vocabulario. |2 |
+| 17 | US17 | Given que inicio un quiz,<br> When respondo todas las preguntas,<br> Then recibo mi puntaje inmediato. |6 |
+| 18 | US18 | Given que el usuario selecciona un quiz,<br> When se carga la pantalla inicial, <br> Then el sistema muestra una breve instrucción que explica cómo funcionará el quiz antes de comenzar. | 1|
+| 19 | US19 | Given que el usuario está resolviendo un quiz, <br> When decide retroceder o avanzar entre preguntas, <br> Then el sistema le permite revisar o cambiar sus respuestas antes de finalizar. | 3|
+| 20 | US20 | Given que el usuario está respondiendo un quiz, <br> When inicia la actividad, <br> Then el sistema muestra un temporizador visible que le permite controlar el tiempo que tarda en completarlo. | 3|
+| 21 | US21 | Given que el usuario está realizando un quiz, <br> When intenta finalizarlo sin responder todas las preguntas, <br> Then el sistema le indica cuáles quedaron sin responder | 3|
+| 22 | US22 | Given que el usuario está en la última pregunta del quiz, <br> When selecciona la opción “Finalizar quiz”, <br> Then el sistema le solicita una confirmación antes de enviar sus respuestas para evitar finalizar por error | 2|
+| 23 | US23 | Given que ya he jugado varios quizzes,<br> When consulto el ranking global,<br> Then veo mi posición frente a otros usuarios. | 5|
+| 24 | US24 | Given que compito con otros usuarios,<br> When accedo al ranking A2,<br> Then veo solo jugadores de mi nivel. |5 |
+| 25 | US25 | Given que quiero compararme localmente,<br> When selecciono “Perú”,<br> Then veo ranking con jugadores peruanos. |5 |
+| 26 | US26 | Given que he resuelto quizzes previamente,<br> When accedo a mi historial,<br> Then veo listado de quizzes con fecha y puntaje. | 3|
+| 27 | US27 | Given que quiero revisar mi avance,<br> When abro mi historial,<br> Then se muestran gráficos de progreso en el tiempo. |5 |
+| 28 | US28 | Given que resolví un quiz,<br> When lo califico con estrellas y comentarios,<br> Then el creador recibe mi feedback. | 3|
+| 29 | US29 | Given que el usuario ha completado todas las preguntas de un quiz, <br> When llega al final del mismo, <br> Then el sistema muestra un resumen con su puntaje y las respuestas correctas e incorrectas. |3 |
+| 30 | US30 | Given que soy creador,<br> When consulto el feedback de mis quizzes,<br> Then veo comentarios y calificaciones de usuarios |3 |
+| 31 | US31 | Given que recibo feedback,<br> When un usuario deja un comentario,<br> Then me llega una notificación. |5 |
+| 32 | US32 | Given que estoy en plan gratuito y sin vidas,<br> When intento seguir jugando,<br> Then puedo comprar vidas adicionales con pago. | 5|
+| 33 | US33 | Given que quiero beneficios ilimitados,<br> When selecciono plan premium y realizo el pago,<br> Then mi cuenta pasa al estado premium. |5 |
+| 34 | US34 | Given que no quiero seguir en premium,<br> When cancelo el plan,<br> Then mi cuenta vuelve al modo gratuito al final del ciclo. |3 |
+| 35 | US35 | Given que soy usuario premium,<br> When consulto mi perfil,<br> Then veo un historial de mis pagos y facturas. | 3|
+| 36 | US36 | Given que soy usuario premium,<br> When me uno a una sala de speaking,<br> Then puedo interactuar en tiempo real con otros. |5 |
+| 37 | US37 | Given que soy creador,<br> When organizo una sala de speaking,<br> Then los usuarios pueden unirse en la fecha y hora definidas. |5 |
+| 38 | US38 | Given que soy creador,<br> When gestiono mi sala,<br> Then puedo silenciar, expulsar o invitar usuarios. | 5|
+| 39 | US39 | Given que estoy en una sala,<br> When activo la opción de grabar,<br> Then la reunión queda registrada para revisión. | 8|
+| 40 | US40 | Given que soy visitante,<br> When accedo a la landing page,<br> Then puedo ver secciones de beneficios, testimonios y planes. | 1|
+| 41 | US41 | Given que soy visitante indeciso,<br> When veo testimonios reales,<br> Then aumento mi confianza en registrarme. | 1|
+| 42 | US42 | Given que ingreso desde un smartphone,<br> When navego en cualquier página,<br> Then el contenido debe ajustarse responsivamente |3 |
+| 43 | US43 | Given que envío credenciales válidas,<br> When accedo al endpoint /login,<br> Then recibo token y confirmación. | 3|
+| 44 | US44 | Given que envío datos de un quiz nuevo,<br> When llamo al endpoint /quizzes,<br> Then se crea y devuelve el objeto quiz en JSON. |3 |
+| 45 | US45 | Given que completo un quiz,<br> When llamo al endpoint /feedback,<br> Then se guarda el comentario vinculado al quiz y usuario. |3 |
+| 46 | US46 | Given que registro un usuario,<br> When guardo la contraseña,<br> Then el sistema debe cifrarla antes de almacenarla. |3 |
+| 47 | US47 | Given que llamo a un endpoint protegido,<br> When incluyo un token válido,<br> Then el acceso es concedido.<br> But when el token es inválido,<br> Then recibo un error 401. |5 |
+| 48 | US48 | Given que soy admin,<br> When accedo a /admin/users,<br> Then puedo ver y gestionar usuarios.<br> But when soy estudiante,<br> Then recibo acceso denegado. |5 |
+| 49 | US49 | Given que mi token expira,<br> When intento acceder a la API,<br> Then recibo error 401 y debo iniciar sesión nuevamente. | 3|
 
 
 ---
