@@ -513,7 +513,7 @@ link: ....
 
 - Segmento 2: Personas que ya dominan algun idioma
   
-  <img width ="555" height="300" src=>
+  <img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/JourneyMapping2.png>
   
 ### 2.3.4. Empathy Mapping.
 **User Persona 1:** Personas que quieren reforzar lo aprendido de algún idioma
