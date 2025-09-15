@@ -365,7 +365,6 @@ Usuarios con nivel avanzado o fluido en el idioma, que desean perfeccionar sus h
 #### Segmento 1:
 <img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista1.png">
 
-
 - Entrevista N°1: Diego Avalos
 - Sexo: Masculino
 - Edad: 21 años
@@ -373,17 +372,20 @@ Usuarios con nivel avanzado o fluido en el idioma, que desean perfeccionar sus h
 - Ubicación en la que vive: Independencia, Lima, Perú
 
 #### Entrevista: ####
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[link https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EXHY9vTo3TVKnJV3A4e2Ha4B1NsXtcJY6HnYjbc_acjhbA?e=aUP9ck)
 
 
-- Momento en el que inicia: 0:02
+- Momento en el que inicia: 0:03
 
-- Duración: 7:07
+- Duración: 5:00
 
 **Resumen:**
-Adrián es un joven que actualmente cursa el quinto año de secundaria en el colegio Trilce, sede Los Olivos. Nos comparte que, aunque todavía no ha decidido con claridad qué carrera le gustaría seguir, una de las opciones que más le atrae es Psicología, ya que considera que es una profesión interesante y, en sus palabras, "bastante tranquila".
-Además, Adrián nos comentó que en alguna ocasión realizó un test vocacional con el acompañamiento de un psicólogo, sin embargo, la experiencia no resultó tan útil o reveladora como él esperaba. A pesar de ello, mantiene la curiosidad y apertura por seguir explorando su vocación.
-En ese sentido, está dispuesto a probar nuevas alternativas y le parece una idea interesante la posibilidad de realizar un test vocacional en línea, siempre y cuando exista la guía de un profesional que pueda orientarlo adecuadamente durante el proceso. Considera que contar con una plataforma digital o aplicación que combine tecnología con asesoramiento humano sería una buena forma de ayudar a estudiantes como él a descubrir una carrera que realmente se ajuste a sus intereses y personalidad.
+Diego Ávalos es un joven interesado en mejorar su nivel de inglés. En la entrevista, compartió su experiencia y hábitos al momento de practicar idiomas fuera del entorno académico. Señaló que suele recurrir a plataformas como Duolingo, aunque considera que su efectividad puede ser limitada, calificándolas alrededor de un 6 o 7 en una escala del 1 al 10.
+Diego mencionó que valora herramientas que ofrezcan diversión, variedad temática y, sobre todo, feedback inmediato cuando comete errores. Considera que una plataforma que le diga al instante en qué falló y por qué, sería mucho más útil para su proceso de aprendizaje.
+Una de sus mayores dificultades es mantener la constancia y, en ocasiones, olvida lo aprendido en clases por no practicarlo con frecuencia. Aun así, busca reforzar sus conocimientos viendo videos, escuchando música o interactuando con contenido en inglés.
+Sobre la propuesta de Quizbee, le pareció interesante una aplicación tipo Duolingo pero con vidas ilimitadas, retos personalizados por usuarios avanzados (tipo C1) y recompensas por desempeño. Cree que esto haría la práctica más atractiva y motivadora. También valoró positivamente la posibilidad de tener un plan premium con beneficios extra.
+Finalmente, considera que una plataforma ideal debería combinar el juego, el aprendizaje práctico y el acompañamiento mediante feedback claro. Recalcó que lo más importante para él es tener una herramienta interactiva, efectiva y entretenida que le ayude a consolidar lo aprendido y avanzar en su dominio del idioma.
+
 
 
 
@@ -397,19 +399,18 @@ En ese sentido, está dispuesto a probar nuevas alternativas y le parece una ide
 - Ubicación en la que vive: San Martin de Porres, Lima, Perú
 
 #### Entrevista: ####
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
+[link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZVBbO-nSShMkVtyZqXMGywB2bbQ-m2QPlZqqa_MLAmDRQ?e=aPpPBE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 - Momento en el que inicia: 0:02
 
-- Duración: 7:07
+- Duración: 5:58
 
 **Resumen:**
-Adrián es un joven que actualmente cursa el quinto año de secundaria en el colegio Trilce, sede Los Olivos. Nos comparte que, aunque todavía no ha decidido con claridad qué carrera le gustaría seguir, una de las opciones que más le atrae es Psicología, ya que considera que es una profesión interesante y, en sus palabras, "bastante tranquila".
-Además, Adrián nos comentó que en alguna ocasión realizó un test vocacional con el acompañamiento de un psicólogo, sin embargo, la experiencia no resultó tan útil o reveladora como él esperaba. A pesar de ello, mantiene la curiosidad y apertura por seguir explorando su vocación.
-En ese sentido, está dispuesto a probar nuevas alternativas y le parece una idea interesante la posibilidad de realizar un test vocacional en línea, siempre y cuando exista la guía de un profesional que pueda orientarlo adecuadamente durante el proceso. Considera que contar con una plataforma digital o aplicación que combine tecnología con asesoramiento humano sería una buena forma de ayudar a estudiantes como él a descubrir una carrera que realmente se ajuste a sus intereses y personalidad.
-
-
+Paola García, de 18 años, considera interesante la propuesta de Quizbee, una plataforma que permite a usuarios avanzados crear retos de idioma para que otros los resuelvan y ganen recompensas. Le gusta la idea de usar quizzes, obtener feedback inmediato, y contar con una tienda de premios que motive a practicar.
+Suele usar Duolingo, pero lo califica con un 6 o 7 de 10, ya que no siempre refuerza bien lo aprendido. Le interesa una plataforma con vidas ilimitadas, tanto gratuita como con plan premium. También mencionó que a veces se le dificulta mantener la constancia y teme olvidar lo aprendido, por lo que valora herramientas prácticas y entretenidas.
+Sugiere incluir un ranking entre usuarios y contenido variado. En general, ve a Facebee como una plataforma útil y motivadora para aprender idiomas de forma más dinámica.
+Finalmente, mostró interés en el uso de plataformas como Quizbee, ya que considera que los quizzes y retos creados por otros usuarios pueden ser una forma dinámica de reforzar sus conocimientos.
 
 #### Segmento 2:
 
@@ -424,17 +425,17 @@ En ese sentido, está dispuesto a probar nuevas alternativas y le parece una ide
 - Ubicación en la que vive: Independencia, Lima, Perú
 
 #### Entrevista: ####
-link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+[link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EWKynO5MHTxHn0o0V0fRJdsBl5PyVsWey90-rqW_i3YSZA?e=eGyWfX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
-- Momento en el que inicia: 0:02
+- Momento en el que inicia: 0:05
 
-- Duración: 7:07
+- Duración: 6:35
 
 **Resumen:**
-Adrián es un joven que actualmente cursa el quinto año de secundaria en el colegio Trilce, sede Los Olivos. Nos comparte que, aunque todavía no ha decidido con claridad qué carrera le gustaría seguir, una de las opciones que más le atrae es Psicología, ya que considera que es una profesión interesante y, en sus palabras, "bastante tranquila".
-Además, Adrián nos comentó que en alguna ocasión realizó un test vocacional con el acompañamiento de un psicólogo, sin embargo, la experiencia no resultó tan útil o reveladora como él esperaba. A pesar de ello, mantiene la curiosidad y apertura por seguir explorando su vocación.
-En ese sentido, está dispuesto a probar nuevas alternativas y le parece una idea interesante la posibilidad de realizar un test vocacional en línea, siempre y cuando exista la guía de un profesional que pueda orientarlo adecuadamente durante el proceso. Considera que contar con una plataforma digital o aplicación que combine tecnología con asesoramiento humano sería una buena forma de ayudar a estudiantes como él a descubrir una carrera que realmente se ajuste a sus intereses y personalidad.
+Anyelo alejos nos comparte su experiencia con el aprendizaje y mantenimiento de idiomas a través del proyecto Quizbee, una plataforma SaaS que busca reforzar idiomas mediante quizzes y retos creados por usuarios. Actualmente, Pedro realiza actividades frecuentes para mantener su dominio del idioma y utiliza diversas herramientas digitales, especialmente para practicar speaking.
+Se mostró muy interesado en la idea de crear retos personalizados para otros usuarios, y valoró mucho la posibilidad de obtener puntos canjeables por exámenes oficiales, como el Cambridge, uno de los más solicitados. Para él, mantener un ranking y competir dentro de la plataforma sería una motivación adicional importante.
+Pedro también destacó que es crucial que la plataforma incluya retos avanzados, vocabulario técnico y situaciones profesionales, para ajustarse a usuarios con nivel alto. Se mostró dispuesto a pagar por un plan premium que ofrezca beneficios exclusivos, como reuniones y quizzes limitados, y considera muy valioso que el progreso pueda convertirse en una certificación oficial reconocida. Finalmente Pedro ve a Quizbee como una plataforma que puede apoyar significativamente a usuarios avanzados a mantener y certificar su nivel de idioma mediante retos dinámicos y recompensas tangibles.
 
 
 
