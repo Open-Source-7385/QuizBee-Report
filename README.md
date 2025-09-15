@@ -17,7 +17,7 @@
 ### Integrantes:
 - Vidal Malaga, Jareth Beycker  (u202316878)
 - Geronimo Quispe, Pablo Antonio  (u202314304)
-- Apellidos, Nombre  (Codigo)
+- Acosta Elera, Abraam Bernabe  (u202219199)
 - Apellidos, Nombre  (Codigo)
 - Apellidos, Nombre  (Codigo)
 
