@@ -474,6 +474,19 @@ link: ....
 <img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/UserPersona_Segmento2.png" alt="User Persona 2" width="600"/>
 
 ### 2.3.2. User Task Matrix.
+
+| **Tarea**                                      | **Martin Castillo – Frecuencia** | **Martin Castillo – Importancia** |
+|------------------------------------------------|-------------------------------|---------------------------------|
+|                  | Alta | Alta | 
+|                   | Media | Alta | 
+|                    | Alta | Alta | 
+|                    | Alta | Alta | 
+|                   | Media | Alta | 
+|                   | Baja | Media | 
+|                   | Media | Alta | 
+|                   | Baja | Media | 
+
+
 ### 2.3.3. User Journey Mapping.
 ### 2.3.4. Empathy Mapping.
 **User Persona 1:** Personas que quieren reforzar lo aprendido de algún idioma
