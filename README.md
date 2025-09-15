@@ -247,7 +247,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | E15    |Seguridad y Autenticación                          |Como developer, quiero implementar JWT de autorización para proteger los recursos |
 ## 3.2. Impact Mapping.
 
-<img width ="600" height="350" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-3/Impact%20Mapping.png">
+<img width ="700" height="500" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-3/Impact%20Mapping.png">
 
 
 ## 3.3. Product Backlog.
