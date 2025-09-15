@@ -527,6 +527,28 @@ link: ....
 ## 2.4. Big Picture Event Storming.
 ## 2.5. Ubiquitous Language.
 
+| Término | Definición | Segmentos relacionados |
+|---------|------------|------------------------|
+| **Quiz (Cuestionario)** | Conjunto de preguntas diseñadas para reforzar o evaluar conocimientos de un idioma. | Novatos, Creadores |
+| **Question (Pregunta)** | Elemento del quiz que plantea una consulta específica, generalmente con opciones. | Novatos, Creadores |
+| **Answer (Respuesta)** | Opción seleccionada por el usuario frente a una pregunta, correcta o incorrecta. | Novatos |
+| **Score (Puntaje)** | Resultado obtenido tras completar un quiz, calculado en base a respuestas correctas. | Novatos |
+| **Feedback (Retroalimentación)** | Información que recibe el usuario sobre su desempeño, indicando aciertos, errores y sugerencias. | Novatos, Creadores |
+| **Daily Quiz (Quiz Diario)** | Actividad breve publicada cada día para reforzar la práctica constante. | Novatos |
+| **Progress (Progreso)** | Avance del usuario reflejado en historial, puntajes y métricas de aprendizaje. | Novatos |
+| **Summary (Resumen)** | Pantalla final que muestra el puntaje total, respuestas correctas e incorrectas. | Novatos |
+| **Ranking (Clasificación)** | Listado de usuarios ordenados por puntaje a nivel global, por país o por nivel. | Novatos |
+| **Creator (Creador de Quizzes)** | Usuario avanzado que diseña y publica quizzes para los demás. | Creadores |
+| **Speaking Session (Sesión de Speaking)** | Espacio en tiempo real donde los usuarios practican oralmente con otros. | Novatos, Creadores |
+| **Role (Rol)** | Clasificación del usuario en la plataforma: Novato o Creador. | Novatos, Creadores |
+| **History (Historial)** | Registro de quizzes resueltos y puntajes obtenidos a lo largo del tiempo. | Novatos |
+| **Notification (Notificación)** | Mensaje enviado al usuario para avisar sobre feedback, logros o recordatorios. | Novatos, Creadores |
+| **Premium (Suscripción Premium)** | Plan de pago que otorga beneficios adicionales como vidas ilimitadas y speaking sessions. | Novatos |
+| **Life (Vida)** | Recurso limitado en modo gratuito que define cuántos quizzes se pueden resolver antes de esperar o pagar. | Novatos |
+| **Feature Branch (Rama de Funcionalidad)** | Espacio de trabajo en el que se desarrolla una nueva característica antes de integrarla. | Creadores (equipo) |
+| **Hotfix (Corrección Rápida)** | Cambio urgente en el sistema para resolver un error en producción. | Creadores (equipo) |
+
+
 ---
 
 # **Capítulo III: Requirements Specification**
