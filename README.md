@@ -175,7 +175,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 # **Capítulo III: Requirements Specification**
 ## 3.1. User Stories.
 
-| User Story ID | Título | Descripcion |Acceptance Criteria  | Epic Relacionado |
+| User Story ID | Título | Description |Acceptance Criteria  | Epic Relacionado |
 |---------------|--------|------|-----------------------------------|------------------|
 | US01 | Registro de usuario | Given que un usuario desea acceder a QuizzBee, <br> When ingresa su correo y contraseña en el formulario de registro,<br> Then el sistema crea una nueva cuenta y permite que el usuario acceda a la plataforma de manera segura. |  | E01 |
 | US02 | Inicio de sesión |Given que un usuario ya tiene una cuenta en QuizzBee <br> When ingresa su correo y contraseña en el formulario de inicio de sesión,<br>Then el sistema verifica sus credenciales y le permite acceder a la plataforma de manera segura. |  | E01 |
@@ -251,6 +251,59 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 
 ## 3.3. Product Backlog.
+
+| #Orden | User Story ID | Description |StoryPoint(1/2/3/5/8) |
+|---------------|--------|------|------------------------------|
+| US01 | | | |
+| US02 | | | |
+| US03 | | | |
+| US04 | | | |
+| US05 | | | |
+| US06 | | | |
+| US07 | | | |
+| US08 | | | |
+| US09 | | | |
+| US10 | | | |
+| US11 | | | |
+| US12 | | | |
+| US13 | | | |
+| US14 | | | |
+| US15 | | | |
+| US16 | | | |
+| US17 | | | |
+| US18 | | | |
+| US19 | | | |
+| US20 | | | |
+| US21 | | | |
+| US22 | | | |
+| US23 | | | |
+| US24 | | | |
+| US25 | | | |
+| US26 | | | |
+| US27 | | | |
+| US28 | | | |
+| US29 | | | |
+| US30 | | | |
+| US31 | | | |
+| US32 | | | |
+| US33 | | | |
+| US34 | | | |
+| US35 | | | |
+| US36 | | | |
+| US37 | | | |
+| US38 | | | |
+| US39 | | | |
+| US40 | | | |
+| US41 | | | |
+| US42 | | | |
+| US43 | | | |
+| US44 | | | |
+| US45 | | | |
+| US46 | | | |
+| US47 | | | |
+| US48 | | | |
+| US49 | | | |
+
 
 ---
 
