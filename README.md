@@ -226,7 +226,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | TS05 | Validación JWT | Como desarrollador, quiero implementar validación de tokens JWT para proteger endpoints de la API. | Given que llamo a un endpoint protegido,<br> When incluyo un token válido,<br> Then el acceso es concedido.<br> But when el token es inválido,<br> Then recibo un error 401. |E15 |
 | TS06 | Control de roles en API | Como desarrollador, quiero implementar control de acceso basado en roles para restringir operaciones según el tipo de usuario. | Given que soy admin,<br> When accedo a /admin/users,<br> Then puedo ver y gestionar usuarios.<br> But when soy estudiante,<br> Then recibo acceso denegado. |E15 |
 | TS07 | Expiración de sesión | Como desarrollador, quiero implementar manejo de expiración de tokens para mantener la seguridad de las sesiones de usuario. | Given que mi token expira,<br> When intento acceder a la API,<br> Then recibo error 401 y debo iniciar sesión nuevamente. |E15 |
-| TS07 | Conectar a Base de Datos |Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL. | Given que las credenciales de la base de datos son correctas <br>When se levanta el servidor <br>Then la conexión se establece sin errores.|E14 |
+| TS08 | Conectar a Base de Datos |Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL para poder tener todos los datos de mi aplicacion. | Given que las credenciales de la base de datos son correctas <br>When se levanta el servidor <br>Then la conexión se establece sin errores.|E14 |
 
 
 | Epic ID | Título                                     | Descripción breve                                              |
@@ -304,6 +304,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | 47 | TS05 | Como desarrollador, quiero implementar validación de tokens para controlar el acceso a endpoints protegidos y manejar tokens inválidos. |5 |
 | 48 | TS06 | Como desarrollador, quiero implementar control de acceso basado en roles para diferenciar permisos entre administradores y usuarios regulares. |5 |
 | 49 | TS07 | Como desarrollador, quiero manejar la expiración de tokens para mantener la seguridad y requerir re-autenticación cuando sea necesario. | 3|
+| 50 | TS08 | Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL para poder tener todos los datos de mi aplicacion.  | 8|
+
 
 
 ---
