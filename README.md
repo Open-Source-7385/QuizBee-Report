@@ -143,15 +143,6 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 ---
 
 # **Capítulo I: Introducción**
-
-## 1.1. Startup Profile
-
-# Capítulo I: Introduction  
-
-Este capítulo proporciona una visión general del proyecto, incluyendo la problemática abordada, los objetivos planteados, la motivación del equipo y el alcance de la solución propuesta. Se establece el contexto en el que surge la necesidad de la plataforma **QuizzBee**, y se justifica su relevancia para los usuarios objetivo y el entorno actual.  
-
----
-
 ## 1.1. Startup Profile  
 
 ### 1.1.1. Descripción de la Startup  
@@ -164,6 +155,15 @@ Este capítulo proporciona una visión general del proyecto, incluyendo la probl
 
 ---
 ### 1.1.2. Perfiles de integrantes del equipo
+
+
+| Foto | Descripción |
+|------|-------------|
+| <img width="150" > | Estudio la carrera de Ingeniería de Software en la UPC. Me gusta el fútbol, surf, buceo y la tecnología. Soy una persona que siempre busca aprender nuevos conocimientos que me lleven a convertirme en un gran profesional y así poder cumplir mis metas cada día. |
+| <img width="150" | Mi nombre es y actualmente estudio la carrera de Ingeniería de Software en la Universidad UPC, sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida con el cumplimiento de mis deberes académicos. Además, valoro profundamente mantener una buena relación con mi equipo de trabajo, ya que estoy convencido de que un ambiente colaborativo y respetuoso permite alcanzar mejores resultados y potencia el desarrollo colectivo. |
+| <img width="150" | Mi nombre es  estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en SQL, C++ y un poco de HTML, CSS y JavaScript, así como habilidades para la adaptabilidad y la responsabilidad. |
+| <img width="150" s |Mi nombre es Pablo,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
+
 ## 1.2.1. Antecedentes y Problemática (usando The 5W’s y 2H’s)  
 
 ### What (Qué)  
