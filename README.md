@@ -301,7 +301,7 @@ Usuarios con nivel avanzado o fluido en el idioma, que desean perfeccionar sus h
 
 **Aspectos Demográficos:**  
 - **Sexo:**Masculino y femenino
-- **Edad:** 20 – 35 años (universitarios avanzados y  profesionales).  
+- **Edad:** 20 – 40 años (universitarios avanzados y  profesionales).  
 - **Nivel socioeconómico:** Clase media y media-alta, con disposición a pagar por planes premium.  
 
 **Aspectos Psicográficos:**  
