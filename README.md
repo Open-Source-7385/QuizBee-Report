@@ -364,8 +364,9 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | QuizBee-Report | Chapter3 | c2d3e4f | docs(chapter-III):"add epic with description and title" | Added comprehensive epic stories section with detailed descriptions and titles for each epic, establishing clear connections between user stories and business objectives | 17/09/2024 |
 | QuizBee-Report | Chapter4 | g5h6i7j | Delete assets/img/chapter-IV/wireframe1.png | Removed outdated wireframe image file that was no longer needed and replaced with updated design mockups that better represent the current UI/UX design approach | 19/09/2024 |
 | QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2024 |
-
 ### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta entrega, nuestro equipo ha desplegado con éxito la landing page. Enlace de la Landing Page:
+https://quizbeelandingpage.netlify.app/
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
