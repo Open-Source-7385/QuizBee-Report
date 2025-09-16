@@ -312,6 +312,14 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | **Sum of Story Points**        | 5 |
 
 ### 5.2.1.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | Github Username | Elaboracion de User Stories Leader (L), Collaborator (C) | Desarrollo del landing page Leader (L), Collaborator (C) | Descripcion y desarrollo de los primeros capitulos Leader (L), Collaborator (C) |
+| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
+|         | AlexBoo578         | (C)                                                     | (C)                                                            | (C)                                                |
+| Vidal, Jareth              | Jareth341       | (L)                                                     | (C)                                                            | (C)                                                |
+| Acosta, Abraam                 | abraam16        | (C)                                                     | (C)                                                            | (C)                                                |
+| Geronimo, Pablo              | Phatogram       | (C)                                                     | (L)                                                            | (C)                                                |
+
 ### 5.2.1.3. Sprint Backlog 1.
 ### 5.2.1.4. Development Evidence for Sprint Review.
 ### 5.2.1.5. Execution Evidence for Sprint Review.
