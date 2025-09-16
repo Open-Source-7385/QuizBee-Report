@@ -321,6 +321,27 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | Geronimo, Pablo              | Phatogram       | (C)                                                     | (L)                                                            | (C)                                                |
 
 ### 5.2.1.3. Sprint Backlog 1.
+
+
+| Sprint # | Sprint 1 | | | | | |
+|----------|----------|--|--|--|--|--|
+| | **User Story** | | **Work-item / Task** | | | |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
+| US01 | Registro de usuario | T001 | Crear formulario de registro | Implementar interfaz de usuario para el formulario de registro con campos de email y contraseña | 4 | Jareth Vidal | To-do |
+| | | T002 | Validación de datos de registro | Implementar validaciones del lado del cliente para los campos del formulario | 3 | Pablo Geronimo | To-do |
+| | | T003 | API endpoint de registro | Crear endpoint POST /api/auth/register para procesar el registro de usuarios | 5 | Abraam Acosta | To-do |
+| US02 | Inicio de sesión | T004 | Crear formulario de login | Desarrollar interfaz de usuario para inicio de sesión | 3 | Alex  | To-do |
+| | | T005 | Autenticación de usuarios | Implementar lógica de autenticación y generación de tokens JWT | 6 | Abraam Acosta | To-do |
+| | | T006 | Manejo de sesiones | Implementar persistencia de sesión y redirección tras login exitoso | 4 | Jareth Vidal | To-do |
+| US03 | Recuperación de contraseña | T007 | Formulario de recuperación | Crear interfaz para solicitar recuperación de contraseña | 2 | Pablo Geronimo | To-do |
+| | | T008 | Envío de email de recuperación | Implementar servicio de envío de emails con enlace de recuperación | 5 | Alex  | To-do |
+| | | T009 | Reset de contraseña | Crear funcionalidad para establecer nueva contraseña | 4 | Abraam Acosta | To-do |
+| US04 | Experiencia de autenticación guiada | T010 | Mensajes de error UX | Implementar mensajes de error claros y útiles en formularios | 3 | Jareth Vidal | To-do |
+| | | T011 | Indicadores visuales | Agregar indicadores de carga y feedback visual durante autenticación | 2 | Pablo Geronimo | To-do |
+| US05 | Validación de correo | T012 | Email de verificación | Implementar envío automático de email de verificación tras registro | 4 | Alex  | To-do |
+| | | T013 | Endpoint de verificación | Crear endpoint para confirmar email mediante token único | 3 | Abraam Acosta | To-do |
+| | | T014 | Estado de cuenta | Implementar lógica para activar cuenta tras verificación | 2 | Jareth Vidal | To-do |
+
 ### 5.2.1.4. Development Evidence for Sprint Review.
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
