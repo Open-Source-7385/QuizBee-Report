@@ -525,6 +525,10 @@ link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EZ
 <img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/EmpathyMap2.png" alt="Empathy Map 2" width="600"/>
 
 ## 2.4. Big Picture Event Storming.
+
+<img src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/EventStorming.jpg" alt="EventStorming" width="600"/>
+
+
 ## 2.5. Ubiquitous Language.
 
 | Término | Definición | Segmentos relacionados |
