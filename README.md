@@ -439,8 +439,8 @@ Pedro también destacó que es crucial que la plataforma incluya retos avanzados
 
 
 
+<img width ="555" height="300" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/entrevista4.PNG">
 
-IMAGEN: ....
 
 - Entrevista N°2: Liliana Quilcat
 - Sexo: Femenino
@@ -454,7 +454,7 @@ link: ....
 
 - Momento en el que inicia: 0:02
 
-- Duración: 7:07
+- Duración: 4:46
 
 **Resumen:**
 ....
