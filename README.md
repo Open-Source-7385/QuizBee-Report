@@ -309,7 +309,7 @@ Usuarios con nivel avanzado o fluido en el idioma, que desean perfeccionar sus h
 
 **Aspectos Demográficos:**  
 - **Sexo:**Masculino y femenino
-- **Edad:** 20 – 35 años (universitarios avanzados y  profesionales).  
+- **Edad:** 20 – 40 años (universitarios avanzados y  profesionales).  
 - **Nivel socioeconómico:** Clase media y media-alta, con disposición a pagar por planes premium.  
 
 **Aspectos Psicográficos:**  
@@ -398,14 +398,200 @@ Estas son las principales estrategias que aplicará **QuizzBee**:
 - ¿Qué tan dispuesto estarías a pagar por un plan premium que te ofrezca beneficios como reuniones ilimitadas, quizzes exclusivos y certificados?  
 - ¿Te sentirías más motivado si tu progreso dentro de la plataforma pudiera convertirse en una certificación oficial reconocida?  
 ### 2.2.2. Registro de entrevistas.
+#### Segmento 1:
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista1.png">
+
+- Entrevista N°1: Diego Avalos
+- Sexo: Masculino
+- Edad: 21 años
+
+- Ubicación en la que vive: Independencia, Lima, Perú
+
+#### Entrevista: ####
+[link https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EXHY9vTo3TVKnJV3A4e2Ha4B1NsXtcJY6HnYjbc_acjhbA?e=aUP9ck)
+
+
+- Momento en el que inicia: 0:03
+
+- Duración: 5:00
+
+**Resumen:**
+Diego Ávalos es un joven interesado en mejorar su nivel de inglés. En la entrevista, compartió su experiencia y hábitos al momento de practicar idiomas fuera del entorno académico. Señaló que suele recurrir a plataformas como Duolingo, aunque considera que su efectividad puede ser limitada, calificándolas alrededor de un 6 o 7 en una escala del 1 al 10.
+Diego mencionó que valora herramientas que ofrezcan diversión, variedad temática y, sobre todo, feedback inmediato cuando comete errores. Considera que una plataforma que le diga al instante en qué falló y por qué, sería mucho más útil para su proceso de aprendizaje.
+Una de sus mayores dificultades es mantener la constancia y, en ocasiones, olvida lo aprendido en clases por no practicarlo con frecuencia. Aun así, busca reforzar sus conocimientos viendo videos, escuchando música o interactuando con contenido en inglés.
+Sobre la propuesta de Quizbee, le pareció interesante una aplicación tipo Duolingo pero con vidas ilimitadas, retos personalizados por usuarios avanzados (tipo C1) y recompensas por desempeño. Cree que esto haría la práctica más atractiva y motivadora. También valoró positivamente la posibilidad de tener un plan premium con beneficios extra.
+Finalmente, considera que una plataforma ideal debería combinar el juego, el aprendizaje práctico y el acompañamiento mediante feedback claro. Recalcó que lo más importante para él es tener una herramienta interactiva, efectiva y entretenida que le ayude a consolidar lo aprendido y avanzar en su dominio del idioma.
+
+
+
+
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista2.png">
+
+
+- Entrevista N°2:PaolaGarcia 
+- Sexo: Femenino
+- Edad: 18 años
+
+- Ubicación en la que vive: San Martin de Porres, Lima, Perú
+
+#### Entrevista: ####
+[link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EZVBbO-nSShMkVtyZqXMGywB2bbQ-m2QPlZqqa_MLAmDRQ?e=aPpPBE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+- Momento en el que inicia: 0:02
+
+- Duración: 5:58
+
+**Resumen:**
+Paola García, de 18 años, considera interesante la propuesta de Quizbee, una plataforma que permite a usuarios avanzados crear retos de idioma para que otros los resuelvan y ganen recompensas. Le gusta la idea de usar quizzes, obtener feedback inmediato, y contar con una tienda de premios que motive a practicar.
+Suele usar Duolingo, pero lo califica con un 6 o 7 de 10, ya que no siempre refuerza bien lo aprendido. Le interesa una plataforma con vidas ilimitadas, tanto gratuita como con plan premium. También mencionó que a veces se le dificulta mantener la constancia y teme olvidar lo aprendido, por lo que valora herramientas prácticas y entretenidas.
+Sugiere incluir un ranking entre usuarios y contenido variado. En general, ve a Facebee como una plataforma útil y motivadora para aprender idiomas de forma más dinámica.
+Finalmente, mostró interés en el uso de plataformas como Quizbee, ya que considera que los quizzes y retos creados por otros usuarios pueden ser una forma dinámica de reforzar sus conocimientos.
+
+#### Segmento 2:
+
+
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista3.PNG">
+
+
+- Entrevista N°1: Anyelo Alejos
+- Sexo: Masculino
+- Edad: 20 años
+
+- Ubicación en la que vive: Independencia, Lima, Perú
+
+#### Entrevista: ####
+[link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EWKynO5MHTxHn0o0V0fRJdsBl5PyVsWey90-rqW_i3YSZA?e=eGyWfX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+- Momento en el que inicia: 0:05
+
+- Duración: 6:35
+
+**Resumen:**
+Anyelo alejos nos comparte su experiencia con el aprendizaje y mantenimiento de idiomas a través del proyecto Quizbee, una plataforma SaaS que busca reforzar idiomas mediante quizzes y retos creados por usuarios. Actualmente, Pedro realiza actividades frecuentes para mantener su dominio del idioma y utiliza diversas herramientas digitales, especialmente para practicar speaking.
+Se mostró muy interesado en la idea de crear retos personalizados para otros usuarios, y valoró mucho la posibilidad de obtener puntos canjeables por exámenes oficiales, como el Cambridge, uno de los más solicitados. Para él, mantener un ranking y competir dentro de la plataforma sería una motivación adicional importante.
+Pedro también destacó que es crucial que la plataforma incluya retos avanzados, vocabulario técnico y situaciones profesionales, para ajustarse a usuarios con nivel alto. Se mostró dispuesto a pagar por un plan premium que ofrezca beneficios exclusivos, como reuniones y quizzes limitados, y considera muy valioso que el progreso pueda convertirse en una certificación oficial reconocida. Finalmente Pedro ve a Quizbee como una plataforma que puede apoyar significativamente a usuarios avanzados a mantener y certificar su nivel de idioma mediante retos dinámicos y recompensas tangibles.
+
+
+
+<img width ="555" height="300" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/entrevista4.PNG">
+
+
+- Entrevista N°2: Liliana Quilcat
+- Sexo: Femenino
+- Edad: 38 años
+
+- Ubicación en la que vive: Callao, Peru
+
+#### Entrevista: ####
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EZWkEJGZFOFDlQkg6khUE5UBJuBFZM_wwmNDtt7jmyMkrw?e=Uo4mVo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+- Momento en el que inicia: 0:02
+
+- Duración: 4:46
+
+**Resumen:**
+Liliana Margarita Málaga Vidal mantiene su dominio del inglés mediante la lectura de artículos, viendo series y películas en el idioma, y trabajando con textos relacionados a su profesión. Utiliza el inglés entre dos y cuatro veces por semana en su entorno laboral, especialmente para interactuar con expertos internacionales. Su motivación para seguir mejorando proviene de su entorno profesional, ya que en su trabajo interactúa con personas que dominan el inglés, lo que le permite seguir aprendiendo y avanzando.
+
+Liliana considera que la pérdida de fluidez en inglés sería una gran desventaja, especialmente en su entorno laboral donde la comunicación con expertos internacionales es clave. En cuanto a las herramientas digitales para aprender, prefiere aquellas que ofrecen contenidos avanzados y prácticos, y que permiten interacción en vivo, algo que le resultó difícil de encontrar al principio. Para ella, contar con retos avanzados en contextos profesionales es esencial para seguir progresando en el idioma.
+
+Está interesada en crear quizzes y retos personalizados para ayudar a otros usuarios a mejorar su nivel de inglés, y valora la posibilidad de obtener algún tipo de reconocimiento o beneficio por sus contribuciones. Además, le parece muy valiosa la idea de participar en reuniones virtuales con otros usuarios avanzados, ya que estas experiencias simulan conversaciones reales y le ayudan a ganar confianza. Finalmente, le gustaría que una plataforma le otorgue puntos por su participación, que luego podría canjear por exámenes oficiales o certificaciones, lo que convertiría su práctica en un beneficio concreto.
+
+
+
+
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
+**User Persona 1:** Personas que quieren reforzar lo aprendido de algún idioma
+
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/UserPersona_Segmento1.png" alt="User Persona 1" width="600"/>
+
+**User Persona 2:** Personas que ya dominan algún idioma
+
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/UserPersona_Segmento2.png" alt="User Persona 2" width="600"/>
+
 ### 2.3.2. User Task Matrix.
+- **Primer Segmento:** Personas que quisieran reforzar lo aprendido de algún idioma
+
+
+| Tarea del Usuario              | Frecuencia | Importancia |
+|--------------------------------|-------------|-------------|
+| Buscar quizzes por nivel        | Alta        | Alta        |
+| Resolver quizzes                | Muy Alta    | Muy Alta    |
+| Navegar entre preguntas         | Alta        | Alta        |
+| Controlar el tiempo de práctica | Media       | Alta        |
+| Confirmar finalización          | Media       | Media       |
+| Revisar puntaje y resultados    | Muy Alta    | Muy Alta    |
+| Revisar historial de quizzes    | Media       | Alta        |
+
+
+- **Segundo Segmento:** Personas que ya dominan algún idioma 
+
+
+| Tarea del Usuario               | Frecuencia | Importancia |
+|---------------------------------|-------------|-------------|
+| Crear nuevos quizzes             | Alta        | Muy Alta    |
+| Editar quizzes existentes        | Media       | Alta        |
+| Publicar quizzes creados         | Alta        | Muy Alta    |
+| Revisar feedback recibido        | Media       | Alta        |
+| Recibir notificación de feedback | Media       | Media       |
+| Eliminar quizzes obsoletos       | Baja        | Media       |
+| Revisar historial de quizzes     | Media       | Alta        |
+| Moderar salas de speaking        | Media       | Alta        |
+
+
+
 ### 2.3.3. User Journey Mapping.
+
+- Segmento 1: Personas que quisieran reforzar lo aprendido de algun idioma.
+  
+  <img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/JourneyMapping1.png>
+
+- Segmento 2: Personas que ya dominan algun idioma
+  
+  <img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/JourneyMapping2.png>
+  
 ### 2.3.4. Empathy Mapping.
+**User Persona 1:** Personas que quieren reforzar lo aprendido de algún idioma
+
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/EmpathyMap1.png" alt="Empathy Map 1" width="600"/>
+
+**User Persona 2:** Personas que ya dominan algún idioma
+
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/EmpathyMap2.png" alt="Empathy Map 2" width="600"/>
+
 ## 2.4. Big Picture Event Storming.
+
+<img src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/EventStorming.jpg" alt="EventStorming" width="600"/>
+
+
 ## 2.5. Ubiquitous Language.
+
+| Término | Definición | Segmentos relacionados |
+|---------|------------|------------------------|
+| **Quiz (Cuestionario)** | Conjunto de preguntas diseñadas para reforzar o evaluar conocimientos de un idioma. | Novatos, Creadores |
+| **Question (Pregunta)** | Elemento del quiz que plantea una consulta específica, generalmente con opciones. | Novatos, Creadores |
+| **Answer (Respuesta)** | Opción seleccionada por el usuario frente a una pregunta, correcta o incorrecta. | Novatos |
+| **Score (Puntaje)** | Resultado obtenido tras completar un quiz, calculado en base a respuestas correctas. | Novatos |
+| **Feedback (Retroalimentación)** | Información que recibe el usuario sobre su desempeño, indicando aciertos, errores y sugerencias. | Novatos, Creadores |
+| **Daily Quiz (Quiz Diario)** | Actividad breve publicada cada día para reforzar la práctica constante. | Novatos |
+| **Progress (Progreso)** | Avance del usuario reflejado en historial, puntajes y métricas de aprendizaje. | Novatos |
+| **Summary (Resumen)** | Pantalla final que muestra el puntaje total, respuestas correctas e incorrectas. | Novatos |
+| **Ranking (Clasificación)** | Listado de usuarios ordenados por puntaje a nivel global, por país o por nivel. | Novatos |
+| **Creator (Creador de Quizzes)** | Usuario avanzado que diseña y publica quizzes para los demás. | Creadores |
+| **Speaking Session (Sesión de Speaking)** | Espacio en tiempo real donde los usuarios practican oralmente con otros. | Novatos, Creadores |
+| **Role (Rol)** | Clasificación del usuario en la plataforma: Novato o Creador. | Novatos, Creadores |
+| **History (Historial)** | Registro de quizzes resueltos y puntajes obtenidos a lo largo del tiempo. | Novatos |
+| **Notification (Notificación)** | Mensaje enviado al usuario para avisar sobre feedback, logros o recordatorios. | Novatos, Creadores |
+| **Premium (Suscripción Premium)** | Plan de pago que otorga beneficios adicionales como vidas ilimitadas y speaking sessions. | Novatos |
+| **Life (Vida)** | Recurso limitado en modo gratuito que define cuántos quizzes se pueden resolver antes de esperar o pagar. | Novatos |
+| **Feature Branch (Rama de Funcionalidad)** | Espacio de trabajo en el que se desarrolla una nueva característica antes de integrarla. | Creadores (equipo) |
+| **Hotfix (Corrección Rápida)** | Cambio urgente en el sistema para resolver un error en producción. | Creadores (equipo) |
+
 
 ---
 
