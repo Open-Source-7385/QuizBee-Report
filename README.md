@@ -366,9 +366,33 @@ LOS WIREFRAME Y MOCKUPS YA ESTAN HECHOS EN LA MANANA LOS DOCUMENTO :v
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
-### 4.6.2. Software Architecture Context Diagram.
-### 4.6.3. Software Architecture Container Diagrams.
-### 4.6.4. Software Architecture Components Diagrams.
+
+
+### 4.6.2. Software Architecture Context Diagram
+
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/contextdiagram.png>
+
+### 4.6.3. Software Architecture Container Diagrams
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/containerdiagram.png>
+
+### 4.6.4. Software Architecture Components Diagrams
+
+Authentication Bounded Context
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/authentificationbc.png>
+
+Profile Bounded Context
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/profilebc.png>
+Quizz and Questions Bounded Context
+
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/quizzbc.png>
+Speaking Room Bounded Context
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/speakingroom.png>
+Attempt and Scoring Bounded Context
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/attempt.png>
+
+Billing and Suscription Bounded Context 
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Billing.png>
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ## 4.8. Database Design.
