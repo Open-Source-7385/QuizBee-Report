@@ -25,10 +25,10 @@
 ### **Registro de Versiones del Informe**
 | Versión | Fecha       | Autor             | Descripción de modificación            |
 |---------|-------------|-------------------|----------------------------------------|
-|         |             |                   |                                        |
-|         |             |                   |                                        |
-|         |             |                   |                                        |
-|         |             |                   |                                        |
+| 0.1     | 06/04/2025  | Todos los integrantes          | Desarrollo del capítulo 1 y 2             |
+| 0.2     | 12/04/2025  | Todos los integrantes          | Desarrollo del capítulo 3                    |
+| 0.3     | 18/04/2025  | Todos los integrantes                 | Desarrollo del capítulo 4 y sprint 1         |
+
 
 ---
 
@@ -132,8 +132,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 | Criterio específico                                                  | Acciones realizadas       | Conclusiones      | 
 |----------------------------------------------------------------------|---------------------------|-------------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia   |                           |                   |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia |                           |                   |
+|Comunica oralmente con efectividad a diferentes rangos de audiencia   |<br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** Se centró en identificar un problema concreto que afecta a los usuarios y ofrecer una solución innovadora. En este caso, la descripción del problema, los usuarios potenciales y los objetivos del proyecto y Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática junto al C4 model .          | **TB1**: El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto.        |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia |   |<br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** El proceso de definir una propuesta de valor refuerza la importancia del aprendizaje continuo en el análisis de problemas reales y en la creación de soluciones centradas en el usuario .                     |        El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto.           |
 
 ---
 
@@ -154,10 +154,9 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 | Foto | Descripción |
 |------|-------------|
-| <img width="150" > | Estudio la carrera de Ingeniería de Software en la UPC. Me gusta el fútbol, surf, buceo y la tecnología. Soy una persona que siempre busca aprender nuevos conocimientos que me lleven a convertirme en un gran profesional y así poder cumplir mis metas cada día. |
 | <img width="150" | Mi nombre es y actualmente estudio la carrera de Ingeniería de Software en la Universidad UPC, sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida con el cumplimiento de mis deberes académicos. Además, valoro profundamente mantener una buena relación con mi equipo de trabajo, ya que estoy convencido de que un ambiente colaborativo y respetuoso permite alcanzar mejores resultados y potencia el desarrollo colectivo. |
 | <img width="150" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/FotosNuestras/JarethVidal.jpg> | Mi nombre es Jareth Vidal estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en  C++, HTML, CSS y JavaScript y un poco de Python, así como habilidades para la adaptabilidad y la responsabilidad. |
-| <img width="150" s |Mi nombre es Pablo,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
+|<img width="150" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/FotosNuestras/Pablo-photo.jpg>|Mi nombre es Pablo,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
 
 ## 1.2.1. Antecedentes y Problemática (usando The 5W’s y 2H’s)  
 
