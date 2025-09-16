@@ -457,7 +457,11 @@ link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EZ
 - Duración: 4:46
 
 **Resumen:**
-....
+Liliana Margarita Málaga Vidal mantiene su dominio del inglés mediante la lectura de artículos, viendo series y películas en el idioma, y trabajando con textos relacionados a su profesión. Utiliza el inglés entre dos y cuatro veces por semana en su entorno laboral, especialmente para interactuar con expertos internacionales. Su motivación para seguir mejorando proviene de su entorno profesional, ya que en su trabajo interactúa con personas que dominan el inglés, lo que le permite seguir aprendiendo y avanzando.
+
+Liliana considera que la pérdida de fluidez en inglés sería una gran desventaja, especialmente en su entorno laboral donde la comunicación con expertos internacionales es clave. En cuanto a las herramientas digitales para aprender, prefiere aquellas que ofrecen contenidos avanzados y prácticos, y que permiten interacción en vivo, algo que le resultó difícil de encontrar al principio. Para ella, contar con retos avanzados en contextos profesionales es esencial para seguir progresando en el idioma.
+
+Está interesada en crear quizzes y retos personalizados para ayudar a otros usuarios a mejorar su nivel de inglés, y valora la posibilidad de obtener algún tipo de reconocimiento o beneficio por sus contribuciones. Además, le parece muy valiosa la idea de participar en reuniones virtuales con otros usuarios avanzados, ya que estas experiencias simulan conversaciones reales y le ayudan a ganar confianza. Finalmente, le gustaría que una plataforma le otorgue puntos por su participación, que luego podría canjear por exámenes oficiales o certificaciones, lo que convertiría su práctica en un beneficio concreto.
 
 
 
