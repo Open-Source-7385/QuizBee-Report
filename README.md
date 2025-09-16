@@ -352,14 +352,48 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 
 
 ## 4.4. Web Applications UX/UI Design.
-
-
-LOS WIREFRAME Y MOCKUPS YA ESTAN HECHOS EN LA MANANA LOS DOCUMENTO :v
-
-
 ### 4.4.1. Web Applications Wireframes.
+
+- Descripcion: El wireframe de perfil presenta jerarquía clara con foto, nombre, e-mail y contrasena y sus opciones de edición. La estructura es simple, con tipografía base y espacios definidos que facilitan la lectura. Se asegura accesibilidad con botones de tamaño adecuado y un flujo lógico de información.
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireframeWebPerfil.png>
+
+- Descripcion: El wireframe de juegos organiza los quizzes en una grilla de dos columnas por múltiples filas, con tarjetas cuadrangulares fáciles de escanear. En la parte superior se ubican los filtros , asegurando jerarquía visual y navegación simple. Se prioriza la accesibilidad con botones amplios y disposición clara, aplicando arquitectura de información que guía al usuario de la búsqueda a la selección de forma intuitiva.
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebJuegos.png>
+
+- Descripcion: El wireframe del quiz presenta una  pantalla desplegable central donde se muestra la pregunta con un campo para ingresar la respuesta. En la parte superior se indican las vidas disponibles de forma clara, y en la parte inferior se ubica un botón destacado para enviar la respuesta. La disposición es simple y jerárquica, asegurando comprensión rápida, accesibilidad y una experiencia inclusiva que guía al usuario sin distracciones.
+
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireframeWebQuiz.png>
+
+- Descripcion: El wireframe del resumen de quiz muestra una pantalla final donde se presenta el puntaje , seguido de un listado de respuestas correctas e incorrectas de forma clara y organizada. La jerarquía visual asegura que el usuario identifique primero su resultado general y luego pueda revisar el detalle de su desempeño. La estructura es simple, inclusiva y accesible, permitiendo comprender fácilmente el progreso alcanzado.
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebResumenQuizz.png>
+
+- Descripcion: El wireframe de salas de speaking muestra un listado simple con las salas disponibles
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebSpeaking.png>
+
+- Descripcion: 
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebCrear.png>
+
+- Descripcion
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebMisCreaciones.png>
+
+- Descripcion
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireframeWebCompras.png>
+
+- Descripcion
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebHistorialPagos.png>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
+
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
