@@ -17,9 +17,8 @@
 
 ### Integrantes:
 - Vidal Malaga, Jareth Beycker  (u202316878)
-- Apellidos, Nombre  (Codigo)
+- Geronimo Quispe ,Pablo Antonio(u202314304)
 - Acosta Elera, Abraam Bernabe  (u202219199)
-- Apellidos, Nombre  (Codigo)
 
 ---
 
@@ -1188,8 +1187,4 @@ A lo largo del Sprint 1, Pedro Lecca se encargó de manera integral del desarrol
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration2.png">
 ---
 
-
-
-=======
->>>>>>> develop
 
