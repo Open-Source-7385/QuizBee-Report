@@ -342,15 +342,12 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 
 ### 4.3.2. Landing Page Mock-up.
 
-<img width ="555" height="300" src=>
-<img width ="555" height="300" src=>
-<img width ="555" height="300" src=>
-<img width ="555" height="300" src=>
-<img width ="555" height="300" src=>
-<img width ="555" height="300" src=>
-<img width ="555" height="300" src=>
-<img width ="555" height="300" src=>
-
+<img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding1.png>
+<img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding2.png>
+<img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding3.png>
+<img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding4.png>
+<img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding5.png>
+<img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding6.png>
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
