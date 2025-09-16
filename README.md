@@ -155,8 +155,8 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | Foto | Descripción |
 |------|-------------|
 | <img width="150" | Mi nombre es y actualmente estudio la carrera de Ingeniería de Software en la Universidad UPC, sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida con el cumplimiento de mis deberes académicos. Además, valoro profundamente mantener una buena relación con mi equipo de trabajo, ya que estoy convencido de que un ambiente colaborativo y respetuoso permite alcanzar mejores resultados y potencia el desarrollo colectivo. |
-| <img width="150" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/FotosNuestras/JarethVidal.jpg> | Mi nombre es Jareth Vidal estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en  C++, HTML, CSS y JavaScript y un poco de Python, así como habilidades para la adaptabilidad y la responsabilidad. |
-|<img width="150" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/FotosNuestras/Pablo-photo.jpg>|Mi nombre es Pablo,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
+| <img width="150" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/FotosNuestras/JarethVidal.jpg" alt="Foto de Jareth Vidal">| Mi nombre es Jareth Vidal estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en  C++, HTML, CSS y JavaScript y un poco de Python, así como habilidades para la adaptabilidad y la responsabilidad. |
+|<img width="150" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/FotosNuestras/Pablo-photo.jpg" alt="Foto de Pablo">|Mi nombre es Pablo,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
 
 ## 1.2.1. Antecedentes y Problemática (usando The 5W’s y 2H’s)  
 
@@ -400,6 +400,8 @@ Estas son las principales estrategias que aplicará **QuizzBee**:
 - Ubicación en la que vive: Independencia, Lima, Perú
 
 #### Entrevista: ####
+
+
 [link https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EXHY9vTo3TVKnJV3A4e2Ha4B1NsXtcJY6HnYjbc_acjhbA?e=aUP9ck)
 
 
@@ -467,7 +469,7 @@ Pedro también destacó que es crucial que la plataforma incluya retos avanzados
 
 
 
-<img width ="555" height="300" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/entrevista4.PNG">
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista4.PNG">
 
 
 - Entrevista N°2: Liliana Quilcat
@@ -541,11 +543,13 @@ Está interesada en crear quizzes y retos personalizados para ayudar a otros usu
 
 - Segmento 1: Personas que quisieran reforzar lo aprendido de algun idioma.
   
-  <img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/JourneyMapping1.png>
+  <img width="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/JourneyMapping1.png" alt="Journey Mapping">
+
 
 - Segmento 2: Personas que ya dominan algun idioma
   
-  <img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/JourneyMapping2.png>
+<img width="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/JourneyMapping2.png" alt="Journey Mapping 2">
+
   
 ### 2.3.4. Empathy Mapping.
 **User Persona 1:** Personas que quieren reforzar lo aprendido de algún idioma
@@ -558,8 +562,7 @@ Está interesada en crear quizzes y retos personalizados para ayudar a otros usu
 
 ## 2.4. Big Picture Event Storming.
 
-<img src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/EventStorming.jpg" alt="EventStorming" width="600"/>
-
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/EventStorming.jpg" alt="EventStorming" width="600"/>
 
 ## 2.5. Ubiquitous Language.
 
@@ -663,7 +666,8 @@ Está interesada en crear quizzes y retos personalizados para ayudar a otros usu
 
 ## 3.2. Impact Mapping.
 
-<img width ="700" height="500" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-3/Impact%20Mapping.png">
+<img width="700" height="500" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/Impact%20Mapping.png" alt="Impact Mapping">
+
 
 
 ## 3.3. Product Backlog.
@@ -877,24 +881,23 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%201.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%202.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%203.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%204.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%205.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%206.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%207.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%208.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%201.png" alt="Frame 1">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%202.png" alt="Frame 2">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%203.png" alt="Frame 3">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%204.png" alt="Frame 4">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%205.png" alt="Frame 5">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%206.png" alt="Frame 6">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%207.png" alt="Frame 7">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%208.png" alt="Frame 8">
 
 ### 4.3.2. Landing Page Mock-up.
 
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding1.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding2.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding3.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding4.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding5.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding6.png>
-
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockupLanding1.png" alt="Mockup Landing 1">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockupLanding2.png" alt="Mockup Landing 2">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockupLanding3.png" alt="Mockup Landing 3">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockupLanding4.png" alt="Mockup Landing 4">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockupLanding5.png" alt="Mockup Landing 5">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockupLanding6.png" alt="Mockup Landing 6">
 
 
 ## 4.4. Web Applications UX/UI Design.
@@ -902,63 +905,65 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 
 - Descripcion: El wireframe de perfil presenta jerarquía clara con foto, nombre, e-mail y contrasena y sus opciones de edición. La estructura es simple, con tipografía base y espacios definidos que facilitan la lectura. Se asegura accesibilidad con botones de tamaño adecuado y un flujo lógico de información.
   
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireframeWebPerfil.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/WireframeWebPerfil.png" alt="Wireframe Web Perfil">
 
 - Descripcion: El wireframe de juegos organiza los quizzes en una grilla de dos columnas por múltiples filas, con tarjetas cuadrangulares fáciles de escanear. En la parte superior se ubican los filtros , asegurando jerarquía visual y navegación simple. Se prioriza la accesibilidad con botones amplios y disposición clara, aplicando arquitectura de información que guía al usuario de la búsqueda a la selección de forma intuitiva.
   
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebJuegos.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/WireFrameWebJuegos.png" alt="Wireframe Web Juegos">
 
 - Descripcion: El wireframe del quiz presenta una  pantalla desplegable central donde se muestra la pregunta con un campo para ingresar la respuesta. En la parte superior se indican las vidas disponibles de forma clara, y en la parte inferior se ubica un botón destacado para enviar la respuesta. La disposición es simple y jerárquica, asegurando comprensión rápida, accesibilidad y una experiencia inclusiva que guía al usuario sin distracciones.
 
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireframeWebQuiz.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/WireframeWebQuiz.png" alt="Wireframe Web Quiz">
 
 - Descripcion: El wireframe del resumen de quiz muestra una pantalla final donde se presenta el puntaje , seguido de un listado de respuestas correctas e incorrectas de forma clara y organizada. La jerarquía visual asegura que el usuario identifique primero su resultado general y luego pueda revisar el detalle de su desempeño. La estructura es simple, inclusiva y accesible, permitiendo comprender fácilmente el progreso alcanzado.
   
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebResumenQuizz.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/WireFrameWebResumenQuizz.png" alt="Wireframe Web Resumen Quizz">
 
 - Descripcion: El wireframe de salas de speaking muestra un listado simple con las salas disponibles
   
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebSpeaking.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/WireFrameWebSpeaking.png" alt="Wireframe Web Speaking">
 
 - Descripcion: 
   
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebCrear.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/WireFrameWebCrear.png" alt="Wireframe Web Crear">
 
 - Descripcion
   
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebMisCreaciones.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/WireFrameWebMisCreaciones.png" alt="Wireframe Web Mis Creaciones">
 
 - Descripcion
   
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireframeWebCompras.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/WireframeWebCompras.png" alt="Wireframe Web Compras">
 
 - Descripcion
   
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebHistorialPagos.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/WireFrameWebHistorialPagos.png" alt="Wireframe Web Historial Pagos">
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
 
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebPerfil.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebJuegos.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebQuiz.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpResumenQuiz.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebSpeaking.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebCrear.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebMisCreaciones.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebCompras.png>
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebHistorialPagos.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockUpWebPerfil.png" alt="MockUp Web Perfil">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockUpWebJuegos.png" alt="MockUp Web Juegos">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockUpWebQuiz.png" alt="MockUp Web Quiz">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockUpResumenQuiz.png" alt="MockUp Resumen Quiz">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockUpWebSpeaking.png" alt="MockUp Web Speaking">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockUpWebCrear.png" alt="MockUp Web Crear">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockUpWebMisCreaciones.png" alt="MockUp Web Mis Creaciones">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockUpWebCompras.png" alt="MockUp Web Compras">
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/MockUpWebHistorialPagos.png" alt="MockUp Web Historial Pagos">
+
 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 - User Persona 1:
   
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/UserFlow1.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/UserFlow1.png" alt="User Flow 1">
 
 - User Persona 2:
 
-<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/UserFlow2.png>
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/UserFlow2.png" alt="User Flow 2">
 
 
 ## 4.5. Web Applications Prototyping.
@@ -968,28 +973,40 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 
 ### 4.6.2. Software Architecture Context Diagram
 
-<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/contextdiagram.png>
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/contextdiagram.png" alt="Context Diagram">
+
 
 ### 4.6.3. Software Architecture Container Diagrams
-<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/containerdiagram.png>
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/containerdiagram.png" alt="Container Diagram">
+
 
 ### 4.6.4. Software Architecture Components Diagrams
 
 Authentication Bounded Context
-<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/authentificationbc.png>
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/authentificationbc.png" alt="Authentification BC">
 
 Profile Bounded Context
-<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/profilebc.png>
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/profilebc.png" alt="Profile BC">
+
 Quizz and Questions Bounded Context
 
-<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/quizzbc.png>
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/quizzbc.png" alt="Quizz BC">
+
 Speaking Room Bounded Context
-<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/speakingroom.png>
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/speakingroom.png" alt="Speaking Room">
+
 Attempt and Scoring Bounded Context
-<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/attempt.png>
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/attempt.png" alt="Attempt">
 
 Billing and Suscription Bounded Context 
-<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Billing.png>
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Billing.png" alt="Billing">
+
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
@@ -1165,14 +1182,17 @@ Para este primer Sprint , como equipo logramos implementar satisfactoriamente la
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,<br> se hizo uso de la plataforma Figma. Para utilizar la plataforma:
 
 1.Se accede a través de la página oficial de Figma: https://www.figma.com/login
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma2.png">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/figma.png" alt="Figma 1">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/figma2.png" alt="Figma 2">
+
 
 **Deployment Para la landing page, se utilizará Netlify para el despliegue de la página.**
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment2.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment4.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment5.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment.png">
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment2.png" alt="Deployment 2">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment4.png" alt="Deployment 4">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment5.png" alt="Deployment 5">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment.png" alt="Deployment">
+
 
 Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
 
@@ -1182,8 +1202,9 @@ Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este reposito
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 A lo largo del Sprint 1, Pedro Lecca se encargó de manera integral del desarrollo de la solución, asumiendo las responsabilidades de diseño, programación, validación y despliegue del sistema.
 
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration2.png">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration.png" alt="Collaboration 1">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration2.png" alt="Collaboration 2">
+
 ---
 
 
