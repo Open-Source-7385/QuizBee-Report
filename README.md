@@ -393,6 +393,16 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
 
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebPerfil.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebJuegos.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebQuiz.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpResumenQuiz.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebSpeaking.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebCrear.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebMisCreaciones.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebCompras.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebHistorialPagos.png>
+
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
