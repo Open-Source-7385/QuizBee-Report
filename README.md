@@ -729,28 +729,270 @@ Está interesada en crear quizzes y retos personalizados para ayudar a otros usu
 
 # **Capítulo IV: Product Design**
 ## 4.1. Style Guidelines.
+Se define las decisiones visuales y de comunicación aplicadas en QuizBee, incluyendo branding, tipografía, colores, espaciado y el tono de comunicación adoptado en la plataforma y el landing page.
 ### 4.1.1. General Style Guidelines.
+
+- **Branding:** Nos enfocamos en comunicar frescura, confianza y dinamismo. La identidad visual intenta proyectar una perspectiva de aprendizaje colaborativo y lúdico,
+  distanciándose de la rigurosidad académica y acercándose a una experiencia más moderna y atractiva.
+  
+- **Typography:** Se utilizó una tipografía moderna y altamente legible, pensada para mantener consistencia visual en cualquier dispositivo, ya sea escritorio o móvil. La elección de fuentes busca transmitir frescura y dinamismo en los títulos, a la vez que garantiza una lectura clara
+  
+  - **Titulos:** Se utiliza Poppins Bold con el propósito de otorgar fuerza, protagonismo y jerarquía a los encabezados más importantes. Esta fuente gráfica brinda modernidad y garantiza que los encabezados se destaquen inmediatamente.
+    
+  - **Parrafos:** Se emplea Roboto Regular, pues ofrece una lectura cómoda en bloques grandes y logra un aspecto limpio y profesional. Es perfecto para redactar párrafos y descripciones.
+    
+  - **Textos en Botones:** Se utiliza Poppins Semibold, lo que garantiza visibilidad y contraste, lo que a su vez proporciona claridad y favorece la interacción del usuario.
+    
+- **Colors:** La paleta de colores de QuizBee gira en torno al celeste, un tono que transmite frescura, claridad y confianza, alineándose con nuestra propuesta de ser una plataforma dinámica y accesible para el aprendizajey reforzarmiento del ingles. La elección de estos colores tiene como objetivo crear un entorno visual agradable que impulse al usuario a interactuar sin sentirse agobiado.
+  
+  - **Color principal:** Celeste claro (A5E8FF), que es el color mayoritario en el diseño y se emplea en componentes esenciales de la interfaz. Simboliza ligereza, apertura e innovación, rasgos que fortalecen la naturaleza de la aplicación.
+    
+  - **Color complementario:** Celeste más intenso (3ABEF9), aplicado en botones, llamados a la acción y elementos destacados. Su función es atraer la atención del usuario en los momentos clave, asegurando un contraste claro con el fondo y generando jerarquía visual.
+    
+  - **Fondo base:** Blanco humo (F5F9FC), empleado como fondo principal en el landing y las secciones informativas. Este tono neutro aporta claridad, sensación de amplitud y permite que los colores primarios y complementarios resalten de forma natural.
+  
+- **Spacing:** El espaciado es un elemento esencial en la identidad visual de QuizBee, debido a que garantiza que la interfaz no se vea sobrecargada y que navegar por ella sea fácil y claro. Se ha determinado un espaciamiento amplio entre secciones, lo que posibilita una jerarquía visual clara y ayuda al usuario a distinguir fácilmente la importancia de cada bloque de contenido.
+  
+- **Tono de comunicacion:** El tono que se estableció para QuizBee es entusiasta, casual y respetuoso, con el objetivo de crear un vínculo cercano con los usuarios sin disminuir la credibilidad ni la confianza. Se pretende proyectar una voz que estimule al usuario y lo acompañe en su proceso de aprendizaje, transmitiendo optimismo y manteniendo un comportamiento cordial en todo momento.
+  
 ### 4.1.2. Web Style Guidelines.
+En esta sección se definen los estándares visuales y de interacción para asegurar consistencia en todas las versiones de la plataforma (desktop, tablet y mobile).
+- **Layout & Responsive:**
+  - Estructura basada en un grid flexible de 12 columnas.
+
+  - Breakpoints principales:
+
+    - Mobile: ≤ 576px
+
+    - Tablet: 577px – 992px
+
+    - Desktop: ≥ 993px
+      
+  - Los elementos se adaptan manteniendo proporciones, espaciados y jerarquía visual en todas las resoluciones.
+
+- **Navegación:**
+  
+  - Menú principal siempre visible en desktop y accesible mediante hamburger menu en mobile.
+
+  - Botones de acción (CTA) como “Empezar ahora” permanecen visibles y accesibles en todas las resoluciones.
+ 
+- **Botones e Interacciones:**
+  
+  - Botones primarios con fondo azul/celeste y texto blanco.
+
+  - Hover: tono más oscuro para dar feedback.
+
+  - Disabled: gris claro con texto desactivado.
+
+  - Bordes redondeados para mantener el estilo amigable y moderno.
+
+- **Espaciado:**
+
+  - Márgenes y paddings adaptativos según resolución.
+
+  - En mobile, se prioriza la verticalidad y el scroll fluido.
+
+  - En desktop, se aprovecha mejor el espacio horizontal con columnas.
+    
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
+La información se organiza primordialmente de manera jerárquica, destacando los elementos más relevantes: el encabezado con la propuesta de valor, el llamado a la acción más importante y las secciones esenciales (Quiénes somos, Funcionalidades, Descarga, Contacto).
+
+En ciertos apartados, se opta por una disposición secuencial, como en la descripción de las funcionalidades, donde se detallan paso a paso las ventajas y modos de uso (Retos diarios → Competencias gamificadas → Práctica con hablantes).
+
+Para el contenido general, se utiliza un modelo de categorización por temas, organizando la información en bloques definidos: misión, visión, enfoque y comunidad; funcionalidades clave; opciones de descarga; y formulario de contacto.
+
+En el formulario, la organización sigue una secuencia cronológica, comenzando con la solicitud de los datos básicos del usuario y luego confirmando que el equipo se pondrá en contacto.
+
+Esta combinación de métodos de organización asegura que la experiencia sea clara, sencilla y fácil de navegar, sin importar el dispositivo que se utilice.
+
 ### 4.2.2. Labeling Systems.
+El sistema de etiquetado  tiene como objetivo preservar la claridad y la sencillez, empleando vocabulario breve y explícito que transmita de manera instantánea la función de cada parte. Se evitan expresiones especializadas o poco claras que puedan causar malentendidos en los usuarios.
+
+Las etiquetas principales definidas para el landing son:
+
+- Inicio → acceso directo a la página principal y propuesta de valor.
+
+- Quiénes somos → bloque informativo que presenta misión, visión, enfoque y comunidad.
+
+- Funcionalidades → sección donde se explican los beneficios de la app (retos diarios, competencias, práctica con hablantes).
+
+- Descargar → llamada a la acción con botones hacia App Store y Google Play.
+
+- Contacto → formulario sencillo para que los usuarios puedan comunicarse.
+
+Los botones de acción utilizan frases cortas en imperativo para incentivar la interacción, como “Empezar ahora”, “Descargar” o “Enviar”, manteniendo consistencia en el tono y evitando redundancias.
+
+Este método de etiquetado permite que cada parte sea identificada al instante y que las conexiones entre el contenido y la acción sean evidentes para el usuario.
+
 ### 4.2.3. SEO Tags and Meta Tags
+En esta sección se definen las etiquetas SEO y meta tags que se aplicarán en las principales páginas del sitio (Landing Page y Web Application), con el fin de optimizar la visibilidad en buscadores y garantizar una adecuada indexación.
+
+- Landing Page :
+
+  - Title: QuizBee 
+
+  - Meta Description: Plataforma innovadora para aprender inglés mediante retos diarios, competencias gamificadas y práctica real con hablantes en videollamadas.
+
+  - Meta Keywords: aprender inglés, retos diarios inglés, inglés gamificado, practicar inglés con hablantes, clases de inglés en videollamada
+
+  - Meta Author: Equipo QuizBee
+
+- Web Application :
+
+  - Title: QuizBee App 
+
+  - Meta Description: Participa en desafíos diarios, gana puntos en competencias gamificadas y mejora tu inglés con sesiones en vivo por videollamada.
+
+  - Meta Keywords: retos de inglés, gamificación inglés, práctica en vivo inglés, inglés interactivo, mejorar inglés rápido
+
+  - Meta Author: Equipo QuizBee
+
 ### 4.2.4. Searching Systems.
+El sistema de búsqueda está diseñado para que los usuarios encuentren de manera rápida y clara los contenidos y recursos que necesitan dentro de la plataforma.
+
+En la aplicación web, se ofrecerá una barra de búsqueda principal. Los usuarios podrán localizar retos específicos, lecciones temáticas, competencias gamificadas y videollamadas programadas.
+
+Los resultados podrán refinarse mediante filtros como:
+
+- Nivel de dificultad (básico, intermedio, avanzado).
+
+- Tipo de actividad (reto escrito, reto hablado, competencia, práctica con experto).
+
+- Duración estimada (corta, media, larga).
+
+- Popularidad o relevancia (más usados, más recomendados).
+
+Después de la búsqueda, los datos se presentarán en listas visuales con íconos representativos de cada tipo de recurso, junto a descripciones breves y botones de acción (ej. “Iniciar reto”).
+
+De esta forma, el sistema de búsqueda no solo evita que los usuarios se pierdan entre la información, sino que los guía hacia las actividades que mejor se adaptan a sus metas de aprendizaje.
+
 ### 4.2.5. Navigation Systems.
+En el Landing Page y la aplicación web se aplicará una navegación fluida y guiada por el scroll, donde el usuario recorre el contenido de forma secuencial y jerárquica, pasando de las secciones principales en un orden lógico: Inicio → Quiénes Somos → Funcionalidades → Contacto →Descarga.
+
+En la Landing Page, los usuarios recorrerán el contenido de forma secuencial y jerárquica, con botones de llamada a la acción (CTAs) estratégicos como "Empiaza Ahora", que los llevan directamente al registro o inicio de sesion.
+
+En la aplicación web, se implementará una navegación tipo tab bar (en móviles) y sidebar (en escritorio), permitiendo acceder fácilmente a las funciones principales: Retos diarios, Videollamadas, Competencias, Perfil y Configuración.
+
+Además, se incluirán elementos de navegación contextual como breadcrumbs para ubicar al usuario dentro del sistema, y enlaces rápidos hacia secciones de soporte y comunidad. Esto garantiza que el recorrido sea fluido, motivador y que el usuario cumpla su meta: aprender y practicar inglés sin perderse en el camino.
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
+
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%201.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%202.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%203.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%204.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%205.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%206.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%207.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Frame%208.png>
+
 ### 4.3.2. Landing Page Mock-up.
+
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding1.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding2.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding3.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding4.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding5.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockupLanding6.png>
+
+
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+- Descripcion: El wireframe de perfil presenta jerarquía clara con foto, nombre, e-mail y contrasena y sus opciones de edición. La estructura es simple, con tipografía base y espacios definidos que facilitan la lectura. Se asegura accesibilidad con botones de tamaño adecuado y un flujo lógico de información.
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireframeWebPerfil.png>
+
+- Descripcion: El wireframe de juegos organiza los quizzes en una grilla de dos columnas por múltiples filas, con tarjetas cuadrangulares fáciles de escanear. En la parte superior se ubican los filtros , asegurando jerarquía visual y navegación simple. Se prioriza la accesibilidad con botones amplios y disposición clara, aplicando arquitectura de información que guía al usuario de la búsqueda a la selección de forma intuitiva.
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebJuegos.png>
+
+- Descripcion: El wireframe del quiz presenta una  pantalla desplegable central donde se muestra la pregunta con un campo para ingresar la respuesta. En la parte superior se indican las vidas disponibles de forma clara, y en la parte inferior se ubica un botón destacado para enviar la respuesta. La disposición es simple y jerárquica, asegurando comprensión rápida, accesibilidad y una experiencia inclusiva que guía al usuario sin distracciones.
+
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireframeWebQuiz.png>
+
+- Descripcion: El wireframe del resumen de quiz muestra una pantalla final donde se presenta el puntaje , seguido de un listado de respuestas correctas e incorrectas de forma clara y organizada. La jerarquía visual asegura que el usuario identifique primero su resultado general y luego pueda revisar el detalle de su desempeño. La estructura es simple, inclusiva y accesible, permitiendo comprender fácilmente el progreso alcanzado.
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebResumenQuizz.png>
+
+- Descripcion: El wireframe de salas de speaking muestra un listado simple con las salas disponibles
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebSpeaking.png>
+
+- Descripcion: 
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebCrear.png>
+
+- Descripcion
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebMisCreaciones.png>
+
+- Descripcion
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireframeWebCompras.png>
+
+- Descripcion
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/WireFrameWebHistorialPagos.png>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
+
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebPerfil.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebJuegos.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebQuiz.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpResumenQuiz.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebSpeaking.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebCrear.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebMisCreaciones.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebCompras.png>
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/MockUpWebHistorialPagos.png>
+
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+- User Persona 1:
+  
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/UserFlow1.png>
+
+- User Persona 2:
+
+<img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/UserFlow2.png>
+
+
 ## 4.5. Web Applications Prototyping.
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
-### 4.6.2. Software Architecture Context Diagram.
-### 4.6.3. Software Architecture Container Diagrams.
-### 4.6.4. Software Architecture Components Diagrams.
+
+
+### 4.6.2. Software Architecture Context Diagram
+
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/contextdiagram.png>
+
+### 4.6.3. Software Architecture Container Diagrams
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/containerdiagram.png>
+
+### 4.6.4. Software Architecture Components Diagrams
+
+Authentication Bounded Context
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/authentificationbc.png>
+
+Profile Bounded Context
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/profilebc.png>
+Quizz and Questions Bounded Context
+
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/quizzbc.png>
+Speaking Room Bounded Context
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/speakingroom.png>
+Attempt and Scoring Bounded Context
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/attempt.png>
+
+Billing and Suscription Bounded Context 
+<img width ="auto" height="auto" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/Billing.png>
+
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 ## 4.8. Database Design.
