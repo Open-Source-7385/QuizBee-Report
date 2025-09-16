@@ -12,8 +12,8 @@
 ### Profesor: Juan Antonio Flores Moroco
 
 ### **Informe de Trabajo Final**  
-### Startup: XXXXX  
-### Producto: XXXXX  
+### Startup: SpeakingUp
+### Producto: Quizbee  
 
 ### Integrantes:
 - Vidal Malaga, Jareth Beycker  (u202316878)
