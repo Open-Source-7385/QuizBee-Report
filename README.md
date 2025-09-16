@@ -1003,20 +1003,189 @@ Billing and Suscription Bounded Context
 # **Capítulo V: Product Implementation, Validation & Deployment**
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+
+| Tipo de Actividad       | Herramienta / Producto | URL                                | Motivos de uso                                                                 |
+|--------------------------|-------------------------|------------------------------------|--------------------------------------------------------------------------------|
+| UX/UI Design             | Figma                  | https://www.figma.com/es-la        | Realizar los diseños de interfaz y de experiencia de usuario para nuestra solución. |
+| Desarrollo de Software   | VS Code                | https://code.visualstudio.com      | Desarrollar la Landing Page de nuestra solución.                                |
+| Documentación            | GitHub                 | https://github.com                 | Realizar la documentación de nuestra propuesta.                                 |
+| Gestión de Requisitos    | Miro                    | https://miro.com/                | Para organizar, colaborar y realizar un seguimiento del trabajo de manera eficiente. |
+| Reuniones                | Discord                | https://discord.com/               | Reuniones con el equipo.                                                        |
+
+
 ### 5.1.2. Source Code Management.
+**Link Repositorio Report**
+
+Link: https://github.com/Open-Source-7385/QuizBee-Report.git
+
+**Link Repositorio Landing**
+
+Link: https://github.com/Open-Source-7385/Landing.git
+
+
+**Workflow – GitFlow**
+
+Se implementará el modelo **GitFlow** para el manejo de ramas:
+
+- **main**: rama principal, contiene solo versiones estables listas para producción.  
+- **develop**: rama de integración, donde se juntan las nuevas funcionalidades antes de liberar una versión.  
+- **feature/***: cada nueva funcionalidad tendrá su propio branch.  
+  - Ejemplo: feature/login-auth  
+- **release/***: rama usada para preparar una nueva versión antes de pasar a producción.  
+  - Ejemplo: release/1.0.0
+- **hotfix/***: ramas para corregir errores críticos en producción.  
+  - Ejemplo: hotfix/fix-login-bug 
+
+
+**Versionado**
+
+Se aplicará **Semantic Versioning (SemVer 2.0.0):**
+
+- **Formato**: MAJOR.MINOR.PATCH  
+- **Ejemplo**: v1.2.3  
+
+### Significado:  
+- **MAJOR**: cambios incompatibles.  
+- **MINOR**: nuevas funcionalidades sin romper compatibilidad.  
+- **PATCH**: corrección de bugs.
+  
+
+**Commits**
+
+Se utilizarán los estándares de **Conventional Commits**:
+
+- **feat**: nueva funcionalidad.  
+- **fix**: corrección de bug.  
+- **docs**: cambios en documentación.  
+- **style**: cambios de formato (no afectan código).  
+- **refactor**: cambios internos sin alterar funcionalidad.  
+- **test**: pruebas añadidas o corregidas.  
+- **chore**: tareas de mantenimiento.  
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+- HTML
+  - "p" Utiliza esta etiqueta para dividir el texto en párrafos.
+  - "a" Permite crear enlaces hacia otras páginas web.
+  - "ul" Crea una lista no ordenada (sin numeración).
+  - "li" Define cada elemento dentro de una lista.
+  - "meta" Se incluye en la sección de encabezado del HTML y no es visible en la página.
+  - "h1" Indica el encabezado más importante del contenido.
+  - "div" Agrupa diferentes secciones de contenido.
+  
+- CSS
+  - width: Define el ancho de un elemento.
+  - height: Establece el alto de un elemento.
+  - padding: Crea espacio interno entre el borde y el contenido.
+  - font-family: Determina el tipo de fuente.
+  - font-size: Ajusta el tamaño de la fuente.
+  - font-weight: Controla el grosor o peso de la fuente.
+  - font-style: Configura el estilo de la fuente (normal, cursiva, etc.).
+  - text-align: Alinea el texto según lo especificado (izquierda, centro, derecha).
+  - color: Aplica color al texto o al borde del elemento.
+  - background-color: Define el color de fondo del elemento.
+
+
 ### 5.1.4. Software Deployment Configuration.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
-### 5.2.1.1. Sprint Planning 1.
-### 5.2.1.2. Aspect Leaders and Collaborators.
-### 5.2.1.3. Sprint Backlog 1.
-### 5.2.1.4. Development Evidence for Sprint Review.
-### 5.2.1.5. Execution Evidence for Sprint Review.
-### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+En esta sección, se documentará y explicará, en términos de producto y colaboración, el primer sprint de trabajo.
+
+### 5.2.1.1. Sprint Planning 1.
+
+| **Sprint #**                  | Sprint 1 |
+|--------------------------------|----------|
+| **Sprint Planning Background** | |
+| **Date**                       | 1 de septiembre del 2025 |
+| **Time**                       | 18:00 horas  |
+| **Location**                   | Modalidad remota a través de la plataforma Discord |
+| **Prepared By**                | Todos los integrantes del equipo QuizBee |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
+| **Sprint 0 Review Summary**    | Dado que es nuestro primer sprint de desarrollo, aún no se ha realizado un resumen del sprint anterior. |
+| **Sprint 0 Retrospective Summary** | No se identificaron mejoras ya que es el primer sprint. |
+| **Sprint Goal & User Stories** | |
+| **Sprint 1 Goal**              | En este sprint, nuestro enfoque está en describir nuestra startup y en construir la estructura de la Landing Page, realizar las entrevisas, y tener definidos nuestros user stories |
+| **Sprint 1 Velocity**          | 5 |
+| **Sum of Story Points**        | 5 |
+
+### 5.2.1.2. Aspect Leaders and Collaborators.
+
+| Team Member (Last Name, First Name) | Github Username | Elaboracion de User Stories Leader (L), Collaborator (C) | Desarrollo del landing page Leader (L), Collaborator (C) | Descripcion y desarrollo de los primeros capitulos Leader (L), Collaborator (C) |
+| ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
+|         | AlexBoo578         | (C)                                                     | (C)                                                            | (C)                                                |
+| Vidal, Jareth              | Jareth341       | (L)                                                     | (C)                                                            | (C)                                                |
+| Acosta, Abraam                 | abraam16        | (C)                                                     | (C)                                                            | (C)                                                |
+| Geronimo, Pablo              | Phatogram       | (C)                                                     | (L)                                                            | (C)                                                |
+
+### 5.2.1.3. Sprint Backlog 1.
+
+
+| Sprint # | Sprint 1 | | | | | |
+|----------|----------|--|--|--|--|--|
+| | **User Story** | | **Work-item / Task** | | | |
+| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
+| US01 | Registro de usuario | T001 | Crear formulario de registro | Implementar interfaz de usuario para el formulario de registro con campos de email y contraseña | 4 | Jareth Vidal | To-do |
+| | | T002 | Validación de datos de registro | Implementar validaciones del lado del cliente para los campos del formulario | 3 | Pablo Geronimo | To-do |
+| | | T003 | API endpoint de registro | Crear endpoint POST /api/auth/register para procesar el registro de usuarios | 5 | Abraam Acosta | To-do |
+| US02 | Inicio de sesión | T004 | Crear formulario de login | Desarrollar interfaz de usuario para inicio de sesión | 3 | Alex  | To-do |
+| | | T005 | Autenticación de usuarios | Implementar lógica de autenticación y generación de tokens JWT | 6 | Abraam Acosta | To-do |
+| | | T006 | Manejo de sesiones | Implementar persistencia de sesión y redirección tras login exitoso | 4 | Jareth Vidal | To-do |
+| US03 | Recuperación de contraseña | T007 | Formulario de recuperación | Crear interfaz para solicitar recuperación de contraseña | 2 | Pablo Geronimo | To-do |
+| | | T008 | Envío de email de recuperación | Implementar servicio de envío de emails con enlace de recuperación | 5 | Alex  | To-do |
+| | | T009 | Reset de contraseña | Crear funcionalidad para establecer nueva contraseña | 4 | Abraam Acosta | To-do |
+| US04 | Experiencia de autenticación guiada | T010 | Mensajes de error UX | Implementar mensajes de error claros y útiles en formularios | 3 | Jareth Vidal | To-do |
+| | | T011 | Indicadores visuales | Agregar indicadores de carga y feedback visual durante autenticación | 2 | Pablo Geronimo | To-do |
+| US05 | Validación de correo | T012 | Email de verificación | Implementar envío automático de email de verificación tras registro | 4 | Alex  | To-do |
+| | | T013 | Endpoint de verificación | Crear endpoint para confirmar email mediante token único | 3 | Abraam Acosta | To-do |
+| | | T014 | Estado de cuenta | Implementar lógica para activar cuenta tras verificación | 2 | Jareth Vidal | To-do |
+
+### 5.2.1.4. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|--------------------|
+| QuizBee-Report | Chapter1 | a1b2c3d | docs:(chapter-I)"add format of team member profiles" | Added structured format for team member profiles including personal information, skills, and role descriptions for each team member in the startup profile section | 15/09/2024 |
+| QuizBee-Report | Chapter1 | e4f5g6h | docs(chapter-1):"adding Competitive Analysis Landscape and Strategy and tactis front Rivals "" | Implemented comprehensive competitive analysis section with detailed competitor research, market positioning analysis, and strategic approaches to compete effectively in the market | 16/09/2024 |
+| QuizBee-Report | Chapter1 | i7j8k9l | docs(chapter-1): add introduction structure for QuizzBee project and finalize Desing interview | Created complete introduction structure for QuizzBee project including startup description, solution profile, and finalized interview design questions for user research | 17/09/2024 |
+| QuizBee-Report | Chapter2 | m0n1o2p | docs(chapter-II):"add summary of interview" | Added comprehensive summary of conducted interviews including key insights, user feedback analysis, and findings that will inform the product development process | 18/09/2024 |
+| QuizBee-Report | Chapter2| q3r4s5t | fix(empathymapping): fix empathy map images | Fixed empathy mapping images by correcting display issues, updating broken links, and ensuring proper visualization of user personas and their emotional journey maps | 19/09/2024 |
+| QuizBee-Report | Chapter2 | u6v7w8x | feat: Update the description on the Product Backlog. | Updated Product Backlog descriptions to align with user stories format, ensuring consistency between narrative descriptions and acceptance criteria across all user stories | 15/09/2024 |
+| QuizBee-Report | Chapter3 | y9z0a1b | feat: restructure user stories format | Restructured user stories from Given-When-Then format to narrative format using "Como [rol], quiero [objetivo] para [beneficio]" structure for better clarity and consistency | 16/09/2024 |
+| QuizBee-Report | Chapter3 | c2d3e4f | docs(chapter-III):"add epic with description and title" | Added comprehensive epic stories section with detailed descriptions and titles for each epic, establishing clear connections between user stories and business objectives | 17/09/2024 |
+| QuizBee-Report | Chapter4 | g5h6i7j | Delete assets/img/chapter-IV/wireframe1.png | Removed outdated wireframe image file that was no longer needed and replaced with updated design mockups that better represent the current UI/UX design approach | 19/09/2024 |
+| QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2024 |
+### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta entrega, nuestro equipo ha desplegado con éxito la landing page. Enlace de la Landing Page: <br>
+https://quizbeelandingpage.netlify.app/
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing2.png">
+### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint
+### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+Para este primer Sprint , como equipo logramos implementar satisfactoriamente la primera versión de la landing page.
+###Design
+Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,<br> se hizo uso de la plataforma Figma. Para utilizar la plataforma:
+
+1.Se accede a través de la página oficial de Figma: https://www.figma.com/login
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma2.png">
+
+**Deployment Para la landing page, se utilizará Netlify para el despliegue de la página.**
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment2.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment4.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment5.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment.png">
+
+Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
+
+Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este repositorio contiene el informe de nuestro proyecto. <br>
+ Quizbee Landing Page | https://github.com/Open-Source-7385/Landing  :Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
+
+### 5.2.1.8. Team Collaboration Insights during Sprint.
+A lo largo del Sprint 1, Pedro Lecca se encargó de manera integral del desarrollo de la solución, asumiendo las responsabilidades de diseño, programación, validación y despliegue del sistema.
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration2.png">
 ---
 
 
