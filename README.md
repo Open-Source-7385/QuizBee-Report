@@ -219,11 +219,19 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 | UX/UI Design             | Figma                  | https://www.figma.com/es-la        | Realizar los diseños de interfaz y de experiencia de usuario para nuestra solución. |
 | Desarrollo de Software   | VS Code                | https://code.visualstudio.com      | Desarrollar la Landing Page de nuestra solución.                                |
 | Documentación            | GitHub                 | https://github.com                 | Realizar la documentación de nuestra propuesta.                                 |
-| Gestión de Requisitos    | Trello                 | https://trello.com/                | Para organizar, colaborar y realizar un seguimiento del trabajo de manera eficiente. |
+| Gestión de Requisitos    | Miro                    | https://miro.com/                | Para organizar, colaborar y realizar un seguimiento del trabajo de manera eficiente. |
 | Reuniones                | Discord                | https://discord.com/               | Reuniones con el equipo.                                                        |
 
 
 ### 5.1.2. Source Code Management.
+**Link Repositorio Report**
+
+Link: https://github.com/Open-Source-7385/QuizBee-Report.git
+
+**Link Repositorio Landing**
+
+Link: https://github.com/Open-Source-7385/Landing.git
+
 
 **Workflow – GitFlow**
 
