@@ -142,7 +142,7 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 
 ### 1.1.1. Descripción de la Startup  
 
-**QuizzBee** es una startup innovadora que se enfoca en el desarrollo de desarrollo de soluciones empleando una arquitectura orientada a servicios, haciendo uso de tecnologías open-source. Mediante esta Startup buscamos  conectar a personas que dominan un idioma específico con aquellas que desean reforzar sus conocimientos, empleando herramientas dinámicas como **quizzes, retos interactivos y competencias gamificadas**.
+**QuizzBee** es una startup innovadora que se enfoca en el desarrollo de soluciones empleando una arquitectura orientada a servicios, haciendo uso de tecnologías open-source. Mediante esta Startup buscamos  conectar a personas que dominan un idioma específico con aquellas que desean reforzar sus conocimientos, empleando herramientas dinámicas como **quizzes, retos interactivos y competencias gamificadas**.
 
 **Misión:** Nuestra misión es brindar una plataforma  interactiva que promueva el aprendizaje colaborativo de idiomas, a través de dinámicas lúdicas que aumenten la motivación, refuercen la práctica constante y conecten a estudiantes con hablantes experimentados o nativos.  
 
