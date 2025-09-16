@@ -410,7 +410,7 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
   
 <img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/UserFlow1.png>
 
--User Persona 2:
+- User Persona 2:
 
 <img width ="1000" height="600" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-IV/UserFlow2.png>
 
