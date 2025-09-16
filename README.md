@@ -1,5 +1,4 @@
 
-<<<<<<< chapter1
 ## **Universidad Peruana De Ciencias Aplicadas**  
 
  <p align="center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> 
@@ -12,17 +11,12 @@
 ### 7385 | Desarrollo de Aplicaciones Open Source 
 ### Profesor: Juan Antonio Flores Moroco
 
-
-
 ### **Informe de Trabajo Final**  
 ### Startup: XXXXX  
 ### Producto: XXXXX  
 
-
-
 ### Integrantes:
 - Vidal Malaga, Jareth Beycker  (u202316878)
-- Geronimo Quispe, Pablo Antonio  (u202314304)
 - Acosta Elera, Abraam Bernabe  (u202219199)
 - Apellidos, Nombre  (Codigo)
 - Apellidos, Nombre  (Codigo)
@@ -597,8 +591,139 @@ Está interesada en crear quizzes y retos personalizados para ayudar a otros usu
 
 # **Capítulo III: Requirements Specification**
 ## 3.1. User Stories.
+
+| User Story ID | Título | Description |Acceptance Criteria  | Epic Relacionado |
+|---------------|--------|------|-----------------------------------|------------------|
+| US01 | Registro de usuario | Como nuevo usuario, quiero registrarme en QuizzBee con mi correo y contraseña para poder acceder a la plataforma y crear mi perfil. | Given que un usuario desea acceder a QuizzBee, <br> When ingresa su correo y contraseña en el formulario de registro,<br> Then el sistema crea una nueva cuenta y permite que el usuario acceda a la plataforma de manera segura. | E01 |
+| US02 | Inicio de sesión | Como usuario registrado, quiero iniciar sesión con mis credenciales para acceder a mi cuenta y utilizar las funcionalidades de la plataforma. | Given que un usuario ya tiene una cuenta en QuizzBee <br> When ingresa su correo y contraseña en el formulario de inicio de sesión,<br>Then el sistema verifica sus credenciales y le permite acceder a la plataforma de manera segura. | E01 |
+| US03 | Recuperación de contraseña | Como usuario que olvidó su contraseña, quiero poder recuperarla a través de mi correo electrónico para volver a acceder a mi cuenta sin perder mis datos. | Given que un usuario olvidó su contraseña, <br> When solicita recuperar su cuenta e ingresa su correo electrónico en la opción de "Olvidé mi contraseña", <br> Then el sistema envía un enlace de recuperación al correo proporcionado para que el usuario pueda restablecer su contraseña de manera segura. | E01 |
+| US04 | Experiencia de autenticación guiada | Como usuario durante el proceso de registro, quiero recibir mensajes claros cuando cometa errores en los campos para poder corregirlos fácilmente. | Given que estoy en el proceso de registro,<br> When cometo un error en un campo,<br> Then el sistema me muestra mensajes claros para corregirlo. | E02 |
+| US05 | Validación de correo | Como nuevo usuario, quiero validar mi correo electrónico después del registro para activar mi cuenta y acceder completamente a la plataforma. | Given que me registro por primera vez,<br> When recibo el correo de validación,<br> Then debo confirmar para activar mi cuenta. | E02 |
+| US06 | Configuración de perfil | Como usuario autenticado, quiero poder configurar mi perfil personal para personalizar mi experiencia en la plataforma según mis preferencias y nivel. | Given que estoy autenticado,<br> When accedo a configuración,<br> Then puedo editar mi nombre, idioma y nivel de inglés. | E03 |
+| US07 | Cambio de contraseña | Como usuario preocupado por la seguridad, quiero poder cambiar mi contraseña en cualquier momento para mantener mi cuenta protegida. | Given que deseo más seguridad,<br> When ingreso mi contraseña actual y la nueva,<br> Then el sistema actualiza mi clave exitosamente. | E03 |
+| US08 | Eliminar cuenta | Como usuario que ya no desea usar la plataforma, quiero poder eliminar permanentemente mi cuenta para que mis datos sean borrados del sistema. | Given que quiero darme de baja,<br> When confirmo la eliminación de mi cuenta,<br> Then el sistema borra mis datos de forma irreversible. | E03 |
+| US09 | Cerrar Sesion | Como usuario autenticado, quiero poder cerrar sesión de forma segura para proteger mi cuenta cuando termine de usar la plataforma. | Given que el usuario está autenticado en su cuenta,<br> When selecciona la opción "Cerrar sesión", <br> Then el sistema finaliza la sesión actual | E03 |
+| US10 | Creación de quiz | Como creador de contenido, quiero poder crear quizzes con preguntas y respuestas personalizadas para compartir conocimiento con otros usuarios. | Given que soy creador,<br> When accedo a la sección "crear quiz" e ingreso preguntas,<br> Then el sistema guarda y publica el quiz. | E04 |
+| US11 | Publicación de quiz | Como creador, quiero poder publicar mis quizzes terminados para que estén disponibles para otros usuarios en la plataforma. | Given que terminé de crear un quiz,<br> When lo marco como "publicar",<br> Then se vuelve visible para los demás usuarios. | E04 |
+| US12 | Edición de quiz publicado | Como creador, quiero poder editar mis quizzes ya publicados para mejorarlos o corregir errores manteniendo un historial de cambios. | Given que soy creador,<br> When actualizo un quiz ya publicado,<br> Then los cambios se reflejan manteniendo historial. | E04 |
+| US13 | Eliminación de quiz | Como creador, quiero poder eliminar mis quizzes cuando ya no los considere útiles o relevantes para mantener mi contenido actualizado. | Given que ya no quiero un quiz,<br> When lo elimino,<br> Then desaparece del listado público. | E04 |
+| US14 | Búsqueda de quizzes por idioma | Como usuario, quiero poder filtrar quizzes por idioma específico para encontrar contenido en el idioma que deseo practicar. | Given que estoy en la sección de quizzes,<br> When filtro por idioma,<br> Then solo veo quizzes en ese idioma. | E05 |
+| US15 | Búsqueda de quizzes por nivel | Como usuario, quiero poder filtrar quizzes por nivel de dificultad para encontrar contenido apropiado para mis habilidades actuales. | Given que estoy buscando prácticas,<br> When selecciono mi nivel A2,<br> Then se listan únicamente quizzes A2. | E05 |
+| US16 | Búsqueda de quizzes por categoría | Como usuario, quiero poder filtrar quizzes por categoría temática para enfocarme en áreas específicas de estudio como vocabulario, gramática, etc. | Given que quiero reforzar vocabulario,<br> When filtro por categoría "vocabulary",<br> Then se muestran solo quizzes de vocabulario. | E05 |
+| US17 | Resolver quiz | Como usuario, quiero poder resolver quizzes disponibles en la plataforma para practicar mis conocimientos y obtener retroalimentación inmediata. | Given que inicio un quiz,<br> When respondo todas las preguntas,<br> Then recibo mi puntaje inmediato. | E07 |
+| US18 | Ver instrucciones | Como usuario, quiero ver instrucciones claras antes de comenzar un quiz para entender cómo funciona y qué se espera de mí. | Given que el usuario selecciona un quiz,<br> When se carga la pantalla inicial, <br> Then el sistema muestra una breve instrucción que explica cómo funcionará el quiz antes de comenzar. | E07 |
+| US19 | Navegar entre preguntas | Como usuario resolviendo un quiz, quiero poder navegar entre preguntas para revisar y cambiar mis respuestas antes de finalizar. | Given que el usuario está resolviendo un quiz, <br> When decide retroceder o avanzar entre preguntas, <br> Then el sistema le permite revisar o cambiar sus respuestas antes de finalizar. | E07 |
+| US20 | Temporizador en el Quiz | Como usuario, quiero ver un temporizador durante el quiz para controlar el tiempo que tardo en completarlo y mejorar mi velocidad de respuesta. | Given que el usuario está respondiendo un quiz, <br> When inicia la actividad, <br> Then el sistema muestra un temporizador visible que le permite controlar el tiempo que tarda en completarlo. | E07 |
+| US21 | Preguntas sin responder | Como usuario, quiero que el sistema me indique qué preguntas dejé sin responder antes de finalizar el quiz para asegurarme de completarlo correctamente. | Given que el usuario está realizando un quiz, <br> When intenta finalizarlo sin responder todas las preguntas, <br> Then el sistema le indica cuáles quedaron sin responder | E07 |
+| US22 | Mensaje de confirmacion al terminar el quiz | Como usuario, quiero recibir un mensaje de confirmación antes de finalizar el quiz para evitar enviarlo accidentalmente y poder revisar mis respuestas. | Given que el usuario está en la última pregunta del quiz, <br> When selecciona la opción "Finalizar quiz", <br> Then el sistema le solicita una confirmación antes de enviar sus respuestas para evitar finalizar por error. |E07 |
+| US23 | Ranking global | Como usuario competitivo, quiero ver mi posición en el ranking global para compararme con todos los usuarios de la plataforma y motivarme a mejorar. | Given que ya he jugado varios quizzes,<br> When consulto el ranking global,<br> Then veo mi posición frente a otros usuarios. | E07 |
+| US24 | Ranking por nivel | Como usuario, quiero ver el ranking filtrado por mi nivel de habilidad para compararme con usuarios de capacidades similares. | Given que compito con otros usuarios,<br> When accedo al ranking A2,<br> Then veo solo jugadores de mi nivel. | E07 |
+| US25 | Ranking por país | Como usuario, quiero ver el ranking filtrado por país para compararme con jugadores de mi misma región y fomentar la competencia local. | Given que quiero compararme localmente,<br> When selecciono "Perú",<br> Then veo ranking con jugadores peruanos. |E07 |
+| US26 | Historial de quizzes | Como usuario, quiero consultar mi historial de quizzes resueltos para revisar mi desempeño y progreso a lo largo del tiempo. | Given que he resuelto quizzes previamente,<br> When accedo a mi historial,<br> Then veo listado de quizzes con fecha y puntaje. |E08 |
+| US27 | Historial de puntuaciones gráficas | Como usuario, quiero ver gráficos de mi progreso para visualizar fácilmente mi evolución y áreas de mejora en el tiempo. | Given que quiero revisar mi avance,<br> When abro mi historial,<br> Then se muestran gráficos de progreso en el tiempo. |E08 |
+| US28 | Feedback de quiz | Como usuario, quiero poder calificar y comentar los quizzes que resuelvo para ayudar a otros usuarios y al creador a mejorar el contenido. | Given que resolví un quiz,<br> When lo califico con estrellas y comentarios,<br> Then el creador recibe mi feedback. |E06 |
+| US29 | Resumen Final | Como usuario, quiero ver un resumen detallado al completar un quiz para revisar mi desempeño y aprender de mis errores. | Given que el usuario ha completado todas las preguntas de un quiz,<br> When llega al final del mismo,<br> Then el sistema muestra un resumen con su puntaje y las respuestas correctas e incorrectas. |E05 |
+| US30 | Ver feedback recibido | Como creador de quizzes, quiero consultar todo el feedback recibido en mis quizzes para mejorar la calidad de mi contenido. | Given que soy creador,<br> When consulto el feedback de mis quizzes,<br> Then veo comentarios y calificaciones de usuarios. |E06 |
+| US31 | Notificación de feedback nuevo | Como creador de quizzes, quiero recibir notificaciones cuando los usuarios dejen feedback para poder responder oportunamente. | Given que recibo feedback,<br> When un usuario deja un comentario,<br> Then me llega una notificación. |E06 |
+| US32 | Compra de vidas extra | Como usuario del plan gratuito, quiero poder comprar vidas adicionales cuando se me agoten para continuar jugando sin esperar. | Given que estoy en plan gratuito y sin vidas,<br> When intento seguir jugando,<br> Then puedo comprar vidas adicionales con pago. |E09 |
+| US33 | Suscripción premium | Como usuario, quiero poder suscribirme al plan premium para acceder a beneficios ilimitados y contenido exclusivo. | Given que quiero beneficios ilimitados,<br> When selecciono plan premium y realizo el pago,<br> Then mi cuenta pasa al estado premium. |E09 |
+| US34 | Cancelación de suscripción | Como usuario premium, quiero poder cancelar mi suscripción cuando ya no desee continuar con los beneficios premium. | Given que no quiero seguir en premium,<br> When cancelo el plan,<br> Then mi cuenta vuelve al modo gratuito al final del ciclo. |E09 |
+| US35 | Ver historial de pagos | Como usuario premium, quiero consultar mi historial de pagos y facturas para tener control de mis transacciones. | Given que soy usuario premium,<br> When consulto mi perfil,<br> Then veo un historial de mis pagos y facturas. |E09 |
+| US36 | Participación en sala de speaking | Como usuario premium, quiero participar en salas de speaking para practicar inglés en tiempo real con otros usuarios. | Given que soy usuario premium,<br> When me uno a una sala de speaking,<br> Then puedo interactuar en tiempo real con otros. |E10 |
+| US37 | Creación de sala de speaking | Como creador de contenido, quiero organizar salas de speaking para que los usuarios puedan practicar inglés en sesiones programadas. | Given que soy creador,<br> When organizo una sala de speaking,<br> Then los usuarios pueden unirse en la fecha y hora definidas. |E12 |
+| US38 | Moderación de sala | Como creador de sala, quiero tener herramientas de moderación para gestionar la participación y mantener un ambiente de aprendizaje positivo. | Given que soy creador,<br> When gestiono mi sala,<br> Then puedo silenciar, expulsar o invitar usuarios. |E12 |
+| US39 | Grabación de sesiones speaking | Como creador de sala, quiero poder grabar las sesiones de speaking para que los participantes puedan revisar el contenido posteriormente. | Given que estoy en una sala,<br> When activo la opción de grabar,<br> Then la reunión queda registrada para revisión. |E12 |
+| US40 | Navegación en la landing page | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma. | Given que soy visitante,<br> When accedo a la landing page,<br> Then puedo ver secciones de beneficios, testimonios y planes. |E13 |
+| US41 | Testimonios en la landing page | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme. | Given que soy visitante indeciso,<br> When veo testimonios reales,<br> Then aumento mi confianza en registrarme. |E13 |
+| US42 | Responsive design | Como usuario móvil, quiero que todas las páginas se adapten correctamente a dispositivos móviles para tener una experiencia óptima desde cualquier dispositivo. | Given que ingreso desde un smartphone,<br> When navego en cualquier página,<br> Then el contenido debe ajustarse responsivamente. |E13 |
+| TS01 | Backend API de login | Como desarrollador, quiero implementar una API de autenticación para permitir que los usuarios inicien sesión y reciban tokens de acceso. | Given que envío credenciales válidas,<br> When accedo al endpoint /login,<br> Then recibo token y confirmación. |E14 |
+| TS02 | Backend API de quizzes | Como desarrollador, quiero implementar APIs para gestionar quizzes desde el backend y permitir operaciones CRUD. | Given que envío datos de un quiz nuevo,<br> When llamo al endpoint /quizzes,<br> Then se crea y devuelve el objeto quiz en JSON. |E14 |
+| TS03 | Backend API de feedback | Como desarrollador, quiero implementar APIs para gestionar feedback de usuarios sobre quizzes completados. | Given que completo un quiz,<br> When llamo al endpoint /feedback,<br> Then se guarda el comentario vinculado al quiz y usuario. |E14 |
+| TS04 | Seguridad de contraseñas | Como desarrollador, quiero implementar encriptación de contraseñas para garantizar la seguridad de las credenciales de usuario. | Given que registro un usuario,<br> When guardo la contraseña,<br> Then el sistema debe cifrarla antes de almacenarla. |E15 |
+| TS05 | Validación JWT | Como desarrollador, quiero implementar validación de tokens JWT para proteger endpoints de la API. | Given que llamo a un endpoint protegido,<br> When incluyo un token válido,<br> Then el acceso es concedido.<br> But when el token es inválido,<br> Then recibo un error 401. |E15 |
+| TS06 | Control de roles en API | Como desarrollador, quiero implementar control de acceso basado en roles para restringir operaciones según el tipo de usuario. | Given que soy admin,<br> When accedo a /admin/users,<br> Then puedo ver y gestionar usuarios.<br> But when soy estudiante,<br> Then recibo acceso denegado. |E15 |
+| TS07 | Expiración de sesión | Como desarrollador, quiero implementar manejo de expiración de tokens para mantener la seguridad de las sesiones de usuario. | Given que mi token expira,<br> When intento acceder a la API,<br> Then recibo error 401 y debo iniciar sesión nuevamente. |E15 |
+| TS08 | Conectar a Base de Datos |Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL para poder tener todos los datos de mi aplicacion. | Given que las credenciales de la base de datos son correctas <br>When se levanta el servidor <br>Then la conexión se establece sin errores.|E14 |
+
+
+| Epic ID | Título                                     | Descripción breve                                              |
+|--------|--------------------------------------------|----------------------------------------------------------------|
+| E01    | Gestión de Acceso de Usuarios              | Como usuario, quiero registrarme <br> e iniciar sesión para acceder a la plataforma. |
+| E02    | Experiencia de Usuario en Autenticación    | Como usuario, quiero tener una experiencia clara <br> y asistida durante los procesos de registro y autenticación. |
+| E03    | Administración de roles y verificación     | Como administrador, quiero validar <br> y gestionar roles de usuario (creador, admin). |
+| E04    | Creación y publicación de quizzes          | Como creador, quiero crear y publicar quizzes <br> para que otros usuarios los resuelvan. |
+| E05    | Descubrimiento y búsqueda de quizzes       | Como usuario, quiero buscar quizzes <br> según mi nivel e idioma. |
+| E06    | Retroalimentación y mejora de quizzes      | Como creador, quiero ver el feedback <br> y puntuación para mejorar mis quizzes. |
+| E07    | Resolución de quizzes y puntuaciones       | Como usuario, quiero resolver quizzes <br> y obtener una puntuación para medir mi avance. |
+| E08    | Historial y seguimiento del progreso       | Como usuario, quiero ver mis resultados <br> históricos para conocer mi progreso. |
+| E09    | Gestión de Suscripciones y Pagos           | Como usuario, quiero suscribirme a un plan premium <br> para tener vidas ilimitadas. |
+| E10    | Participación en salas de speaking         | Como usuario, quiero unirme a salas de práctica <br> de speaking en tiempo real. |
+| E12    | Creación y moderación de salas             | Como creador, quiero organizar una sala <br> para practicar con usuarios. |
+| E13    | Navegación en la Landing Page              | Como visitante, quiero navegar en una landing page <br> con información clara para decidir. |
+| E14    |Gestión de Quizzes                          | Como developer, quiero exponer un endpoint <br>para crear, listar y obtener quizzes, para que los creadores publiquen y los usuarios accedan. |
+| E15    |Seguridad y Autenticación                   |Como developer, quiero implementar JWT de autorización para proteger los recursos |
+
 ## 3.2. Impact Mapping.
+
+<img width ="700" height="500" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-3/Impact%20Mapping.png">
+
+
 ## 3.3. Product Backlog.
+
+| #Orden | User Story ID | Description |StoryPoint(1/3/5/8) |
+|---------------|--------|------|------------------------------|
+| 01 | US01 | Como nuevo usuario, quiero registrarme en QuizzBee con mi correo y contraseña para poder acceder a la plataforma y crear mi perfil. |3 |
+| 02 | US02 | Como usuario registrado, quiero iniciar sesión con mis credenciales para acceder a mi cuenta y utilizar las funcionalidades de la plataforma. |2 |
+| 03 | US03 | Como usuario que olvidó su contraseña, quiero poder recuperarla a través de mi correo electrónico para volver a acceder a mi cuenta sin perder mis datos. |3 |
+| 04 | US04 | Como usuario durante el proceso de registro, quiero recibir mensajes claros cuando cometa errores en los campos para poder corregirlos fácilmente. | 2|
+| 05 | US05 | Como nuevo usuario, quiero validar mi correo electrónico después del registro para activar mi cuenta y acceder completamente a la plataforma. | 3|
+| 06 | US06 | Como usuario autenticado, quiero poder configurar mi perfil personal para personalizar mi experiencia en la plataforma según mis preferencias y nivel.	 | 3|
+| 07 | US07 | Como usuario preocupado por la seguridad, quiero poder cambiar mi contraseña en cualquier momento para mantener mi cuenta protegida.	 | 2|
+| 08 | US08 | Como usuario que ya no desea usar la plataforma, quiero poder eliminar permanentemente mi cuenta para que mis datos sean borrados del sistema.	 | 3|
+| 09 | US09 | Como usuario autenticado, quiero poder cerrar sesión de forma segura para proteger mi cuenta cuando termine de usar la plataforma. |1 |
+| 10 | US10 | Como creador de contenido, quiero poder crear quizzes con preguntas y respuestas personalizadas para compartir conocimiento con otros usuarios. | 5|
+| 11 | US11 | Como creador, quiero poder publicar mis quizzes terminados para que estén disponibles para otros usuarios en la plataforma. | 2|
+| 12 | US12 | Como creador, quiero poder editar mis quizzes ya publicados para mejorarlos o corregir errores manteniendo un historial de cambios. |3 |
+| 13 | US13 | Como creador, quiero poder eliminar mis quizzes cuando ya no los considere útiles o relevantes para mantener mi contenido actualizado. |2 |
+| 14 | US14 | Como usuario, quiero poder filtrar quizzes por idioma específico para encontrar contenido en el idioma que deseo practicar. | 2|
+| 15 | US15 | Como usuario, quiero poder filtrar quizzes por nivel de dificultad para encontrar contenido apropiado para mis habilidades actuales. |2 |
+| 16 | US16 | Como usuario, quiero poder filtrar quizzes por categoría temática para enfocarme en áreas específicas de estudio como vocabulario, gramática, etc. |2 |
+| 17 | US17 | Como usuario, quiero poder resolver quizzes disponibles en la plataforma para practicar mis conocimientos y obtener retroalimentación inmediata. |6 |
+| 18 | US18 | Como usuario, quiero ver instrucciones claras antes de comenzar un quiz para entender cómo funciona y qué se espera de mí. | 1|
+| 19 | US19 | Como usuario resolviendo un quiz, quiero poder navegar entre preguntas para revisar y cambiar mis respuestas antes de finalizar. | 3|
+| 20 | US20 | Como usuario, quiero ver un temporizador durante el quiz para controlar el tiempo que tardo en completarlo y mejorar mi velocidad de respuesta. | 3|
+| 21 | US21 | Como usuario, quiero que el sistema me indique qué preguntas dejé sin responder antes de finalizar el quiz para asegurarme de completarlo correctamente. | 3|
+| 22 | US22 | Como usuario, quiero recibir un mensaje de confirmación antes de finalizar el quiz para evitar enviarlo accidentalmente y poder revisar mis respuestas. | 2|
+| 23 | US23 | Como usuario competitivo, quiero ver mi posición en el ranking global para compararme con todos los usuarios de la plataforma y motivarme a mejorar. | 5|
+| 24 | US24 | Como usuario, quiero ver el ranking filtrado por mi nivel de habilidad para compararme con usuarios de capacidades similares. |5 |
+| 25 | US25 | Como usuario, quiero ver el ranking filtrado por país para compararme con jugadores de mi misma región y fomentar la competencia local. |5 |
+| 26 | US26 | Como usuario, quiero consultar mi historial de quizzes resueltos para revisar mi desempeño y progreso a lo largo del tiempo. | 3|
+| 27 | US27 | Como usuario, quiero ver gráficos de mi progreso para visualizar fácilmente mi evolución y áreas de mejora en el tiempo. |5 |
+| 28 | US28 | Como usuario, quiero poder calificar los quizzes con estrellas y comentarios para proporcionar feedback al creador. | 3|
+| 29 | US29 | Como usuario, quiero ver un resumen completo al finalizar un quiz para conocer mi puntaje y revisar las respuestas correctas e incorrectas. |3 |
+| 30 | US30 | Como creador, quiero consultar el feedback de mis quizzes para conocer la opinión y calificaciones de los usuarios. |3 |
+| 31 | US31 | Como creador, quiero recibir notificaciones cuando los usuarios dejen comentarios para estar al tanto del feedback de mis quizzes. |5 |
+| 32 | US32 | Como usuario en plan gratuito sin vidas, quiero poder comprar vidas adicionales para continuar jugando sin limitaciones. | 5|
+| 33 | US33 | Como usuario, quiero suscribirme al plan premium para acceder a beneficios y características ilimitadas. |5 |
+| 34 | US34 | Como usuario premium, quiero poder cancelar mi suscripción para que mi cuenta vuelva al modo gratuito al final del ciclo. |3 |
+| 35 | US35 | Como usuario premium, quiero acceder a un historial de mis pagos y facturas para gestionar mi información financiera. | 3|
+| 36 | US36 | Como usuario premium, quiero unirme a salas de speaking para interactuar en tiempo real con otros usuarios. |5 |
+| 37 | US37 | Como creador, quiero organizar salas de speaking para que los usuarios puedan unirse en fechas y horas específicas. |5 |
+| 38 | US38 | Como creador de salas, quiero gestionar mi sala de speaking para poder silenciar, expulsar o invitar usuarios según sea necesario. | 5|
+| 39 | US39 | Como usuario en una sala de speaking, quiero poder grabar la reunión para tener acceso a ella posteriormente. | 8|
+| 40 | US40 | Como visitante, quiero acceder a una landing page informativa para conocer los beneficios, testimonios y planes disponibles. | 1|
+| 41 | US41 | Como visitante indeciso, quiero ver testimonios reales de usuarios para aumentar mi confianza antes de registrarme. | 1|
+| 42 | US42 | Como usuario móvil, quiero que el contenido se ajuste responsivamente para tener una experiencia óptima en cualquier dispositivo. |3 |
+| 43 | TS01 | Como desarrollador, quiero implementar autenticación por API para que los usuarios puedan iniciar sesión y recibir tokens de acceso. | 3|
+| 44 | TS02 | Como desarrollador, quiero crear endpoints para la gestión de quizzes para permitir operaciones CRUD en formato JSON. |3 |
+| 45 | TS03 | Como desarrollador, quiero implementar endpoints de feedback para guardar comentarios vinculados a quizzes y usuarios. |3 |
+| 46 | TS04 | Como desarrollador, quiero implementar cifrado de contraseñas para garantizar la seguridad de las credenciales de usuario. |3 |
+| 47 | TS05 | Como desarrollador, quiero implementar validación de tokens para controlar el acceso a endpoints protegidos y manejar tokens inválidos. |5 |
+| 48 | TS06 | Como desarrollador, quiero implementar control de acceso basado en roles para diferenciar permisos entre administradores y usuarios regulares. |5 |
+| 49 | TS07 | Como desarrollador, quiero manejar la expiración de tokens para mantener la seguridad y requerir re-autenticación cuando sea necesario. | 3|
+| 50 | TS08 | Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL para poder tener todos los datos de mi aplicacion.  | 8|
+
+
 
 ---
 
