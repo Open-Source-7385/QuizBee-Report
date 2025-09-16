@@ -449,7 +449,7 @@ Pedro también destacó que es crucial que la plataforma incluya retos avanzados
 - Ubicación en la que vive: Callao, Peru
 
 #### Entrevista: ####
-link: ....
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EZWkEJGZFOFDlQkg6khUE5UBJuBFZM_wwmNDtt7jmyMkrw?e=Uo4mVo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 - Momento en el que inicia: 0:02
