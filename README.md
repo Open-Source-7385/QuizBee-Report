@@ -495,10 +495,60 @@ Liliana considera que la pérdida de fluidez en inglés sería una gran desventa
 Está interesada en crear quizzes y retos personalizados para ayudar a otros usuarios a mejorar su nivel de inglés, y valora la posibilidad de obtener algún tipo de reconocimiento o beneficio por sus contribuciones. Además, le parece muy valiosa la idea de participar en reuniones virtuales con otros usuarios avanzados, ya que estas experiencias simulan conversaciones reales y le ayudan a ganar confianza. Finalmente, le gustaría que una plataforma le otorgue puntos por su participación, que luego podría canjear por exámenes oficiales o certificaciones, lo que convertiría su práctica en un beneficio concreto.
 
 
-
-
-
 ### 2.2.3. Análisis de entrevistas.
+
+- Patrones Comunes:
+
+  - Todos los entrevistados usan o han usado Duolingo, pero lo califican como “meh” (6-7/10). Ven limitaciones en constancia, reforzamiento y feedback.
+
+  - El feedback inmediato es clave: quieren saber en qué fallan y por qué.
+
+  - Buscan motivación extra: rankings, recompensas, tienda de premios, retos personalizados, puntos canjeables.
+
+  - La constancia es un dolor común: se olvidan de practicar o pierden interés fácilmente.
+
+  - Existe interés en un plan premium, siempre que ofrezca valor real (certificaciones, beneficios exclusivos, reuniones).
+
+- Diferencias Clave según Perfil:
+
+  - Diego y Paola (jóvenes, nivel intermedio):
+
+    - Quieren algo divertido, dinámico y sin tanta presión.
+
+    - Vidas ilimitadas, variedad temática, quizzes entretenidos.
+
+    - El ranking y la tienda de premios los motivan.
+
+  - Anyelo (usuario avanzado):
+
+    - Busca retos de nivel alto, vocabulario técnico y situaciones profesionales.
+
+    - Quiere que el esfuerzo tenga un beneficio tangible: puntos para certificar Cambridge, plan premium con exclusividades.
+
+    - Competencia seria (ranking, desafíos avanzados).
+
+  - Liliana (profesional):
+
+    - Se enfoca en el uso laboral del inglés: mantener fluidez y vocabulario especializado.
+
+    - Valora retos en contextos reales y reuniones en vivo con avanzados.
+
+    - Interés fuerte en certificaciones y beneficios por contribuir (quizzes avanzados).
+
+- Insights Potentes para Quizbee:
+
+  - La app debe tener dos rutas claras:
+
+    - Gamificada (para intermedios que buscan motivación con premios, rankings, diversión).
+
+    - Profesional/avanzada (para quienes quieren certificaciones, vocabulario técnico, simulaciones laborales).
+ 
+  - El feedback inmediato es no negociable: todos lo pidieron.
+
+  - Los usuarios avanzados quieren aportar, creando quizzes/retos y recibiendo reconocimiento o recompensas por eso.
+
+  - El plan premium debe diferenciarse fuerte del free: acceso a retos exclusivos, reuniones en vivo, canje de puntos por exámenes.
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 **User Persona 1:** Personas que quieren reforzar lo aprendido de algún idioma
