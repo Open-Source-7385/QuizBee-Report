@@ -1202,7 +1202,7 @@ Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este reposito
  Quizbee Landing Page | https://github.com/Open-Source-7385/Landing  :Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
-A lo largo del Sprint 1, Pedro Lecca se encargó de manera integral del desarrollo de la solución, asumiendo las responsabilidades de diseño, programación, validación y despliegue del sistema.
+A lo largo del Sprint 1, Pablo Geronimo se encargó de manera integral del desarrollo de la solución, asumiendo las responsabilidades de diseño, programación, validación y despliegue del sistema.
 
 <img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration.png" alt="Collaboration 1">
 <img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration2.png" alt="Collaboration 2">
