@@ -511,32 +511,29 @@ Está interesada en crear quizzes y retos personalizados para ayudar a otros usu
 ### 2.3.2. User Task Matrix.
 - **Primer Segmento:** Personas que quisieran reforzar lo aprendido de algún idioma
 
-
-| Tarea del Usuario              | Frecuencia | Importancia |
-|--------------------------------|-------------|-------------|
-| Buscar quizzes por nivel        | Alta        | Alta        |
-| Resolver quizzes                | Muy Alta    | Muy Alta    |
-| Navegar entre preguntas         | Alta        | Alta        |
-| Controlar el tiempo de práctica | Media       | Alta        |
-| Confirmar finalización          | Media       | Media       |
-| Revisar puntaje y resultados    | Muy Alta    | Muy Alta    |
-| Revisar historial de quizzes    | Media       | Alta        |
-
+| Tarea del Usuario                      | Frecuencia | Importancia |
+|----------------------------------------|-------------|-------------|
+| Buscar materiales en Google/YouTube    | Muy Alta    | Alta        |
+| Practicar con apuntes o cuadernos      | Alta        | Alta        |
+| Repetir ejercicios de libros           | Alta        | Media       |
+| Ver resultados de forma manual (auto)  | Media       | Media       |
+| Medir el tiempo con cronómetro propio  | Media       | Baja        |
+| Recordar qué temas ya estudió          | Alta        | Alta        |
+| Comparar avances con compañeros        | Baja        | Media       |
 
 - **Segundo Segmento:** Personas que ya dominan algún idioma 
 
 
-| Tarea del Usuario               | Frecuencia | Importancia |
-|---------------------------------|-------------|-------------|
-| Crear nuevos quizzes             | Alta        | Muy Alta    |
-| Editar quizzes existentes        | Media       | Alta        |
-| Publicar quizzes creados         | Alta        | Muy Alta    |
-| Revisar feedback recibido        | Media       | Alta        |
-| Recibir notificación de feedback | Media       | Media       |
-| Eliminar quizzes obsoletos       | Baja        | Media       |
-| Revisar historial de quizzes     | Media       | Alta        |
-| Moderar salas de speaking        | Media       | Alta        |
-
+| Tarea del Usuario                        | Frecuencia | Importancia |
+|------------------------------------------|-------------|-------------|
+| Preparar materiales/manualmente en Word o PDF | Alta        | Muy Alta    |
+| Corregir y actualizar materiales en sus archivos | Media       | Alta        |
+| Compartir ejercicios en grupos de WhatsApp/Telegram | Alta        | Muy Alta    |
+| Leer comentarios informales de compañeros (feedback) | Media       | Alta        |
+| Esperar a que alguien les avise mejoras o errores | Media       | Media       |
+| Dejar de usar materiales desactualizados | Baja        | Media       |
+| Guardar apuntes y ejercicios pasados en carpetas | Media       | Alta        |
+| Organizar prácticas de conversación en Zoom/Meet | Media       | Alta        |
 
 
 ### 2.3.3. User Journey Mapping.
