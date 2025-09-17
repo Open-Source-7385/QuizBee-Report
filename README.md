@@ -1072,9 +1072,11 @@ Billing and Suscription Bounded Context
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/classquizbee.jpeg" alt=" class">
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagrams.
-
+<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/database.png" alt=" class">
 ---
 
 # **Capítulo V: Product Implementation, Validation & Deployment**
