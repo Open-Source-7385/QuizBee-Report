@@ -1229,9 +1229,11 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2024 |
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page. Enlace de la Landing Page: <br>
+
 https://quizbeelp.netlify.app/
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing2.png">
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/despliegue.PNG">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/despliegue2.PNG">
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
@@ -1260,7 +1262,8 @@ Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este reposito
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 A lo largo del Sprint 1, Pablo Geronimo se encargó de manera integral del desarrollo de la solución, asumiendo las responsabilidades de diseño, programación, validación y despliegue del sistema.
 
-
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Captura.PNG" alt="Deployment 5">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Captura.PNG" alt="Deployment">
 ---
 
 
