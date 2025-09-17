@@ -1229,7 +1229,7 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2024 |
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 En esta entrega, nuestro equipo ha desplegado con éxito la landing page. Enlace de la Landing Page: <br>
-https://quizbeelandingpage.netlify.app/
+https://quizbeelp.netlify.app/
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing.png">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing2.png">
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
