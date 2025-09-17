@@ -274,7 +274,7 @@ Esta sección incluye la descripción de los segmentos asociados al dominio del 
 A partir de la investigación realizada, se han identificado dos segmentos clave para el desarrollo de Pathly. Ambos representan actores principales en el proceso de orientación vocacional y han sido seleccionados debido a su influencia directa en la toma de decisiones académicas y su apertura al uso de herramientas digitales.
 
 
-## Segmento objetivo #1. Personas que quisieran reforzar lo aprendido de algun idioma.
+## Segmento objetivo #1. Personas que quisieran reforzar lo aprendido de algun idioma.(Learner)
 
 Usuarios que cuentan con conocimientos previos en un idioma (nivel básico o intermedio), pero sienten que olvidan lo aprendido si no lo practican constantemente. Buscan repasar de manera dinámica y entretenida a través de quizzes interactivos.  
 
@@ -295,7 +295,7 @@ Consolidar conocimientos ya adquiridos y ganar seguridad en el uso del idioma.
 - **Valores y creencias:** Valoran la mejora personal, el aprendizaje continuo y buscan mantener un hábito de estudio divertido.  
 
 
-## Segmento objetivo #2. Personas que ya dominan algun idioma
+## Segmento objetivo #2. Personas que ya dominan algun idioma (Creator)
 Usuarios con nivel avanzado o fluido en el idioma, que desean perfeccionar sus habilidades, retarse con mayor dificultad y mantener un uso constante para no perder fluidez.  
 
 **Aspectos Geográficos:**  
