@@ -19,7 +19,7 @@
 - Vidal Malaga, Jareth Beycker  (u202316878)
 - Geronimo Quispe ,Pablo Antonio(u202314304)
 - Acosta Elera, Abraam Bernabe  (u202219199)
-
+- Alejandro Franklin, Mendoza Vergara (u202312343)
 ---
 
 ### **Registro de Versiones del Informe**
@@ -152,11 +152,11 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe.
 ### 1.1.2. Perfiles de integrantes del equipo
 
 
-| Foto | Descripción |
-|------|-------------|
-| <img width="150" | Mi nombre es y actualmente estudio la carrera de Ingeniería de Software en la Universidad UPC, sede San Miguel. Tengo 20 años y me considero una persona responsable, comprometida con el cumplimiento de mis deberes académicos. Además, valoro profundamente mantener una buena relación con mi equipo de trabajo, ya que estoy convencido de que un ambiente colaborativo y respetuoso permite alcanzar mejores resultados y potencia el desarrollo colectivo. |
-| <img width="150" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/FotosNuestras/JarethVidal.jpg" alt="Foto de Jareth Vidal">| Mi nombre es Jareth Vidal estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en  C++, HTML, CSS y JavaScript y un poco de Python, así como habilidades para la adaptabilidad y la responsabilidad. |
-|<img width="150" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/FotosNuestras/Pablo-photo.jpg" alt="Foto de Pablo">|Mi nombre es Pablo,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
+| Foto                                                                                                                                                                 | Descripción |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| <img width="150" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/FotosNuestras/AlejandroMendoza.png" alt="Foto de Alejandro"> | Mi nombre es Alejandro Mendoza y soy estudiante de la carrera de Ingeniería de Software.Actualmente tengo experiencia en C++ y Python.Estoy interesado en seguir aprendiendo sobre diferentes lenguajes de programación y en la creación de distintas aplicaciones web y móviles,por lo que intento dar todo de mí para tener buenos resultados.|
+| <img width="150" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/FotosNuestras/JarethVidal.jpg" alt="Foto de Jareth Vidal">   | Mi nombre es Jareth Vidal estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro cursando el quinto ciclo. Me gusta el deporte y mantenerme en constante aprendizaje. Tengo conocimientos en  C++, HTML, CSS y JavaScript y un poco de Python, así como habilidades para la adaptabilidad y la responsabilidad. |
+| <img width="150" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/FotosNuestras/Pablo-photo.jpg" alt="Foto de Pablo">          |Mi nombre es Pablo,tengo 20 años y soy estudiante de Ingeniería de Software en la UPC, sede San Miguel. Soy una persona decidida, confiable, responsable y honesta con mi grupo de trabajo ,siendo lo más útil posible. Tengo conocimientos en C++,C# y php. Cada día trato de dar una mejor versión de mi y aprender de mis errores. |   
 
 ## 1.2.1. Antecedentes y Problemática (usando The 5W’s y 2H’s)  
 
