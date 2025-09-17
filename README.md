@@ -944,8 +944,6 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 <img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%203.png" alt="Frame 3">
 <img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%204.png" alt="Frame 4">
 <img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%205.png" alt="Frame 5">
-<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%206.png" alt="Frame 6">
-<img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%207.png" alt="Frame 7">
 <img width="1000" height="600" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/Frame%208.png" alt="Frame 8">
 
 ### 4.3.2. Landing Page Mock-up.
