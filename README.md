@@ -163,37 +163,40 @@
 
 ## 1.2.1. Antecedentes y Problemática (usando The 5W’s y 2H’s)  
 
-### What (Qué)  
-- **¿Cuál es el problema?** El aprendizaje de idiomas suele ser monótono, solitario y teórico. Muchos estudiantes carecen de espacios dinámicos para practicar con hablantes reales, lo que reduce la motivación y ralentiza su progreso.  
-- **Relación con el usuario:** QuizzBee actúa como intermediario entre estudiantes y hablantes avanzados, brindando una solución práctica, motivadora y gamificada al proceso de aprendizaje.  
+### What (Qué)
+- **¿Cuál es el problema?** El aprendizaje de idiomas suele ser monótono, solitario y teórico. Muchos estudiantes carecen de espacios dinámicos para practicar con hablantes reales, lo que reduce la motivación y ralentiza su progreso.
+- **Relación con el usuario:** QuizzBee actúa como intermediario entre estudiantes y hablantes avanzados, brindando una solución práctica, motivadora y gamificada al proceso de aprendizaje.
 
-### When (Cuándo)  
-- **¿Cuándo sucede el problema?** Cuando los estudiantes desean practicar fuera del aula y no encuentran opciones atractivas, o cuando hablantes avanzados buscan un espacio para compartir sus conocimientos.  
-- **¿Cuándo utiliza el cliente el producto?** Durante su tiempo libre, sesiones de estudio, o en momentos en los que buscan practicar de forma breve y efectiva.  
+### When (Cuándo)
+- **¿Cuándo sucede el problema?** Cuando los estudiantes desean practicar fuera del aula y no encuentran opciones atractivas, o cuando hablantes avanzados buscan un espacio para compartir sus conocimientos.
+- **La tendencia hacia el aprendizaje online se aceleró notablemente en la última década** y, en particular, tras la pandemia de COVID-19, que demostró la efectividad y necesidad de las herramientas de conexión remota.
+- **¿Cuándo utiliza el cliente el producto?** Durante su tiempo libre, sesiones de estudio, o en momentos en los que buscan practicar de forma breve y efectiva.
 
-### Where (Dónde)  
-- **¿Dónde está el cliente cuando usa el producto?** En cualquier lugar con acceso a internet: hogar, transporte, oficina o universidad.  
-- **¿Dónde surge el problema?** En entornos donde el aprendizaje es principalmente teórico y no hay suficientes oportunidades de práctica real.  
+### Where (Dónde)
+- **¿Dónde está el cliente cuando usa el producto?** En cualquier lugar con acceso a internet: hogar, transporte, oficina o universidad. Este fenómeno es global, pero es especialmente relevante en entornos digitales y conectados, donde las barreras geográficas se desdibujan.
+  El mercado objetivo es amplio, abarcando cualquier persona con acceso a internet y un smartphone o computador.
+- **¿Dónde surge el problema?** En entornos donde el aprendizaje es principalmente teórico y no hay suficientes oportunidades de práctica real.
 
-### Who (Quién)  
-- **¿Quiénes están involucrados?**  
-  - **Equipo:** encargados del desarrollo, soporte técnico y mejora continua de la plataforma.  
-  - **Usuarios estudiantes:** quienes desean reforzar su aprendizaje.  
-  - **Usuarios mentores:** quienes dominan un idioma y desean compartirlo.  
-- **¿Quién lo utilizará?** Estudiantes, profesionales, viajeros, autodidactas y cualquier persona interesada en mejorar o practicar un idioma.  
+### Who (Quién)
+- **¿Quiénes están involucrados?**
+    - **Equipo:** encargados del desarrollo, soporte técnico y mejora continua de la plataforma.
+    - **Usuarios estudiantes:** quienes desean reforzar su aprendizaje.
+    - **Usuarios mentores:** quienes dominan un idioma y desean compartirlo.
+- **¿Quién lo utilizará?** Estudiantes, profesionales, viajeros, autodidactas y cualquier persona interesada en mejorar o practicar un idioma.
 
-### Why (Por qué)  
-- La causa principal es la falta de plataformas que combinen **interactividad, gamificación y conexión entre hablantes**. Los métodos tradicionales resultan poco motivadores y no siempre fomentan la práctica constante.  
+### Why (Por qué)
+- La causa principal es la falta de plataformas que combinen **interactividad, gamificación y conexión entre hablantes**. Los métodos tradicionales resultan poco motivadores y no siempre fomentan la práctica constante.
+- **El aprendizaje tradicional suele ser lineal, puede resultar monótono y no simula las situaciones reales de comunicación**, donde se requiere agilidad, comprensión auditiva y capacidad de reacción.
 
-### How (Cómo)  
-- **Condiciones de uso:** Los usuarios acceden a QuizzBee para realizar prácticas rápidas, resolver retos, competir en quizzes y canjear recompensas.  
-- **¿Cómo nos conocen?** A través de campañas digitales, redes sociales, instituciones educativas asociadas y recomendaciones de otros usuarios.  
-- **¿Cómo prefieren acceder?** Mediante una app móvil y/o plataforma web intuitiva y atractiva.  
+### How (Cómo)
+- **Condiciones de uso:** Los usuarios acceden a QuizzBee para realizar prácticas rápidas, resolver retos, competir en quizzes y canjear recompensas.
+- **¿Cómo nos conocen?** A través de campañas digitales, redes sociales, instituciones educativas asociadas y recomendaciones de otros usuarios.
+- **¿Cómo prefieren acceder?** Mediante una app móvil y/o plataforma web intuitiva y atractiva.
 
-### How much (Cuánto)  
-- Según el **EF English Proficiency Index 2023**, más del **70% de estudiantes de idiomas** en América Latina buscan plataformas adicionales para reforzar lo aprendido en clases.  
-- El mercado global de aprendizaje digital de idiomas superará los **25 mil millones de dólares en 2025**, impulsado por soluciones interactivas y accesibles como QuizzBee.  
-
+### How much (Cuánto)
+- Según el **EF English Proficiency Index 2023**, más del **70% de estudiantes de idiomas** en América Latina buscan plataformas adicionales para reforzar lo aprendido en clases.
+- El mercado global de aprendizaje digital de idiomas superará los **25 mil millones de dólares en 2025**, impulsado por soluciones interactivas y accesibles como QuizzBee.
+- **El mercado de e-learning de idiomas** tiene un valor de miles de millones de dólares y continúa en crecimiento, lo que indica un alto interés y disposición a pagar por soluciones efectivas y entretenidas.
 ---
 
 ## 1.2.2. Lean UX Process  
