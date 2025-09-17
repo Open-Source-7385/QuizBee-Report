@@ -33,14 +33,14 @@
 ---
 
 ### **Project Report Collaboration Insights**
-En esta sección el equipo indica el URL del repositorio para el Project Report en la
-organización de GitHub del equipo. Adicionalmente, para cada entrega explica cómo
-se han desarrollado las actividades de elaboración del informe y se presenta
-capturas en imagen de los analíticos de colaboración y commits en GitHub para el
-repositorio del informe, realizados por los miembros del equipo. Todos los miembros
-del equipo deben tener participación en la elaboración del informe. Esta sección
-debe ir expandiéndose con descripciones y evidencias en cada entrega. Lo descrito y
-evidenciado debe tener coherencia con el Registro de Versiones del Informe.
+| URL de la organización del proyecto |             URL del repositorio del reporte             |        URL del repositorio de la landing page        |
+|-------------------------------------|---------------------------------------------------------|------------------------------------------------------|
+| https://github.com/Open-Source-7385    |  https://github.com/Open-Source-7385/QuizBee-Report   |  https://github.com/Open-Source-7385/Landing      |  
+
+
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration.png" alt="Collaboration 1">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration2.png" alt="Collaboration 2">
 
 ---
 
@@ -1134,6 +1134,7 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | Vidal, Jareth              | Jareth341       | (L)                                                     | (C)                                                            | (C)                                                |
 | Acosta, Abraam                 | abraam16        | (C)                                                     | (C)                                                            | (C)                                                |
 | Geronimo, Pablo              | Phatogram       | (C)                                                     | (L)                                                            | (C)                                                |
+| Alejandro Franklin Mendoza Vergara                             |   AlexBoo1             |                 (C)                                         |                 (C)                                              |        (C)                                  |
 
 ### 5.2.1.3. Sprint Backlog 1.
 
@@ -1204,8 +1205,6 @@ Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este reposito
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
 A lo largo del Sprint 1, Pablo Geronimo se encargó de manera integral del desarrollo de la solución, asumiendo las responsabilidades de diseño, programación, validación y despliegue del sistema.
 
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration.png" alt="Collaboration 1">
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration2.png" alt="Collaboration 2">
 
 ---
 
