@@ -304,20 +304,20 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 
 ### 5.2.1.1. Sprint Planning 1.
 
-| **Sprint #**                  | Sprint 1 |
-|--------------------------------|----------|
-| **Sprint Planning Background** | |
-| **Date**                       | 1 de septiembre del 2025 |
-| **Time**                       | 18:00 horas  |
-| **Location**                   | Modalidad remota a través de la plataforma Discord |
-| **Prepared By**                | Todos los integrantes del equipo QuizBee |
-| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
-| **Sprint 0 Review Summary**    | Dado que es nuestro primer sprint de desarrollo, aún no se ha realizado un resumen del sprint anterior. |
-| **Sprint 0 Retrospective Summary** | No se identificaron mejoras ya que es el primer sprint. |
-| **Sprint Goal & User Stories** | |
+| **Sprint #**                  | Sprint 1                                                                                                                                                                            |
+|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |                                                                                                                                                                                     |
+| **Date**                       | 1 de septiembre del 2025                                                                                                                                                            |
+| **Time**                       | 18:00 horas                                                                                                                                                                         |
+| **Location**                   | Modalidad remota a través de la plataforma Discord                                                                                                                                  |
+| **Prepared By**                | Todos los integrantes del equipo QuizBee                                                                                                                                            |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee                                                                                                                                            |
+| **Sprint 0 Review Summary**    | Dado que es nuestro primer sprint de desarrollo, aún no se ha realizado un resumen del sprint anterior.                                                                             |
+| **Sprint 0 Retrospective Summary** | No se identificaron mejoras ya que es el primer sprint.                                                                                                                             |
+| **Sprint Goal & User Stories** | US01, US02, US03, US04, US05, US06, US07                                                                                                                                            |
 | **Sprint 1 Goal**              | En este sprint, nuestro enfoque está en describir nuestra startup y en construir la estructura de la Landing Page, realizar las entrevisas, y tener definidos nuestros user stories |
-| **Sprint 1 Velocity**          | 5 |
-| **Sum of Story Points**        | 5 |
+| **Sprint 1 Velocity**          | 5                                                                                                                                                                                   |
+| **Sum of Story Points**        | 5                                                                                                                                                                                   |
 
 ### 5.2.1.2. Aspect Leaders and Collaborators.
 
@@ -331,24 +331,18 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 ### 5.2.1.3. Sprint Backlog 1.
 
 
-| Sprint # | Sprint 1 | | | | | |
-|----------|----------|--|--|--|--|--|
-| | **User Story** | | **Work-item / Task** | | | |
-| **Id** | **Title** | **Id** | **Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
-| US01 | Registro de usuario | T001 | Crear formulario de registro | Implementar interfaz de usuario para el formulario de registro con campos de email y contraseña | 4 | Jareth Vidal | To-do |
-| | | T002 | Validación de datos de registro | Implementar validaciones del lado del cliente para los campos del formulario | 3 | Pablo Geronimo | To-do |
-| | | T003 | API endpoint de registro | Crear endpoint POST /api/auth/register para procesar el registro de usuarios | 5 | Abraam Acosta | To-do |
-| US02 | Inicio de sesión | T004 | Crear formulario de login | Desarrollar interfaz de usuario para inicio de sesión | 3 | Alex  | To-do |
-| | | T005 | Autenticación de usuarios | Implementar lógica de autenticación y generación de tokens JWT | 6 | Abraam Acosta | To-do |
-| | | T006 | Manejo de sesiones | Implementar persistencia de sesión y redirección tras login exitoso | 4 | Jareth Vidal | To-do |
-| US03 | Recuperación de contraseña | T007 | Formulario de recuperación | Crear interfaz para solicitar recuperación de contraseña | 2 | Pablo Geronimo | To-do |
-| | | T008 | Envío de email de recuperación | Implementar servicio de envío de emails con enlace de recuperación | 5 | Alex  | To-do |
-| | | T009 | Reset de contraseña | Crear funcionalidad para establecer nueva contraseña | 4 | Abraam Acosta | To-do |
-| US04 | Experiencia de autenticación guiada | T010 | Mensajes de error UX | Implementar mensajes de error claros y útiles en formularios | 3 | Jareth Vidal | To-do |
-| | | T011 | Indicadores visuales | Agregar indicadores de carga y feedback visual durante autenticación | 2 | Pablo Geronimo | To-do |
-| US05 | Validación de correo | T012 | Email de verificación | Implementar envío automático de email de verificación tras registro | 4 | Alex  | To-do |
-| | | T013 | Endpoint de verificación | Crear endpoint para confirmar email mediante token único | 3 | Abraam Acosta | To-do |
-| | | T014 | Estado de cuenta | Implementar lógica para activar cuenta tras verificación | 2 | Jareth Vidal | To-do |
+| Sprint # | Sprint 1 | | | |     | 
+|----------|------|-|--|--|-----|
+|          | **User Story** | |  | |     | 
+| **Id**   | **Title** |  **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
+| US01     | Navegación en la landing page  | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma.	 | 4 | Jareth Vidal | Done |
+| US02     | Testimonios en la landing page  | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme.	 | 3 | Pablo Geronimo | Done|
+| US03     | Funcionalidades en la landing page | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer las funcionalidades de la plataforma.	 | 5 | Abraam Acosta | Done |
+| US04     | Planes Premiun en la landing page  | Como visitante, quiero ver los Planes Premiun qure ofrecen en la plataforma.	 | 3 | Alex  | Done |
+| US05     | Formulario en la landing page	  | Como visitante, quiero ver un formulario de contacto para poder resolver mis dudas.	 | 6 | Abraam Acosta | Done |
+| US06     |  Redes en la landing page		 | Como visitante, quiero ver todas sus redes en el footer.	 | 4 | Jareth Vidal | Done |
+| US07     | Servicios en la landing page	  | Como visitante, quiero ver los servicios qure ofrecen en la plataforma.	 | 2 | Pablo Geronimo | Done |
+
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
