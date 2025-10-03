@@ -497,7 +497,21 @@ Liliana considera que la pérdida de fluidez en inglés sería una gran desventa
 Está interesada en crear quizzes y retos personalizados para ayudar a otros usuarios a mejorar su nivel de inglés, y valora la posibilidad de obtener algún tipo de reconocimiento o beneficio por sus contribuciones. Además, le parece muy valiosa la idea de participar en reuniones virtuales con otros usuarios avanzados, ya que estas experiencias simulan conversaciones reales y le ayudan a ganar confianza. Finalmente, le gustaría que una plataforma le otorgue puntos por su participación, que luego podría canjear por exámenes oficiales o certificaciones, lo que convertiría su práctica en un beneficio concreto.
 
 
+- Entrevista N°2: Luis Torres
+- Sexo: Masculino
+- Edad: 40 años
 
+- Ubicación en la que vive: San Miguel, Peru
+
+#### Entrevista: ####
+link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EZWkEJGZFOFDlQkg6khUE5UBJuBFZM_wwmNDtt7jmyMkrw?e=Uo4mVo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+- Momento en el que inicia: 
+
+- Duración: 
+
+**Resumen:**
 
 
 ### 2.2.3. Análisis de entrevistas.
