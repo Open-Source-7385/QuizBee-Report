@@ -1510,12 +1510,12 @@ Durante la reunión de planificación del Sprint 2, el equipo identificó los ob
 | **Location**                  | Modalidad remota a través de la plataforma Discord                                                                              |
 | **Prepared By**               | Todos los integrantes del equipo QuizBee                                                                                        |
 | **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee                                                                                  |
-| **Sprint 1 Review Summary**   | Se completó la estructura y diseño de la landing page, así como la definición de user stories y organización inicial del equipo. |
+| **Sprint 1 Review Summary**   | Se inicio con el desarrollo de las vistas del frontend, así como la correccion e implementacion de mas user stories |
 | **Sprint 1 Retrospective Summary** | Se identificó la necesidad de mejorar la comunicación y la planificación de tareas para optimizar el avance del desarrollo. |
 | **Sprint Goal & User Stories** | US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30 |
 | **Sprint 2 Goal**             | Implementar las vistas principales de la aplicación web, incluyendo la navegación, gestión de quizzes, perfil de usuario y visualización de resultados. |
-| **Sprint 2 Velocity**         | 100$                                                                                                                               |
-| **Sum of Story Points**       | 69 Story Points                                                                                                                               |
+| **Sprint 2 Velocity**         | 5                                                                                                                               |
+| **Sum of Story Points**       | 5 Story Points                                                                                                                               |
 
 
 ### 5.2.2.2. Aspect Leaders and Collaborators.
