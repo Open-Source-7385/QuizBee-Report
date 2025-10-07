@@ -784,7 +784,7 @@ Por otro lado, las Technical Stories (TS) representan los requerimientos técnic
 
 ## 3.2. Impact Mapping.
 
-<img width="700" height="500" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/Impact%20Mapping.png" alt="Impact Mapping">
+<img src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-3/Impact Mapping.png" alt="Impact Mapping">
 
 
 
