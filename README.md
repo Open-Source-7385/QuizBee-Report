@@ -1,4 +1,4 @@
-
+<img width="860" height="842" alt="image" src="https://github.com/user-attachments/assets/fdc978b3-bc7b-4cfe-9fca-148390f9f569" />
 ## **Universidad Peruana De Ciencias Aplicadas**  
 
  <p align="center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> 
@@ -790,6 +790,8 @@ Por otro lado, las Technical Stories (TS) representan los requerimientos técnic
 
 ## 3.3. Product Backlog.
 
+
+
 |                                #Orden                               | User Story ID | Description                                                                                                                                                          | Story Point (1/3/5/8) |
 | :-----------------------------------------------------------------: | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: |
 |                           **Landing Page**                          |               |                                                                                                                                                                      |                       |
@@ -1376,7 +1378,8 @@ En esta sección se detalla el Sprint Backlog correspondiente al Sprint 1, el cu
 Enlace del board donde se trabako el Sprint Backlog1:https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI15ee9fd19dc710938caf0d6f96d940e7550358A3/mi-tablero-de-trello
 
 
-<aca va imagen del sprint 1>
+
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/spring2tiki.png">
 
 | Sprint # | Sprint 1 | | | |     | 
 |----------|------|-|--|--|-----|
@@ -1539,7 +1542,7 @@ Además, como parte del compromiso con la experiencia del usuario, se implement�
 
 Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI15ee9fd19dc710938caf0d6f96d940e7550358A3/mi-tablero-de-trello
 
-
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/spring2tiki.png">
 
 
 | Sprint # | Sprint 2 | | | |     | 
