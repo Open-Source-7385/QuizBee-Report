@@ -594,17 +594,46 @@ Está interesada en crear quizzes y retos personalizados para ayudar a otros usu
 | Organizar prácticas de conversación en Zoom/Meet | Media       | Alta        |
 
 
-### 2.3.3. User Journey Mapping.
+### 2.3.3. User Journey Mapping – As-Is
+User Journey Map describe la experiencia actual de los dos segmentos principales de usuarios antes de contar con una solución como QuizBee. Se busca ilustrar cómo las personas que desean aprender o reforzar un idioma, así como aquellas que lo dominan y quieren compartirlo, enfrentan dificultades durante su proceso. El mapeo refleja los pensamientos, emociones y acciones más comunes en su recorrido actual de aprendizaje o enseñanza, destacando oportunidades de mejora que la futura plataforma podría atender.
 
-- Segmento 1: Personas que quisieran reforzar lo aprendido de algun idioma.
+#### Segmento 1: Personas que quisieran reforzar lo aprendido de algun idioma.
+
+Este journey representa la experiencia actual de personas que desean reforzar un idioma previamente aprendido. Actualmente, el proceso se caracteriza por la búsqueda individual de recursos en línea, la falta de orientación y la ausencia de espacios dinámicos de práctica. Los usuarios suelen pasar por etapas de motivación inicial seguidas de frustración ante la falta de progreso visible y retroalimentación. El viaje ilustra cómo, sin una plataforma interactiva, la práctica constante y la retención del aprendizaje resultan difíciles de mantener.
   
-  <img width="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/JourneyMapping1.png" alt="Journey Mapping">
+  <img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/JourneyMapping1.png>
 
+  - Pain Points principales:
 
-- Segmento 2: Personas que ya dominan algun idioma
+    - Falta de interacción con hablantes reales.
+    - Escasa retroalimentación sobre el progreso.
+    - Contenido repetitivo o poco estimulante.
+    - Pérdida de motivación a mediano plazo.
+
+  - Oportunidades identificadas:
+
+    - Crear espacios de práctica con retroalimentación directa.
+    - Implementar dinámicas que midan el progreso.
+    - Incorporar elementos de gamificación para mantener el interés.
+
+#### Segmento 2: Personas que ya dominan algun idioma
   
-<img width="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/JourneyMapping2.png" alt="Journey Mapping 2">
+Este journey describe la situación actual de las personas que dominan un idioma y desean compartir sus conocimientos o mantenerse activas en la práctica. Actualmente, recurren a foros, redes sociales o grupos informales, donde la interacción es limitada y el impacto de su aporte no siempre es visible. A lo largo del recorrido, el entusiasmo inicial se ve afectado por la falta de estructura, reconocimiento y seguimiento. Esto genera desmotivación y abandono progresivo de la enseñanza informal.
 
+  <img width ="555" height="300" src=https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-2/JourneyMapping2.png>
+  
+  - Pain Points principales:
+
+    - Dificultad para encontrar alumnos interesados.
+    - Falta de herramientas para diseñar o compartir ejercicios.
+    - Escasa visibilidad del impacto de su enseñanza.
+    - Carencia de reconocimiento o recompensas.
+
+  - Oportunidades identificadas:
+
+    - Facilitar la conexión entre mentores y aprendices.
+    - Ofrecer un sistema de recompensas y métricas de impacto.
+    - Proveer herramientas simples para crear contenido educativo.
   
 ### 2.3.4. Empathy Mapping.
 **User Persona 1:** Personas que quieren reforzar lo aprendido de algún idioma
