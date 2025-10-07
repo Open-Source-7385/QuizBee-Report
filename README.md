@@ -664,6 +664,23 @@ link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/E
 | TS07 | Expiración de sesión | Como desarrollador, quiero implementar manejo de expiración de tokens para mantener la seguridad de las sesiones de usuario. | Given que mi token expira,<br> When intento acceder a la API,<br> Then recibo error 401 y debo iniciar sesión nuevamente. |E15 |
 | TS08 | Conectar a Base de Datos |Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL para poder tener todos los datos de mi aplicacion. | Given que las credenciales de la base de datos son correctas <br>When se levanta el servidor <br>Then la conexión se establece sin errores.|E14 |
 
+| User Story ID | Título                                   | Descripción                                                                                                                  | Acceptance Criteria                                                                                                                                                             | Epic Relacionado |
+| ------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| US51          | Visualización de ranking global          | Como usuario, quiero ver el ranking global de todos los usuarios para conocer mi posición respecto a la comunidad completa.  | Dado que accedo a la sección de rankings,<br>When selecciono "Ranking Global",<br>Then veo una lista ordenada de todos los usuarios con sus puntuaciones y posiciones.          | E07              |
+| US52          | Filtrado de ranking por nivel            | Como usuario, quiero filtrar el ranking por nivel de idioma para compararme con usuarios de habilidades similares.           | Dado que estoy en la sección de rankings,<br>When selecciono un nivel específico (A1, A2, B1, B2, C1, C2),<br>Then veo solo los usuarios de ese nivel ordenados por puntuación. | E07              |
+| US53          | Ranking por país                         | Como usuario, quiero ver el ranking filtrado por país para competir con usuarios de mi misma región.                         | Dado que quiero ver competencia local,<br>When selecciono un país específico,<br>Then veo el ranking de usuarios de ese país ordenados por puntuación.                          | E07              |
+| US54          | Ver mi posición en el ranking            | Como usuario, quiero ver mi posición actual en todos los rankings para conocer mi progreso relativo.                         | Dado que he completado varios quizzes,<br>When accedo a cualquier vista de ranking,<br>Then mi posición aparece destacada con información de mi progreso.                       | E07              |
+| US55          | Detalles de perfil en ranking            | Como usuario, quiero ver información detallada de otros usuarios en el ranking para conocer su desempeño.                    | Dado que estoy viendo el ranking,<br>When hago clic en un usuario,<br>Then veo su perfil con estadísticas detalladas (quizzes completados, promedio, etc.).                     | E07              |
+| US56          | Actualización en tiempo real del ranking | Como usuario, quiero que el ranking se actualice automáticamente para ver los cambios recientes en las posiciones.           | Dado que se han completado nuevos quizzes,<br>When vuelvo a la vista de ranking,<br>Then las posiciones y puntuaciones reflejan los últimos resultados.                         | E07              |
+| US57          | Historial de posiciones en ranking       | Como usuario, quiero ver mi historial de posiciones en el ranking para visualizar mi progreso a lo largo del tiempo.         | Dado que quiero ver mi evolución,<br>When accedo a mi perfil de ranking,<br>Then veo un gráfico con mis posiciones históricas en diferentes periodos.                           | E08              |
+| US58          | Recompensas por posición en ranking      | Como usuario, quiero recibir recompensas por alcanzar buenas posiciones en el ranking para aumentar mi motivación.           | Dado que he alcanzado una posición destacada,<br>When se actualiza el ranking,<br>Then recibo puntos o beneficios según mi posición.                                            | E09              |
+| US59          | Comparación con amigos en ranking        | Como usuario, quiero comparar mi posición con la de mis amigos para fomentar la competencia sana.                            | Dado que tengo amigos en la plataforma,<br>When veo el ranking,<br>Then las posiciones de mis amigos aparecen destacadas.                                                       | E07              |
+| US60          | Reset periódico de ranking               | Como usuario, quiero que el ranking se reinicie periódicamente para tener nuevas oportunidades de competir.                  | Dado que finaliza un periodo de ranking,<br>When comienza un nuevo periodo,<br>Then el ranking se reinicia manteniendo logros históricos.                                       | E07              |
+| TS09          | API de gestión de rankings               | Como desarrollador, quiero implementar endpoints para gestionar rankings para soportar las funcionalidades de clasificación. | Dado que necesito datos de ranking,<br>When consumo los endpoints de ranking,<br>Then recibo información estructurada de posiciones y puntuaciones.                             | E14              |
+| TS10          | Cálculo automático de puntuaciones       | Como desarrollador, quiero implementar el cálculo automático de puntuaciones para mantener el ranking actualizado.           | Dado que un usuario completa un quiz,<br>When se procesan los resultados,<br>Then su puntuación en el ranking se actualiza automáticamente.                                     | E14              |
+| TS11          | Sistema de notificaciones de ranking     | Como desarrollador, quiero implementar notificaciones de cambios en el ranking para mantener a los usuarios informados.      | Dado que un usuario cambia de posición,<br>When ocurre un cambio significativo,<br>Then recibe una notificación de su nuevo puesto.                                             | E14              |
+|               |                                          |                                                                                                                              |                                                                                                                                                                                 |                  |
+
 
 | Epic ID | Título                                     | Descripción breve                                              |
 |--------|--------------------------------------------|----------------------------------------------------------------|
@@ -681,6 +698,11 @@ link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/E
 | E13    | Navegación en la Landing Page              | Como visitante, quiero navegar en una landing page <br> con información clara para decidir. |
 | E14    |Gestión de Quizzes                          | Como developer, quiero exponer un endpoint <br>para crear, listar y obtener quizzes, para que los creadores publiquen y los usuarios accedan. |
 | E15    |Seguridad y Autenticación                   |Como developer, quiero implementar JWT de autorización para proteger los recursos |
+
+| Epic ID | Título | Descripción breve |
+|---------|--------|-------------------|
+| E16 | Gestión de Rankings y Competencias | Como usuario, quiero participar en diferentes tipos de rankings para medir mi progreso y competir con otros usuarios. |
+
 
 ## 3.2. Impact Mapping.
 
@@ -742,6 +764,22 @@ link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/E
 | 48 | TS06 | Como desarrollador, quiero implementar control de acceso basado en roles para diferenciar permisos entre administradores y usuarios regulares. |5 |
 | 49 | TS07 | Como desarrollador, quiero manejar la expiración de tokens para mantener la seguridad y requerir re-autenticación cuando sea necesario. | 3|
 | 50 | TS08 | Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL para poder tener todos los datos de mi aplicacion.  | 8|
+
+| #Orden | User Story ID | Description | Story Points (1/3/5/8) |
+|--------|---------------|-------------|------------------------|
+| 51 | US51 | Como usuario, quiero ver el ranking global de todos los usuarios para conocer mi posición respecto a la comunidad completa. | 5 |
+| 52 | US52 | Como usuario, quiero filtrar el ranking por nivel de idioma para compararme con usuarios de habilidades similares. | 3 |
+| 53 | US53 | Como usuario, quiero ver el ranking filtrado por país para competir con usuarios de mi misma región. | 3 |
+| 54 | US54 | Como usuario, quiero ver mi posición actual en todos los rankings para conocer mi progreso relativo. | 3 |
+| 55 | US55 | Como usuario, quiero ver información detallada de otros usuarios en el ranking para conocer su desempeño. | 5 |
+| 56 | US56 | Como usuario, quiero que el ranking se actualice automáticamente para ver los cambios recientes en las posiciones. | 5 |
+| 57 | US57 | Como usuario, quiero ver mi historial de posiciones en el ranking para visualizar mi progreso a lo largo del tiempo. | 5 |
+| 58 | US58 | Como usuario, quiero recibir recompensas por alcanzar buenas posiciones en el ranking para aumentar mi motivación. | 8 |
+| 59 | US59 | Como usuario, quiero comparar mi posición con la de mis amigos para fomentar la competencia sana. | 5 |
+| 60 | US60 | Como usuario, quiero que el ranking se reinicie periódicamente para tener nuevas oportunidades de competir. | 3 |
+| 61 | TS09 | Como desarrollador, quiero implementar endpoints para gestionar rankings para soportar las funcionalidades de clasificación. | 8 |
+| 62 | TS10 | Como desarrollador, quiero implementar el cálculo automático de puntuaciones para mantener el ranking actualizado. | 8 |
+| 63 | TS11 | Como desarrollador, quiero implementar notificaciones de cambios en el ranking para mantener a los usuarios informados. | 5 |
 
 
 
