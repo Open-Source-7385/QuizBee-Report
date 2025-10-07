@@ -1478,7 +1478,20 @@ El objetivo principal de este Sprint fue avanzar en el desarrollo del frontend d
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
+
 En esta sección se presenta la evidencia del desarrollo realizado durante el Sprint 2, mostrando el trabajo técnico y colaborativo del equipo en la implementación de las funcionalidades planificadas.
+
+| Repository      | Branch   | Commit Message                                                      | Author           | Commit Message Body                                                                                                 | Commited on (Date) |
+|-----------------|----------|---------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------|--------------------|
+| QuizBee-Report  | develop  | docs(chapter-V): update development evidence for Sprint 2            | abraam16         | Se actualizó la evidencia de desarrollo del Sprint 2 en el capítulo V, agregando los principales avances y commits.  | 07/10/2025         |
+| QuizBee-Report  | develop  | feat(user-stories): added an introduction to User Stories and new TS | MarceloMazuelos  | Se añadió una introducción a User Stories y nuevas TS a la sección correspondiente del informe.                      | 07/10/2025         |
+| QuizBee-Report  | develop  | feat(journey-mapping): updated User Journey Mappings (UXpressia)     | MarceloMazuelos  | Se actualizaron los User Journey Mappings utilizando la metodología AS-IS y la herramienta UXpressia.               | 07/10/2025         |
+| QuizBee-Report  | develop  | feat(team-info): added personal information to team sections         | MarceloMazuelos  | Se agregó información personal a las secciones relacionadas al equipo.                                              | 07/10/2025         |
+| QuizBee-Report  | develop  | feat(readme): add tb1 outcome from AlexBoo578                        | AlexBoo578       | Se añadió el resultado TB1 proporcionado por AlexBoo578 al README.                                                  | 07/10/2025         |
+| QuizBee-Report  | develop  | feat(integrantes): add alejandro information                         | AlexBoo578       | Se agregó la información de Alejandro a la sección de integrantes.                                                  | 07/10/2025         |
+| QuizBee-Report  | develop  | docs(database-class-diagram): add img of database and class diagram  | Phatogram        | Se añadieron imágenes del diagrama de base de datos y de clases al informe.                                         | 07/10/2025         |
+| QuizBee-Report  | develop  | fix(antecedentes): fix antecedentes y problematica                   | AlexBoo578       | Se corrigieron detalles en la sección de antecedentes y problemática.                                               | 07/10/2025         |
+| QuizBee-Report  | develop  | feat(readme): added collaboration evidence for Sprint 2              | Jareth341        | Se añadió evidencia de colaboración del equipo durante el Sprint 2.                                                 | 07/10/2025         |
 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
