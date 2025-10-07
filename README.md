@@ -858,7 +858,11 @@ Por otro lado, las Technical Stories (TS) representan los requerimientos técnic
 |                                  59                                 | US34          | Como usuario, quiero ver gráficos de mi progreso, para visualizar mi evolución.                                                                                      |           5           |
 |                                  60                                 | US36          | Como usuario, quiero ver un resumen detallado al finalizar el quiz, para revisar mis errores y puntaje.                                                              |           3           |
 
-
+Trello:
+- Link: https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI5eb5f50ecd13739627eec4f8907c3c4003CF6FB7/mi-tablero-de-trello
+  
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/trello.PNG" alt="trello" width="600"/>
+ 
 ---
 
 # **Capítulo IV: Product Design**
