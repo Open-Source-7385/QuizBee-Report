@@ -1493,7 +1493,6 @@ En el caso de la landing page y su Sprint, el miembro Pablo Geronimo y Jareth Vi
 
 
 
-
 ### 5.2.2. Sprint 2
 
 En esta sección, se documentará y explicará el segundo sprint de trabajo, enfocado en el desarrollo y avance del frontend de la aplicación web de QuizBee. El objetivo principal de este sprint es implementar las funcionalidades clave de la interfaz de usuario, mejorar la experiencia visual y sentar las bases para la integración con los servicios backend en los siguientes sprints.
@@ -1523,14 +1522,13 @@ En este apartado se detallan los principales aspectos considerados en el Sprint 
 
 Cada aspecto fue liderado o apoyado por diferentes miembros del equipo, promoviendo la colaboración y el aprendizaje conjunto. La siguiente tabla muestra la distribución de roles y responsabilidades para cada aspecto relevante del Sprint 2:
 
-| Team Member (Last Name, First Name) | Github Username   | Implementación de funcionalidades frontend Leader (L), Collaborator (C) | Mejora visual y experiencia de usuario Leader (L), Collaborator (C) | Integración y colaboración en equipo Leader (L), Collaborator (C) |
-| ----------------------------------- | ---------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Mazuelos, Marcelo                   | MarceloMazuelos  | (C)                                                                    | (C)                                                               | (C)                                                          |
-| Mendoza Vergara, Alejandro Franklin | AlexBoo578       | (C)                                                                    | (C)                                                               | (C)                                                          |
-| Geronimo Quispe, Pablo Antonio      | Phatogram        | (L)                                                                    | (C)                                                               | (C)                                                          |
-| Acosta Elera, Abraam Bernabe        | abraam16         | (C)                                                                    | (L)                                                               | (C)                                                          |
-| U202418250        | U202418250       | (C)                                                                    | (C)                                                               | (C)                                                          |
-| Vidal Malaga, Jareth Beycker        | Jareth Vidal     | (C)                                                                    | (C)                                                               | (L)                                                          |
+| Team Member (Last Name, First Name) | Github Username   | **Quizz and Questions** | **Scoring and Attempt** | **Speaking Room** |**IAM** | **Billing and Subcription**|
+| ----------------------------------- | ---------------- | ---------------------------------------------------------------------- | ---------|---------------|---------------------------------------- | --------------------------------------------------------------- |
+| Mazuelos, Marcelo                   | MarceloMazuelos  | (C)                                  |(C)  |           (C)                        | (C)                      |(C)|                                          | (C)                                                          |
+| Mendoza Vergara, Alejandro Franklin | AlexBoo578       | (C)                                 |(C)  |                    (C)                | (L)                 |(C) |                                              | (C)                                                          |
+| Geronimo Quispe, Pablo Antonio      | Phatogram        | (L)                                 | (C)  |                  (C)                  | (C)                  | (C)|                                            | (C)                                                          |
+| Acosta Elera, Abraam Bernabe        | abraam16         | (C)                       |  (C) |                     (C)                 | (L)                                                               | (C)                                     |(C) |                      |
+| Vidal Malaga, Jareth Beycker        | Jareth Vidal     | (C)                 |     (C)      |  (C)                                        | (C)                                                               | (L)                                                          |
 
 
 ### 5.2.2.3. Sprint Backlog 2
@@ -1578,15 +1576,15 @@ Durante el Sprint se avanzó en la implementación de los siguientes productos: 
 
 | Repository      | Branch   | Commit Message                                                      | Author           | Commit Message Body                                                                                                 | Commited on (Date) |
 |-----------------|----------|---------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------|--------------------|
-| QuizBee-Report  | develop  | docs(chapter-V): update development evidence for Sprint 2            | abraam16         | Se actualizó la evidencia de desarrollo del Sprint 2 en el capítulo V, agregando los principales avances y commits.  | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(user-stories): added an introduction to User Stories and new TS | MarceloMazuelos  | Se añadió una introducción a User Stories y nuevas TS a la sección correspondiente del informe.                      | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(journey-mapping): updated User Journey Mappings (UXpressia)     | MarceloMazuelos  | Se actualizaron los User Journey Mappings utilizando la metodología AS-IS y la herramienta UXpressia.               | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(team-info): added personal information to team sections         | MarceloMazuelos  | Se agregó información personal a las secciones relacionadas al equipo.                                              | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(readme): add tb1 outcome from AlexBoo578                        | AlexBoo578       | Se añadió el resultado TB1 proporcionado por AlexBoo578 al README.                                                  | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(integrantes): add alejandro information                         | AlexBoo578       | Se agregó la información de Alejandro a la sección de integrantes.                                                  | 07/10/2025         |
-| QuizBee-Report  | develop  | docs(database-class-diagram): add img of database and class diagram  | Phatogram        | Se añadieron imágenes del diagrama de base de datos y de clases al informe.                                         | 07/10/2025         |
-| QuizBee-Report  | develop  | fix(antecedentes): fix antecedentes y problematica                   | AlexBoo578       | Se corrigieron detalles en la sección de antecedentes y problemática.                                               | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(readme): added collaboration evidence for Sprint 2              | Jareth341        | Se añadió evidencia de colaboración del equipo durante el Sprint 2.                                                 | 07/10/2025         |
+| QuizBee-Frontend  | develop  | docs(chapter-V): update development evidence for Sprint 2            | abraam16         | Se actualizó la evidencia de desarrollo del Sprint 2 en el capítulo V, agregando los principales avances y commits.  | 07/10/2025         |
+| QuizBee-Frontend | develop  | feat(user-stories): added an introduction to User Stories and new TS | MarceloMazuelos  | Se añadió una introducción a User Stories y nuevas TS a la sección correspondiente del informe.                      | 07/10/2025         |
+| QuizBee-Frontend  | develop  | feat(journey-mapping): updated User Journey Mappings (UXpressia)     | MarceloMazuelos  | Se actualizaron los User Journey Mappings utilizando la metodología AS-IS y la herramienta UXpressia.               | 07/10/2025         |
+| QuizBee-Frontend  | develop  | feat(team-info): added personal information to team sections         | MarceloMazuelos  | Se agregó información personal a las secciones relacionadas al equipo.                                              | 07/10/2025         |
+| QuizBee-Frontend | develop  | feat(readme): add tb1 outcome from AlexBoo578                        | AlexBoo578       | Se añadió el resultado TB1 proporcionado por AlexBoo578 al README.                                                  | 07/10/2025         |
+|QuizBee-Frontend  | develop  | feat(integrantes): add alejandro information                         | AlexBoo578       | Se agregó la información de Alejandro a la sección de integrantes.                                                  | 07/10/2025         |
+| QuizBee-Frontend  | develop  | docs(database-class-diagram): add img of database and class diagram  | Phatogram        | Se añadieron imágenes del diagrama de base de datos y de clases al informe.                                         | 07/10/2025         |
+| QuizBee-Frontend  | develop  | fix(antecedentes): fix antecedentes y problematica                   | AlexBoo578       | Se corrigieron detalles en la sección de antecedentes y problemática.                                               | 07/10/2025         |
+| QuizBee-Frontend | develop  | feat(readme): added collaboration evidence for Sprint 2              | Jareth341        | Se añadió evidencia de colaboración del equipo durante el Sprint 2.                                                 | 07/10/2025         |
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 Durante este Sprint, el equipo logró implementar exitosamente las principales vistas del frontend de la aplicación Quizzbee, priorizando una experiencia de usuario fluida, intuitiva y visualmente coherente con el diseño propuesto. Se completó la estructura de navegación entre módulos clave, así como la visualización de datos simulados y el despliegue de componentes funcionales para cada uno de los bounded contexts asignados.
 
@@ -1604,14 +1602,30 @@ Integración simulada con API pública: A través de Beeceptor, se definieron en
 Despliegue en Firebase: Toda la aplicación desarrollada fue desplegada exitosamente en Firebase Hosting, lo cual facilitó pruebas visuales, revisiones del equipo y demostración funcional.
 deploy en firebase: https://quizzbee-bc-quizzies.web.app
 
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/frontendpablo.PNG">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/frontendpablo2.PNG">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/frontendpablo3.PNG">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/frontendpablo4.PNG">
+
+
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-En esta sección se presenta la documentación de los servicios implementados durante el Sprint 2, incluyendo descripciones, diagramas, endpoints y ejemplos de uso relevantes sobre la integración o desarrollo de servicios.
+Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend de PsychoHelp, utilizando Angular para las funcionalidades interactivas y Firebase para el despliegue
+
+Repositorio de Web Services (Planificado para los próximos sprints): Se ha preparado el repositorio que se utilizará para el desarrollo de la lógica del backend y para la implementación de los endpoints REST que se necesitarán en los próximos sprints
+
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Aquí se presentará la evidencia del despliegue del software realizado en el Sprint 2. Se podrán añadir capturas de pantalla, enlaces a entornos desplegados, logs de despliegue y cualquier otro recurso que demuestre el proceso y resultado del deployment. (Las imágenes y evidencias serán añadidas posteriormente).
 
+<iamagenes>
+
+
+
+ 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 
@@ -1621,4 +1635,5 @@ En este apartado se presenta un resumen de la dinámica de trabajo colaborativo 
 
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/develop/assets/img/chapter-IV/commitsSprint2.jpg">
 ---
+
 
