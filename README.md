@@ -1499,6 +1499,7 @@ En el caso de la landing page y su Sprint, el miembro Pablo Geronimo y Jareth Vi
 En esta sección, se documentará y explicará el segundo sprint de trabajo, enfocado en el desarrollo y avance del frontend de la aplicación web de QuizBee. El objetivo principal de este sprint es implementar las funcionalidades clave de la interfaz de usuario, mejorar la experiencia visual y sentar las bases para la integración con los servicios backend en los siguientes sprints.
 
 ### 5.2.2.1. Sprint Planning 2
+Durante la reunión de planificación del Sprint 2, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad del sistema y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
 
 | **Sprint #**                  | Sprint 2                                                                                                                        |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
@@ -1512,8 +1513,8 @@ En esta sección, se documentará y explicará el segundo sprint de trabajo, enf
 | **Sprint 1 Retrospective Summary** | Se identificó la necesidad de mejorar la comunicación y la planificación de tareas para optimizar el avance del desarrollo. |
 | **Sprint Goal & User Stories** | US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30 |
 | **Sprint 2 Goal**             | Implementar las vistas principales de la aplicación web, incluyendo la navegación, gestión de quizzes, perfil de usuario y visualización de resultados. |
-| **Sprint 2 Velocity**         | 8                                                                                                                               |
-| **Sum of Story Points**       | 8                                                                                                                               |
+| **Sprint 2 Velocity**         | 100$                                                                                                                               |
+| **Sum of Story Points**       | 69 Story Points                                                                                                                               |
 
 
 ### 5.2.2.2. Aspect Leaders and Collaborators.
