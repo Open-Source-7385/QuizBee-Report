@@ -272,9 +272,37 @@ Se utilizarán los estándares de **Conventional Commits**:
 - **test**: pruebas añadidas o corregidas.  
 - **chore**: tareas de mantenimiento.  
 
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-- HTML
+Para asegurar la calidad, mantenibilidad y coherencia del código fuente en el proyecto, se adoptarán las siguientes guías de estilo y convenciones estándar para los lenguajes utilizados:
+
+**JavaScript:**
+- Se seguirá la guía de estilo de [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), ampliamente reconocida en la industria.
+- Nomenclatura camelCase para variables y funciones, PascalCase para clases y componentes.
+- Uso de const y let en lugar de var.
+- Indentación de 2 espacios.
+- Comentarios claros y descriptivos.
+
+**TypeScript:**
+- Se adoptará la [Guía oficial de TypeScript](https://github.com/microsoft/TypeScript/wiki/Coding-guidelines) y las recomendaciones de [Airbnb TypeScript Style Guide](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-typescript).
+- Tipado estricto y explícito en variables, funciones y clases.
+- Uso de interfaces y types para definir contratos de datos.
+- Nomenclatura camelCase para variables y funciones, PascalCase para tipos, interfaces y clases.
+
+**Java:**
+- Se seguirá la [Guía de Estilo de Google para Java](https://google.github.io/styleguide/javaguide.html).
+- Nomenclatura camelCase para variables y métodos, PascalCase para clases.
+- Indentación de 4 espacios.
+- Uso de JavaDoc para documentación de clases y métodos públicos.
+
+**Convenciones generales de coding:**
+- Se utilizarán linters y formateadores automáticos (ESLint para JS/TS, Checkstyle para Java) para asegurar el cumplimiento de las guías.
+- Se evitarán abreviaturas poco claras en nombres de variables y funciones.
+- Se priorizará la legibilidad y la modularidad del código.
+- Se fomentará el uso de patrones de diseño y buenas prácticas de programación orientada a objetos y funcional.
+
+**HTML**
   - "p" Utiliza esta etiqueta para dividir el texto en párrafos.
   - "a" Permite crear enlaces hacia otras páginas web.
   - "ul" Crea una lista no ordenada (sin numeración).
@@ -283,7 +311,7 @@ Se utilizarán los estándares de **Conventional Commits**:
   - "h1" Indica el encabezado más importante del contenido.
   - "div" Agrupa diferentes secciones de contenido.
   
-- CSS
+**CSS**
   - width: Define el ancho de un elemento.
   - height: Establece el alto de un elemento.
   - padding: Crea espacio interno entre el borde y el contenido.
@@ -319,7 +347,16 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | **Sprint 1 Velocity**          | 5                                                                                                                                                                                   |
 | **Sum of Story Points**        | 5                                                                                                                                                                                   |
 
+
 ### 5.2.1.2. Aspect Leaders and Collaborators.
+
+En este apartado se detallan los principales aspectos considerados en el Sprint 1 y la asignación de responsabilidades dentro del equipo. Para este primer sprint, se priorizó la definición y desarrollo de los siguientes aspectos clave:
+
+- Elaboración y refinamiento de las User Stories fundamentales para la plataforma.
+- Diseño y construcción de la estructura inicial de la Landing Page.
+- Descripción y desarrollo de los primeros capítulos del informe, asegurando una base sólida para el proyecto.
+
+Cada uno de estos aspectos fue liderado o apoyado por diferentes miembros del equipo, promoviendo la colaboración y el aprendizaje conjunto. La siguiente tabla muestra la distribución de roles y responsabilidades para cada aspecto relevante del Sprint:
 
 | Team Member (Last Name, First Name) | Github Username | Elaboracion de User Stories Leader (L), Collaborator (C) | Desarrollo del landing page Leader (L), Collaborator (C) | Descripcion y desarrollo de los primeros capitulos Leader (L), Collaborator (C) |
 | ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
@@ -328,23 +365,44 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | Acosta, Abraam                 | abraam16        | (C)                                                     | (C)                                                            | (C)                                                |
 | Geronimo, Pablo              | Phatogram       | (C)                                                     | (L)                                                            | (C)                                                |
 
+
 ### 5.2.1.3. Sprint Backlog 1.
+
+El objetivo principal de este Sprint fue sentar las bases del proyecto, enfocándonos en la definición y desarrollo de los elementos esenciales para la primera entrega. Se priorizó la creación de la estructura de la landing page, la elaboración de las primeras user stories y la organización inicial del equipo. El Sprint Backlog refleja las tareas seleccionadas para alcanzar estos objetivos y asegurar un avance sólido y colaborativo desde el inicio del proyecto.
 
 
 | Sprint # | Sprint 1 | | | |     | 
 |----------|------|-|--|--|-----|
 |          | **User Story** | |  | |     | 
 | **Id**   | **Title** |  **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
-| US01     | Navegación en la landing page  | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma.	 | 4 | Jareth Vidal | Done |
-| US02     | Testimonios en la landing page  | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme.	 | 3 | Pablo Geronimo | Done|
-| US03     | Funcionalidades en la landing page | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer las funcionalidades de la plataforma.	 | 5 | Abraam Acosta | Done |
-| US04     | Planes Premiun en la landing page  | Como visitante, quiero ver los Planes Premiun qure ofrecen en la plataforma.	 | 3 | Alex  | Done |
-| US05     | Formulario en la landing page	  | Como visitante, quiero ver un formulario de contacto para poder resolver mis dudas.	 | 6 | Abraam Acosta | Done |
-| US06     |  Redes en la landing page		 | Como visitante, quiero ver todas sus redes en el footer.	 | 4 | Jareth Vidal | Done |
-| US07     | Servicios en la landing page	  | Como visitante, quiero ver los servicios qure ofrecen en la plataforma.	 | 2 | Pablo Geronimo | Done |
+| US01     | Navegación en la landing page  | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma. |  |  |  |
+|          | - Diseñar estructura de navegación principal | Definir el menú y enlaces principales de la landing page. | 2 | Jareth Vidal | Done |
+|          | - Implementar navegación responsive | Asegurar que la navegación funcione en dispositivos móviles y escritorio. | 2 | Jareth Vidal | Done |
+| US02     | Testimonios en la landing page  | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme. |  |  |  |
+|          | - Recopilar testimonios de usuarios | Buscar y seleccionar testimonios relevantes. | 1 | Pablo Geronimo | Done |
+|          | - Maquetar sección de testimonios | Diseñar y programar la sección en la landing page. | 2 | Pablo Geronimo | Done |
+| US03     | Funcionalidades en la landing page | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer las funcionalidades de la plataforma. |  |  |  |
+|          | - Listar funcionalidades clave | Definir y redactar las funcionalidades principales. | 2 | Abraam Acosta | Done |
+|          | - Implementar sección de funcionalidades | Maquetar y programar la sección en la landing page. | 3 | Abraam Acosta | Done |
+| US04     | Planes Premiun en la landing page  | Como visitante, quiero ver los Planes Premiun que ofrecen en la plataforma. |  |  |  |
+|          | - Definir contenido de planes premium | Redactar y estructurar la información de los planes. | 1 | Alex | Done |
+|          | - Maquetar sección de planes premium | Programar la sección en la landing page. | 2 | Alex | Done |
+| US05     | Formulario en la landing page  | Como visitante, quiero ver un formulario de contacto para poder resolver mis dudas. |  |  |  |
+|          | - Diseñar formulario de contacto | Definir campos y estructura del formulario. | 2 | Abraam Acosta | Done |
+|          | - Implementar validación de formulario | Programar validaciones básicas (requeridos, email, etc.). | 2 | Abraam Acosta | Done |
+|          | - Integrar formulario en la landing page | Maquetar y ubicar el formulario en la página. | 2 | Abraam Acosta | Done |
+| US06     | Redes en la landing page | Como visitante, quiero ver todas sus redes en el footer. |  |  |  |
+|          | - Recopilar enlaces de redes sociales | Listar y verificar enlaces oficiales. | 1 | Jareth Vidal | Done |
+|          | - Maquetar sección de redes en el footer | Programar los íconos y enlaces en el pie de página. | 3 | Jareth Vidal | Done |
+| US07     | Servicios en la landing page | Como visitante, quiero ver los servicios que ofrecen en la plataforma. |  |  |  |
+|          | - Definir lista de servicios | Redactar y organizar los servicios principales. | 1 | Pablo Geronimo | Done |
+|          | - Implementar sección de servicios | Maquetar y programar la sección en la landing page. | 1 | Pablo Geronimo | Done |
+
 
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
+
+Durante este Sprint, el equipo logró avances significativos en la implementación del proyecto. Se completó la estructura y diseño de la landing page, integrando las secciones principales como navegación, testimonios, funcionalidades, planes premium, formulario de contacto, redes sociales y servicios. Además, se documentaron los commits y ramas utilizados, asegurando trazabilidad y colaboración efectiva entre los miembros del equipo. A continuación, se presenta la evidencia de los principales entregables y contribuciones realizadas durante el Sprint.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|--------------------|--------------------|
@@ -358,15 +416,32 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | QuizBee-Report | Chapter3 | c2d3e4f | docs(chapter-III):"add epic with description and title" | Added comprehensive epic stories section with detailed descriptions and titles for each epic, establishing clear connections between user stories and business objectives | 17/09/2024 |
 | QuizBee-Report | Chapter4 | g5h6i7j | Delete assets/img/chapter-IV/wireframe1.png | Removed outdated wireframe image file that was no longer needed and replaced with updated design mockups that better represent the current UI/UX design approach | 19/09/2024 |
 | QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2024 |
+
 ### 5.2.1.5. Execution Evidence for Sprint Review.
-En esta entrega, nuestro equipo ha desplegado con éxito la landing page. Enlace de la Landing Page: <br>
+
+En este Sprint se logró desplegar la primera versión funcional de la landing page del proyecto, cumpliendo con los objetivos planteados en el backlog. El equipo trabajó de manera colaborativa para implementar y publicar las principales secciones, asegurando una experiencia de usuario coherente y alineada con los requerimientos iniciales. A continuación, se presenta la evidencia visual y el enlace de acceso a la landing page desplegada:
+
+Enlace de la Landing Page: <br>
 https://quizbeelandingpage.netlify.app/
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing.png">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing2.png">
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint
+
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Para este primer Sprint , como equipo logramos implementar satisfactoriamente la primera versión de la landing page.
+
+Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page utilizando la plataforma Netlify. El objetivo fue asegurar que la solución estuviera disponible en línea para su revisión y validación, cumpliendo con los estándares de entrega continua y visibilidad del avance del proyecto.
+
+**Pasos realizados durante el despliegue:**
+1. Se creó una cuenta y espacio de trabajo en Netlify para el proyecto.
+2. Se conectó el repositorio de la landing page alojado en GitHub con Netlify, permitiendo la integración continua.
+3. Se configuró la rama principal del repositorio como fuente de despliegue automático.
+4. Se ajustaron las opciones de build y publish para asegurar la correcta generación de archivos estáticos.
+5. Se realizó el primer despliegue, verificando que la landing page estuviera accesible públicamente y funcionando correctamente.
+6. Se validó el acceso desde diferentes dispositivos y navegadores para garantizar la experiencia de usuario.
+7. Se documentó la URL de acceso y se compartió con el equipo para revisión y feedback.
+
 ###Design
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,<br> se hizo uso de la plataforma Figma. Para utilizar la plataforma:
 
@@ -385,8 +460,12 @@ Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
 Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este repositorio contiene el informe de nuestro proyecto. <br>
  Quizbee Landing Page | https://github.com/Open-Source-7385/Landing  :Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
 
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
-A lo largo del Sprint 1, Pedro Lecca se encargó de manera integral del desarrollo de la solución, asumiendo las responsabilidades de diseño, programación, validación y despliegue del sistema.
+
+Durante este Sprint, las actividades de implementación se desarrollaron de manera colaborativa y organizada. El equipo utilizó herramientas como GitHub para la gestión de versiones y asignación de tareas, y Discord para la comunicación y coordinación diaria. Cada integrante asumió responsabilidades específicas según el backlog y los aspectos definidos en la planificación, participando activamente en el desarrollo, revisión de código y validación de entregables.
+
+Se promovió la revisión cruzada de avances, el registro de commits detallados y la documentación de los cambios realizados. Las reuniones periódicas permitieron resolver dudas, ajustar prioridades y asegurar que todos los miembros estuvieran alineados con los objetivos del Sprint. Esta dinámica facilitó la integración continua y la entrega oportuna de los resultados esperados.
 
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration.png">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration2.png">
