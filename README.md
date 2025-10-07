@@ -1155,17 +1155,55 @@ Billing and Suscription Bounded Context
 # **Capítulo V: Product Implementation, Validation & Deployment**
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+**Project Management**
+| Tipo de Actividad       | Herramienta / Producto | URL                                | Motivos de uso                                                                 |
+|--------------------------|-------------------------|------------------------------------|--------------------------------------------------------------------------------|
+| Documentación            | Trello               | https://trello.com             | Esta plataforma de gestión de proyectos ofrece funcionalidades para el seguimiento detallado del progreso de cada tarea a lo largo de su ciclo de vida,                                 |
+| Gestión de Requisitos    | Miro                    | https://miro.com/                | Para organizar, colaborar y realizar un seguimiento del trabajo de manera eficiente. |
+| Reuniones                | Discord                | https://discord.com/               | Reuniones con el equipo.                                                        |
+| C4               | structurizr              | https://structurizr.com/            | Sistema de notación visual para arquitectos de software y equipos de desarrollo                                              |
+  
 
+**Product UX/UI Desing**
 | Tipo de Actividad       | Herramienta / Producto | URL                                | Motivos de uso                                                                 |
 |--------------------------|-------------------------|------------------------------------|--------------------------------------------------------------------------------|
 | UX/UI Design             | Figma                  | https://www.figma.com/es-la        | Realizar los diseños de interfaz y de experiencia de usuario para nuestra solución. |
-| Desarrollo de Software   | VS Code                | https://code.visualstudio.com      | Desarrollar la Landing Page de nuestra solución.                                |
-| Documentación            | GitHub                 | https://github.com                 | Realizar la documentación de nuestra propuesta.                                 |
-| Gestión de Requisitos    | Miro                    | https://miro.com/                | Para organizar, colaborar y realizar un seguimiento del trabajo de manera eficiente. |
-| Reuniones                | Discord                | https://discord.com/               | Reuniones con el equipo.                                                        |
 
+
+**Software Development**
+| Plataforma     | Descripción | URL                               
+|--------------------------|-------------------------|------------------------------------|
+| HTML            | Sirve para definir la estructura y el contenido de una página web.                 | https://www.w3schools.com/html/default.asp |
+|CSS         | Se encarga de la presentación visual y el estilo de la página web.              | https://www.w3schools.com/css/default.asp|
+|JS         | Añade interactividad y dinamismo a la página web.               | https://www.w3schools.com/html/default.asp |
+|Visual Studio Code        | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos.            |https://code.visualstudio.com |
+
+**Software Documentation**
+
+| Plataforma     | Descripción | URL                               
+|--------------------------|-------------------------|------------------------------------|
+| GitHub            |Gestión de la documentación en función a repositorios y organizaciones	                |https://github.com |
+|Markdown         | Formato base para la presentación y documentación del proyecto	           | https://markdown.es/|
 
 ### 5.1.2. Source Code Management.
+Definir convenciones de nomenclatura para ramas en Git mejora la organización del flujo de trabajo y facilita la colaboración entre desarrolladores. Siguiendo buenas prácticas como las de Git Flow o trunk-based development, se puede establecer una estructura ordenada y predecible.
+
+Además, utilizar un esquema de nombres predecible permite:
+
+Automatizar procesos (CI/CD).
+
+Identificar fácilmente el propósito y alcance de una rama.
+
+GitFlow es un modelo de gestión de ramas en Git que facilita el manejo de proyectos grandes mediante la separación en ramas principales y de características. En nuestro proyecto, utilizamos las siguientes ramas:
+
+Rama main: Esta rama contiene el código en producción, incluyendo archivos CSS, imágenes, JavaScript y la página principal en HTML. Aseguramos que todo el contenido aquí esté en un estado estable y listo para ser desplegado.
+
+
+Además, contamos con un repositorio separado que organiza nuestras tareas en epics, utilizando archivos .feature que describen los criterios de aceptación para cada funcionalidad. Esto nos ayuda a mantener un seguimiento claro del progreso del desarrollo.
+
+Elegimos GitHub como nuestra plataforma de colaboración para facilitar el seguimiento del progreso, la gestión de cambios y la visualización de actualizaciones. Las actualizaciones al código se reflejan automáticamente en gh-pages, permitiendo que los interesados vean los avances en tiempo real.
+
+
 **Link Repositorio Report**
 
 Link: https://github.com/Open-Source-7385/QuizBee-Report.git
@@ -1267,12 +1305,35 @@ Para asegurar la calidad, mantenibilidad y coherencia del código fuente en el p
 
 
 ### 5.1.4. Software Deployment Configuration.
+
+#### Consideraciones Preliminares al Despliegue:
+
+- **Implementación de Archivos Web**: Se requiere la implementación completa de la página web utilizando archivos HTML, CSS y JS para garantizar su correcta operatividad. Se autoriza el uso de diversos formatos para los archivos de imagen (jpg, png, webp, etc.).
+  
+- **Mecanismo de Publicación en Github**: En virtud del servicio Github Pages, todos los archivos necesarios para la funcionalidad de la aplicación se cargarán al repositorio compartido de Github, facilitando la colaboración simultánea entre los miembros del equipo.
+
+- **Protocolo de Pruebas de Funcionamiento**: Tras cada actualización e integración al repositorio, se ejecutarán pruebas internas para asegurar la correcta operación de la página. Asimismo, se someterá la página a pruebas por parte de usuarios externos al grupo de trabajo para obtener una evaluación imparcial.
+
+#### Requisitos Mandatorios para el Despliegue:
+
+- Existencia de un repositorio dentro de la organización de GitHub.
+- El repositorio debe poseer visibilidad pública.
+- Disposición de los permisos de Github necesarios.
+- Disponibilidad del código fuente de la Landing Page.
+
+#### Procedimiento de Despliegue de la Landing Page:
+
+1. Carga del código fuente de la Landing Page al repositorio de destino en GitHub.
+2. Acceso a la interfaz de configuración del repositorio en GitHub.
+3. Selección de la sección denominada "Pages".
+4. Una vez completados los pasos precedentes, se iniciará el proceso de construcción, tras el cual la Landing Page deberá estar accesible en breve.
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 
 En esta sección, se documentará y explicará, en términos de producto y colaboración, el primer sprint de trabajo.
 
 ### 5.2.1.1. Sprint Planning 1.
+Esta sección presenta los detalles de la primera reunión de planificación de Sprint del equipo. Durante esta sesión, se definieron los objetivos principales del Sprint, la capacidad del equipo y las tareas a abordar. Al ser el primer Sprint del proyecto, no se incluyen resúmenes de revisión ni retrospectiva previos. El enfoque principal fue la implementación de la landing page, con el objetivo de validar el interés del público en la propuesta de negocio. A continuación, se detallan los aspectos clave discutidos durante la reunión:
 
 | **Sprint #**                  | Sprint 1                                                                                                                                                                            |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1310,8 +1371,12 @@ Cada uno de estos aspectos fue liderado o apoyado por diferentes miembros del eq
 
 ### 5.2.1.3. Sprint Backlog 1.
 
-El objetivo principal de este Sprint fue sentar las bases del proyecto, enfocándonos en la definición y desarrollo de los elementos esenciales para la primera entrega. Se priorizó la creación de la estructura de la landing page, la elaboración de las primeras user stories y la organización inicial del equipo. El Sprint Backlog refleja las tareas seleccionadas para alcanzar estos objetivos y asegurar un avance sólido y colaborativo desde el inicio del proyecto.
+En esta sección se detalla el Sprint Backlog correspondiente al Sprint 1, el cual incluye todas las historias de usuario priorizadas, así como las tareas específicas asociadas a cada una. Cada tarea contiene su respectiva descripción, estimación en horas, asignación de responsable y estado de avance. Este backlog sirvió como guía para la ejecución del Sprint y permitió al equipo mantener un control claro sobre el desarrollo de la landing page y sus componentes clave.
 
+Enlace del board donde se trabako el Sprint Backlog1:https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI15ee9fd19dc710938caf0d6f96d940e7550358A3/mi-tablero-de-trello
+
+
+<aca va imagen del sprint 1>
 
 | Sprint # | Sprint 1 | | | |     | 
 |----------|------|-|--|--|-----|
@@ -1384,23 +1449,30 @@ Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page
 6. Se validó el acceso desde diferentes dispositivos y navegadores para garantizar la experiencia de usuario.
 7. Se documentó la URL de acceso y se compartió con el equipo para revisión y feedback.
 
-###Design
+### Design
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,<br> se hizo uso de la plataforma Figma. Para utilizar la plataforma:
 
 1.Se accede a través de la página oficial de Figma: https://www.figma.com/login
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma.png">
+
+2. Luego, se crea un Draft que nos servirá como base para el proyecto colaborativo.
+
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma2.png">
 
 **Deployment Para la landing page, se utilizará Netlify para el despliegue de la página.**
+### Deployment
+Para la landing page, se utilizará Netlify para el despliegue de la página.
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment2.png">
+
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment4.png">
+
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment5.png">
+
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment.png">
 
 Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
 
-Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este repositorio contiene el informe de nuestro proyecto. <br>
- Quizbee Landing Page | https://github.com/Open-Source-7385/Landing  :Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
+Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este repositorio contiene el informe de nuestro proyecto. <br>  Quizbee Landing Page | https://github.com/Open-Source-7385/Landing  :Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
@@ -1411,6 +1483,9 @@ Se promovió la revisión cruzada de avances, el registro de commits detallados 
 
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration.png">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration2.png">
+En el caso de la landing page y su Sprint, el miembro Pablo Geronimo y Jareth Vidal, fue el encargado de su diseño y despliegue. Pudiendo evidenciar en estas capturas, su partipación activa durante el desarrollo.
+
+    
 ---
 
 
@@ -1521,5 +1596,4 @@ En este apartado se presenta un resumen de la dinámica de trabajo colaborativo 
 
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/develop/assets/img/chapter-IV/commitsSprint2.jpg">
 ---
-
 
