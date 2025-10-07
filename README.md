@@ -493,14 +493,33 @@ link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EZ
 - Duración: 4:46
 
 **Resumen:**
-Liliana Margarita Málaga Vidal mantiene su dominio del inglés mediante la lectura de artículos, viendo series y películas en el idioma, y trabajando con textos relacionados a su profesión. Utiliza el inglés entre dos y cuatro veces por semana en su entorno laboral, especialmente para interactuar con expertos internacionales. Su motivación para seguir mejorando proviene de su entorno profesional, ya que en su trabajo interactúa con personas que dominan el inglés, lo que le permite seguir aprendiendo y avanzando.
+Liliana  mantiene su dominio del inglés mediante la lectura de artículos, viendo series y películas en el idioma, y trabajando con textos relacionados a su profesión. Utiliza el inglés entre dos y cuatro veces por semana en su entorno laboral, especialmente para interactuar con expertos internacionales. Su motivación para seguir mejorando proviene de su entorno profesional, ya que en su trabajo interactúa con personas que dominan el inglés, lo que le permite seguir aprendiendo y avanzando.
 
 Liliana considera que la pérdida de fluidez en inglés sería una gran desventaja, especialmente en su entorno laboral donde la comunicación con expertos internacionales es clave. En cuanto a las herramientas digitales para aprender, prefiere aquellas que ofrecen contenidos avanzados y prácticos, y que permiten interacción en vivo, algo que le resultó difícil de encontrar al principio. Para ella, contar con retos avanzados en contextos profesionales es esencial para seguir progresando en el idioma.
 
 Está interesada en crear quizzes y retos personalizados para ayudar a otros usuarios a mejorar su nivel de inglés, y valora la posibilidad de obtener algún tipo de reconocimiento o beneficio por sus contribuciones. Además, le parece muy valiosa la idea de participar en reuniones virtuales con otros usuarios avanzados, ya que estas experiencias simulan conversaciones reales y le ayudan a ganar confianza. Finalmente, le gustaría que una plataforma le otorgue puntos por su participación, que luego podría canjear por exámenes oficiales o certificaciones, lo que convertiría su práctica en un beneficio concreto.
 
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista5.PNG">
+
+- Entrevista N°3: Diego Vela
+- Sexo: Masculino
+- Edad: 40 años
+
+- Ubicación en la que vive: San Miguel, Peru
+
+#### Entrevista: ####
+link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EZWkEJGZFOFDlQkg6khUE5UBJuBFZM_wwmNDtt7jmyMkrw?e=Uo4mVo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EQs8KuoZROtNugXc4s3brQABOx9pbT8eBCT9qUDb6AHvGw?e=EhTAJR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+- Momento en el que inicia: 0:01
+
+- Duración: 3:54
+
+**Resumen:** La persona entrevistada, mantiene su dominio del idioma principalmente viendo series, escuchando música y leyendo artículos en inglés unas tres veces por semana. Su motivación está ligada a mejores oportunidades laborales y a no perder el esfuerzo que le costó alcanzar su nivel actual. Considera negativo perder fluidez, ya que afectaría su trabajo, y al elegir plataformas valora la facilidad de uso, la práctica real y los retos avanzados, sobre todo en vocabulario técnico y profesional. Ha tenido experiencias negativas con apps muy básicas y cree útil participar en reuniones virtuales de speaking, ya que en Lima no siempre hay espacios para practicar. Le interesa la idea de crear quizzes a cambio de beneficios y se motiva más con rankings globales. Aunque usa herramientas como YouTube y Tandem, pagaría un plan premium si el precio fuera accesible, y valora altamente que el progreso en la plataforma pueda convertirse en una certificación oficial reconocida.
+
 
 ### 2.2.3. Análisis de entrevistas.
+
 
 - Patrones Comunes:
 
