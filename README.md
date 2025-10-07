@@ -1608,6 +1608,9 @@ deploy en firebase: https://quizzbee-bc-quizzies.web.app
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/frontendpablo3.PNG">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/frontendpablo4.PNG">
 
+JARETH VIDAL
+
+Bounded Context de Billing and Subscriptions no se llego a desplegar el bounded context con FireBase se llego a crear todas las carpetas con sus respectivos componentes, entitys y assemblers
 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
