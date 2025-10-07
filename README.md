@@ -1540,7 +1540,7 @@ Además, como parte del compromiso con la experiencia del usuario, se implement�
 Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI15ee9fd19dc710938caf0d6f96d940e7550358A3/mi-tablero-de-trello
 
 
-<falta imagaen del trello>
+
 
 | Sprint # | Sprint 2 | | | |     | 
 |----------|------|-|--|--|-----|
@@ -1610,7 +1610,6 @@ deploy en firebase: https://quizzbee-bc-quizzies.web.app
 
 
 
-
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend de PsychoHelp, utilizando Angular para las funcionalidades interactivas y Firebase para el despliegue
@@ -1622,19 +1621,56 @@ Repositorio de Web Services (Planificado para los próximos sprints): Se ha prep
 
 Aquí se presentará la evidencia del despliegue del software realizado en el Sprint 2. Se podrán añadir capturas de pantalla, enlaces a entornos desplegados, logs de despliegue y cualquier otro recurso que demuestre el proceso y resultado del deployment. (Las imágenes y evidencias serán añadidas posteriormente).
 
-<iamagenes>
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/beceptor.png">
+Nos registramos 
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/beceptopr2.png">
+Ya registrados podemos crear nuestras endpoints públicas
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/beceptor3.png">
+
+Y en el serverBasePath: Ponemos la url de nuestro endPoint pública
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/beceptopr24png.png">
 
 
+Firebase Firebase es una plataforma de desarrollo de aplicaciones web y móviles proporcionada por Google, diseñada para ayudar a los desarrolladores a crear, gestionar y escalar aplicaciones rápidamente. Firebase ofrece una variedad de servicios que facilitan tanto el desarrollo como la gestión de aplicaciones en tiempo real<br>
+
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/firebase.png">
+
+ Nos registramos con una cuenta de google y vamos a la consola
+ 
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/firebase2.png">
+ 
+ Creamos un nuevo proyecto de firebase
+ 
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/firebase3.png">
+ Ponemos un nombre para el proyecto
+ 
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/firebase4.png">
+
+
+ Vamos al apartado de hosting
 
  
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/firebase5.png">
+
+
+ Se configura el firebase hosting en nuestro proyecto de intellij idea
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/firebase6.png">
+
+ 
+ Con esto ya tendríamos nuestro hosting desplegado con los siguientes comandos
+
+ng build
+sudo npm install -g firebase-tools
+firebase login
+firebase init
+firebase deploy
+
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 
 En este apartado se presenta un resumen de la dinámica de trabajo colaborativo y la gestión de tareas realizada por el equipo durante el Sprint 2. Se incluyen evidencias visuales que muestran la participación activa de los integrantes, así como el registro de los commits y contribuciones en el repositorio. Estas evidencias reflejan el compromiso, la organización y la comunicación efectiva que caracterizaron el desarrollo de este sprint.
 
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/develop/assets/img/chapter-IV/collaboratorsSpinrt2.jpg">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/evidenciastiki.PNG">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/evidenciastiki2.PNG">
 
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/develop/assets/img/chapter-IV/commitsSprint2.jpg">
 ---
-
-
