@@ -1201,9 +1201,37 @@ Se utilizarán los estándares de **Conventional Commits**:
 - **test**: pruebas añadidas o corregidas.  
 - **chore**: tareas de mantenimiento.  
 
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-- HTML
+Para asegurar la calidad, mantenibilidad y coherencia del código fuente en el proyecto, se adoptarán las siguientes guías de estilo y convenciones estándar para los lenguajes utilizados:
+
+**JavaScript:**
+- Se seguirá la guía de estilo de [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript), ampliamente reconocida en la industria.
+- Nomenclatura camelCase para variables y funciones, PascalCase para clases y componentes.
+- Uso de const y let en lugar de var.
+- Indentación de 2 espacios.
+- Comentarios claros y descriptivos.
+
+**TypeScript:**
+- Se adoptará la [Guía oficial de TypeScript](https://github.com/microsoft/TypeScript/wiki/Coding-guidelines) y las recomendaciones de [Airbnb TypeScript Style Guide](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-typescript).
+- Tipado estricto y explícito en variables, funciones y clases.
+- Uso de interfaces y types para definir contratos de datos.
+- Nomenclatura camelCase para variables y funciones, PascalCase para tipos, interfaces y clases.
+
+**Java:**
+- Se seguirá la [Guía de Estilo de Google para Java](https://google.github.io/styleguide/javaguide.html).
+- Nomenclatura camelCase para variables y métodos, PascalCase para clases.
+- Indentación de 4 espacios.
+- Uso de JavaDoc para documentación de clases y métodos públicos.
+
+**Convenciones generales de coding:**
+- Se utilizarán linters y formateadores automáticos (ESLint para JS/TS, Checkstyle para Java) para asegurar el cumplimiento de las guías.
+- Se evitarán abreviaturas poco claras en nombres de variables y funciones.
+- Se priorizará la legibilidad y la modularidad del código.
+- Se fomentará el uso de patrones de diseño y buenas prácticas de programación orientada a objetos y funcional.
+
+**HTML**
   - "p" Utiliza esta etiqueta para dividir el texto en párrafos.
   - "a" Permite crear enlaces hacia otras páginas web.
   - "ul" Crea una lista no ordenada (sin numeración).
@@ -1212,7 +1240,7 @@ Se utilizarán los estándares de **Conventional Commits**:
   - "h1" Indica el encabezado más importante del contenido.
   - "div" Agrupa diferentes secciones de contenido.
   
-- CSS
+**CSS**
   - width: Define el ancho de un elemento.
   - height: Establece el alto de un elemento.
   - padding: Crea espacio interno entre el borde y el contenido.
@@ -1248,7 +1276,16 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | **Sprint 1 Velocity**          | 5                                                                                                                                                                                   |
 | **Sum of Story Points**        | 5                                                                                                                                                                                   |
 
+
 ### 5.2.1.2. Aspect Leaders and Collaborators.
+
+En este apartado se detallan los principales aspectos considerados en el Sprint 1 y la asignación de responsabilidades dentro del equipo. Para este primer sprint, se priorizó la definición y desarrollo de los siguientes aspectos clave:
+
+- Elaboración y refinamiento de las User Stories fundamentales para la plataforma.
+- Diseño y construcción de la estructura inicial de la Landing Page.
+- Descripción y desarrollo de los primeros capítulos del informe, asegurando una base sólida para el proyecto.
+
+Cada uno de estos aspectos fue liderado o apoyado por diferentes miembros del equipo, promoviendo la colaboración y el aprendizaje conjunto. La siguiente tabla muestra la distribución de roles y responsabilidades para cada aspecto relevante del Sprint:
 
 | Team Member (Last Name, First Name) | Github Username | Elaboracion de User Stories Leader (L), Collaborator (C) | Desarrollo del landing page Leader (L), Collaborator (C) | Descripcion y desarrollo de los primeros capitulos Leader (L), Collaborator (C) |
 | ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
@@ -1256,24 +1293,45 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | Vidal, Jareth              | Jareth341       | (L)                                                     | (C)                                                            | (C)                                                |
 | Acosta, Abraam                 | abraam16        | (C)                                                     | (C)                                                            | (C)                                                |
 | Geronimo, Pablo              | Phatogram       | (C)                                                     | (L)                                                            | (C)                                                |
-| Alejandro Franklin Mendoza Vergara                             |   AlexBoo1             |                 (C)                                         |                 (C)                                              |        (C)                                  |
+
 
 ### 5.2.1.3. Sprint Backlog 1.
+
+El objetivo principal de este Sprint fue sentar las bases del proyecto, enfocándonos en la definición y desarrollo de los elementos esenciales para la primera entrega. Se priorizó la creación de la estructura de la landing page, la elaboración de las primeras user stories y la organización inicial del equipo. El Sprint Backlog refleja las tareas seleccionadas para alcanzar estos objetivos y asegurar un avance sólido y colaborativo desde el inicio del proyecto.
+
 
 | Sprint # | Sprint 1 | | | |     | 
 |----------|------|-|--|--|-----|
 |          | **User Story** | |  | |     | 
 | **Id**   | **Title** |  **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
-| US01     | Navegación en la landing page  | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma.	 | 4 | Jareth Vidal | Done |
-| US02     | Testimonios en la landing page  | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme.	 | 3 | Pablo Geronimo | Done|
-| US03     | Funcionalidades en la landing page | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer las funcionalidades de la plataforma.	 | 5 | Abraam Acosta | Done |
-| US04     | Planes Premiun en la landing page  | Como visitante, quiero ver los Planes Premiun qure ofrecen en la plataforma.	 | 3 | Alex  | Done |
-| US05     | Formulario en la landing page	  | Como visitante, quiero ver un formulario de contacto para poder resolver mis dudas.	 | 6 | Abraam Acosta | Done |
-| US06     |  Redes en la landing page		 | Como visitante, quiero ver todas sus redes en el footer.	 | 4 | Jareth Vidal | Done |
-| US07     | Servicios en la landing page	  | Como visitante, quiero ver los servicios qure ofrecen en la plataforma.	 | 2 | Pablo Geronimo | Done |
+| US01     | Navegación en la landing page  | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma. |  |  |  |
+|          | - Diseñar estructura de navegación principal | Definir el menú y enlaces principales de la landing page. | 2 | Jareth Vidal | Done |
+|          | - Implementar navegación responsive | Asegurar que la navegación funcione en dispositivos móviles y escritorio. | 2 | Jareth Vidal | Done |
+| US02     | Testimonios en la landing page  | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme. |  |  |  |
+|          | - Recopilar testimonios de usuarios | Buscar y seleccionar testimonios relevantes. | 1 | Pablo Geronimo | Done |
+|          | - Maquetar sección de testimonios | Diseñar y programar la sección en la landing page. | 2 | Pablo Geronimo | Done |
+| US03     | Funcionalidades en la landing page | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer las funcionalidades de la plataforma. |  |  |  |
+|          | - Listar funcionalidades clave | Definir y redactar las funcionalidades principales. | 2 | Abraam Acosta | Done |
+|          | - Implementar sección de funcionalidades | Maquetar y programar la sección en la landing page. | 3 | Abraam Acosta | Done |
+| US04     | Planes Premiun en la landing page  | Como visitante, quiero ver los Planes Premiun que ofrecen en la plataforma. |  |  |  |
+|          | - Definir contenido de planes premium | Redactar y estructurar la información de los planes. | 1 | Alex | Done |
+|          | - Maquetar sección de planes premium | Programar la sección en la landing page. | 2 | Alex | Done |
+| US05     | Formulario en la landing page  | Como visitante, quiero ver un formulario de contacto para poder resolver mis dudas. |  |  |  |
+|          | - Diseñar formulario de contacto | Definir campos y estructura del formulario. | 2 | Abraam Acosta | Done |
+|          | - Implementar validación de formulario | Programar validaciones básicas (requeridos, email, etc.). | 2 | Abraam Acosta | Done |
+|          | - Integrar formulario en la landing page | Maquetar y ubicar el formulario en la página. | 2 | Abraam Acosta | Done |
+| US06     | Redes en la landing page | Como visitante, quiero ver todas sus redes en el footer. |  |  |  |
+|          | - Recopilar enlaces de redes sociales | Listar y verificar enlaces oficiales. | 1 | Jareth Vidal | Done |
+|          | - Maquetar sección de redes en el footer | Programar los íconos y enlaces en el pie de página. | 3 | Jareth Vidal | Done |
+| US07     | Servicios en la landing page | Como visitante, quiero ver los servicios que ofrecen en la plataforma. |  |  |  |
+|          | - Definir lista de servicios | Redactar y organizar los servicios principales. | 1 | Pablo Geronimo | Done |
+|          | - Implementar sección de servicios | Maquetar y programar la sección en la landing page. | 1 | Pablo Geronimo | Done |
+
 
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
+
+Durante este Sprint, el equipo logró avances significativos en la implementación del proyecto. Se completó la estructura y diseño de la landing page, integrando las secciones principales como navegación, testimonios, funcionalidades, planes premium, formulario de contacto, redes sociales y servicios. Además, se documentaron los commits y ramas utilizados, asegurando trazabilidad y colaboración efectiva entre los miembros del equipo. A continuación, se presenta la evidencia de los principales entregables y contribuciones realizadas durante el Sprint.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|--------------------|--------------------|
@@ -1287,40 +1345,158 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 | QuizBee-Report | Chapter3 | c2d3e4f | docs(chapter-III):"add epic with description and title" | Added comprehensive epic stories section with detailed descriptions and titles for each epic, establishing clear connections between user stories and business objectives | 17/09/2024 |
 | QuizBee-Report | Chapter4 | g5h6i7j | Delete assets/img/chapter-IV/wireframe1.png | Removed outdated wireframe image file that was no longer needed and replaced with updated design mockups that better represent the current UI/UX design approach | 19/09/2024 |
 | QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2024 |
+
 ### 5.2.1.5. Execution Evidence for Sprint Review.
-En esta entrega, nuestro equipo ha desplegado con éxito la landing page. Enlace de la Landing Page: <br>
-https://quizbeelp.netlify.app/
+
+En este Sprint se logró desplegar la primera versión funcional de la landing page del proyecto, cumpliendo con los objetivos planteados en el backlog. El equipo trabajó de manera colaborativa para implementar y publicar las principales secciones, asegurando una experiencia de usuario coherente y alineada con los requerimientos iniciales. A continuación, se presenta la evidencia visual y el enlace de acceso a la landing page desplegada:
+
+Enlace de la Landing Page: <br>
+https://quizbeelandingpage.netlify.app/
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing.png">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing2.png">
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint
+
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-Para este primer Sprint , como equipo logramos implementar satisfactoriamente la primera versión de la landing page.
+
+Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page utilizando la plataforma Netlify. El objetivo fue asegurar que la solución estuviera disponible en línea para su revisión y validación, cumpliendo con los estándares de entrega continua y visibilidad del avance del proyecto.
+
+**Pasos realizados durante el despliegue:**
+1. Se creó una cuenta y espacio de trabajo en Netlify para el proyecto.
+2. Se conectó el repositorio de la landing page alojado en GitHub con Netlify, permitiendo la integración continua.
+3. Se configuró la rama principal del repositorio como fuente de despliegue automático.
+4. Se ajustaron las opciones de build y publish para asegurar la correcta generación de archivos estáticos.
+5. Se realizó el primer despliegue, verificando que la landing page estuviera accesible públicamente y funcionando correctamente.
+6. Se validó el acceso desde diferentes dispositivos y navegadores para garantizar la experiencia de usuario.
+7. Se documentó la URL de acceso y se compartió con el equipo para revisión y feedback.
+
 ###Design
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,<br> se hizo uso de la plataforma Figma. Para utilizar la plataforma:
 
 1.Se accede a través de la página oficial de Figma: https://www.figma.com/login
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/figma.png" alt="Figma 1">
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/figma2.png" alt="Figma 2">
-
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma2.png">
 
 **Deployment Para la landing page, se utilizará Netlify para el despliegue de la página.**
-
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment2.png" alt="Deployment 2">
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment4.png" alt="Deployment 4">
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment5.png" alt="Deployment 5">
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment.png" alt="Deployment">
-
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment2.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment4.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment5.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment.png">
 
 Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
 
 Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este repositorio contiene el informe de nuestro proyecto. <br>
  Quizbee Landing Page | https://github.com/Open-Source-7385/Landing  :Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
 
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
-A lo largo del Sprint 1, Pablo Geronimo se encargó de manera integral del desarrollo de la solución, asumiendo las responsabilidades de diseño, programación, validación y despliegue del sistema.
+
+Durante este Sprint, las actividades de implementación se desarrollaron de manera colaborativa y organizada. El equipo utilizó herramientas como GitHub para la gestión de versiones y asignación de tareas, y Discord para la comunicación y coordinación diaria. Cada integrante asumió responsabilidades específicas según el backlog y los aspectos definidos en la planificación, participando activamente en el desarrollo, revisión de código y validación de entregables.
+
+Se promovió la revisión cruzada de avances, el registro de commits detallados y la documentación de los cambios realizados. Las reuniones periódicas permitieron resolver dudas, ajustar prioridades y asegurar que todos los miembros estuvieran alineados con los objetivos del Sprint. Esta dinámica facilitó la integración continua y la entrega oportuna de los resultados esperados.
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration.png">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration2.png">
+---
 
 
+
+
+
+
+
+### 5.2.2. Sprint 2
+
+En esta sección, se documentará y explicará el segundo sprint de trabajo, enfocado en el desarrollo y avance del frontend de la aplicación web de QuizBee. El objetivo principal de este sprint es implementar las funcionalidades clave de la interfaz de usuario, mejorar la experiencia visual y sentar las bases para la integración con los servicios backend en los siguientes sprints.
+
+### 5.2.2.1. Sprint Planning 2
+
+| **Sprint #**                  | Sprint 2                                                                                                                        |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** | Continuación del desarrollo tras la entrega del Sprint 1. Se prioriza la implementación de vistas y componentes principales.     |
+| **Date**                      | 1 de octubre del 2025                                                                                                           |
+| **Time**                      | 18:00 horas                                                                                                                     |
+| **Location**                  | Modalidad remota a través de la plataforma Discord                                                                              |
+| **Prepared By**               | Todos los integrantes del equipo QuizBee                                                                                        |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee                                                                                  |
+| **Sprint 1 Review Summary**   | Se completó la estructura y diseño de la landing page, así como la definición de user stories y organización inicial del equipo. |
+| **Sprint 1 Retrospective Summary** | Se identificó la necesidad de mejorar la comunicación y la planificación de tareas para optimizar el avance del desarrollo. |
+| **Sprint Goal & User Stories** | US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30 |
+| **Sprint 2 Goal**             | Implementar las vistas principales de la aplicación web, incluyendo la navegación, gestión de quizzes, perfil de usuario y visualización de resultados. |
+| **Sprint 2 Velocity**         | 8                                                                                                                               |
+| **Sum of Story Points**       | 8                                                                                                                               |
+
+
+### 5.2.2.2. Aspect Leaders and Collaborators.
+
+En este apartado se detallan los principales aspectos considerados en el Sprint 2 y la asignación de responsabilidades dentro del equipo, incluyendo a los nuevos integrantes que se sumaron para este ciclo. Para este sprint, se priorizó la implementación de funcionalidades clave del frontend, la mejora de la experiencia visual y la integración de nuevos miembros al flujo de trabajo colaborativo.
+
+Cada aspecto fue liderado o apoyado por diferentes miembros del equipo, promoviendo la colaboración y el aprendizaje conjunto. La siguiente tabla muestra la distribución de roles y responsabilidades para cada aspecto relevante del Sprint 2:
+
+| Team Member (Last Name, First Name) | Github Username   | Implementación de funcionalidades frontend Leader (L), Collaborator (C) | Mejora visual y experiencia de usuario Leader (L), Collaborator (C) | Integración y colaboración en equipo Leader (L), Collaborator (C) |
+| ----------------------------------- | ---------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
+| Mazuelos, Marcelo                   | MarceloMazuelos  | (C)                                                                    | (C)                                                               | (C)                                                          |
+| Mendoza Vergara, Alejandro Franklin | AlexBoo578       | (C)                                                                    | (C)                                                               | (C)                                                          |
+| Geronimo Quispe, Pablo Antonio      | Phatogram        | (L)                                                                    | (C)                                                               | (C)                                                          |
+| Acosta Elera, Abraam Bernabe        | abraam16         | (C)                                                                    | (L)                                                               | (C)                                                          |
+| U202418250        | U202418250       | (C)                                                                    | (C)                                                               | (C)                                                          |
+| Vidal Malaga, Jareth Beycker        | Jareth Vidal     | (C)                                                                    | (C)                                                               | (L)                                                          |
+
+
+### 5.2.2.3. Sprint Backlog 2
+
+El objetivo principal de este Sprint fue avanzar en el desarrollo del frontend de la aplicación web, implementando las vistas y componentes clave para la experiencia del usuario. Se priorizó la navegación, la gestión de quizzes, el perfil de usuario y la visualización de resultados. El Sprint Backlog refleja las tareas seleccionadas para alcanzar estos objetivos y asegurar un avance sólido y colaborativo.
+
+| Sprint # | Sprint 2 | | | |     | 
+|----------|------|-|--|--|-----|
+|          | **User Story** | |  | |     | 
+| **Id**   | **Title** |  **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
+| US08     | Eliminar cuenta de usuario  | Como usuario, quiero poder eliminar mi cuenta de la plataforma. | 2 | Marcelo Mazuelos | To-do |
+| US09     | Cerrar sesión segura  | Como usuario, quiero cerrar sesión de forma segura. | 1 | Alejandro Mendoza | To-do |
+| US10     | Crear quizzes  | Como creador, quiero poder crear quizzes personalizados. | 3 | Pablo Geronimo | To-do |
+| US11     | Publicar quizzes  | Como creador, quiero publicar mis quizzes terminados. | 2 | Abraam Acosta | To-do |
+| US12     | Editar quizzes  | Como creador, quiero editar quizzes ya publicados. | 2 | U202418250 | To-do |
+| US13     | Eliminar quizzes  | Como creador, quiero eliminar quizzes que ya no sean útiles. | 1 | Jareth Vidal | To-do |
+| US14     | Filtrar quizzes por idioma  | Como usuario, quiero filtrar quizzes por idioma. | 1 | Marcelo Mazuelos | To-do |
+| US15     | Filtrar quizzes por dificultad  | Como usuario, quiero filtrar quizzes por nivel de dificultad. | 1 | Alejandro Mendoza | To-do |
+| US16     | Filtrar quizzes por categoría  | Como usuario, quiero filtrar quizzes por categoría temática. | 1 | Pablo Geronimo | To-do |
+| US17     | Resolver quizzes  | Como usuario, quiero resolver quizzes y obtener retroalimentación. | 3 | Abraam Acosta | To-do |
+| US18     | Instrucciones antes de quiz  | Como usuario, quiero ver instrucciones antes de iniciar un quiz. | 1 | U202418250 | To-do |
+| US19     | Navegación entre preguntas  | Como usuario, quiero navegar entre preguntas durante el quiz. | 2 | Jareth Vidal | To-do |
+| US20     | Temporizador en quiz  | Como usuario, quiero ver un temporizador durante el quiz. | 1 | Marcelo Mazuelos | To-do |
+| US21     | Aviso de preguntas sin responder  | Como usuario, quiero saber si dejé preguntas sin responder. | 1 | Alejandro Mendoza | To-do |
+| US22     | Confirmación antes de finalizar quiz  | Como usuario, quiero recibir confirmación antes de finalizar el quiz. | 1 | Pablo Geronimo | To-do |
+| US23     | Ranking global  | Como usuario, quiero ver mi posición en el ranking global. | 2 | Abraam Acosta | To-do |
+| US24     | Ranking por nivel  | Como usuario, quiero ver el ranking filtrado por nivel. | 2 | U202418250 | To-do |
+| US25     | Ranking por país  | Como usuario, quiero ver el ranking filtrado por país. | 2 | Jareth Vidal | To-do |
+| US26     | Historial de quizzes resueltos  | Como usuario, quiero consultar mi historial de quizzes. | 2 | Marcelo Mazuelos | To-do |
+| US27     | Gráficos de progreso  | Como usuario, quiero ver gráficos de mi progreso. | 2 | Alejandro Mendoza | To-do |
+| US28     | Calificar quizzes  | Como usuario, quiero calificar quizzes con estrellas y comentarios. | 1 | Pablo Geronimo | To-do |
+| US29     | Resumen al finalizar quiz  | Como usuario, quiero ver un resumen completo al finalizar un quiz. | 1 | Abraam Acosta | To-do |
+| US30     | Feedback de quizzes  | Como creador, quiero consultar el feedback de mis quizzes. | 1 | U202418250 | To-do |
+
+### 5.2.2.4. Development Evidence for Sprint Review
+
+En esta sección se presenta la evidencia del desarrollo realizado durante el Sprint 2, mostrando el trabajo técnico y colaborativo del equipo en la implementación de las funcionalidades planificadas.
+
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se presenta la documentación de los servicios implementados durante el Sprint 2, incluyendo descripciones, diagramas, endpoints y ejemplos de uso relevantes sobre la integración o desarrollo de servicios.
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+Aquí se presentará la evidencia del despliegue del software realizado en el Sprint 2. Se podrán añadir capturas de pantalla, enlaces a entornos desplegados, logs de despliegue y cualquier otro recurso que demuestre el proceso y resultado del deployment. (Las imágenes y evidencias serán añadidas posteriormente).
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+
+En este apartado se presenta un resumen de la dinámica de trabajo colaborativo y la gestión de tareas realizada por el equipo durante el Sprint 2. Se incluyen evidencias visuales que muestran la participación activa de los integrantes, así como el registro de los commits y contribuciones en el repositorio. Estas evidencias reflejan el compromiso, la organización y la comunicación efectiva que caracterizaron el desarrollo de este sprint.
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboratorsSpinrt2.jpg">
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/commitsSprint2.jpg">
 ---
 
 
