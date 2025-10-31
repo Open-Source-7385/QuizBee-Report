@@ -1675,4 +1675,97 @@ En este apartado se presenta un resumen de la dinámica de trabajo colaborativo 
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/evidenciastiki.PNG">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/evidenciastiki2.PNG">
 
+---   
+
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+En esta sección se presenta el diseño de las entrevistas de validación realizadas para la plataforma **Quizbee**, aplicadas a los segmentos objetivo identificados durante el proceso de investigación.  
+Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **interfaz**, **flujo de navegación**, **motivación**, y **valor percibido** de las funcionalidades principales tanto del *Landing Page* como de la aplicación.
+
 ---
+
+### **Entrevistas por Segmento - Plataforma Quizbee**
+
+#### **Segmento 1: Personas que quieren reforzar lo aprendido de algún idioma**
+
+- ¿Qué tan fácil te resultó registrarte y entender para qué servía Quizbee?  
+- ¿Cómo fue tu experiencia al navegar desde el Home hasta encontrar un quiz para practicar?  
+- ¿La interfaz te resultó clara para identificar tu nivel y el tipo de idioma que querías practicar?  
+- ¿Te pareció intuitiva la forma en que podías resolver quizzes y recibir feedback inmediato?  
+- ¿El sistema de vidas limitadas te pareció motivador o frustrante para seguir practicando?  
+- ¿Qué opinas del diseño visual (colores, íconos, tipografía) de la aplicación? ¿Transmitió diversión o profesionalismo?  
+- ¿Te pareció útil ver tus resultados y progreso después de resolver un quiz?  
+- ¿Qué tan claras te parecieron las instrucciones antes de comenzar un quiz?  
+- ¿La opción de “Reintentar quiz” o “Ver respuestas correctas” te ayudó a aprender mejor?  
+- ¿Qué tan motivante te pareció el sistema de puntos y recompensas dentro de la app?  
+- ¿Te gustaría que se integraran más tipos de retos (audio, vocabulario, conversación)?  
+- ¿Qué mejorarías para que Quizbee te ayude más a mantener la constancia al practicar un idioma?
+
+---
+
+#### **Segmento 2: Personas que ya dominan algún idioma**
+
+- ¿Qué tan fácil fue registrarte y comprender cómo podías crear o compartir quizzes?  
+- ¿Cómo fue tu experiencia creando un quiz? ¿Las opciones y pasos fueron claros?  
+- ¿Te pareció útil poder ver el feedback que otros usuarios dejaron en tus quizzes?  
+- ¿La opción de participar en *speaking rooms* te resultó atractiva o útil para mantener tu nivel?  
+- ¿Te parecieron adecuados los niveles de dificultad disponibles para crear retos?  
+- ¿Qué tan motivante te pareció recibir puntos y poder canjearlos por recompensas o certificados?  
+- ¿Te sentiste reconocido dentro de la plataforma por tus contribuciones como creador o mentor?  
+- ¿Cómo valorarías la posibilidad de competir en rankings globales o por país?  
+- ¿Consideras que el diseño general de la aplicación refleja confianza y profesionalismo?  
+- ¿Qué funcionalidad te gustaría agregar para que la app aporte más valor a los usuarios avanzados (por ejemplo, métricas, feedback avanzado, etc.)?  
+- ¿Te resultó clara la diferencia entre el plan gratuito y el plan premium? ¿Qué te motivaría a pagar por el premium?  
+- ¿Qué te gustaría mejorar o cambiar en la experiencia general para hacerla más fluida y profesional?
+
+
+
+
+## 📚 **Bibliografía**
+
+- **Angular Cookbook.** (2021). *Packt Publishing.*
+
+- **Angular.** (s. f.). Recuperado de [https://angular.io/guide/i18n-overview](https://angular.io/guide/i18n-overview)
+
+- **Del Aguila-Obra, A. R., Al-dweeri, R. M., & Padilla-Meléndez, A.** (2012). *Factores determinantes de la calidad de los servicios electrónicos en el contexto de los operadores postales.* Universia Business Review, (35), 114–123.  
+  [https://www.redalyc.org/pdf/433/43323842006.pdf](https://www.redalyc.org/pdf/433/43323842006.pdf)
+
+- **Deinum, Marten.** (2018). *Spring Boot 2 Recipes: A Problem-Solution Approach (1st ed. 2018).* Apress.  
+  [https://doi.org/10.1007/978-1-4842-3963-6](https://doi.org/10.1007/978-1-4842-3963-6)
+
+- **Fredrich, T., & Pearson eCollege.** (s. f.). *REST API Tutorial.*  
+  [https://www.restapitutorial.com](https://www.restapitutorial.com)
+
+- **Mohammad-Al-dweeri, R.** (2011). *La calidad en los servicios electrónicos como estrategia competitiva: Modelo de análisis de sus componentes y efectos sobre la satisfacción y la lealtad.*  
+  [https://libros.metabiblioteca.org/handle/001/291](https://libros.metabiblioteca.org/handle/001/291)
+
+- **Ramos, Á. F. V., & Sánchez-Franco, M. J.** (2004). *La calidad de servicio electrónico: un análisis de los efectos moderadores del comportamiento de uso de la web.*  
+  Cuadernos de Economía y Dirección de la Empresa, (21), 121–125.  
+  [https://dialnet.unirioja.es/descarga/articulo/1143462.pdf](https://dialnet.unirioja.es/descarga/articulo/1143462.pdf)
+
+- **Selvaraj, S.** (2024). *Mastering REST APIs: Boosting Your Web Development Journey with Advanced API Techniques (1.a ed.).* Apress L. P.  
+  [https://doi.org/10.1007/979-8-8688-0309-3](https://doi.org/10.1007/979-8-8688-0309-3)
+
+- **Leonard, Anghel.** (2020). *Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (1st ed. 2020).* Apress.  
+  [https://doi.org/10.1007/978-1-4842-5626-8](https://doi.org/10.1007/978-1-4842-5626-8)
+
+- **Karanam, R. R.** (2017). *Mastering Spring 5.0.* Packt Publishing, Limited.
+
+---
+
+## 📎 **Anexos**
+
+- 🌐 **Landing Page:** [https://electrolinklp.netlify.app/](https://electrolinklp.netlify.app/)  
+
+- 🎥 **Videos About the Product:**  
+  [Ver en YouTube](https://youtu.be/3_VQ7P-V9v0)
+
+- 🎬 **Videos About the Product - Microsoft Stream:**  
+  *Ver video del producto* (enlace interno institucional)
+
+- 👥 **Video About the Team:**  
+  [https://youtu.be/dhwZBx9cvtc](https://youtu.be/dhwZBx9cvtc)
