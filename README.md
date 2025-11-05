@@ -664,8 +664,79 @@ Este journey describe la situación actual de las personas que dominan un idioma
 
 ## 2.4. Big Picture Event Storming.
 
+
+### 1) Resultado de la sesión y flujo extremo a extremo
+
+Durante la sesión colaborativa de alto nivel, el equipo de **Quizbee** mapeó el flujo completo de la plataforma, desde el registro del usuario hasta la interacción dentro de los quizzes y la gestión de suscripciones. El flujo inicia con la **creación y autenticación del perfil de usuario**, continúa con la **navegación y resolución de quizzes** y culmina con la **gestión de suscripciones y recompensas**.
+
+**Eventos clave identificados:**
+- Usuario se registra e inicia sesión.  
+- Usuario configura o actualiza su perfil.  
+- Usuario visualiza, crea o resuelve quizzes.  
+- El sistema calcula puntajes, muestra feedback y actualiza rankings.  
+- Usuario accede a beneficios mediante su suscripción (básica o premium).  
+- El sistema procesa el pago, emite comprobante y actualiza el estado de la cuenta.
+
+Este flujo permitió identificar puntos de interacción entre los diferentes tipos de usuario (**aprendiz y creador**) y las acciones que desencadenan en la plataforma, estableciendo así una visión global del comportamiento del sistema.
+
+---
+
+### 2) Bounded Contexts y reglas de orquestación clave
+
+A partir del análisis del mapa de eventos, emergieron tres **Bounded Contexts principales**:
+
+#### 🟢 Management Profile
+Se encarga de la creación, autenticación y mantenimiento de la información del usuario.  
+- **Eventos:** registro, login, actualización de perfil, cambio de contraseña.  
+- **Políticas:** no se puede acceder a quizzes o suscripciones sin un perfil autenticado.  
+- **Integraciones:** módulo de identidad y almacenamiento seguro de contraseñas.
+
+#### 🟣 Quizzes and Questions
+Representa el corazón del aprendizaje interactivo.  
+- **Eventos:** creación, publicación y resolución de quizzes; cálculo de puntaje; feedback.  
+- **Políticas:** solo usuarios con rol *Creator* pueden publicar quizzes; los quizzes deben tener preguntas validadas antes de publicarse.  
+- **Integraciones:** motor de puntuación, sistema de feedback, ranking y progreso del usuario.
+
+#### 🟠 Subscription and Billing
+Gestiona los planes de suscripción (básico y premium) y los pagos asociados.  
+- **Eventos:** visualización de planes, pago procesado, activación de beneficios premium, cancelación de suscripción.  
+- **Políticas:** no se puede acceder a funciones premium sin pago confirmado.  
+- **Integraciones:** pasarela de pagos y gestión de facturación digital.
+
+---
+
+### 🔁 Reglas de orquestación clave
+- El usuario debe tener una cuenta validada antes de acceder a los quizzes.  
+- El plan premium solo se activa cuando el pago es confirmado.  
+- Los quizzes publicados no pueden editarse mientras estén en revisión o con feedback activo.  
+- El ranking y progreso solo se actualizan después de que un quiz es completado y puntuado correctamente.  
+
+---
+
+### 3) Riesgos, oportunidades y próximos pasos
+
+#### ⚠️ Riesgos identificados
+- Abandono del usuario gratuito al agotarse las vidas sin incentivos de conversión.  
+- Carga alta en el módulo de feedback si el volumen de quizzes crece exponencialmente.  
+- Posibles errores en la sincronización de estados entre módulos (por ejemplo, cuenta premium desactualizada tras pago fallido).
+
+#### 💡 Oportunidades
+- Integrar insignias y recompensas adicionales para aumentar la retención.  
+- Extender el módulo de quizzes con *speaking rooms* y desafíos en tiempo real.  
+- Aplicar métricas de aprendizaje (tiempo promedio por quiz, tasa de aciertos) para personalizar la experiencia.
+
+#### 🚀 Próximos pasos
+- Profundizar cada bounded context mediante un **Design-Level Event Storming**, enfocándose en comandos, eventos y políticas internas.  
+- Definir validaciones técnicas y operativas (como reintento de pagos o control de acceso a quizzes premium).  
+- Diseñar métricas iniciales centradas en **usuarios activos, retención semanal y conversión a premium**, para guiar la evolución del producto.
+  
 <img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/EventStorming.jpg" alt="EventStorming" width="600"/>
 
+
+
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/evenstorming.jpg" alt="EventStorming" width="800"/>
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/eventstorming2.jpg" alt="EventStorming" width="800"/>
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/evenstorming3.jpg" alt="EventStorming" width="800"/>
 ## 2.5. Ubiquitous Language.
 
 | Término | Definición | Segmentos relacionados |
@@ -1106,6 +1177,7 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
 
+En este apartado se presentará el Event Storming realizado para la creación de Quizbee. Este diagrama nos permitió identificar los distintos eventos que se pueden presentar en el sistema, así como las entidades, comandos y agregados involucrados. Se utilizó la plataforma de Structurizr para la creación de los diagramas de contexto, contenedores y componentes. Se va utilizar el patrón CQRS (Command Query Responsibility Segregation) para la separación de responsabilidades entre comandos y consultas.
 
 ### 4.6.2. Software Architecture Context Diagram
 
