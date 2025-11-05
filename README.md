@@ -1378,7 +1378,7 @@ Enlace del board donde se trabako el Sprint Backlog1:https://trello.com/invite/b
 
 
 
- <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/spring2tiki.png">
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/spring2tiki.PNG">
 
 | Sprint # | Sprint 1 | | | |     | 
 |----------|------|-|--|--|-----|
@@ -1541,7 +1541,7 @@ Además, como parte del compromiso con la experiencia del usuario, se implement�
 
 Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI15ee9fd19dc710938caf0d6f96d940e7550358A3/mi-tablero-de-trello
 
- <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/spring2tiki.png">
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/spring2tiki.PNG">
 
 
 | Sprint # | Sprint 2 | | | |     | 
