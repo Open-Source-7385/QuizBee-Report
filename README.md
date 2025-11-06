@@ -1379,6 +1379,12 @@ Para asegurar la calidad, mantenibilidad y coherencia del código fuente en el p
 
 ### 5.1.4. Software Deployment Configuration.
 
+
+En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y Vercel como plataforma de hosting.
+
+### Despliegue de la Landing Page
+Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. 
+
 #### Consideraciones Preliminares al Despliegue:
 
 - **Implementación de Archivos Web**: Se requiere la implementación completa de la página web utilizando archivos HTML, CSS y JS para garantizar su correcta operatividad. Se autoriza el uso de diversos formatos para los archivos de imagen (jpg, png, webp, etc.).
@@ -1394,12 +1400,9 @@ Para asegurar la calidad, mantenibilidad y coherencia del código fuente en el p
 - Disposición de los permisos de Github necesarios.
 - Disponibilidad del código fuente de la Landing Page.
 
-#### Procedimiento de Despliegue de la Landing Page:
 
-1. Carga del código fuente de la Landing Page al repositorio de destino en GitHub.
-2. Acceso a la interfaz de configuración del repositorio en GitHub.
-3. Selección de la sección denominada "Pages".
-4. Una vez completados los pasos precedentes, se iniciará el proceso de construcción, tras el cual la Landing Page deberá estar accesible en breve.
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 
@@ -1408,20 +1411,23 @@ En esta sección, se documentará y explicará, en términos de producto y colab
 ### 5.2.1.1. Sprint Planning 1.
 Esta sección presenta los detalles de la primera reunión de planificación de Sprint del equipo. Durante esta sesión, se definieron los objetivos principales del Sprint, la capacidad del equipo y las tareas a abordar. Al ser el primer Sprint del proyecto, no se incluyen resúmenes de revisión ni retrospectiva previos. El enfoque principal fue la implementación de la landing page, con el objetivo de validar el interés del público en la propuesta de negocio. A continuación, se detallan los aspectos clave discutidos durante la reunión:
 
-| **Sprint #**                  | Sprint 1                                                                                                                                                                            |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background** |                                                                                                                                                                                     |
-| **Date**                       | 1 de septiembre del 2025                                                                                                                                                            |
-| **Time**                       | 18:00 horas                                                                                                                                                                         |
-| **Location**                   | Modalidad remota a través de la plataforma Discord                                                                                                                                  |
-| **Prepared By**                | Todos los integrantes del equipo QuizBee                                                                                                                                            |
-| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee                                                                                                                                            |
-| **Sprint 0 Review Summary**    | Dado que es nuestro primer sprint de desarrollo, aún no se ha realizado un resumen del sprint anterior.                                                                             |
-| **Sprint 0 Retrospective Summary** | No se identificaron mejoras ya que es el primer sprint.                                                                                                                             |
-| **Sprint Goal & User Stories** | US01, US02, US03, US04, US05, US06, US07                                                                                                                                            |
-| **Sprint 1 Goal**              | En este sprint, nuestro enfoque está en describir nuestra startup y en construir la estructura de la Landing Page, realizar las entrevisas, y tener definidos nuestros user stories |
-| **Sprint 1 Velocity**          | 5                                                                                                                                                                                   |
-| **Sum of Story Points**        | 5                                                                                                                                                                                   |
+
+
+| **Sprint #** | Sprint 1 |
+|---------------|-----------|
+| **Sprint Planning Background** |  |
+| **Date** | 1/09/2025  |
+| **Time** | 18:00 horas  |
+| **Location** |  Modalidad remota a través de la plataforma Discord  |
+| **Prepared By** | Todos los integrantes del equipo QuizBee |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
+| **Sprint n – 1 Review Summary** | Este es el primer Sprint, por lo que el presente campo no aplica. |
+| **Sprint n – 1 Retrospective Summary** |Este es el primer Sprint, por lo que el presente campo no aplica. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 1 Goal** | Nuestra prioridad en este spring fue implementar la landing Page.Creemos que este MVP brindara la exposicipon necesaria a nuestra Idea de Negocio. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice de visitas. |
+| **Sprint 1 Velocity** | Nuestro equipo puede aceptar hasta 25 story points|
+| **Sum of Story Points** | La suma de Story Points atendidos es de 25 story points|
+
 
 
 ### 5.2.1.2. Aspect Leaders and Collaborators.
@@ -1436,7 +1442,7 @@ Cada uno de estos aspectos fue liderado o apoyado por diferentes miembros del eq
 
 | Team Member (Last Name, First Name) | Github Username | Elaboracion de User Stories Leader (L), Collaborator (C) | Desarrollo del landing page Leader (L), Collaborator (C) | Descripcion y desarrollo de los primeros capitulos Leader (L), Collaborator (C) |
 | ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
-|         | AlexBoo578         | (C)                                                     | (C)                                                            | (C)                                                |
+|   Alejandro Mendoza      | AlexBoo578         | (C)                                                     | (C)                                                            | (C)                                                |
 | Vidal, Jareth              | Jareth341       | (L)                                                     | (C)                                                            | (C)                                                |
 | Acosta, Abraam                 | abraam16        | (C)                                                     | (C)                                                            | (C)                                                |
 | Geronimo, Pablo              | Phatogram       | (C)                                                     | (L)                                                            | (C)                                                |
@@ -1446,38 +1452,31 @@ Cada uno de estos aspectos fue liderado o apoyado por diferentes miembros del eq
 
 En esta sección se detalla el Sprint Backlog correspondiente al Sprint 1, el cual incluye todas las historias de usuario priorizadas, así como las tareas específicas asociadas a cada una. Cada tarea contiene su respectiva descripción, estimación en horas, asignación de responsable y estado de avance. Este backlog sirvió como guía para la ejecución del Sprint y permitió al equipo mantener un control claro sobre el desarrollo de la landing page y sus componentes clave.
 
-Enlace del board donde se trabako el Sprint Backlog1:https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI15ee9fd19dc710938caf0d6f96d940e7550358A3/mi-tablero-de-trello
-
-
+Enlace del board donde se trabajo el Sprint Backlog : https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI15ee9fd19dc710938caf0d6f96d940e7550358A3/mi-tablero-de-trello
 
  <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/spring2tiki.PNG">
 
-| Sprint # | Sprint 1 | | | |     | 
-|----------|------|-|--|--|-----|
-|          | **User Story** | |  | |     | 
-| **Id**   | **Title** |  **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
-| US01     | Navegación en la landing page  | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma. |  |  |  |
-|          | - Diseñar estructura de navegación principal | Definir el menú y enlaces principales de la landing page. | 2 | Jareth Vidal | Done |
-|          | - Implementar navegación responsive | Asegurar que la navegación funcione en dispositivos móviles y escritorio. | 2 | Jareth Vidal | Done |
-| US02     | Testimonios en la landing page  | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme. |  |  |  |
-|          | - Recopilar testimonios de usuarios | Buscar y seleccionar testimonios relevantes. | 1 | Pablo Geronimo | Done |
-|          | - Maquetar sección de testimonios | Diseñar y programar la sección en la landing page. | 2 | Pablo Geronimo | Done |
-| US03     | Funcionalidades en la landing page | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer las funcionalidades de la plataforma. |  |  |  |
-|          | - Listar funcionalidades clave | Definir y redactar las funcionalidades principales. | 2 | Abraam Acosta | Done |
-|          | - Implementar sección de funcionalidades | Maquetar y programar la sección en la landing page. | 3 | Abraam Acosta | Done |
-| US04     | Planes Premiun en la landing page  | Como visitante, quiero ver los Planes Premiun que ofrecen en la plataforma. |  |  |  |
-|          | - Definir contenido de planes premium | Redactar y estructurar la información de los planes. | 1 | Alex | Done |
-|          | - Maquetar sección de planes premium | Programar la sección en la landing page. | 2 | Alex | Done |
-| US05     | Formulario en la landing page  | Como visitante, quiero ver un formulario de contacto para poder resolver mis dudas. |  |  |  |
-|          | - Diseñar formulario de contacto | Definir campos y estructura del formulario. | 2 | Abraam Acosta | Done |
-|          | - Implementar validación de formulario | Programar validaciones básicas (requeridos, email, etc.). | 2 | Abraam Acosta | Done |
-|          | - Integrar formulario en la landing page | Maquetar y ubicar el formulario en la página. | 2 | Abraam Acosta | Done |
-| US06     | Redes en la landing page | Como visitante, quiero ver todas sus redes en el footer. |  |  |  |
-|          | - Recopilar enlaces de redes sociales | Listar y verificar enlaces oficiales. | 1 | Jareth Vidal | Done |
-|          | - Maquetar sección de redes en el footer | Programar los íconos y enlaces en el pie de página. | 3 | Jareth Vidal | Done |
-| US07     | Servicios en la landing page | Como visitante, quiero ver los servicios que ofrecen en la plataforma. |  |  |  |
-|          | - Definir lista de servicios | Redactar y organizar los servicios principales. | 1 | Pablo Geronimo | Done |
-|          | - Implementar sección de servicios | Maquetar y programar la sección en la landing page. | 1 | Pablo Geronimo | Done |
+| **Sprint #** | **Sprint 1** |
+|--------------|--------------|
+
+
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
+| **US01** | Navegación en la landing page | T-01 | Diseñar estructura de navegación principal | Definir el menú y enlaces principales de la landing page. | 2 | Jareth Vidal | Done |
+|  **US01** |  Navegación en la landing page | T-02 | Implementar navegación responsive | Asegurar que la navegación funcione en dispositivos móviles y escritorio. | 2 | Jareth Vidal | Done |
+| **US02** | Testimonios en la landing page | T-03 | Recopilar testimonios de usuarios | Buscar y seleccionar testimonios relevantes. | 1 | Pablo Geronimo | Done |
+|  **US02** |  Testimonios en la landing page | T-04 | Maquetar sección de testimonios | Diseñar y programar la sección en la landing page. | 2 | Pablo Geronimo | Done |
+| **US03** | Funcionalidades en la landing page | T-05 | Listar funcionalidades clave | Definir y redactar las funcionalidades principales. | 2 | Abraam Acosta | Done |
+| **US03** |  Funcionalidades en la landing page | T-06 | Implementar sección de funcionalidades | Maquetar y programar la sección en la landing page. | 3 | Abraam Acosta | Done |
+| **US04** | Planes Premiun en la landing page | T-07 | Definir contenido de planes premium | Redactar y estructurar la información de los planes. | 1 | Alex | Done |
+|  **US04** |  Planes Premiun en la landing page | T-08 | Maquetar sección de planes premium | Programar la sección en la landing page. | 2 | Alex | Done |
+| **US05** | Formulario en la landing page | T-09 | Diseñar formulario de contacto | Definir campos y estructura del formulario. | 2 | Abraam Acosta | Done |
+|  **US05**  | Formulario en la landing page | T-10 | Implementar validación de formulario | Programar validaciones básicas (requeridos, email, etc.). | 2 | Abraam Acosta | Done |
+| **US05**   | Formulario en la landing page | T-11 | Integrar formulario en la landing page | Maquetar y ubicar el formulario en la página. | 2 | Abraam Acosta | Done |
+| **US06** | Redes en la landing page | T-12 | Recopilar enlaces de redes sociales | Listar y verificar enlaces oficiales. | 1 | Jareth Vidal | Done |
+|**US06**  |  Redes en la landing page | T-13 | Maquetar sección de redes en el footer | Programar los íconos y enlaces en el pie de página. | 3 | Jareth Vidal | Done |
+| **US07** | Servicios en la landing page | T-14 | Definir lista de servicios | Redactar y organizar los servicios principales. | 1 | Pablo Geronimo | Done |
+| **US07** |  Servicios en la landing page | T-15 | Implementar sección de servicios | Maquetar y programar la sección en la landing page. | 1 | Pablo Geronimo | Done |
 
 
 
