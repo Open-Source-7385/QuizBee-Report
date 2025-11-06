@@ -1402,44 +1402,47 @@ En esta sección se documenta el proceso de despliegue de la Landing Page y la F
 ### Despliegue de la Landing Page
 Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
 
-1. Registro en GitHub
+**1. Registro en GitHub**
 - Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix.
 
-2. Creación del repositorio
+**2. Creación del repositorio**
 
 - Hicimos clic en el botón “New” para generar un nuevo repositorio.
 -Le asignamos el nombre “landing-page” dentro de nuestra organización open-source-7385.
 
-imagen
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/fixing514.PNG">
 
 
-
-3. Configuración del repositorio
+**3. Configuración del repositorio**
 
 - Nos aseguramos de que el repositorio tenga visibilidad pública para permitir la integración con Netlify.
 - Añadimos un archivo README.md inicial y configuramos un .gitignore adecuado para excluir archivos innecesarios.
 
-4. Carga de los archivos de la landing page
+**4. Carga de los archivos de la landing page**
 
 - Accedimos al repositorio creado.
 - Subimos los archivos generados del proyecto (HTML, CSS, TypeScript).
+- añadimos un nombre para nuestra landingpage desplegada
 - Verificamos que los cambios se hicieran en la rama principal (main).
 - Finalmente, confirmamos la acción con “Commit changes” para guardar los archivos.
 
-5. Configuración en Netlify
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/fixing5143.PNG">
+**5. Configuración en Netlify**
 
  - Iniciamos sesión en Netlify
  - Seleccionamos la opción “New Project” y vinculamos nuestra cuenta de GitHub.
  - Importamos el repositorio landing-page.
  - Definimos la rama de despliegue (main).
+   
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/fixing5142.PNG">
 
-  6. Verificación del sitio web En pocos minutos, Vercel genera la URL pública del proyecto:
+  **6. Verificación del sitio web En pocos minutos, Vercel genera la URL pública del proyecto:**
      landingpagequizzbee.netlify.app
-imagen
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/fixing5144.PNG">
 
 
-
-7. Actualización del sitio
+**7. Actualización del sitio**
 
 - Cuando necesitemos modificar el sitio, solo debemos realizar commits en el repositorio y hacer push hacia la rama main.
 - Netlify detecta automáticamente los cambios, vuelve a compilar el proyecto y lo despliega en línea.
@@ -1447,26 +1450,33 @@ imagen
 
 
 
-
 ### Despliegue del Frontend Web Applications
 Para que nuestra Frontend Web Application esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
 
-1. Registro en GitHub
+**1. Registro en GitHub**
    
  - Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Frontend Web Application de Quizbee.
    
-3. Creación del repositorio
+**2. Creación del repositorio**
    
 - Hicimos clic en el botón “New” para generar un nuevo repositorio
 - Le asignamos el nombre “Quizbee-frontend” dentro de nuestra organización open-source-7385.
 
-4. Carga de los archivos de la landing page
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/514frontend.PNG">
+
+**3. Configuración del repositorio**
+
+- Nos aseguramos de que el repositorio tenga visibilidad pública para permitir la integración con Netlify.
+- Añadimos un archivo README.md inicial y configuramos un .gitignore adecuado para excluir archivos innecesarios.
+  
+**4. Carga de los archivos de la landing page**
 
 - Accedimos al repositorio creado.
 - Subimos los archivos generados del proyecto (HTML, CSS, TypeScript,Angular).
 - Verificamos que los cambios se hicieran en la rama principal (main) o depende de los despliegue de los bounded contenxt.
 
-  5. Configuración en Vercel
+  **5. Configuración en Vercel**
 
  - Iniciamos sesión en Vercel.
  - Seleccionamos la opción “New Project” y vinculamos nuestra cuenta de GitHub.
@@ -1476,11 +1486,16 @@ Para que nuestra Frontend Web Application esté disponible para todos nuestros u
  - Colocamos todas las variables de entorno necesarias para el correcto funcionamiento de la aplicación.
  - Finalmente, hicimos clic en “Deploy” para iniciar el proceso de despliegue.
 
-  imagen
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/514frontend2.PNG">
 
 
 
-  6. Verificación del sitio web En pocos minutos, Vercel genera la URL pública del proyecto: https://frontend-blond-three-12.vercel.app/
+  **6. Verificación del sitio web En pocos minutos, Vercel genera la URL pública del proyecto: https://frontend-blond-three-12.vercel.app/** 
+
+
+  <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/514frontend3.PNG">
+
+
   
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
@@ -1561,36 +1576,56 @@ Enlace del board donde se trabajo el Sprint Backlog : https://trello.com/invite/
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
+
+En esta sección se presenta la evidencia detallada del desarrollo alcanzado durante el Sprint 1, enfocado en la implementación de la Landing Page de Quizbee. Durante este primer sprint, el equipo de speakingUP se concentró en establecer los fundamentos técnicos y visuales de la plataforma web que conectará a personas que quieran aprender y crear quizzies de idiomas.
+
 Durante este Sprint, el equipo logró avances significativos en la implementación del proyecto. Se completó la estructura y diseño de la landing page, integrando las secciones principales como navegación, testimonios, funcionalidades, planes premium, formulario de contacto, redes sociales y servicios. Además, se documentaron los commits y ramas utilizados, asegurando trazabilidad y colaboración efectiva entre los miembros del equipo. A continuación, se presenta la evidencia de los principales entregables y contribuciones realizadas durante el Sprint.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|--------------------|--------------------|
-| QuizBee-Report | Chapter1 | a1b2c3d | docs:(chapter-I)"add format of team member profiles" | Added structured format for team member profiles including personal information, skills, and role descriptions for each team member in the startup profile section | 15/09/2024 |
-| QuizBee-Report | Chapter1 | e4f5g6h | docs(chapter-1):"adding Competitive Analysis Landscape and Strategy and tactis front Rivals "" | Implemented comprehensive competitive analysis section with detailed competitor research, market positioning analysis, and strategic approaches to compete effectively in the market | 16/09/2024 |
-| QuizBee-Report | Chapter1 | i7j8k9l | docs(chapter-1): add introduction structure for QuizzBee project and finalize Desing interview | Created complete introduction structure for QuizzBee project including startup description, solution profile, and finalized interview design questions for user research | 17/09/2024 |
-| QuizBee-Report | Chapter2 | m0n1o2p | docs(chapter-II):"add summary of interview" | Added comprehensive summary of conducted interviews including key insights, user feedback analysis, and findings that will inform the product development process | 18/09/2024 |
-| QuizBee-Report | Chapter2| q3r4s5t | fix(empathymapping): fix empathy map images | Fixed empathy mapping images by correcting display issues, updating broken links, and ensuring proper visualization of user personas and their emotional journey maps | 19/09/2024 |
-| QuizBee-Report | Chapter2 | u6v7w8x | feat: Update the description on the Product Backlog. | Updated Product Backlog descriptions to align with user stories format, ensuring consistency between narrative descriptions and acceptance criteria across all user stories | 15/09/2024 |
-| QuizBee-Report | Chapter3 | y9z0a1b | feat: restructure user stories format | Restructured user stories from Given-When-Then format to narrative format using "Como [rol], quiero [objetivo] para [beneficio]" structure for better clarity and consistency | 16/09/2024 |
-| QuizBee-Report | Chapter3 | c2d3e4f | docs(chapter-III):"add epic with description and title" | Added comprehensive epic stories section with detailed descriptions and titles for each epic, establishing clear connections between user stories and business objectives | 17/09/2024 |
-| QuizBee-Report | Chapter4 | g5h6i7j | Delete assets/img/chapter-IV/wireframe1.png | Removed outdated wireframe image file that was no longer needed and replaced with updated design mockups that better represent the current UI/UX design approach | 19/09/2024 |
-| QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2024 |
+| QuizBee-Report | Chapter1 | a1b2c3d | docs:(chapter-I)"add format of team member profiles" | Added structured format for team member profiles including personal information, skills, and role descriptions for each team member in the startup profile section | 15/09/2025 |
+| QuizBee-Report | Chapter1 | e4f5g6h | docs(chapter-1):"adding Competitive Analysis Landscape and Strategy and tactis front Rivals "" | Implemented comprehensive competitive analysis section with detailed competitor research, market positioning analysis, and strategic approaches to compete effectively in the market | 16/09/2025 |
+| QuizBee-Report | Chapter1 | i7j8k9l | docs(chapter-1): add introduction structure for QuizzBee project and finalize Desing interview | Created complete introduction structure for QuizzBee project including startup description, solution profile, and finalized interview design questions for user research | 17/09/2025 |
+| QuizBee-Report | Chapter2 | m0n1o2p | docs(chapter-II):"add summary of interview" | Added comprehensive summary of conducted interviews including key insights, user feedback analysis, and findings that will inform the product development process | 18/09/2025 |
+| QuizBee-Report | Chapter2| q3r4s5t | fix(empathymapping): fix empathy map images | Fixed empathy mapping images by correcting display issues, updating broken links, and ensuring proper visualization of user personas and their emotional journey maps | 19/09/2025 |
+| QuizBee-Report | Chapter2 | u6v7w8x | feat: Update the description on the Product Backlog. | Updated Product Backlog descriptions to align with user stories format, ensuring consistency between narrative descriptions and acceptance criteria across all user stories | 15/09/2025 |
+| QuizBee-Report | Chapter3 | y9z0a1b | feat: restructure user stories format | Restructured user stories from Given-When-Then format to narrative format using "Como [rol], quiero [objetivo] para [beneficio]" structure for better clarity and consistency | 16/09/2025 |
+| QuizBee-Report | Chapter3 | c2d3e4f | docs(chapter-III):"add epic with description and title" | Added comprehensive epic stories section with detailed descriptions and titles for each epic, establishing clear connections between user stories and business objectives | 17/09/2025 |
+| QuizBee-Report | Chapter4 | g5h6i7j | Delete assets/img/chapter-IV/wireframe1.png | Removed outdated wireframe image file that was no longer needed and replaced with updated design mockups that better represent the current UI/UX design approach | 19/09/2025 |
+| QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2025 |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
+
+Resumen de Logros Alcanzados:
+
+El sprint culminó con la implementación completa de una Landing Page funcional y visualmente atractiva que incorpora todas las características esenciales definidas en las historias de usuario prioritarias. Se estableció una base tecnológica simple pero eficiente
+
+Los principales logros incluyen la implementación exitosa del sistema de internacionalización que permite a los usuarios poder visualizar lo escencial del proyecto, garantizando accesibilidad para nuestros segmentos objetivo. Adicionalmente se desarrollo un boton para que pueda visualizar la web-application
+
+La Landing Page resultante presenta una estructura clara y profesional que comunica efectivamente la propuesta de valor de Quizbee . Se implementaron secciones clave como la presentación de servicios principales, explicación del proceso de funcionamiento, características detalladas del producto, e información de contacto con múltiples canales de comunicación.
+
 En este Sprint se logró desplegar la primera versión funcional de la landing page del proyecto, cumpliendo con los objetivos planteados en el backlog. El equipo trabajó de manera colaborativa para implementar y publicar las principales secciones, asegurando una experiencia de usuario coherente y alineada con los requerimientos iniciales. A continuación, se presenta la evidencia visual y el enlace de acceso a la landing page desplegada:
+
 
 Enlace de la Landing Page: <br>
 https://quizbeelandingpage.netlify.app/
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing.png">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing2.png">
+
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint
 
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page utilizando la plataforma Netlify. El objetivo fue asegurar que la solución estuviera disponible en línea para su revisión y validación, cumpliendo con los estándares de entrega continua y visibilidad del avance del proyecto.
+Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page utilizando la plataforma Netlify. El objetivo fue asegurar que la solución estuviera disponible en línea para su revisión y validación ,estableciendo un flujo de trabajo automatizado que garantiza la entrega rápida y confiable de nuevas funcionalidades. El proceso de despliegue se diseñó con el objetivo de minimizar el tiempo de inactividad y maximizar la eficiencia del equipo de desarrollo.
+
+
+Estrategia de Despliegue Implementada:
+
+Se adoptó una arquitectura de despliegue moderno utilizando Netlify como plataforma de hosting, aprovechando sus capacidades de integración continua y entrega continua (CI/CD). Esta elección tecnológica permite despliegues automáticos, rollbacks instantáneos y una infraestructura escalable que se adapta perfectamente a las necesidades del proyecto quizbee.
 
 **Pasos realizados durante el despliegue:**
 1. Se creó una cuenta y espacio de trabajo en Netlify para el proyecto.
@@ -1605,6 +1640,7 @@ Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,<br> se hizo uso de la plataforma Figma. Para utilizar la plataforma:
 
 1.Se accede a través de la página oficial de Figma: https://www.figma.com/login
+
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma.png">
 
 2. Luego, se crea un Draft que nos servirá como base para el proyecto colaborativo.
@@ -1632,6 +1668,58 @@ Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este reposito
 Durante este Sprint, las actividades de implementación se desarrollaron de manera colaborativa y organizada. El equipo utilizó herramientas como GitHub para la gestión de versiones y asignación de tareas, y Discord para la comunicación y coordinación diaria. Cada integrante asumió responsabilidades específicas según el backlog y los aspectos definidos en la planificación, participando activamente en el desarrollo, revisión de código y validación de entregables.
 
 Se promovió la revisión cruzada de avances, el registro de commits detallados y la documentación de los cambios realizados. Las reuniones periódicas permitieron resolver dudas, ajustar prioridades y asegurar que todos los miembros estuvieran alineados con los objetivos del Sprint. Esta dinámica facilitó la integración continua y la entrega oportuna de los resultados esperados.
+
+### Metodología de Desarrollo Colaborativo
+El equipo adoptó una estrategia de desarrollo basada en **Git Flow**, donde cada funcionalidad se desarrolló en ramas específicas antes de ser integrada al código principal. Esta metodología garantizó la estabilidad del código base mientras permitía el desarrollo paralelo de múltiples características.
+
+### Organización y Distribución del Trabajo
+La colaboración se estructuró siguiendo la matriz **LACX** (Leadership and Collaboration Matrix) establecida al inicio del sprint:
+
+| Rol | Responsable | Funciones |
+|-----|-------------|-----------|
+| **Líder** |  Pablo geronimo | Landing Page y despliegue |
+| **Colaboradores** | Resto del equipo | Especialistas en diferentes aspectos técnicos |
+
+#### Actividades de Implementación Desarrolladas
+
+#### 1. Flujo de Trabajo con Ramas
+- ✅ Cada desarrollador trabajó en ramas `feature` específicas
+- ✅ Ramas implementadas:
+  - `feature/internationalization`
+  - `feature/theme-toggle`
+  - `feature/responsive-design`
+- ✅ Sistema de nomenclatura consistente: `feature/[descripción-funcionalidad]`
+- ✅ Sincronización periódica con `development` mediante `rebase`
+
+#### 2. Proceso de Revisión de Código
+- ✅ Todos los cambios mediante **pull requests**
+- ✅ Criterios de aprobación:
+  - Mínimo una revisión de otro miembro
+  - Verificación de estándares de código
+  - Validación de funcionalidad
+  - Compatibilidad con el sistema
+
+#### 3. Comunicación y Coordinación
+- ✅ Reuniones diarias de sincronización vía **Discord**
+- ✅ Sistema de asignación de tareas claras
+- ✅ Documentación actualizada de decisiones técnicas
+- ✅ Registro de cambios de diseño
+
+#### 4. Integración Continua
+- ✅ Commits frecuentes con mensajes descriptivos
+- ✅ Convenciones semánticas en mensajes de commit
+- ✅ Hooks de `pre-commit` para validación de calidad
+- ✅ Pipeline de despliegue automático en integración a `development`
+
+#### 5. Gestión de Conflictos y Resolución de Problemas
+- ✅ Protocolos claros para resolución de conflictos de `merge`
+- ✅ Documentación de problemas técnicos
+- ✅ Sesiones de `pair programming` colaborativas
+- ✅ Registro de lecciones aprendidas
+
+
+## Conclusión
+El análisis de los commits muestra una distribución equilibrada del trabajo entre los miembros del equipo. La frecuencia de commits y la calidad de los mensajes demuestran un proceso de desarrollo disciplinado y bien organizado, estableciendo una base sólida para los sprints futuros.
 
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration.png">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration2.png">
@@ -1726,17 +1814,22 @@ Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite
 
 Durante el Sprint se avanzó en la implementación de los siguientes productos: Landing Page, Aplicaciones Web y Servicios Web. A continuación se presenta la evidencia de desarrollo mediante commits registrados en los repositorios utilizados durante este periodo. La tabla incluye el nombre del repositorio, rama de trabajo, identificador del commit, mensaje del commit, descripción detallada del cambio y la fecha en que se realizó.
 
-| Repository      | Branch   | Commit Message                                                      | Author           | Commit Message Body                                                                                                 | Commited on (Date) |
-|-----------------|----------|---------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------|--------------------|
-| QuizBee-Frontend  | develop  | docs(chapter-V): update development evidence for Sprint 2            | abraam16         | Se actualizó la evidencia de desarrollo del Sprint 2 en el capítulo V, agregando los principales avances y commits.  | 07/10/2025         |
-| QuizBee-Frontend | develop  | feat(user-stories): added an introduction to User Stories and new TS | MarceloMazuelos  | Se añadió una introducción a User Stories y nuevas TS a la sección correspondiente del informe.                      | 07/10/2025         |
-| QuizBee-Frontend  | develop  | feat(journey-mapping): updated User Journey Mappings (UXpressia)     | MarceloMazuelos  | Se actualizaron los User Journey Mappings utilizando la metodología AS-IS y la herramienta UXpressia.               | 07/10/2025         |
-| QuizBee-Frontend  | develop  | feat(team-info): added personal information to team sections         | MarceloMazuelos  | Se agregó información personal a las secciones relacionadas al equipo.                                              | 07/10/2025         |
-| QuizBee-Frontend | develop  | feat(readme): add tb1 outcome from AlexBoo578                        | AlexBoo578       | Se añadió el resultado TB1 proporcionado por AlexBoo578 al README.                                                  | 07/10/2025         |
-|QuizBee-Frontend  | develop  | feat(integrantes): add alejandro information                         | AlexBoo578       | Se agregó la información de Alejandro a la sección de integrantes.                                                  | 07/10/2025         |
-| QuizBee-Frontend  | develop  | docs(database-class-diagram): add img of database and class diagram  | Phatogram        | Se añadieron imágenes del diagrama de base de datos y de clases al informe.                                         | 07/10/2025         |
-| QuizBee-Frontend  | develop  | fix(antecedentes): fix antecedentes y problematica                   | AlexBoo578       | Se corrigieron detalles en la sección de antecedentes y problemática.                                               | 07/10/2025         |
-| QuizBee-Frontend | develop  | feat(readme): added collaboration evidence for Sprint 2              | Jareth341        | Se añadió evidencia de colaboración del equipo durante el Sprint 2.                                                 | 07/10/2025         |
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|--------------------|
+| QuizBee-frontend | feature-quizzies | a5bd87e | feat(feature-quizzies): add sample of quiz create,quiz play and restructure bounded context with partial for flex data  | Adding endpoint of quizzies and logic busssines core |  7/10/2025 |
+| QuizBee-frontend | feature-quizzies | fe520ef | feat(feature-quizzies): restructure of managament quizz and create question for the bounded context quizzies | fixing db.json and structure of files | 7/10/2025 |
+| QuizBee-Frontend | Billing-and-subscription | 5ba13d3 |feat: add subscription management and payment processing features| Add subscription managament and payment | 26/09/2024 |
+| QuizBee-Frontend | Billing-and-subscription | db32191 |feat: add zone.js for improved Angular performance and add Ultra Mega-Premium subscription plan| Add zone.js for events| 26/09/2024 |
+| QuizBee-Frontend | Billing-and-subscription | 1cd284c |feat: add invoice detail component and routing| Add zone.js for events| 26/09/2024 |
+| QuizBee-Frontend | feature-profile  |8d94822 |feat(profile): implement profile bounded context| adding profile domain entity,Create profile controller for application layer,Add profile component with Material Design UI| 06/09/2024 |
+| QuizBee-Frontend | feature-speakingRoomBC  |ae04048 |  feat(user-entity): add user entity | adding user entity| 07/09/2024 |
+| QuizBee-Frontend | feature-speakingRoomBC  |bb61625 | feat(speaking-repository): add speaking repository service | adding speaking repository service| 07/09/2024 |
+| QuizBee-Frontend | feature-feedback  |597985d | feat(routing): integrate ranking routes into main application| integrate routes for main | 07/09/2024 |
+| QuizBee-Frontend | feature-feedback  |998669a |feat(ranking): set up ranking routes| implementation set up | 07/09/2024 |
+
+
+
+
 ### 5.2.2.5. Execution Evidence for Sprint Review.
 Durante este Sprint, el equipo logró implementar exitosamente las principales vistas del frontend de la aplicación Quizzbee, priorizando una experiencia de usuario fluida, intuitiva y visualmente coherente con el diseño propuesto. Se completó la estructura de navegación entre módulos clave, así como la visualización de datos simulados y el despliegue de componentes funcionales para cada uno de los bounded contexts asignados.
 
