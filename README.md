@@ -1186,7 +1186,7 @@ En este apartado se presentará el Event Storming realizado para la creación de
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/containerdiagram.png" alt="Container Diagram">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/containerfinal.png" alt="Container Diagram">
 
 
 ### 4.6.4. Software Architecture Components Diagrams
@@ -1740,20 +1740,23 @@ En esta sección, se documentará y explicará el segundo sprint de trabajo, enf
 ### 5.2.2.1. Sprint Planning 2
 Durante la reunión de planificación del Sprint 2, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad del sistema y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
 
-| **Sprint #**                  | Sprint 2                                                                                                                        |
-|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background** | Continuación del desarrollo tras la entrega del Sprint 1. Se prioriza la implementación de vistas y componentes principales.     |
-| **Date**                      | 1 de octubre del 2025                                                                                                           |
-| **Time**                      | 18:00 horas                                                                                                                     |
-| **Location**                  | Modalidad remota a través de la plataforma Discord                                                                              |
-| **Prepared By**               | Todos los integrantes del equipo QuizBee                                                                                        |
-| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee                                                                                  |
-| **Sprint 1 Review Summary**   | Se inicio con el desarrollo de las vistas del frontend, así como la correccion e implementacion de mas user stories |
-| **Sprint 1 Retrospective Summary** | Se identificó la necesidad de mejorar la comunicación y la planificación de tareas para optimizar el avance del desarrollo. |
-| **Sprint Goal & User Stories** | US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30 |
-| **Sprint 2 Goal**             | Implementar las vistas principales de la aplicación web, incluyendo la navegación, gestión de quizzes, perfil de usuario y visualización de resultados. |
-| **Sprint 2 Velocity**         | 5                                                                                                                               |
-| **Sum of Story Points**       | 5 Story Points                                                                                                                               |
+
+| **Sprint #** | Sprint 2 |
+|---------------|-----------|
+| **Sprint Planning Background** |  |
+| **Date** | 1/10/2025  |
+| **Time** | 18:00 horas  |
+| **Location** |  Modalidad remota a través de la plataforma Discord  |
+| **Prepared By** | Todos los integrantes del equipo QuizBee |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
+| **Sprint n – 2 Review Summary** | Se inicio con el desarrollo de las vistas del frontend, así como la correccion e implementacion de mas user stories  |
+| **Sprint n – 2 Retrospective Summary** | Se identificó la necesidad de mejorar la comunicación y la planificación de tareas para optimizar el avance del desarrollo. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 2 Goal** |  Implementar las vistas principales de la aplicación web, incluyendo la navegación, gestión de quizzes, perfil de usuario y visualización de resultados. |
+| **Sprint 2 Velocity** | Nuestro equipo puede aceptar hasta 30 story points|
+| **Sum of Story Points** | La suma de Story Points atendidos es de 30 story points|
+
+                                                                                                                    |
 
 
 ### 5.2.2.2. Aspect Leaders and Collaborators.
@@ -1782,33 +1785,35 @@ Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite
  <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/spring2tiki.PNG">
 
 
-| Sprint # | Sprint 2 | | | |     | 
-|----------|------|-|--|--|-----|
-|          | **User Story** | |  | |     | 
-| **Id**   | **Title** |  **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
-| US08     | Eliminar cuenta de usuario  | Como usuario, quiero poder eliminar mi cuenta de la plataforma. | 2 | Marcelo Mazuelos | To-do |
-| US09     | Cerrar sesión segura  | Como usuario, quiero cerrar sesión de forma segura. | 1 | Alejandro Mendoza | To-do |
-| US10     | Crear quizzes  | Como creador, quiero poder crear quizzes personalizados. | 3 | Pablo Geronimo | To-do |
-| US11     | Publicar quizzes  | Como creador, quiero publicar mis quizzes terminados. | 2 | Abraam Acosta | To-do |
-| US12     | Editar quizzes  | Como creador, quiero editar quizzes ya publicados. | 2 | U202418250 | To-do |
-| US13     | Eliminar quizzes  | Como creador, quiero eliminar quizzes que ya no sean útiles. | 1 | Jareth Vidal | To-do |
-| US14     | Filtrar quizzes por idioma  | Como usuario, quiero filtrar quizzes por idioma. | 1 | Marcelo Mazuelos | To-do |
-| US15     | Filtrar quizzes por dificultad  | Como usuario, quiero filtrar quizzes por nivel de dificultad. | 1 | Alejandro Mendoza | To-do |
-| US16     | Filtrar quizzes por categoría  | Como usuario, quiero filtrar quizzes por categoría temática. | 1 | Pablo Geronimo | To-do |
-| US17     | Resolver quizzes  | Como usuario, quiero resolver quizzes y obtener retroalimentación. | 3 | Abraam Acosta | To-do |
-| US18     | Instrucciones antes de quiz  | Como usuario, quiero ver instrucciones antes de iniciar un quiz. | 1 | U202418250 | To-do |
-| US19     | Navegación entre preguntas  | Como usuario, quiero navegar entre preguntas durante el quiz. | 2 | Jareth Vidal | To-do |
-| US20     | Temporizador en quiz  | Como usuario, quiero ver un temporizador durante el quiz. | 1 | Marcelo Mazuelos | To-do |
-| US21     | Aviso de preguntas sin responder  | Como usuario, quiero saber si dejé preguntas sin responder. | 1 | Alejandro Mendoza | To-do |
-| US22     | Confirmación antes de finalizar quiz  | Como usuario, quiero recibir confirmación antes de finalizar el quiz. | 1 | Pablo Geronimo | To-do |
-| US23     | Ranking global  | Como usuario, quiero ver mi posición en el ranking global. | 2 | Abraam Acosta | To-do |
-| US24     | Ranking por nivel  | Como usuario, quiero ver el ranking filtrado por nivel. | 2 | U202418250 | To-do |
-| US25     | Ranking por país  | Como usuario, quiero ver el ranking filtrado por país. | 2 | Jareth Vidal | To-do |
-| US26     | Historial de quizzes resueltos  | Como usuario, quiero consultar mi historial de quizzes. | 2 | Marcelo Mazuelos | To-do |
-| US27     | Gráficos de progreso  | Como usuario, quiero ver gráficos de mi progreso. | 2 | Alejandro Mendoza | To-do |
-| US28     | Calificar quizzes  | Como usuario, quiero calificar quizzes con estrellas y comentarios. | 1 | Pablo Geronimo | To-do |
-| US29     | Resumen al finalizar quiz  | Como usuario, quiero ver un resumen completo al finalizar un quiz. | 1 | Abraam Acosta | To-do |
-| US30     | Feedback de quizzes  | Como creador, quiero consultar el feedback de mis quizzes. | 1 | U202418250 | To-do |
+| Sprint # | Sprint 2 |
+|--------------|--------------|
+
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
+| **US08** | Eliminar cuenta de usuario | T-01 | Implementar eliminación de cuenta | Permitir al usuario eliminar su cuenta de forma permanente. | 2 | Marcelo Mazuelos | Done |
+| **US09** | Cerrar sesión segura | T-02 | Implementar cierre de sesión | Cerrar sesión del usuario de manera segura y limpiar sesión activa. | 1 | Alejandro Mendoza | Done |
+| **US10** | Crear quizzes | T-03 | Implementar creación de quizzes | Permitir al creador diseñar quizzes personalizados. | 3 | Pablo Geronimo | Done |
+| **US11** | Publicar quizzes | T-04 | Implementar publicación de quizzes | Habilitar la opción de publicar quizzes completados. | 2 | Abraam Acosta | Done |
+| **US12** | Editar quizzes | T-05 | Implementar edición de quizzes | Permitir editar quizzes publicados con control de versiones. | 2 | U202418250 | Done |
+| **US13** | Eliminar quizzes | T-06 | Implementar eliminación de quizzes | Permitir eliminar quizzes obsoletos del sistema. | 1 | Jareth Vidal | Done |
+| **US14** | Filtrar quizzes por idioma | T-07 | Agregar filtro por idioma | Mostrar solo quizzes del idioma seleccionado. | 1 | Marcelo Mazuelos | Done |
+| **US15** | Filtrar quizzes por dificultad | T-08 | Agregar filtro por dificultad | Permitir filtrar quizzes según nivel (A1, B1, C1). | 1 | Alejandro Mendoza | Done |
+| **US16** | Filtrar quizzes por categoría | T-09 | Agregar filtro por categoría | Mostrar quizzes por categoría temática (gramática, vocabulario, etc.). | 1 | Pablo Geronimo | Done |
+| **US17** | Resolver quizzes | T-10 | Implementar resolución de quizzes | Permitir responder quizzes y obtener feedback inmediato. | 3 | Abraam Acosta | Done |
+| **US18** | Instrucciones antes de quiz | T-11 | Mostrar instrucciones previas | Mostrar instrucciones al usuario antes de iniciar un quiz. | 1 | U202418250 | Done |
+| **US19** | Navegación entre preguntas | T-12 | Implementar navegación entre preguntas | Permitir avanzar o retroceder entre preguntas de un quiz. | 2 | Jareth Vidal | Done |
+| **US20** | Temporizador en quiz | T-13 | Implementar temporizador | Mostrar un cronómetro durante la resolución del quiz. | 1 | Marcelo Mazuelos | Done |
+| **US21** | Aviso de preguntas sin responder | T-14 | Implementar alerta de preguntas sin responder | Notificar al usuario antes de finalizar si dejó preguntas vacías. | 1 | Alejandro Mendoza | Done |
+| **US22** | Confirmación antes de finalizar quiz | T-15 | Agregar confirmación de finalización | Mostrar ventana de confirmación antes de enviar el quiz. | 1 | Pablo Geronimo | Done |
+| **US23** | Ranking global | T-16 | Implementar ranking global | Mostrar posición global del usuario según puntaje acumulado. | 2 | Abraam Acosta | Done |
+| **US24** | Ranking por nivel | T-17 | Implementar ranking por nivel | Filtrar ranking según nivel del usuario (A1–C2). | 2 | U202418250 | Done |
+| **US25** | Ranking por país | T-18 | Implementar ranking por país | Filtrar ranking según país del usuario. | 2 | Jareth Vidal | Done |
+| **US26** | Historial de quizzes resueltos | T-19 | Implementar historial de quizzes | Mostrar historial de quizzes resueltos y puntajes. | 2 | Marcelo Mazuelos | Done |
+| **US27** | Gráficos de progreso | T-20 | Implementar gráficos de progreso | Visualizar desempeño del usuario mediante gráficos estadísticos. | 2 | Alejandro Mendoza | Done |
+| **US28** | Calificar quizzes | T-21 | Implementar calificación y comentarios | Permitir calificar quizzes con estrellas y comentarios. | 1 | Pablo Geronimo | Done |
+| **US29** | Resumen al finalizar quiz | T-22 | Mostrar resumen final | Mostrar resumen de resultados al finalizar un quiz. | 1 | Abraam Acosta | Done |
+| **US30** | Feedback de quizzes | T-23 | Implementar consulta de feedback | Permitir a los creadores ver comentarios y valoraciones recibidas. | 1 | U202418250 | Done |
+
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -1920,7 +1925,118 @@ En este apartado se presenta un resumen de la dinámica de trabajo colaborativo 
 
 ---   
 
+### 5.2.3. Sprint 3
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
 
+### 5.2.3.1. Sprint Planning 3.
+
+Durante la reunión de planificación del Sprint 3, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad de la plataforma y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
+
+
+
+
+| **Sprint #** | Sprint 3 |
+|---------------|-----------|
+| **Sprint Planning Background** |  |
+| **Date** | 1/11/2025  |
+| **Time** | 13:00 horas  |
+| **Location** |  Modalidad remota a través de la plataforma Discord  |
+| **Prepared By** | Todos los integrantes del equipo QuizBee |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
+| **Sprint n – 3 Review Summary** |  Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido.   |
+| **Sprint n – 3 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 3 Goal** |  Nuestro enfoque se centra en el desarrollo y consolidación de la API de Quizbee, que constituye el núcleo funcional de la plataforma. Esta API implementa un conjunto de endpoints clave que soportan la creación, gestión, publicación y resolución                     de quizzes, así como la administración de usuarios, rankings, retroalimentación y progreso.El objetivo principal es garantizar un flujo completo y coherente entre las acciones del usuario y del creador, permitiendo que ambos interactúen con el                             sistema mediante servicios seguros, eficientes y escalables.  |
+| **Sprint 3 Velocity** | 100%|
+| **Sum of Story Points** | La suma de Story Points atendidos es de 30 story points|
+
+
+
+
+### 5.2.3.2. Aspect Leaders and Collaborators.
+
+
+Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
+
+Cada aspecto fue liderado o apoyado por diferentes miembros del equipo, promoviendo la colaboración y el aprendizaje conjunto. La siguiente tabla muestra la distribución de roles y responsabilidades para cada aspecto relevante del Sprint 2:
+
+
+
+| Team Member (Last Name, First Name) | Github Username   | **Quizz and Questions** | **Scoring and Attempt** | **Speaking Room** |**IAM** | **Billing and Subcription**|
+| ----------------------------------- | ---------------- | ---------------------------------------------------------------------- | ---------|---------------|---------------------------------------- | --------------------------------------------------------------- |
+| Mazuelos, Marcelo                   | MarceloMazuelos  | (C)                                  |(C)  |           (C)                        | (C)                      |(C)|                                          | (C)                                                          |
+| Mendoza Vergara, Alejandro Franklin | AlexBoo578       | (C)                                 |(C)  |                    (C)                | (L)                 |(C) |                                              | (C)                                                          |
+| Geronimo Quispe, Pablo Antonio      | Phatogram        | (L)                                 | (C)  |                  (C)                  | (C)                  | (C)|                                            | (C)                                                          |
+| Acosta Elera, Abraam Bernabe        | abraam16         | (C)                       |  (C) |                     (C)                 | (L)                                                               | (C)                                     |(C) |                      |
+| Vidal Malaga, Jareth Beycker        | Jareth Vidal     | (C)                 |     (C)      |  (C)                                        | (C)                                                               | (L)                                                          |
+
+
+### 5.2.3.2.3. Sprint Backlog 3. 
+
+Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa Backend de la aplicación, implementando la lógica de negocio y los servicios necesarios para dar soporte funcional a cada uno de los bounded contexts. Se priorizó la creación de entidades, controladores, servicios y repositorios en base a una arquitectura por capas y principios de diseño orientado a dominios. Cada integrante asumió la implementación del backend correspondiente a su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase ha sido clave para establecer la base de comunicación entre el frontend y la lógica del sistema, asegurando la persistencia de datos y el correcto flujo de la información. 
+
+Este es nuestro link de invitación a nuestro Trello :
+
+### 5.2.3.4. Development Evidence for Sprint Review.
+
+
+- Falta una introducción que resume los principales avances en la implementación.
+
+
+
+ejemplo
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|--------------------|
+| QuizBee-frontend | feature-quizzies | a5bd87e | feat(feature-quizzies): add sample of quiz create,quiz play and restructure bounded context with partial for flex data  | Adding endpoint of quizzies and logic busssines core |  7/10/2025 |
+| QuizBee-frontend | feature-quizzies | fe520ef | feat(feature-quizzies): restructure of managament quizz and create question for the bounded context quizzies | fixing db.json and structure of files | 7/10/2025 |
+| QuizBee-Frontend | Billing-and-subscription | 5ba13d3 |feat: add subscription management and payment processing features| Add subscription managament and payment | 26/09/2024 |
+| QuizBee-Frontend | Billing-and-subscription | db32191 |feat: add zone.js for improved Angular performance and add Ultra Mega-Premium subscription plan| Add zone.js for events| 26/09/2024 |
+| QuizBee-Frontend | Billing-and-subscription | 1cd284c |feat: add invoice detail component and routing| Add zone.js for events| 26/09/2024 |
+| QuizBee-Frontend | feature-profile  |8d94822 |feat(profile): implement profile bounded context| adding profile domain entity,Create profile controller for application layer,Add profile component with Material Design UI| 06/09/2024 |
+| QuizBee-Frontend | feature-speakingRoomBC  |ae04048 |  feat(user-entity): add user entity | adding user entity| 07/09/2024 |
+| QuizBee-Frontend | feature-speakingRoomBC  |bb61625 | feat(speaking-repository): add speaking repository service | adding speaking repository service| 07/09/2024 |
+| QuizBee-Frontend | feature-feedback  |597985d | feat(routing): integrate ranking routes into main application| integrate routes for main | 07/09/2024 |
+| QuizBee-Frontend | feature-feedback  |998669a |feat(ranking): set up ranking routes| implementation set up | 07/09/2024 |
+
+
+### 5.2.3.5.  Execution Evidence for Sprint Review
+
+En esta sección, Tenemos los endpoints para 
+
+  - Falta el resumen que explique lo alcanzado en este Sprint.
+
+
+imagen
+
+
+ ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+
+ haganlo asi 
+ 
+ | Método | Endpoint | Descripción |
+|--------|-----------|-------------|
+| GET    | /api/v1/quizzes/{quizId} | Obtener quiz por ID |
+| PUT    | /api/v1/quizzes/{quizId} | Actualizar quiz por ID |
+| DELETE | /api/v1/quizzes/{quizId} | Eliminar quiz por ID |
+| GET    | /api/v1/quizzes | Obtener todos los quizzes |
+| POST   | /api/v1/quizzes | Crear un nuevo quiz |
+| PATCH  | /api/v1/quizzes/{quizId}/plays | Incrementar contador de jugadas del quiz |
+| GET    | /api/v1/quizzes/type/{type} | Obtener quizzes por tipo |
+| GET    | /api/v1/quizzes/search | Buscar quizzes |
+| GET    | /api/v1/quizzes/popular | Obtener quizzes populares |
+| GET    | /api/v1/quizzes/difficulty/{difficultyLevel} | Obtener quizzes por nivel de dificultad |
+| GET    | /api/v1/quizzes/creator/{creatorUserId} | Obtener quizzes creados por un usuario |
+| GET    | /api/v1/quizzes/category/{category} | Obtener quizzes por categoría |
+
+ 
+ ### 5.2.3.7.  Software Deployment Evidence for Sprint Review. 
+
+evidencias del deployment landing frontend 
+
+  ### 5.2.3.8.  Team Collaboration Insights during Sprint. 
+
+   
 
 ## 5.3. Validation Interviews
 
