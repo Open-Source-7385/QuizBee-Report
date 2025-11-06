@@ -1380,10 +1380,8 @@ Para asegurar la calidad, mantenibilidad y coherencia del código fuente en el p
 ### 5.1.4. Software Deployment Configuration.
 
 
-En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y Vercel como plataforma de hosting.
+En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y netlify y vercel como plataforma de hosting.
 
-### Despliegue de la Landing Page
-Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. 
 
 #### Consideraciones Preliminares al Despliegue:
 
@@ -1393,6 +1391,7 @@ Para que nuestra landing page esté disponible para todos nuestros usuarios, la 
 
 - **Protocolo de Pruebas de Funcionamiento**: Tras cada actualización e integración al repositorio, se ejecutarán pruebas internas para asegurar la correcta operación de la página. Asimismo, se someterá la página a pruebas por parte de usuarios externos al grupo de trabajo para obtener una evaluación imparcial.
 
+  
 #### Requisitos Mandatorios para el Despliegue:
 
 - Existencia de un repositorio dentro de la organización de GitHub.
@@ -1400,9 +1399,89 @@ Para que nuestra landing page esté disponible para todos nuestros usuarios, la 
 - Disposición de los permisos de Github necesarios.
 - Disponibilidad del código fuente de la Landing Page.
 
+### Despliegue de la Landing Page
+Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+
+1. Registro en GitHub
+- Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix.
+
+2. Creación del repositorio
+
+- Hicimos clic en el botón “New” para generar un nuevo repositorio.
+-Le asignamos el nombre “landing-page” dentro de nuestra organización open-source-7385.
+
+imagen
 
 
 
+3. Configuración del repositorio
+
+- Nos aseguramos de que el repositorio tenga visibilidad pública para permitir la integración con Netlify.
+- Añadimos un archivo README.md inicial y configuramos un .gitignore adecuado para excluir archivos innecesarios.
+
+4. Carga de los archivos de la landing page
+
+- Accedimos al repositorio creado.
+- Subimos los archivos generados del proyecto (HTML, CSS, TypeScript).
+- Verificamos que los cambios se hicieran en la rama principal (main).
+- Finalmente, confirmamos la acción con “Commit changes” para guardar los archivos.
+
+5. Configuración en Netlify
+
+ - Iniciamos sesión en Netlify
+ - Seleccionamos la opción “New Project” y vinculamos nuestra cuenta de GitHub.
+ - Importamos el repositorio landing-page.
+ - Definimos la rama de despliegue (main).
+
+  6. Verificación del sitio web En pocos minutos, Vercel genera la URL pública del proyecto:
+     landingpagequizzbee.netlify.app
+imagen
+
+
+
+7. Actualización del sitio
+
+- Cuando necesitemos modificar el sitio, solo debemos realizar commits en el repositorio y hacer push hacia la rama main.
+- Netlify detecta automáticamente los cambios, vuelve a compilar el proyecto y lo despliega en línea.
+- Los cambios estarán disponibles en producción en cuestión de segundos.
+
+
+
+
+### Despliegue del Frontend Web Applications
+Para que nuestra Frontend Web Application esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+
+1. Registro en GitHub
+   
+ - Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Frontend Web Application de Quizbee.
+   
+3. Creación del repositorio
+   
+- Hicimos clic en el botón “New” para generar un nuevo repositorio
+- Le asignamos el nombre “Quizbee-frontend” dentro de nuestra organización open-source-7385.
+
+4. Carga de los archivos de la landing page
+
+- Accedimos al repositorio creado.
+- Subimos los archivos generados del proyecto (HTML, CSS, TypeScript,Angular).
+- Verificamos que los cambios se hicieran en la rama principal (main) o depende de los despliegue de los bounded contenxt.
+
+  5. Configuración en Vercel
+
+ - Iniciamos sesión en Vercel.
+ - Seleccionamos la opción “New Project” y vinculamos nuestra cuenta de GitHub.
+ - Importamos el repositorio quizbee-frontend.
+ - Configuramos el framework en Angular (Vercel lo detecta automáticamente en la mayoría de los casos).
+ - Definimos la rama de despliegue (main).
+ - Colocamos todas las variables de entorno necesarias para el correcto funcionamiento de la aplicación.
+ - Finalmente, hicimos clic en “Deploy” para iniciar el proceso de despliegue.
+
+  imagen
+
+
+
+  6. Verificación del sitio web En pocos minutos, Vercel genera la URL pública del proyecto: https://frontend-blond-three-12.vercel.app/
+  
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 
