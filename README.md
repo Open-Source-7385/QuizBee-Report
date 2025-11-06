@@ -2007,7 +2007,7 @@ En esta sección, Tenemos los endpoints para
 
 
 imagen
-
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/quizziesbackend.PNG">
 
  ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
