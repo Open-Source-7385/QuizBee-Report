@@ -1613,6 +1613,16 @@ deploy en firebase: https://quizzbee-bc-quizzies.web.app
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/frontendpablo3.PNG">
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/frontendpablo4.PNG">
 
+JARETH VIDAL
+
+Diseño e implementación del módulo de Subscriptions: Se desarrolló la sección donde el usuario puede adquirir un plan Premium, cancelar su suscripción activa, y visualizar su historial de facturas junto con los detalles de cada una.
+
+Estructura de contenido de las subscriptions: Se implementó la lógica visual para mostrar los diferentes planes disponibles, sus beneficios, precios y estado actual del usuario, manteniendo una interfaz clara y ordenada.
+
+Integración simulada con API pública: A través de Beeceptor, se configuraron endpoints simulados que permiten emular la compra, cancelación y consulta de facturación, asegurando la correcta validación del flujo sin necesidad de un backend real.
+
+Despliegue en Firebase: Toda la aplicación desarrollada fue desplegada exitosamente en Firebase Hosting, lo cual facilitó pruebas visuales, revisiones del equipo y demostración funcional.
+deploy en firebase:
 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
