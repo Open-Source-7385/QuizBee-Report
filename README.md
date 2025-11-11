@@ -2130,6 +2130,112 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 
 
 
+### 5.3.2. Registro de Entrevistas.
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+
+# Evaluación Heurística — QuizBee
+**Carrera:** Ingeniería de Software  
+**Curso:** Desarrollo de Aplicaciones Open Source  
+**Auditor:** Equipo UX / Evaluador: ElectroLink (adaptado a QuizBee)  
+**Plataforma evaluada:** QuizBee – Landing & Web App  
+**Fuente:** README del proyecto (QuizBee). 
+
+---
+
+## 1. Tareas evaluadas
+- Comprender propósito y propuesta de valor en la landing. 
+- Navegar y filtrar quizzes por idioma, nivel y categoría. 
+- Crear, publicar y editar quizzes (flujo de creador). 
+- Resolver quiz: navegación entre preguntas, temporizador, confirmación de envío.   
+- Interacción en salas de speaking (creación/moderación/participación).   
+- Acceso a historial, feedback y ranking.   
+- Flujos de autenticación y mensajes de error (registro, login, verificación).   
+- Revisión de estilo visual (colores, tipografías, espaciado). 
+
+---
+
+## 2. Tabla resumen de problemas detectados
+
+| # | Problema detectado | Severidad (1-3) | Heurística / Principio violado |
+|---:|---|---:|---|
+| 1 | Ausencia de alternativas textuales (alt/aria) para íconos y elementos gráficos en el informe / diseños (no explícito). | 3 | Inclusive Design — Experiencias comparables |
+| 2 | Falta de controles de accesibilidad visibles (contraste/ajustes de tamaño) documentados. | 3 | Diseño Inclusivo |
+| 3 | Feedback visual incompleto en acciones críticas (guardar, publicar, compra de vidas). Aunque hay tareas que indican "indicadores visuales", no hay evidencia de comportamiento final. | 3 | Visibilidad del estado del sistema |
+| 4 | Jerarquía visual de CTAs no totalmente explicitada entre roles (usuario vs creador). | 2 | Visibilidad y jerarquía visual / Consistencia |
+| 5 | Flujos de confirmación y prevención de errores (p. ej. rol al registrarse, confirmación de publicar quiz) necesitan mensajes más claros. | 3 | Prevención de errores / Control del usuario |
+| 6 | Falta de tooltips y ayudas contextuales en iconografía y botones en wireframes públicos. | 2 | Ayuda y documentación |
+| 7 | No se evidencia un sistema de notificaciones prioritarias para creadores (feedback nuevo / moderación). | 2 | Visibilidad del estado del sistema / Reconocer en lugar de recordar |
+| 8 | Accesibilidad móvil: aunque hay breakpoints definidos, no hay evidencia de pruebas de contraste ni de navegación por teclado. | 2 | Accesibilidad / Diseño responsivo |
+| 9 | La descripción del beneficio tangible (puntos canjeables por certificados) está en la propuesta, pero no se clarifica en UI cómo se comunica ni dónde aparece. | 2 | Correspondencia entre sistema y mundo real |
+
+---
+
+## 3. Problemas clave — Descripción y recomendaciones (priorizadas)
+
+### Problema #1 — Falta de etiquetas accesibles en íconos e imágenes  
+**Severidad:** 3 — crítica para usuarios con lectores de pantalla.  
+**Evidencia:** El README define iconografía y mockups pero no documenta atributos alt/aria. 
+**Recomendación concreta:**  
+- Añadir `alt` o `aria-label` a todas las imágenes e íconos funcionales.  
+- Para íconos puramente decorativos usar `aria-hidden="true"`.  
+- Incluir en la guía de estilo una sección “Accesibilidad: atributos ARIA y ejemplos HTML”.
+
+---
+
+### Problema #2 — Falta de opciones de accesibilidad (contraste/tamaños)  
+**Severidad:** 3 — impacto en usabilidad para usuarios con baja visión.  
+**Evidencia:** Paleta de colores definida (celestes, fondo blanco humo) pero no hay reglas de contraste ni modos alto contraste. :contentReference[oaicite:12]{index=12}  
+**Recomendación concreta:**  
+- Verificar contraste (WCAG AA) para todos los pares texto/fondo y botones (usar herramientas automáticas).  
+- Incluir en la UI toggles para: modo alto contraste y tamaño de texto (A / A+).  
+- Añadir ejemplos en el style guide mostrando colores alternativos que cumplan WCAG.
+
+---
+
+### Problema #3 — Falta de retroalimentación inmediata tras acciones clave  
+**Severidad:** 3 — evita que el usuario sepa si la acción tuvo efecto.  
+**Evidencia:** En el backlog aparecen tareas “Indicadores visuales” y “Mensajes de error UX”, pero el README no muestra flujos de confirmación ni toasts en los mockups.   
+**Recomendación concreta:**  
+- Implementar y documentar patrones de feedback: toasts (éxito/error), loaders, badges de estado.  
+- Para acciones críticas (publicar quiz, comprar vidas, guardar cambios) mostrar confirmación y posibilidad de deshacer (undo) en UI.
+
+---
+
+### Problema #4 — Jerarquía visual y consistencia entre roles  
+**Severidad:** 2 — puede confundir al usuario sobre acciones principales.  
+**Evidencia:** CTA y estilos están definidos pero no hay variantes claras por rol (creador vs aprendiz). 
+**Recomendación concreta:**  
+- Definir estilos de CTA por importancia (primario, secundario, destructivo) en el Web Style Guidelines.  
+- En vistas de creador, destacar acciones de publicación/editar con prioridad visual distinta (badges/colores).
+
+---
+
+### Problema #5 — Prevención de errores en flujos críticos (registro/rol/publicación)  
+**Severidad:** 3 — errores en el rol o publicación pueden afectar datos.  
+**Evidencia:** Hay historias de usuario para validación de correo y mensajes de error, pero no está claro el flujo de confirmación de rol.   
+**Recomendación concreta:**  
+- Añadir pantallas de confirmación con resumen antes de acciones destructivas.  
+- Validaciones inline en formularios + mensajes amigables.  
+- Registro: confirmar rol con explicación de permisos y un paso de verificación.
+
+---
+
+## 4. Checklist rápido (acciones inmediatas)
+- [ ] Agregar `alt`/`aria-label` donde falte (prioridad: íconos funcionales). 
+- [ ] Ejecutar auditoría de contraste WCAG y documentar cambios en la guía. 
+- [ ] Definir y aplicar patrones de feedback (toasts, loaders, badges).   
+- [ ] Añadir tooltips / microcopy en iconos y botones para ayudar el reconocimiento.  
+- [ ] Especificar en el style guide estados y jerarquía de CTAs por rol.  
+- [ ] Incluir pruebas de accesibilidad: navegación por teclado, lector de pantalla y pruebas móviles en breakpoints definidos. 
+
+---
+
+
+
+### 5.4. Video About-the-Product.
+
 
 ## 📚 **Bibliografía**
 
