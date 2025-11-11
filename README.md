@@ -2078,8 +2078,29 @@ imagen
 
  
  ### 5.2.3.7.  Software Deployment Evidence for Sprint Review. 
+ Link Landing Desplegado: https://landingpagequizzbee.netlify.app/
+ 
+ Evidencias:
 
-evidencias del deployment landing frontend 
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Landing1.PNG">
+
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Landing2.PNG">
+
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Landing3.PNG">
+
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Landing4.PNG">
+
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Landing5.PNG">
+
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Landing6.PNG">
+ 
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Landing7.PNG">
+ 
+ <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Landing8.PNG">
+
+
+
+
 
   ### 5.2.3.8.  Team Collaboration Insights during Sprint. 
 
