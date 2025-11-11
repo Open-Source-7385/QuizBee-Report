@@ -1879,8 +1879,16 @@ Despliegue en Firebase: Toda la aplicación desarrollada fue desplegada exitosam
 ABRAAM ACOSTA
 
 Me encargué de diseñar y programar el bounded context de profile, permitiendo la gestión y edición de datos de usuario, así como la integración con el sistema de login. Implementé endpoints seguros y colaboré activamente con el equipo para asegurar que el perfil de usuario fuera funcional y seguro. Subí evidencias y diagramas que muestran el funcionamiento y la arquitectura del módulo.<br>
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/login-evidence">
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/profile-evidence.jpeg">
+
+
+
+**Evidencia de Login:**
+![login-evidence](assets/img/chapter-IV/login-evidence.jpeg)
+
+**Evidencia de Perfil:**
+![profile-evidence](assets/img/chapter-IV/profile-evidence.jpeg)
+
+
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
