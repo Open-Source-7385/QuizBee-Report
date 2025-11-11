@@ -2044,7 +2044,7 @@ imagen
  ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
 
- haganlo asi 
+ 
  
  | Método | Endpoint | Descripción |
 |--------|-----------|-------------|
@@ -2152,6 +2152,56 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 
 
 ### 5.3.2. Registro de Entrevistas.
+
+#### Segmento 1:
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/diegoavalos2.png">
+
+- Entrevista N°1: Diego Avalos
+- Sexo: Masculino
+- Edad: 22 años
+
+- Ubicación en la que vive: Independencia, Lima, Perú
+
+
+#### Entrevista:1 ####
+
+
+[link https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EXHY9vTo3TVKnJV3A4e2Ha4B1NsXtcJY6HnYjbc_acjhbA?e=aUP9ck)
+
+
+- Momento en el que inicia: 0:03
+
+- Duración: 12:18
+
+**Resumen:**
+Diego avalos  es un entrevistado que ya nos dio una entrevista anteriormente y como parte de esta lo que mas le gusto y fascino es el tema de la rapidez con la que puedes ingresar a los quizzies y resolverlos y recibir feedback inmediato ya que en estos tiempos lo rapido es lo mas escencial tambien nos comento que una de las caracteristicas escenciales de la startup quizbee es que la deficiencia de colores juega muy en contra y que le gustaria mas inputs en registrarse como aprendiz y un tema de sonidos y una evaluacion al registrarse
+
+
+
+
+#### Segmento 2:
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/pierotenorio.png">
+
+- Entrevista N°1: Pierio tenorio
+- Sexo: Masculino
+- Edad: 20 años
+
+- Ubicación en la que vive: san martin de porres, Lima, Perú
+
+
+#### Entrevista 2: ####
+
+
+https://drive.google.com/drive/folders/1KsDnuT3RHbXD6W2qCzFX5WltWo5r6kCz?usp=sharing
+
+- Momento en el que inicia: 0:03
+
+- Duración: 10:00
+
+**Resumen:**
+Piero tenorio al vez la aplicacion y la landing page se hizo un desden de emociones pero tambien tuvo una recaida ya que le parecio demasiado complejo ya que no resaltaba ninguna caracteristica de lo que aprendimos en IHC tambien resalto que le gustaria que hubiera mas caracteristicas como poner mas vidas y que haya una tienda donde pueda canjear los puntos obtenidos
+
+
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
