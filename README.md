@@ -2009,6 +2009,9 @@ En esta sección, Tenemos los endpoints para
 imagen
 <img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/quizziesbackend.PNG">
 
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Back1.PNG">
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/Back2.PNG">
  ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
 
@@ -2028,6 +2031,21 @@ imagen
 | GET    | /api/v1/quizzes/difficulty/{difficultyLevel} | Obtener quizzes por nivel de dificultad |
 | GET    | /api/v1/quizzes/creator/{creatorUserId} | Obtener quizzes creados por un usuario |
 | GET    | /api/v1/quizzes/category/{category} | Obtener quizzes por categoría |
+
+| Método  | Endpoint                                                              | Descripción                                         |
+|---------|-----------------------------------------------------------------------|-----------------------------------------------------|
+| POST    | /api/v1/subscriptions                                                 | Crear una nueva suscripción                         |
+| GET     | /api/v1/subscriptions/{subscriptionId}                                | Obtener suscripción por ID                          |
+| PUT     | /api/v1/subscriptions/{subscriptionId}/plan/{newPlanId}               | Cambiar el plan de una suscripción                  |
+| PUT     | /api/v1/subscriptions/{subscriptionId}/payment-method                 | Actualizar método de pago de la suscripción         |
+| DELETE  | /api/v1/subscriptions/{subscriptionId}                                | Eliminar suscripción por ID                         |
+| GET     | /api/v1/subscriptions/user/{userId}                                   | Obtener suscripciones de un usuario                 |
+| POST    | /ppd/v1/invoices                                                      | Crear una nueva factura                             |
+| GET     | /ppd/v1/invoices/{invoiceId}                                          | Obtener factura por ID                              |
+| GET     | /ppd/v1/invoices/subscription/{subscriptionId}                        | Obtener facturas por suscripción                    |
+| GET     | /ppd/v1/plans                                                         | Obtener todos los planes disponibles                |
+| GET     | /ppd/v1/plans/{planId}                                                | Obtener plan por ID                                 |
+
 
  
  ### 5.2.3.7.  Software Deployment Evidence for Sprint Review. 
