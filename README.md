@@ -1625,6 +1625,19 @@ Despliegue en Firebase: Toda la aplicación desarrollada fue desplegada exitosam
 deploy en firebase:
 
 
+ABRAAM ACOSTA 
+
+Diseño e implementación del módulo de Profile: Se desarrolló la funcionalidad que permite a los usuarios gestionar su información personal, visualizar y editar su perfil, y mantener actualizados sus datos dentro de la plataforma.
+
+Implementación de login y registro: Se crearon las vistas y lógica para el proceso de autenticación, permitiendo a los usuarios registrarse, iniciar sesión de forma segura y acceder a sus cuentas. Se incluyeron validaciones y mensajes de retroalimentación para mejorar la experiencia de usuario.
+
+Vista del perfil de usuario: Se diseñó una interfaz clara y ordenada para mostrar la información relevante del usuario, incluyendo datos personales, progreso y opciones de edición, asegurando una navegación intuitiva y coherente con el resto de la aplicación.
+
+Integración simulada con API pública: Se configuraron endpoints simulados mediante Beeceptor para validar el flujo de autenticación y gestión de perfil sin necesidad de backend real, facilitando pruebas y demostraciones.
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/login.jpg">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/register.jpg">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/profile.jpg">
+
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
 Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend de PsychoHelp, utilizando Angular para las funcionalidades interactivas y Firebase para el despliegue
