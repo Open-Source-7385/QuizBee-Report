@@ -2007,6 +2007,20 @@ Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa
 
 <img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/sprintbacklog3.PNG"  width="600"/>
 
+| Sprint # | Sprint 3 |
+|--------------|--------------|
+
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
+| **TS01** | Backend API de login | T-01 | Implementar creacion de cuenta| Implementar el endpoint que permita al usuario crear su cuenta . | 2 | Abraam Acosta | Done |
+| **TS02** | Backend API de quizzes | T-02 | Implementar creación de quizzes | Implementar endpoints para que el usuario pueda crear, editar y gestionar quizzes personalizados. | 1 | Pablo Geronimo | Done |
+| **TS03** | Backend API de feedback | T-03 | Implementar creación de feedbacks | Implementar endpoints para que el usuario pueda feedbacks de los quizzes | 3 | Pablo Geronimo | Done |
+| **TS04** | Backend API de usuarios | T-04 | Implementar usuarios | Desarrollar el endpoint que permita eliminar usuarios y roles, manteniendo el control administrativo. | 2 | Jareth Vidal | Done |
+| **TS05** | Backend API de ranking | T-05 | Implementar ranking | Implementar endpoints para actualizar y consultar rankings globales, por nivel y por país. | 1 | Abraam Acosta | Done |
+| **TS06** | Backend API de progreso | T-06 | Implementar progreso | Crear endpoints para registrar y consultar el historial y progreso del usuario mediante gráficos. | 3 | Pablo Geronimo | Done |
+| **TS07** | Backend API de pagos y suscripciones | T-07 | Implementar planes premiuns | Implementar endpoints para gestionar transacciones y planes premium de los usuarios. | 2 | Jareth Vidal | Done |
+| **TS08** | Backend API de speaking rooms | T-08 | Implementar speaking rooms | Crear endpoints para la creación, moderación y grabación de speaking rooms. | 1 | Alejandro Mendoza | Done |
+
 
 
 Este es nuestro link de invitación a nuestro Trello :https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI5eb5f50ecd13739627eec4f8907c3c4003CF6FB7/mi-tablero-de-trello
