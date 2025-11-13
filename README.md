@@ -1,4 +1,3 @@
-
 ## **Universidad Peruana De Ciencias Aplicadas**  
 
  <p align="center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> 
@@ -132,11 +131,10 @@
 
 ### **Student Outcome**
 
-| Criterio específico                                                  | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones      | 
-|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-|Comunica oralmente con efectividad a diferentes rangos de audiencia   | <br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** Se centró en identificar un problema concreto que afecta a los usuarios y ofrecer una solución innovadora. En este caso, la descripción del problema, los usuarios potenciales y los objetivos del proyecto y Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática junto al C4 model . <br>**Vidal Malaga, Jareth Beycker**<br>**TB1:** Realicé actividades como User Task Matrix, User Journey Mapping, Event Storming y Impact Mapping. Estas herramientas me permitieron presentar y explicar conceptos y procesos complejos de manera clara, adaptándome al nivel de conocimiento de diferentes públicos.  <br>**Acosta Elera, Abraam Bernabe**<br>**TB1:** Se desarrollo las bases de la startup, definiendo los competidores y principales user stories, ademas del landin page <br>**Mendoza Vergara, Alejandro Franklin**<br>**TB1:** Se desarrollo los user stories, el empathy mapping y se explicó las bases del startup usando el 5W y 2H. Además de citar las historias de usuario referentes a la landing page | **TB1**: El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto.        |
-|Comunica por escrito con efectividad a diferentes rangos de audiencia | <br>**Vidal Malaga, Jareth Beycker**<br>**TB1:** Trabajé en la creación de documentos como Product Backlog, Style Guidelines y en la arquitectura de la información, además de diseñar wireframes y mockups para la web. Esto mejoró mi capacidad para estructurar y comunicar información escrita de forma clara, coherente y accesible para distintos usuarios. <br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** El proceso de definir una propuesta de valor refuerza la importancia del aprendizaje continuo en el análisis de problemas reales y en la creación de soluciones centradas en el usuario . <br>**Acosta Elera, Abraam Bernabe**<br>**TB1:** Ayude en el desarrollo de las user stories definiendo las descripciones de estas y ayudando en el primer sprint .  <br>**Mendoza Vergara, Alejandro Franklin**<br>**TB1:** Trabaje en modificación de datos esenciales para el startup lo que ayudó a reforzar una comunicación escrita con diversos públicos al exponer de manera sencilla como se conforma, además de la importancia en el análisis de la problematica centrada en el usuario                                                                                                  |    **TB1** El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto.           |
-
+| Criterio específico                                                  | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Conclusiones      | 
+|----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+|Comunica oralmente con efectividad a diferentes rangos de audiencia   | <br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** Se centró en identificar un problema concreto que afecta a los usuarios y ofrecer una solución innovadora. En este caso, la descripción del problema, los usuarios potenciales y los objetivos del proyecto y Se encargó de desarrollar los antecedentes y problemáticas del trabajo para proporcionar una base sólida que facilite el análisis y la formulación de soluciones para la problemática junto al C4 model . <br>**Geronimo Quispe,Pablo Antonio**<br>**TP**: Se realizo el Bounded Context de  quizzies and question y correcciones del anterior entregable aplicando mejora continua<br>**Geronimo Quispe, Pablo Antonio**<br>**TB2:** Se centró en identificar un problema concreto que afecta a los usuarios y ofrecer una solución innovadora. En este caso, la descripción del problema, los usuarios potenciales y los objetivos del proyecto para refactorizar y mejorar lo que es el frontend y backen .<br>**Vidal Malaga, Jareth Beycker**<br>**TB1:** Realicé actividades como User Task Matrix, User Journey Mapping, Event Storming y Impact Mapping. Estas herramientas me permitieron presentar y explicar conceptos y procesos complejos de manera clara, adaptándome al nivel de conocimiento de diferentes públicos. <br>**Vidal Malaga, Jareth Beycker**<br>**TP: Se realizo el Bounded Context de Billing and Subscriptions haciendo sus mokcups y luego tratar de pasarlo a angular usando IntelliJ IDEA **<br>** TB2: Durante el desarrollo del backend de Billing and Subscriptions, comuniqué de forma clara los avances, requerimientos técnicos y resultados tanto al equipo de frontend como al líder del proyecto, adaptando el nivel de detalle según el público. Expliqué la lógica de las APIs y el flujo de datos de manera comprensible, facilitando la integración y el entendimiento del sistema.<br>**Acosta Elera, Abraam Bernabe**<br>**TB1:** Se desarrollo las bases de la startup, definiendo los competidores y principales user stories, ademas del landin page **TP1:** En esta entrega ayuda al equipo con las correcciones de la primera entrega, y desarrolle la evindencia del sprint 2 **TB2:** Desarrolle el bounded de context de IAM  y profile, comunique con todos mis compañeros los cambios y avances realizados <br>**Mendoza Vergara, Alejandro Franklin**<br>**TB1:** Se desarrollo los user stories, el empathy mapping y se explicó las bases del startup usando el 5W y 2H. Además de citar las historias de usuario referentes a la landing page. <br>**TP:** Para el trabajo parcial se realizaron correcciones del reporte, así como el bounded context speking room que lleva a la creación de salas <br>**Mazuelos Callirgos, Marcelo Alessandro**<br>**TP:** Se realizó correcciones generales al capítulo 2, en concreto los User Journey Mappings de acuerdo a las indicaciones de retroalimentación                                                                                                                     | **TB1**: El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto. <br> **TP**  La comunicación continua facilitó la coordinación de tareas, permitiendo adaptar el flujo de trabajo a las necesidades reales del equipo.   <br> **TB2**:  Se observó una mejora notable en la expresión verbal, especialmente al presentar resultados derivados de validaciones con usuarios.       |
+|Comunica por escrito con efectividad a diferentes rangos de audiencia | <br>**Vidal Malaga, Jareth Beycker**<br>**TB1:** Trabajé en la creación de documentos como Product Backlog, Style Guidelines y en la arquitectura de la información, además de diseñar wireframes y mockups para la web. Esto mejoró mi capacidad para estructurar y comunicar información escrita de forma clara, coherente y accesible para distintos usuarios.<br>**Vidal Malaga, Jareth Beycker**<br>**TP: Trabajo en la creacion del trello y haciendo mejoras de las anterior entrega especficicamente el productbacklog y realice una entrevista mas**<br>**TB2:** Documenté las funcionalidades del backend de Billing and Subscriptions, incluyendo los endpoints, flujos de datos y procesos de facturación, utilizando un lenguaje técnico claro y organizado. Además, redacté reportes y mensajes explicativos adaptados tanto a desarrolladores como a miembros no técnicos del equipo, asegurando una comunicación escrita efectiva.   <br>**Geronimo Quispe, Pablo Antonio**<br>**TB1:** El proceso de definir una propuesta de valor refuerza la importancia del aprendizaje continuo en el análisis de problemas reales y en la creación de soluciones centradas en el usuario <br>**Geronimo Quispe Pablo Antonio**<br>**TP: Trabajo en la creacion del bounded context y haciendo mejoras de las anterior entrega especficicamente el 5.2.1 y realizo lo acordado con el equipo**. <br>**Geronimo Quispe, Pablo Antonio**<br>**TB2:** Se mejoro y se despluego con exito la nueva landing page con su respectivo fronted se realizo el bounded context correspondiente  .   <br>**Acosta Elera, Abraam Bernabe**<br>**TB1:** Ayude en el desarrollo de las user stories definiendo las descripciones de estas y ayudando en el primer sprint . **TP1:** Trabaje un bounded context de profile, realizando su desarrollo y despleigue, tambien ayude con la comunicacion activa y el sprint 2  **TB2** Participe en las reuniones de grupo activamente y ayude a planificar este tercer sprint contribuyendo directamente en dos bounded context<br>**Mendoza Vergara, Alejandro Franklin**<br>**TB1:** Trabaje en modificación de datos esenciales para el startup lo que ayudó a reforzar una comunicación escrita con diversos públicos al exponer de manera sencilla como se conforma, además de la importancia en el análisis de la problematica centrada en el usuario. <br>**TP:** Para el trabajo parcial se realizaron correcciones y al realizar el speaking room bounded context se consiguió reforzar la comunicación entre distintos grupos de usuarios  <br>**Mazuelos Callirgos, Marcelo Alessandro**<br>**TP:** Se realizó correcciones generales al capítulo 3; se reestructurizaron y se le dio una introducción a los User Stories, incluyendo nuevas Technical Stories nuevos según lo solicitado. Además de reformular el Impact Mapping para que correspondan al AS-IS methodology |    **TB1** El trabajo realizado en TB1 contribuyó significativamente a la comprensión de la problemática, la formulación de soluciones innovadoras y la estructura de propuestas para resolver problemas específicos en el proyecto. <br> **TP**  Permitió alinear criterios de implementación y definir responsabilidades claras, mejorando el trabajo colaborativo. <br> **TB2** Se consolidó una redacción profesional que facilitó la documentación de validaciones y hallazgos críticos para el cierre.
 
 ---
 
@@ -665,8 +663,79 @@ Este journey describe la situación actual de las personas que dominan un idioma
 
 ## 2.4. Big Picture Event Storming.
 
+
+### 1) Resultado de la sesión y flujo extremo a extremo
+
+Durante la sesión colaborativa de alto nivel, el equipo de **Quizbee** mapeó el flujo completo de la plataforma, desde el registro del usuario hasta la interacción dentro de los quizzes y la gestión de suscripciones. El flujo inicia con la **creación y autenticación del perfil de usuario**, continúa con la **navegación y resolución de quizzes** y culmina con la **gestión de suscripciones y recompensas**.
+
+**Eventos clave identificados:**
+- Usuario se registra e inicia sesión.  
+- Usuario configura o actualiza su perfil.  
+- Usuario visualiza, crea o resuelve quizzes.  
+- El sistema calcula puntajes, muestra feedback y actualiza rankings.  
+- Usuario accede a beneficios mediante su suscripción (básica o premium).  
+- El sistema procesa el pago, emite comprobante y actualiza el estado de la cuenta.
+
+Este flujo permitió identificar puntos de interacción entre los diferentes tipos de usuario (**aprendiz y creador**) y las acciones que desencadenan en la plataforma, estableciendo así una visión global del comportamiento del sistema.
+
+---
+
+### 2) Bounded Contexts y reglas de orquestación clave
+
+A partir del análisis del mapa de eventos, emergieron tres **Bounded Contexts principales**:
+
+#### 🟢 Management Profile
+Se encarga de la creación, autenticación y mantenimiento de la información del usuario.  
+- **Eventos:** registro, login, actualización de perfil, cambio de contraseña.  
+- **Políticas:** no se puede acceder a quizzes o suscripciones sin un perfil autenticado.  
+- **Integraciones:** módulo de identidad y almacenamiento seguro de contraseñas.
+
+#### 🟣 Quizzes and Questions
+Representa el corazón del aprendizaje interactivo.  
+- **Eventos:** creación, publicación y resolución de quizzes; cálculo de puntaje; feedback.  
+- **Políticas:** solo usuarios con rol *Creator* pueden publicar quizzes; los quizzes deben tener preguntas validadas antes de publicarse.  
+- **Integraciones:** motor de puntuación, sistema de feedback, ranking y progreso del usuario.
+
+#### 🟠 Subscription and Billing
+Gestiona los planes de suscripción (básico y premium) y los pagos asociados.  
+- **Eventos:** visualización de planes, pago procesado, activación de beneficios premium, cancelación de suscripción.  
+- **Políticas:** no se puede acceder a funciones premium sin pago confirmado.  
+- **Integraciones:** pasarela de pagos y gestión de facturación digital.
+
+---
+
+### 🔁 Reglas de orquestación clave
+- El usuario debe tener una cuenta validada antes de acceder a los quizzes.  
+- El plan premium solo se activa cuando el pago es confirmado.  
+- Los quizzes publicados no pueden editarse mientras estén en revisión o con feedback activo.  
+- El ranking y progreso solo se actualizan después de que un quiz es completado y puntuado correctamente.  
+
+---
+
+### 3) Riesgos, oportunidades y próximos pasos
+
+#### ⚠️ Riesgos identificados
+- Abandono del usuario gratuito al agotarse las vidas sin incentivos de conversión.  
+- Carga alta en el módulo de feedback si el volumen de quizzes crece exponencialmente.  
+- Posibles errores en la sincronización de estados entre módulos (por ejemplo, cuenta premium desactualizada tras pago fallido).
+
+#### 💡 Oportunidades
+- Integrar insignias y recompensas adicionales para aumentar la retención.  
+- Extender el módulo de quizzes con *speaking rooms* y desafíos en tiempo real.  
+- Aplicar métricas de aprendizaje (tiempo promedio por quiz, tasa de aciertos) para personalizar la experiencia.
+
+#### 🚀 Próximos pasos
+- Profundizar cada bounded context mediante un **Design-Level Event Storming**, enfocándose en comandos, eventos y políticas internas.  
+- Definir validaciones técnicas y operativas (como reintento de pagos o control de acceso a quizzes premium).  
+- Diseñar métricas iniciales centradas en **usuarios activos, retención semanal y conversión a premium**, para guiar la evolución del producto.
+  
 <img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/EventStorming.jpg" alt="EventStorming" width="600"/>
 
+
+
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/evenstorming.jpg" alt="EventStorming" width="800"/>
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/eventstorming2.jpg" alt="EventStorming" width="800"/>
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/evenstorming3.jpg" alt="EventStorming" width="800"/>
 ## 2.5. Ubiquitous Language.
 
 | Término | Definición | Segmentos relacionados |
@@ -784,72 +853,87 @@ Por otro lado, las Technical Stories (TS) representan los requerimientos técnic
 
 ## 3.2. Impact Mapping.
 
-<img width="700" height="500" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/Impact%20Mapping.png" alt="Impact Mapping">
+<img src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-3/Impact Mapping.png" alt="Impact Mapping">
 
 
 
 ## 3.3. Product Backlog.
 
-| #Orden | User Story ID | Description |StoryPoint(1/3/5/8) |
-|---------------|--------|------|------------------------------|
-| 01 | US01 | Como visitante, quiero acceder a una landing page informativa para conocer los beneficios, testimonios y planes disponibles. | 1|
-| 02 | US02 | Como visitante indeciso, quiero ver testimonios reales de usuarios para aumentar mi confianza antes de registrarme. | 1|
-| 03 | US03 | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer las funcionalidades de la plataforma. |1 |
-| 04 | US04 | Como visitante , quiero ver los Planes Premiun qure ofrecen en la plataforma. | 3 |
-| 05 | US05 | Como visitante , quiero ver un formulario de contacto para poder resolver mis dudas. | 3 |
-| 06 | US06 | Como visitante , quiero ver todas sus redes en el footer. | 1 |
-| 07 | US07 | Como visitante , quiero ver los servicios qure ofrecen en la plataforma. | 1|
-| 08 | US01 | Como nuevo usuario, quiero registrarme en QuizzBee con mi correo y contraseña para poder acceder a la plataforma y crear mi perfil. |3 |
-| 09 | US02 | Como usuario registrado, quiero iniciar sesión con mis credenciales para acceder a mi cuenta y utilizar las funcionalidades de la plataforma. |2 |
-| 10 | US03 | Como usuario que olvidó su contraseña, quiero poder recuperarla a través de mi correo electrónico para volver a acceder a mi cuenta sin perder mis datos. |3 |
-| 11 | US04 | Como usuario durante el proceso de registro, quiero recibir mensajes claros cuando cometa errores en los campos para poder corregirlos fácilmente. | 2|
-| 12 | US05 | Como nuevo usuario, quiero validar mi correo electrónico después del registro para activar mi cuenta y acceder completamente a la plataforma. | 3|
-| 13 | US06 | Como usuario autenticado, quiero poder configurar mi perfil personal para personalizar mi experiencia en la plataforma según mis preferencias y nivel.	 | 3|
-| 14 | US07 | Como usuario preocupado por la seguridad, quiero poder cambiar mi contraseña en cualquier momento para mantener mi cuenta protegida.	 | 2|
-| 15 | US08 | Como usuario que ya no desea usar la plataforma, quiero poder eliminar permanentemente mi cuenta para que mis datos sean borrados del sistema.	 | 3|
-| 16 | US09 | Como usuario autenticado, quiero poder cerrar sesión de forma segura para proteger mi cuenta cuando termine de usar la plataforma. |1 |
-| 17 | US10 | Como creador de contenido, quiero poder crear quizzes con preguntas y respuestas personalizadas para compartir conocimiento con otros usuarios. | 5|
-| 18 | US11 | Como creador, quiero poder publicar mis quizzes terminados para que estén disponibles para otros usuarios en la plataforma. | 2|
-| 19 | US12 | Como creador, quiero poder editar mis quizzes ya publicados para mejorarlos o corregir errores manteniendo un historial de cambios. |3 |
-| 20 | US13 | Como creador, quiero poder eliminar mis quizzes cuando ya no los considere útiles o relevantes para mantener mi contenido actualizado. |2 |
-| 21 | US14 | Como usuario, quiero poder filtrar quizzes por idioma específico para encontrar contenido en el idioma que deseo practicar. | 2|
-| 22 | US15 | Como usuario, quiero poder filtrar quizzes por nivel de dificultad para encontrar contenido apropiado para mis habilidades actuales. |2 |
-| 23 | US16 | Como usuario, quiero poder filtrar quizzes por categoría temática para enfocarme en áreas específicas de estudio como vocabulario, gramática, etc. |2 |
-| 24 | US17 | Como usuario, quiero poder resolver quizzes disponibles en la plataforma para practicar mis conocimientos y obtener retroalimentación inmediata. |6 |
-| 25 | US18 | Como usuario, quiero ver instrucciones claras antes de comenzar un quiz para entender cómo funciona y qué se espera de mí. | 1|
-| 26 | US19 | Como usuario resolviendo un quiz, quiero poder navegar entre preguntas para revisar y cambiar mis respuestas antes de finalizar. | 3|
-| 27 | US20 | Como usuario, quiero ver un temporizador durante el quiz para controlar el tiempo que tardo en completarlo y mejorar mi velocidad de respuesta. | 3|
-| 28 | US21 | Como usuario, quiero que el sistema me indique qué preguntas dejé sin responder antes de finalizar el quiz para asegurarme de completarlo correctamente. | 3|
-| 29 | US22 | Como usuario, quiero recibir un mensaje de confirmación antes de finalizar el quiz para evitar enviarlo accidentalmente y poder revisar mis respuestas. | 2|
-| 30 | US23 | Como usuario competitivo, quiero ver mi posición en el ranking global para compararme con todos los usuarios de la plataforma y motivarme a mejorar. | 5|
-| 31 | US24 | Como usuario, quiero ver el ranking filtrado por mi nivel de habilidad para compararme con usuarios de capacidades similares. |5 |
-| 32 | US25 | Como usuario, quiero ver el ranking filtrado por país para compararme con jugadores de mi misma región y fomentar la competencia local. |5 |
-| 33 | US26 | Como usuario, quiero consultar mi historial de quizzes resueltos para revisar mi desempeño y progreso a lo largo del tiempo. | 3|
-| 34 | US27 | Como usuario, quiero ver gráficos de mi progreso para visualizar fácilmente mi evolución y áreas de mejora en el tiempo. |5 |
-| 35 | US28 | Como usuario, quiero poder calificar los quizzes con estrellas y comentarios para proporcionar feedback al creador. | 3|
-| 36 | US29 | Como usuario, quiero ver un resumen completo al finalizar un quiz para conocer mi puntaje y revisar las respuestas correctas e incorrectas. |3 |
-| 37 | US30 | Como creador, quiero consultar el feedback de mis quizzes para conocer la opinión y calificaciones de los usuarios. |3 |
-| 38 | US31 | Como creador, quiero recibir notificaciones cuando los usuarios dejen comentarios para estar al tanto del feedback de mis quizzes. |5 |
-| 39 | US32 | Como usuario en plan gratuito sin vidas, quiero poder comprar vidas adicionales para continuar jugando sin limitaciones. | 5|
-| 40 | US33 | Como usuario, quiero suscribirme al plan premium para acceder a beneficios y características ilimitadas. |5 |
-| 41 | US34 | Como usuario premium, quiero poder cancelar mi suscripción para que mi cuenta vuelva al modo gratuito al final del ciclo. |3 |
-| 42 | US35 | Como usuario premium, quiero acceder a un historial de mis pagos y facturas para gestionar mi información financiera. | 3|
-| 43 | US36 | Como usuario premium, quiero unirme a salas de speaking para interactuar en tiempo real con otros usuarios. |5 |
-| 44 | US37 | Como creador, quiero organizar salas de speaking para que los usuarios puedan unirse en fechas y horas específicas. |5 |
-| 45 | US38 | Como creador de salas, quiero gestionar mi sala de speaking para poder silenciar, expulsar o invitar usuarios según sea necesario. | 5|
-| 46 | US39 | Como usuario en una sala de speaking, quiero poder grabar la reunión para tener acceso a ella posteriormente. | 8|
-| 47 | US42 | Como usuario móvil, quiero que el contenido se ajuste responsivamente para tener una experiencia óptima en cualquier dispositivo. |3 |
-| 48 | TS01 | Como desarrollador, quiero implementar autenticación por API para que los usuarios puedan iniciar sesión y recibir tokens de acceso. | 3|
-| 49 | TS02 | Como desarrollador, quiero crear endpoints para la gestión de quizzes para permitir operaciones CRUD en formato JSON. |3 |
-| 50 | TS03 | Como desarrollador, quiero implementar endpoints de feedback para guardar comentarios vinculados a quizzes y usuarios. |3 |
-| 51 | TS04 | Como desarrollador, quiero implementar cifrado de contraseñas para garantizar la seguridad de las credenciales de usuario. |3 |
-| 52 | TS05 | Como desarrollador, quiero implementar validación de tokens para controlar el acceso a endpoints protegidos y manejar tokens inválidos. |5 |
-| 53 | TS06 | Como desarrollador, quiero implementar control de acceso basado en roles para diferenciar permisos entre administradores y usuarios regulares. |5 |
-| 54 | TS07 | Como desarrollador, quiero manejar la expiración de tokens para mantener la seguridad y requerir re-autenticación cuando sea necesario. | 3|
-| 55 | TS08 | Como desarrollador, quiero configurar la conexión a la base de datos PostgreSQL para poder tener todos los datos de mi aplicacion.  | 8|
 
 
+|                                #Orden                               | User Story ID | Description                                                                                                                                                          | Story Point (1/3/5/8) |
+| :-----------------------------------------------------------------: | :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: |
+|                           **Landing Page**                          |               |                                                                                                                                                                      |                       |
+|                                  01                                 | US01          | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma, para decidir si registrarme. |           1           |
+|                                  02                                 | US02          | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme.                                 |           1           |
+|                                  03                                 | US03          | Como visitante, quiero conocer las funcionalidades principales de la plataforma, para entender cómo me ayudará a mejorar mi aprendizaje.                             |           1           |
+|                                  04                                 | US04          | Como visitante, quiero ver los planes premium que ofrece la plataforma, para evaluar si vale la pena adquirir uno.                                                   |           1           |
+|                                  05                                 | US05          | Como visitante, quiero tener acceso a un formulario de contacto, para poder resolver mis dudas.                                                                      |           1           |
+|                                  06                                 | US06          | Como visitante, quiero ver las redes sociales de la plataforma en el footer, para conocer más sobre la comunidad.                                                    |           1           |
+|                                  07                                 | US07          | Como visitante, quiero ver los servicios que ofrece la plataforma, para comprender todo lo que brinda.                                                               |           1           |
+|                                  08                                 | US47          | Como usuario móvil, quiero que todas las páginas se adapten correctamente a dispositivos móviles, para tener una experiencia óptima desde cualquier dispositivo.     |           3           |
+|             **CRUD (Autenticación y Perfil de Usuario)**            |               |                                                                                                                                                                      |                       |
+|                                  09                                 | US08          | Como nuevo usuario, quiero registrarme en QuizzBee con mi correo y contraseña, para acceder a la plataforma y crear mi perfil.                                       |           3           |
+|                                  10                                 | US09          | Como usuario registrado, quiero iniciar sesión con mis credenciales, para acceder a mi cuenta y utilizar las funcionalidades de la plataforma.                       |           3           |
+|                                  11                                 | US10          | Como usuario que olvidó su contraseña, quiero recuperarla mediante mi correo electrónico, para volver a acceder sin perder mis datos.                                |           3           |
+|                                  12                                 | US11          | Como usuario en registro, quiero recibir mensajes claros de error al llenar campos incorrectamente, para corregirlos fácilmente.                                     |           3           |
+|                                  13                                 | US12          | Como nuevo usuario, quiero validar mi correo electrónico después del registro, para activar mi cuenta y acceder completamente.                                       |           3           |
+|                                  14                                 | US13          | Como usuario autenticado, quiero configurar mi perfil personal, para personalizar mi experiencia según mis preferencias.                                             |           5           |
+|                                  15                                 | US14          | Como usuario, quiero poder cambiar mi contraseña, para mantener mi cuenta protegida.                                                                                 |           3           |
+|                                  16                                 | US15          | Como usuario, quiero poder eliminar permanentemente mi cuenta, para que mis datos sean borrados del sistema.                                                         |           5           |
+|                                  17                                 | US16          | Como usuario autenticado, quiero poder cerrar sesión de forma segura, para proteger mi cuenta cuando termine de usarla.                                              |           1           |
+| **Core del Negocio (Quizzes, Rankings, Feedback, Pagos, Speaking)** |               |                                                                                                                                                                      |                       |
+|                                  18                                 | US17          | Como creador de contenido, quiero crear quizzes con preguntas y respuestas personalizadas, para compartir conocimiento con otros usuarios.                           |           5           |
+|                                  19                                 | US18          | Como creador, quiero publicar mis quizzes terminados, para que estén disponibles para otros usuarios.                                                                |           3           |
+|                                  20                                 | US19          | Como creador, quiero editar mis quizzes ya publicados, para corregir errores y mejorarlos.                                                                           |           5           |
+|                                  21                                 | US20          | Como creador, quiero eliminar mis quizzes, para mantener actualizado mi contenido.                                                                                   |           3           |
+|                                  22                                 | US35          | Como usuario, quiero calificar y comentar los quizzes que resuelvo, para ayudar al creador a mejorar el contenido.                                                   |           3           |
+|                                  23                                 | US37          | Como creador de quizzes, quiero consultar el feedback recibido, para mejorar la calidad de mis contenidos.                                                           |           3           |
+|                                  24                                 | US38          | Como creador de quizzes, quiero recibir notificaciones cuando los usuarios dejen feedback, para poder responder oportunamente.                                       |           3           |
+|                                  25                                 | US39          | Como usuario gratuito, quiero poder comprar vidas adicionales, para continuar jugando sin esperar.                                                                   |           5           |
+|                                  26                                 | US40          | Como usuario, quiero poder suscribirme al plan premium, para acceder a beneficios exclusivos.                                                                        |           5           |
+|                                  27                                 | US41          | Como usuario premium, quiero poder cancelar mi suscripción, para dejar de pagar cuando ya no lo desee.                                                               |           3           |
+|                                  28                                 | US42          | Como usuario premium, quiero consultar mi historial de pagos y facturas, para tener control de mis transacciones.                                                    |           3           |
+|                                  29                                 | US43          | Como usuario premium, quiero participar en salas de speaking, para practicar inglés en tiempo real con otros usuarios.                                               |           5           |
+|                                  30                                 | US44          | Como creador, quiero crear salas de speaking, para organizar sesiones programadas.                                                                                   |           5           |
+|                                  31                                 | US45          | Como creador de sala, quiero tener herramientas de moderación, para mantener un ambiente positivo.                                                                   |           3           |
+|                                  32                                 | US46          | Como creador de sala, quiero poder grabar las sesiones de speaking, para que los participantes las revisen después.                                                  |           5           |
+|                        **Technical Stories**                        |               |                                                                                                                                                                      |                       |
+|                                  33                                 | TS01          | Como developer, quiero implementar una API de autenticación, para que los usuarios inicien sesión y reciban tokens de acceso.                                        |           5           |
+|                                  34                                 | TS02          | Como developer, quiero implementar APIs para gestionar quizzes (CRUD), para permitir su administración desde el backend.                                             |           8           |
+|                                  35                                 | TS03          | Como developer, quiero implementar APIs para gestionar feedback, para almacenar comentarios de usuarios sobre quizzes.                                               |           5           |
+|                                  36                                 | TS04          | Como developer, quiero implementar endpoints para gestionar usuarios y roles, para mantener control administrativo.                                                  |           8           |
+|                                  37                                 | TS05          | Como developer, quiero implementar endpoints para rankings globales, por nivel y por país, para mostrar clasificaciones dinámicas.                                   |           5           |
+|                                  38                                 | TS06          | Como developer, quiero crear endpoints para registrar y consultar el historial y gráficos de progreso, para reflejar la evolución del usuario.                       |           5           |
+|                                  39                                 | TS07          | Como developer, quiero implementar APIs de pagos y suscripciones, para gestionar transacciones y planes premium.                                                     |           8           |
+|                                  40                                 | TS08          | Como developer, quiero implementar endpoints para speaking rooms, para permitir su creación, moderación y grabación.                                                 |           8           |
+|                                  41                                 | TS09          | Como developer, quiero implementar encriptación de contraseñas, para garantizar la seguridad de credenciales.                                                        |           3           |
+|                                  42                                 | TS10          | Como developer, quiero implementar validación de tokens JWT, para proteger endpoints de la API.                                                                      |           3           |
+|                                  43                                 | TS11          | Como developer, quiero implementar control de acceso basado en roles, para restringir operaciones según permisos.                                                    |           5           |
+|                                  44                                 | TS12          | Como developer, quiero implementar expiración de tokens, para mantener la seguridad de las sesiones.                                                                 |           3           |
+|                                  45                                 | TS13          | Como developer, quiero configurar la conexión a la base de datos PostgreSQL, para almacenar y consultar datos de la aplicación.                                      |           5           |
+|                    **Usuario (Uso del Sistema)**                    |               |                                                                                                                                                                      |                       |
+|                                  46                                 | US21          | Como usuario, quiero filtrar quizzes por idioma, para encontrar contenido en el idioma que deseo practicar.                                                          |           3           |
+|                                  47                                 | US22          | Como usuario, quiero filtrar quizzes por nivel de dificultad, para encontrar contenido adecuado a mis habilidades.                                                   |           3           |
+|                                  48                                 | US23          | Como usuario, quiero filtrar quizzes por categoría temática, para enfocarme en áreas específicas.                                                                    |           3           |
+|                                  49                                 | US24          | Como usuario, quiero resolver quizzes disponibles, para practicar mis conocimientos y obtener retroalimentación inmediata.                                           |           5           |
+|                                  50                                 | US25          | Como usuario, quiero ver instrucciones antes de comenzar un quiz, para entender cómo funciona.                                                                       |           1           |
+|                                  51                                 | US26          | Como usuario, quiero navegar entre preguntas, para revisar y cambiar respuestas antes de finalizar.                                                                  |           3           |
+|                                  52                                 | US27          | Como usuario, quiero ver un temporizador durante el quiz, para controlar mi tiempo.                                                                                  |           3           |
+|                                  53                                 | US28          | Como usuario, quiero que el sistema me indique qué preguntas dejé sin responder, para asegurarme de completarlo.                                                     |           3           |
+|                                  54                                 | US29          | Como usuario, quiero recibir un mensaje de confirmación al terminar el quiz, para evitar enviarlo accidentalmente.                                                   |           1           |
+|                                  55                                 | US30          | Como usuario competitivo, quiero ver mi posición en el ranking global, para compararme con otros.                                                                    |           3           |
+|                                  56                                 | US31          | Como usuario, quiero ver el ranking por nivel, para compararme con jugadores de mi mismo nivel.                                                                      |           3           |
+|                                  57                                 | US32          | Como usuario, quiero ver el ranking por país, para fomentar la competencia local.                                                                                    |           3           |
+|                                  58                                 | US33          | Como usuario, quiero consultar mi historial de quizzes resueltos, para revisar mi progreso.                                                                          |           3           |
+|                                  59                                 | US34          | Como usuario, quiero ver gráficos de mi progreso, para visualizar mi evolución.                                                                                      |           5           |
+|                                  60                                 | US36          | Como usuario, quiero ver un resumen detallado al finalizar el quiz, para revisar mis errores y puntaje.                                                              |           3           |
 
+Trello:
+- Link: https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI5eb5f50ecd13739627eec4f8907c3c4003CF6FB7/mi-tablero-de-trello
+  
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/trello.PNG" alt="trello" width="600"/>
+ 
 ---
 
 # **Capítulo IV: Product Design**
@@ -1092,6 +1176,7 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Design-Level Event Storming.
 
+En este apartado se presentará el Event Storming realizado para la creación de Quizbee. Este diagrama nos permitió identificar los distintos eventos que se pueden presentar en el sistema, así como las entidades, comandos y agregados involucrados. Se utilizó la plataforma de Structurizr para la creación de los diagramas de contexto, contenedores y componentes. Se va utilizar el patrón CQRS (Command Query Responsibility Segregation) para la separación de responsabilidades entre comandos y consultas.
 
 ### 4.6.2. Software Architecture Context Diagram
 
@@ -1100,7 +1185,7 @@ Además, se incluirán elementos de navegación contextual como breadcrumbs para
 
 ### 4.6.3. Software Architecture Container Diagrams
 
-<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/containerdiagram.png" alt="Container Diagram">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-IV/containerfinal.png" alt="Container Diagram">
 
 
 ### 4.6.4. Software Architecture Components Diagrams
@@ -1142,17 +1227,55 @@ Billing and Suscription Bounded Context
 # **Capítulo V: Product Implementation, Validation & Deployment**
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+**Project Management**
+| Tipo de Actividad       | Herramienta / Producto | URL                                | Motivos de uso                                                                 |
+|--------------------------|-------------------------|------------------------------------|--------------------------------------------------------------------------------|
+| Documentación            | Trello               | https://trello.com             | Esta plataforma de gestión de proyectos ofrece funcionalidades para el seguimiento detallado del progreso de cada tarea a lo largo de su ciclo de vida,                                 |
+| Gestión de Requisitos    | Miro                    | https://miro.com/                | Para organizar, colaborar y realizar un seguimiento del trabajo de manera eficiente. |
+| Reuniones                | Discord                | https://discord.com/               | Reuniones con el equipo.                                                        |
+| C4               | structurizr              | https://structurizr.com/            | Sistema de notación visual para arquitectos de software y equipos de desarrollo                                              |
+  
 
+**Product UX/UI Desing**
 | Tipo de Actividad       | Herramienta / Producto | URL                                | Motivos de uso                                                                 |
 |--------------------------|-------------------------|------------------------------------|--------------------------------------------------------------------------------|
 | UX/UI Design             | Figma                  | https://www.figma.com/es-la        | Realizar los diseños de interfaz y de experiencia de usuario para nuestra solución. |
-| Desarrollo de Software   | VS Code                | https://code.visualstudio.com      | Desarrollar la Landing Page de nuestra solución.                                |
-| Documentación            | GitHub                 | https://github.com                 | Realizar la documentación de nuestra propuesta.                                 |
-| Gestión de Requisitos    | Miro                    | https://miro.com/                | Para organizar, colaborar y realizar un seguimiento del trabajo de manera eficiente. |
-| Reuniones                | Discord                | https://discord.com/               | Reuniones con el equipo.                                                        |
 
+
+**Software Development**
+| Plataforma     | Descripción | URL                               
+|--------------------------|-------------------------|------------------------------------|
+| HTML            | Sirve para definir la estructura y el contenido de una página web.                 | https://www.w3schools.com/html/default.asp |
+|CSS         | Se encarga de la presentación visual y el estilo de la página web.              | https://www.w3schools.com/css/default.asp|
+|JS         | Añade interactividad y dinamismo a la página web.               | https://www.w3schools.com/html/default.asp |
+|Visual Studio Code        | Entorno de desarrollo que facilita la escritura, edición, depuración y gestión de código para una amplia gama de lenguajes y proyectos.            |https://code.visualstudio.com |
+
+**Software Documentation**
+
+| Plataforma     | Descripción | URL                               
+|--------------------------|-------------------------|------------------------------------|
+| GitHub            |Gestión de la documentación en función a repositorios y organizaciones	                |https://github.com |
+|Markdown         | Formato base para la presentación y documentación del proyecto	           | https://markdown.es/|
 
 ### 5.1.2. Source Code Management.
+Definir convenciones de nomenclatura para ramas en Git mejora la organización del flujo de trabajo y facilita la colaboración entre desarrolladores. Siguiendo buenas prácticas como las de Git Flow o trunk-based development, se puede establecer una estructura ordenada y predecible.
+
+Además, utilizar un esquema de nombres predecible permite:
+
+Automatizar procesos (CI/CD).
+
+Identificar fácilmente el propósito y alcance de una rama.
+
+GitFlow es un modelo de gestión de ramas en Git que facilita el manejo de proyectos grandes mediante la separación en ramas principales y de características. En nuestro proyecto, utilizamos las siguientes ramas:
+
+Rama main: Esta rama contiene el código en producción, incluyendo archivos CSS, imágenes, JavaScript y la página principal en HTML. Aseguramos que todo el contenido aquí esté en un estado estable y listo para ser desplegado.
+
+
+Además, contamos con un repositorio separado que organiza nuestras tareas en epics, utilizando archivos .feature que describen los criterios de aceptación para cada funcionalidad. Esto nos ayuda a mantener un seguimiento claro del progreso del desarrollo.
+
+Elegimos GitHub como nuestra plataforma de colaboración para facilitar el seguimiento del progreso, la gestión de cambios y la visualización de actualizaciones. Las actualizaciones al código se reflejan automáticamente en gh-pages, permitiendo que los interesados vean los avances en tiempo real.
+
+
 **Link Repositorio Report**
 
 Link: https://github.com/Open-Source-7385/QuizBee-Report.git
@@ -1254,27 +1377,150 @@ Para asegurar la calidad, mantenibilidad y coherencia del código fuente en el p
 
 
 ### 5.1.4. Software Deployment Configuration.
+
+
+En esta sección se documenta el proceso de despliegue de la Landing Page y la Frontend Web Application utilizando GitHub y netlify y vercel como plataforma de hosting.
+
+
+#### Consideraciones Preliminares al Despliegue:
+
+- **Implementación de Archivos Web**: Se requiere la implementación completa de la página web utilizando archivos HTML, CSS y JS para garantizar su correcta operatividad. Se autoriza el uso de diversos formatos para los archivos de imagen (jpg, png, webp, etc.).
+  
+- **Mecanismo de Publicación en Github**: En virtud del servicio Github Pages, todos los archivos necesarios para la funcionalidad de la aplicación se cargarán al repositorio compartido de Github, facilitando la colaboración simultánea entre los miembros del equipo.
+
+- **Protocolo de Pruebas de Funcionamiento**: Tras cada actualización e integración al repositorio, se ejecutarán pruebas internas para asegurar la correcta operación de la página. Asimismo, se someterá la página a pruebas por parte de usuarios externos al grupo de trabajo para obtener una evaluación imparcial.
+
+  
+#### Requisitos Mandatorios para el Despliegue:
+
+- Existencia de un repositorio dentro de la organización de GitHub.
+- El repositorio debe poseer visibilidad pública.
+- Disposición de los permisos de Github necesarios.
+- Disponibilidad del código fuente de la Landing Page.
+
+### Despliegue de la Landing Page
+Para que nuestra landing page esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+
+**1. Registro en GitHub**
+- Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Landing Page de Prime-Fix.
+
+**2. Creación del repositorio**
+
+- Hicimos clic en el botón “New” para generar un nuevo repositorio.
+-Le asignamos el nombre “landing-page” dentro de nuestra organización open-source-7385.
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/fixing514.PNG">
+
+
+**3. Configuración del repositorio**
+
+- Nos aseguramos de que el repositorio tenga visibilidad pública para permitir la integración con Netlify.
+- Añadimos un archivo README.md inicial y configuramos un .gitignore adecuado para excluir archivos innecesarios.
+
+**4. Carga de los archivos de la landing page**
+
+- Accedimos al repositorio creado.
+- Subimos los archivos generados del proyecto (HTML, CSS, TypeScript).
+- añadimos un nombre para nuestra landingpage desplegada
+- Verificamos que los cambios se hicieran en la rama principal (main).
+- Finalmente, confirmamos la acción con “Commit changes” para guardar los archivos.
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/fixing5143.PNG">
+**5. Configuración en Netlify**
+
+ - Iniciamos sesión en Netlify
+ - Seleccionamos la opción “New Project” y vinculamos nuestra cuenta de GitHub.
+ - Importamos el repositorio landing-page.
+ - Definimos la rama de despliegue (main).
+   
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/fixing5142.PNG">
+
+  **6. Verificación del sitio web En pocos minutos, Vercel genera la URL pública del proyecto:**
+     landingpagequizzbee.netlify.app
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/fixing5144.PNG">
+
+
+**7. Actualización del sitio**
+
+- Cuando necesitemos modificar el sitio, solo debemos realizar commits en el repositorio y hacer push hacia la rama main.
+- Netlify detecta automáticamente los cambios, vuelve a compilar el proyecto y lo despliega en línea.
+- Los cambios estarán disponibles en producción en cuestión de segundos.
+
+
+
+### Despliegue del Frontend Web Applications
+Para que nuestra Frontend Web Application esté disponible para todos nuestros usuarios, la publicamos como un sitio web utilizando la plataforma de GitHub. El proceso se llevó a cabo de la siguiente manera:
+
+**1. Registro en GitHub**
+   
+ - Creamos una cuenta en GitHub para poder gestionar los repositorios del proyecto y almacenar el código de la Frontend Web Application de Quizbee.
+   
+**2. Creación del repositorio**
+   
+- Hicimos clic en el botón “New” para generar un nuevo repositorio
+- Le asignamos el nombre “Quizbee-frontend” dentro de nuestra organización open-source-7385.
+
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/514frontend.PNG">
+
+**3. Configuración del repositorio**
+
+- Nos aseguramos de que el repositorio tenga visibilidad pública para permitir la integración con Netlify.
+- Añadimos un archivo README.md inicial y configuramos un .gitignore adecuado para excluir archivos innecesarios.
+  
+**4. Carga de los archivos de la landing page**
+
+- Accedimos al repositorio creado.
+- Subimos los archivos generados del proyecto (HTML, CSS, TypeScript,Angular).
+- Verificamos que los cambios se hicieran en la rama principal (main) o depende de los despliegue de los bounded contenxt.
+
+  **5. Configuración en Vercel**
+
+ - Iniciamos sesión en Vercel.
+ - Seleccionamos la opción “New Project” y vinculamos nuestra cuenta de GitHub.
+ - Importamos el repositorio quizbee-frontend.
+ - Configuramos el framework en Angular (Vercel lo detecta automáticamente en la mayoría de los casos).
+ - Definimos la rama de despliegue (main).
+ - Colocamos todas las variables de entorno necesarias para el correcto funcionamiento de la aplicación.
+ - Finalmente, hicimos clic en “Deploy” para iniciar el proceso de despliegue.
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/514frontend2.PNG">
+
+
+
+  **6. Verificación del sitio web En pocos minutos, Vercel genera la URL pública del proyecto: https://frontend-blond-three-12.vercel.app/** 
+
+
+  <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/514frontend3.PNG">
+
+
+  
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 
 En esta sección, se documentará y explicará, en términos de producto y colaboración, el primer sprint de trabajo.
 
 ### 5.2.1.1. Sprint Planning 1.
+Esta sección presenta los detalles de la primera reunión de planificación de Sprint del equipo. Durante esta sesión, se definieron los objetivos principales del Sprint, la capacidad del equipo y las tareas a abordar. Al ser el primer Sprint del proyecto, no se incluyen resúmenes de revisión ni retrospectiva previos. El enfoque principal fue la implementación de la landing page, con el objetivo de validar el interés del público en la propuesta de negocio. A continuación, se detallan los aspectos clave discutidos durante la reunión:
 
-| **Sprint #**                  | Sprint 1                                                                                                                                                                            |
-|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background** |                                                                                                                                                                                     |
-| **Date**                       | 1 de septiembre del 2025                                                                                                                                                            |
-| **Time**                       | 18:00 horas                                                                                                                                                                         |
-| **Location**                   | Modalidad remota a través de la plataforma Discord                                                                                                                                  |
-| **Prepared By**                | Todos los integrantes del equipo QuizBee                                                                                                                                            |
-| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee                                                                                                                                            |
-| **Sprint 0 Review Summary**    | Dado que es nuestro primer sprint de desarrollo, aún no se ha realizado un resumen del sprint anterior.                                                                             |
-| **Sprint 0 Retrospective Summary** | No se identificaron mejoras ya que es el primer sprint.                                                                                                                             |
-| **Sprint Goal & User Stories** | US01, US02, US03, US04, US05, US06, US07                                                                                                                                            |
-| **Sprint 1 Goal**              | En este sprint, nuestro enfoque está en describir nuestra startup y en construir la estructura de la Landing Page, realizar las entrevisas, y tener definidos nuestros user stories |
-| **Sprint 1 Velocity**          | 5                                                                                                                                                                                   |
-| **Sum of Story Points**        | 5                                                                                                                                                                                   |
+
+
+| **Sprint #** | Sprint 1 |
+|---------------|-----------|
+| **Sprint Planning Background** |  |
+| **Date** | 1/09/2025  |
+| **Time** | 18:00 horas  |
+| **Location** |  Modalidad remota a través de la plataforma Discord  |
+| **Prepared By** | Todos los integrantes del equipo QuizBee |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
+| **Sprint n – 1 Review Summary** | Este es el primer Sprint, por lo que el presente campo no aplica. |
+| **Sprint n – 1 Retrospective Summary** |Este es el primer Sprint, por lo que el presente campo no aplica. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 1 Goal** | Nuestra prioridad en este spring fue implementar la landing Page.Creemos que este MVP brindara la exposicipon necesaria a nuestra Idea de Negocio. Esto se confirmará cuando las visitas a nuestra landing page superen un cierto índice de visitas. |
+| **Sprint 1 Velocity** | Nuestro equipo puede aceptar hasta 25 story points|
+| **Sum of Story Points** | La suma de Story Points atendidos es de 25 story points|
+
 
 
 ### 5.2.1.2. Aspect Leaders and Collaborators.
@@ -1289,7 +1535,7 @@ Cada uno de estos aspectos fue liderado o apoyado por diferentes miembros del eq
 
 | Team Member (Last Name, First Name) | Github Username | Elaboracion de User Stories Leader (L), Collaborator (C) | Desarrollo del landing page Leader (L), Collaborator (C) | Descripcion y desarrollo de los primeros capitulos Leader (L), Collaborator (C) |
 | ----------------------------------- | --------------- | ------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- |
-|         | AlexBoo578         | (C)                                                     | (C)                                                            | (C)                                                |
+|   Alejandro Mendoza      | AlexBoo578         | (C)                                                     | (C)                                                            | (C)                                                |
 | Vidal, Jareth              | Jareth341       | (L)                                                     | (C)                                                            | (C)                                                |
 | Acosta, Abraam                 | abraam16        | (C)                                                     | (C)                                                            | (C)                                                |
 | Geronimo, Pablo              | Phatogram       | (C)                                                     | (L)                                                            | (C)                                                |
@@ -1297,70 +1543,87 @@ Cada uno de estos aspectos fue liderado o apoyado por diferentes miembros del eq
 
 ### 5.2.1.3. Sprint Backlog 1.
 
-El objetivo principal de este Sprint fue sentar las bases del proyecto, enfocándonos en la definición y desarrollo de los elementos esenciales para la primera entrega. Se priorizó la creación de la estructura de la landing page, la elaboración de las primeras user stories y la organización inicial del equipo. El Sprint Backlog refleja las tareas seleccionadas para alcanzar estos objetivos y asegurar un avance sólido y colaborativo desde el inicio del proyecto.
+En esta sección se detalla el Sprint Backlog correspondiente al Sprint 1, el cual incluye todas las historias de usuario priorizadas, así como las tareas específicas asociadas a cada una. Cada tarea contiene su respectiva descripción, estimación en horas, asignación de responsable y estado de avance. Este backlog sirvió como guía para la ejecución del Sprint y permitió al equipo mantener un control claro sobre el desarrollo de la landing page y sus componentes clave.
+
+Enlace del board donde se trabajo el Sprint Backlog : https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI15ee9fd19dc710938caf0d6f96d940e7550358A3/mi-tablero-de-trello
+
+ <img width ="auto" height="auto" src=https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/spring2tiki.PNG">
+
+| **Sprint #** | **Sprint 1** |
+|--------------|--------------|
 
 
-| Sprint # | Sprint 1 | | | |     | 
-|----------|------|-|--|--|-----|
-|          | **User Story** | |  | |     | 
-| **Id**   | **Title** |  **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
-| US01     | Navegación en la landing page  | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer los beneficios y características de la plataforma. |  |  |  |
-|          | - Diseñar estructura de navegación principal | Definir el menú y enlaces principales de la landing page. | 2 | Jareth Vidal | Done |
-|          | - Implementar navegación responsive | Asegurar que la navegación funcione en dispositivos móviles y escritorio. | 2 | Jareth Vidal | Done |
-| US02     | Testimonios en la landing page  | Como visitante indeciso, quiero ver testimonios de usuarios reales para aumentar mi confianza en la plataforma antes de registrarme. |  |  |  |
-|          | - Recopilar testimonios de usuarios | Buscar y seleccionar testimonios relevantes. | 1 | Pablo Geronimo | Done |
-|          | - Maquetar sección de testimonios | Diseñar y programar la sección en la landing page. | 2 | Pablo Geronimo | Done |
-| US03     | Funcionalidades en la landing page | Como visitante del sitio, quiero navegar fácilmente por la landing page para conocer las funcionalidades de la plataforma. |  |  |  |
-|          | - Listar funcionalidades clave | Definir y redactar las funcionalidades principales. | 2 | Abraam Acosta | Done |
-|          | - Implementar sección de funcionalidades | Maquetar y programar la sección en la landing page. | 3 | Abraam Acosta | Done |
-| US04     | Planes Premiun en la landing page  | Como visitante, quiero ver los Planes Premiun que ofrecen en la plataforma. |  |  |  |
-|          | - Definir contenido de planes premium | Redactar y estructurar la información de los planes. | 1 | Alex | Done |
-|          | - Maquetar sección de planes premium | Programar la sección en la landing page. | 2 | Alex | Done |
-| US05     | Formulario en la landing page  | Como visitante, quiero ver un formulario de contacto para poder resolver mis dudas. |  |  |  |
-|          | - Diseñar formulario de contacto | Definir campos y estructura del formulario. | 2 | Abraam Acosta | Done |
-|          | - Implementar validación de formulario | Programar validaciones básicas (requeridos, email, etc.). | 2 | Abraam Acosta | Done |
-|          | - Integrar formulario en la landing page | Maquetar y ubicar el formulario en la página. | 2 | Abraam Acosta | Done |
-| US06     | Redes en la landing page | Como visitante, quiero ver todas sus redes en el footer. |  |  |  |
-|          | - Recopilar enlaces de redes sociales | Listar y verificar enlaces oficiales. | 1 | Jareth Vidal | Done |
-|          | - Maquetar sección de redes en el footer | Programar los íconos y enlaces en el pie de página. | 3 | Jareth Vidal | Done |
-| US07     | Servicios en la landing page | Como visitante, quiero ver los servicios que ofrecen en la plataforma. |  |  |  |
-|          | - Definir lista de servicios | Redactar y organizar los servicios principales. | 1 | Pablo Geronimo | Done |
-|          | - Implementar sección de servicios | Maquetar y programar la sección en la landing page. | 1 | Pablo Geronimo | Done |
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
+| **US01** | Navegación en la landing page | T-01 | Diseñar estructura de navegación principal | Definir el menú y enlaces principales de la landing page. | 2 | Jareth Vidal | Done |
+|  **US01** |  Navegación en la landing page | T-02 | Implementar navegación responsive | Asegurar que la navegación funcione en dispositivos móviles y escritorio. | 2 | Jareth Vidal | Done |
+| **US02** | Testimonios en la landing page | T-03 | Recopilar testimonios de usuarios | Buscar y seleccionar testimonios relevantes. | 1 | Pablo Geronimo | Done |
+|  **US02** |  Testimonios en la landing page | T-04 | Maquetar sección de testimonios | Diseñar y programar la sección en la landing page. | 2 | Pablo Geronimo | Done |
+| **US03** | Funcionalidades en la landing page | T-05 | Listar funcionalidades clave | Definir y redactar las funcionalidades principales. | 2 | Abraam Acosta | Done |
+| **US03** |  Funcionalidades en la landing page | T-06 | Implementar sección de funcionalidades | Maquetar y programar la sección en la landing page. | 3 | Abraam Acosta | Done |
+| **US04** | Planes Premiun en la landing page | T-07 | Definir contenido de planes premium | Redactar y estructurar la información de los planes. | 1 | Alex | Done |
+|  **US04** |  Planes Premiun en la landing page | T-08 | Maquetar sección de planes premium | Programar la sección en la landing page. | 2 | Alex | Done |
+| **US05** | Formulario en la landing page | T-09 | Diseñar formulario de contacto | Definir campos y estructura del formulario. | 2 | Abraam Acosta | Done |
+|  **US05**  | Formulario en la landing page | T-10 | Implementar validación de formulario | Programar validaciones básicas (requeridos, email, etc.). | 2 | Abraam Acosta | Done |
+| **US05**   | Formulario en la landing page | T-11 | Integrar formulario en la landing page | Maquetar y ubicar el formulario en la página. | 2 | Abraam Acosta | Done |
+| **US06** | Redes en la landing page | T-12 | Recopilar enlaces de redes sociales | Listar y verificar enlaces oficiales. | 1 | Jareth Vidal | Done |
+|**US06**  |  Redes en la landing page | T-13 | Maquetar sección de redes en el footer | Programar los íconos y enlaces en el pie de página. | 3 | Jareth Vidal | Done |
+| **US07** | Servicios en la landing page | T-14 | Definir lista de servicios | Redactar y organizar los servicios principales. | 1 | Pablo Geronimo | Done |
+| **US07** |  Servicios en la landing page | T-15 | Implementar sección de servicios | Maquetar y programar la sección en la landing page. | 1 | Pablo Geronimo | Done |
 
 
 
 ### 5.2.1.4. Development Evidence for Sprint Review.
 
+
+En esta sección se presenta la evidencia detallada del desarrollo alcanzado durante el Sprint 1, enfocado en la implementación de la Landing Page de Quizbee. Durante este primer sprint, el equipo de speakingUP se concentró en establecer los fundamentos técnicos y visuales de la plataforma web que conectará a personas que quieran aprender y crear quizzies de idiomas.
+
 Durante este Sprint, el equipo logró avances significativos en la implementación del proyecto. Se completó la estructura y diseño de la landing page, integrando las secciones principales como navegación, testimonios, funcionalidades, planes premium, formulario de contacto, redes sociales y servicios. Además, se documentaron los commits y ramas utilizados, asegurando trazabilidad y colaboración efectiva entre los miembros del equipo. A continuación, se presenta la evidencia de los principales entregables y contribuciones realizadas durante el Sprint.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|--------------------|--------------------|
-| QuizBee-Report | Chapter1 | a1b2c3d | docs:(chapter-I)"add format of team member profiles" | Added structured format for team member profiles including personal information, skills, and role descriptions for each team member in the startup profile section | 15/09/2024 |
-| QuizBee-Report | Chapter1 | e4f5g6h | docs(chapter-1):"adding Competitive Analysis Landscape and Strategy and tactis front Rivals "" | Implemented comprehensive competitive analysis section with detailed competitor research, market positioning analysis, and strategic approaches to compete effectively in the market | 16/09/2024 |
-| QuizBee-Report | Chapter1 | i7j8k9l | docs(chapter-1): add introduction structure for QuizzBee project and finalize Desing interview | Created complete introduction structure for QuizzBee project including startup description, solution profile, and finalized interview design questions for user research | 17/09/2024 |
-| QuizBee-Report | Chapter2 | m0n1o2p | docs(chapter-II):"add summary of interview" | Added comprehensive summary of conducted interviews including key insights, user feedback analysis, and findings that will inform the product development process | 18/09/2024 |
-| QuizBee-Report | Chapter2| q3r4s5t | fix(empathymapping): fix empathy map images | Fixed empathy mapping images by correcting display issues, updating broken links, and ensuring proper visualization of user personas and their emotional journey maps | 19/09/2024 |
-| QuizBee-Report | Chapter2 | u6v7w8x | feat: Update the description on the Product Backlog. | Updated Product Backlog descriptions to align with user stories format, ensuring consistency between narrative descriptions and acceptance criteria across all user stories | 15/09/2024 |
-| QuizBee-Report | Chapter3 | y9z0a1b | feat: restructure user stories format | Restructured user stories from Given-When-Then format to narrative format using "Como [rol], quiero [objetivo] para [beneficio]" structure for better clarity and consistency | 16/09/2024 |
-| QuizBee-Report | Chapter3 | c2d3e4f | docs(chapter-III):"add epic with description and title" | Added comprehensive epic stories section with detailed descriptions and titles for each epic, establishing clear connections between user stories and business objectives | 17/09/2024 |
-| QuizBee-Report | Chapter4 | g5h6i7j | Delete assets/img/chapter-IV/wireframe1.png | Removed outdated wireframe image file that was no longer needed and replaced with updated design mockups that better represent the current UI/UX design approach | 19/09/2024 |
-| QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2024 |
+| QuizBee-Report | Chapter1 | a1b2c3d | docs:(chapter-I)"add format of team member profiles" | Added structured format for team member profiles including personal information, skills, and role descriptions for each team member in the startup profile section | 15/09/2025 |
+| QuizBee-Report | Chapter1 | e4f5g6h | docs(chapter-1):"adding Competitive Analysis Landscape and Strategy and tactis front Rivals "" | Implemented comprehensive competitive analysis section with detailed competitor research, market positioning analysis, and strategic approaches to compete effectively in the market | 16/09/2025 |
+| QuizBee-Report | Chapter1 | i7j8k9l | docs(chapter-1): add introduction structure for QuizzBee project and finalize Desing interview | Created complete introduction structure for QuizzBee project including startup description, solution profile, and finalized interview design questions for user research | 17/09/2025 |
+| QuizBee-Report | Chapter2 | m0n1o2p | docs(chapter-II):"add summary of interview" | Added comprehensive summary of conducted interviews including key insights, user feedback analysis, and findings that will inform the product development process | 18/09/2025 |
+| QuizBee-Report | Chapter2| q3r4s5t | fix(empathymapping): fix empathy map images | Fixed empathy mapping images by correcting display issues, updating broken links, and ensuring proper visualization of user personas and their emotional journey maps | 19/09/2025 |
+| QuizBee-Report | Chapter2 | u6v7w8x | feat: Update the description on the Product Backlog. | Updated Product Backlog descriptions to align with user stories format, ensuring consistency between narrative descriptions and acceptance criteria across all user stories | 15/09/2025 |
+| QuizBee-Report | Chapter3 | y9z0a1b | feat: restructure user stories format | Restructured user stories from Given-When-Then format to narrative format using "Como [rol], quiero [objetivo] para [beneficio]" structure for better clarity and consistency | 16/09/2025 |
+| QuizBee-Report | Chapter3 | c2d3e4f | docs(chapter-III):"add epic with description and title" | Added comprehensive epic stories section with detailed descriptions and titles for each epic, establishing clear connections between user stories and business objectives | 17/09/2025 |
+| QuizBee-Report | Chapter4 | g5h6i7j | Delete assets/img/chapter-IV/wireframe1.png | Removed outdated wireframe image file that was no longer needed and replaced with updated design mockups that better represent the current UI/UX design approach | 19/09/2025 |
+| QuizBee-Report | Chapter5 | k8l9m0n | feat: update aspect leaders and collaborators | Updated aspect leaders and collaborators table with current team member assignments, defining clear roles and responsibilities for each sprint activity and deliverable | 20/09/2025 |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
+
+Resumen de Logros Alcanzados:
+
+El sprint culminó con la implementación completa de una Landing Page funcional y visualmente atractiva que incorpora todas las características esenciales definidas en las historias de usuario prioritarias. Se estableció una base tecnológica simple pero eficiente
+
+Los principales logros incluyen la implementación exitosa del sistema de internacionalización que permite a los usuarios poder visualizar lo escencial del proyecto, garantizando accesibilidad para nuestros segmentos objetivo. Adicionalmente se desarrollo un boton para que pueda visualizar la web-application
+
+La Landing Page resultante presenta una estructura clara y profesional que comunica efectivamente la propuesta de valor de Quizbee . Se implementaron secciones clave como la presentación de servicios principales, explicación del proceso de funcionamiento, características detalladas del producto, e información de contacto con múltiples canales de comunicación.
+
 En este Sprint se logró desplegar la primera versión funcional de la landing page del proyecto, cumpliendo con los objetivos planteados en el backlog. El equipo trabajó de manera colaborativa para implementar y publicar las principales secciones, asegurando una experiencia de usuario coherente y alineada con los requerimientos iniciales. A continuación, se presenta la evidencia visual y el enlace de acceso a la landing page desplegada:
+
 
 Enlace de la Landing Page: <br>
 https://quizbeelandingpage.netlify.app/
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/landing2.png">
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/landing.png">
+
+
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para esta entrega no se han empleado APIS, por lo cuál no se he requerido hacer una documentación sobre servicios implementados durante el Sprint
 
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page utilizando la plataforma Netlify. El objetivo fue asegurar que la solución estuviera disponible en línea para su revisión y validación, cumpliendo con los estándares de entrega continua y visibilidad del avance del proyecto.
+Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page utilizando la plataforma Netlify. El objetivo fue asegurar que la solución estuviera disponible en línea para su revisión y validación ,estableciendo un flujo de trabajo automatizado que garantiza la entrega rápida y confiable de nuevas funcionalidades. El proceso de despliegue se diseñó con el objetivo de minimizar el tiempo de inactividad y maximizar la eficiencia del equipo de desarrollo.
+
+
+Estrategia de Despliegue Implementada:
+
+Se adoptó una arquitectura de despliegue moderno utilizando Netlify como plataforma de hosting, aprovechando sus capacidades de integración continua y entrega continua (CI/CD). Esta elección tecnológica permite despliegues automáticos, rollbacks instantáneos y una infraestructura escalable que se adapta perfectamente a las necesidades del proyecto quizbee.
 
 **Pasos realizados durante el despliegue:**
 1. Se creó una cuenta y espacio de trabajo en Netlify para el proyecto.
@@ -1371,23 +1634,31 @@ Durante este Sprint, el equipo realizó el despliegue exitoso de la landing page
 6. Se validó el acceso desde diferentes dispositivos y navegadores para garantizar la experiencia de usuario.
 7. Se documentó la URL de acceso y se compartió con el equipo para revisión y feedback.
 
-###Design
+### Design
 Para realizar el diseño de los wireframes y mockups de la Landing Page para este Sprint,<br> se hizo uso de la plataforma Figma. Para utilizar la plataforma:
 
 1.Se accede a través de la página oficial de Figma: https://www.figma.com/login
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/figma2.png">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/figma.png">
+
+2. Luego, se crea un Draft que nos servirá como base para el proyecto colaborativo.
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets//img/chapter-V/figma2.png">
 
 **Deployment Para la landing page, se utilizará Netlify para el despliegue de la página.**
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment2.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment4.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment5.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment.png">
+### Deployment
+Para la landing page, se utilizará Netlify para el despliegue de la página.
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment2.png">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment4.png">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment5.png">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/deployment.png">
 
 Para nuestro proyecto se crearon 2 repositorios, el cuál fue:
 
-Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este repositorio contiene el informe de nuestro proyecto. <br>
- Quizbee Landing Page | https://github.com/Open-Source-7385/Landing  :Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
+Documentación|https://github.com/Open-Source-7385/QuizBee-Report :Este repositorio contiene el informe de nuestro proyecto. <br>  Quizbee Landing Page | https://github.com/Open-Source-7385/Landing  :Este repositorio se usa para realizar el informe del proyecto de manera continua y subir la landing page.
 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
@@ -1396,10 +1667,64 @@ Durante este Sprint, las actividades de implementación se desarrollaron de mane
 
 Se promovió la revisión cruzada de avances, el registro de commits detallados y la documentación de los cambios realizados. Las reuniones periódicas permitieron resolver dudas, ajustar prioridades y asegurar que todos los miembros estuvieran alineados con los objetivos del Sprint. Esta dinámica facilitó la integración continua y la entrega oportuna de los resultados esperados.
 
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration.png">
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboration2.png">
----
+### Metodología de Desarrollo Colaborativo
+El equipo adoptó una estrategia de desarrollo basada en **Git Flow**, donde cada funcionalidad se desarrolló en ramas específicas antes de ser integrada al código principal. Esta metodología garantizó la estabilidad del código base mientras permitía el desarrollo paralelo de múltiples características.
 
+### Organización y Distribución del Trabajo
+La colaboración se estructuró siguiendo la matriz **LACX** (Leadership and Collaboration Matrix) establecida al inicio del sprint:
+
+| Rol | Responsable | Funciones |
+|-----|-------------|-----------|
+| **Líder** |  Pablo geronimo | Landing Page y despliegue |
+| **Colaboradores** | Resto del equipo | Especialistas en diferentes aspectos técnicos |
+
+#### Actividades de Implementación Desarrolladas
+
+#### 1. Flujo de Trabajo con Ramas
+- ✅ Cada desarrollador trabajó en ramas `feature` específicas
+- ✅ Ramas implementadas:
+  - `feature/internationalization`
+  - `feature/theme-toggle`
+  - `feature/responsive-design`
+- ✅ Sistema de nomenclatura consistente: `feature/[descripción-funcionalidad]`
+- ✅ Sincronización periódica con `development` mediante `rebase`
+
+#### 2. Proceso de Revisión de Código
+- ✅ Todos los cambios mediante **pull requests**
+- ✅ Criterios de aprobación:
+  - Mínimo una revisión de otro miembro
+  - Verificación de estándares de código
+  - Validación de funcionalidad
+  - Compatibilidad con el sistema
+
+#### 3. Comunicación y Coordinación
+- ✅ Reuniones diarias de sincronización vía **Discord**
+- ✅ Sistema de asignación de tareas claras
+- ✅ Documentación actualizada de decisiones técnicas
+- ✅ Registro de cambios de diseño
+
+#### 4. Integración Continua
+- ✅ Commits frecuentes con mensajes descriptivos
+- ✅ Convenciones semánticas en mensajes de commit
+- ✅ Hooks de `pre-commit` para validación de calidad
+- ✅ Pipeline de despliegue automático en integración a `development`
+
+#### 5. Gestión de Conflictos y Resolución de Problemas
+- ✅ Protocolos claros para resolución de conflictos de `merge`
+- ✅ Documentación de problemas técnicos
+- ✅ Sesiones de `pair programming` colaborativas
+- ✅ Registro de lecciones aprendidas
+
+
+## Conclusión
+El análisis de los commits muestra una distribución equilibrada del trabajo entre los miembros del equipo. La frecuencia de commits y la calidad de los mensajes demuestran un proceso de desarrollo disciplinado y bien organizado, estableciendo una base sólida para los sprints futuros.
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration.png">
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/collaboration2.png">
+En el caso de la landing page y su Sprint, el miembro Pablo Geronimo y Jareth Vidal, fue el encargado de su diseño y despliegue. Pudiendo evidenciar en estas capturas, su partipación activa durante el desarrollo.
+
+    
+---
 
 
 
@@ -1411,21 +1736,25 @@ Se promovió la revisión cruzada de avances, el registro de commits detallados 
 En esta sección, se documentará y explicará el segundo sprint de trabajo, enfocado en el desarrollo y avance del frontend de la aplicación web de QuizBee. El objetivo principal de este sprint es implementar las funcionalidades clave de la interfaz de usuario, mejorar la experiencia visual y sentar las bases para la integración con los servicios backend en los siguientes sprints.
 
 ### 5.2.2.1. Sprint Planning 2
+Durante la reunión de planificación del Sprint 2, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad del sistema y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
 
-| **Sprint #**                  | Sprint 2                                                                                                                        |
-|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background** | Continuación del desarrollo tras la entrega del Sprint 1. Se prioriza la implementación de vistas y componentes principales.     |
-| **Date**                      | 1 de octubre del 2025                                                                                                           |
-| **Time**                      | 18:00 horas                                                                                                                     |
-| **Location**                  | Modalidad remota a través de la plataforma Discord                                                                              |
-| **Prepared By**               | Todos los integrantes del equipo QuizBee                                                                                        |
-| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee                                                                                  |
-| **Sprint 1 Review Summary**   | Se completó la estructura y diseño de la landing page, así como la definición de user stories y organización inicial del equipo. |
-| **Sprint 1 Retrospective Summary** | Se identificó la necesidad de mejorar la comunicación y la planificación de tareas para optimizar el avance del desarrollo. |
-| **Sprint Goal & User Stories** | US08, US09, US10, US11, US12, US13, US14, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26, US27, US28, US29, US30 |
-| **Sprint 2 Goal**             | Implementar las vistas principales de la aplicación web, incluyendo la navegación, gestión de quizzes, perfil de usuario y visualización de resultados. |
-| **Sprint 2 Velocity**         | 8                                                                                                                               |
-| **Sum of Story Points**       | 8                                                                                                                               |
+
+| **Sprint #** | Sprint 2 |
+|---------------|-----------|
+| **Sprint Planning Background** |  |
+| **Date** | 1/10/2025  |
+| **Time** | 18:00 horas  |
+| **Location** |  Modalidad remota a través de la plataforma Discord  |
+| **Prepared By** | Todos los integrantes del equipo QuizBee |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
+| **Sprint n – 2 Review Summary** | Se inicio con el desarrollo de las vistas del frontend, así como la correccion e implementacion de mas user stories  |
+| **Sprint n – 2 Retrospective Summary** | Se identificó la necesidad de mejorar la comunicación y la planificación de tareas para optimizar el avance del desarrollo. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 2 Goal** |  Implementar las vistas principales de la aplicación web, incluyendo la navegación, gestión de quizzes, perfil de usuario y visualización de resultados. |
+| **Sprint 2 Velocity** | Nuestro equipo puede aceptar hasta 30 story points|
+| **Sum of Story Points** | La suma de Story Points atendidos es de 30 story points|
+
+                                                                                                                    |
 
 
 ### 5.2.2.2. Aspect Leaders and Collaborators.
@@ -1434,82 +1763,636 @@ En este apartado se detallan los principales aspectos considerados en el Sprint 
 
 Cada aspecto fue liderado o apoyado por diferentes miembros del equipo, promoviendo la colaboración y el aprendizaje conjunto. La siguiente tabla muestra la distribución de roles y responsabilidades para cada aspecto relevante del Sprint 2:
 
-| Team Member (Last Name, First Name) | Github Username   | Implementación de funcionalidades frontend Leader (L), Collaborator (C) | Mejora visual y experiencia de usuario Leader (L), Collaborator (C) | Integración y colaboración en equipo Leader (L), Collaborator (C) |
-| ----------------------------------- | ---------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- |
-| Mazuelos, Marcelo                   | MarceloMazuelos  | (C)                                                                    | (C)                                                               | (C)                                                          |
-| Mendoza Vergara, Alejandro Franklin | AlexBoo578       | (C)                                                                    | (C)                                                               | (C)                                                          |
-| Geronimo Quispe, Pablo Antonio      | Phatogram        | (L)                                                                    | (C)                                                               | (C)                                                          |
-| Acosta Elera, Abraam Bernabe        | abraam16         | (C)                                                                    | (L)                                                               | (C)                                                          |
-| U202418250        | U202418250       | (C)                                                                    | (C)                                                               | (C)                                                          |
-| Vidal Malaga, Jareth Beycker        | Jareth Vidal     | (C)                                                                    | (C)                                                               | (L)                                                          |
+| Team Member (Last Name, First Name) | Github Username   | **Quizz and Questions** | **Scoring and Attempt** | **Speaking Room** |**IAM** | **Billing and Subcription**|
+| ----------------------------------- | ---------------- | ---------------------------------------------------------------------- | ---------|---------------|---------------------------------------- | --------------------------------------------------------------- |
+| Mazuelos, Marcelo                   | MarceloMazuelos  | (C)                                  |(C)  |           (C)                        | (C)                      |(C)|                                          | (C)                                                          |
+| Mendoza Vergara, Alejandro Franklin | AlexBoo578       | (C)                                 |(C)  |                    (C)                | (L)                 |(C) |                                              | (C)                                                          |
+| Geronimo Quispe, Pablo Antonio      | Phatogram        | (L)                                 | (C)  |                  (C)                  | (C)                  | (C)|                                            | (C)                                                          |
+| Acosta Elera, Abraam Bernabe        | abraam16         | (C)                       |  (C) |                     (C)                 | (L)                                                               | (C)                                     |(C) |                      |
+| Vidal Malaga, Jareth Beycker        | Jareth Vidal     | (C)                 |     (C)      |  (C)                                        | (C)                                                               | (L)                                                          |
 
 
 ### 5.2.2.3. Sprint Backlog 2
 
-El objetivo principal de este Sprint fue avanzar en el desarrollo del frontend de la aplicación web, implementando las vistas y componentes clave para la experiencia del usuario. Se priorizó la navegación, la gestión de quizzes, el perfil de usuario y la visualización de resultados. El Sprint Backlog refleja las tareas seleccionadas para alcanzar estos objetivos y asegurar un avance sólido y colaborativo.
+Durante este Sprint, el equipo centró sus esfuerzos en el desarrollo de la capa Frontend de la aplicación, estableciendo las bases visuales y funcionales que interactúan directamente con los usuarios. Se priorizó la implementación de componentes clave asociados a cada uno de los bounded contexts asignados individualmente a los integrantes, lo cual permitió una distribución clara de responsabilidades y un avance paralelo de las funcionalidades. Cada miembro del equipo asumió el liderazgo en el desarrollo de un conjunto específico de componentes, asegurando coherencia y continuidad en cada dominio funcional.
 
-| Sprint # | Sprint 2 | | | |     | 
-|----------|------|-|--|--|-----|
-|          | **User Story** | |  | |     | 
-| **Id**   | **Title** |  **Description** | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
-| US08     | Eliminar cuenta de usuario  | Como usuario, quiero poder eliminar mi cuenta de la plataforma. | 2 | Marcelo Mazuelos | To-do |
-| US09     | Cerrar sesión segura  | Como usuario, quiero cerrar sesión de forma segura. | 1 | Alejandro Mendoza | To-do |
-| US10     | Crear quizzes  | Como creador, quiero poder crear quizzes personalizados. | 3 | Pablo Geronimo | To-do |
-| US11     | Publicar quizzes  | Como creador, quiero publicar mis quizzes terminados. | 2 | Abraam Acosta | To-do |
-| US12     | Editar quizzes  | Como creador, quiero editar quizzes ya publicados. | 2 | U202418250 | To-do |
-| US13     | Eliminar quizzes  | Como creador, quiero eliminar quizzes que ya no sean útiles. | 1 | Jareth Vidal | To-do |
-| US14     | Filtrar quizzes por idioma  | Como usuario, quiero filtrar quizzes por idioma. | 1 | Marcelo Mazuelos | To-do |
-| US15     | Filtrar quizzes por dificultad  | Como usuario, quiero filtrar quizzes por nivel de dificultad. | 1 | Alejandro Mendoza | To-do |
-| US16     | Filtrar quizzes por categoría  | Como usuario, quiero filtrar quizzes por categoría temática. | 1 | Pablo Geronimo | To-do |
-| US17     | Resolver quizzes  | Como usuario, quiero resolver quizzes y obtener retroalimentación. | 3 | Abraam Acosta | To-do |
-| US18     | Instrucciones antes de quiz  | Como usuario, quiero ver instrucciones antes de iniciar un quiz. | 1 | U202418250 | To-do |
-| US19     | Navegación entre preguntas  | Como usuario, quiero navegar entre preguntas durante el quiz. | 2 | Jareth Vidal | To-do |
-| US20     | Temporizador en quiz  | Como usuario, quiero ver un temporizador durante el quiz. | 1 | Marcelo Mazuelos | To-do |
-| US21     | Aviso de preguntas sin responder  | Como usuario, quiero saber si dejé preguntas sin responder. | 1 | Alejandro Mendoza | To-do |
-| US22     | Confirmación antes de finalizar quiz  | Como usuario, quiero recibir confirmación antes de finalizar el quiz. | 1 | Pablo Geronimo | To-do |
-| US23     | Ranking global  | Como usuario, quiero ver mi posición en el ranking global. | 2 | Abraam Acosta | To-do |
-| US24     | Ranking por nivel  | Como usuario, quiero ver el ranking filtrado por nivel. | 2 | U202418250 | To-do |
-| US25     | Ranking por país  | Como usuario, quiero ver el ranking filtrado por país. | 2 | Jareth Vidal | To-do |
-| US26     | Historial de quizzes resueltos  | Como usuario, quiero consultar mi historial de quizzes. | 2 | Marcelo Mazuelos | To-do |
-| US27     | Gráficos de progreso  | Como usuario, quiero ver gráficos de mi progreso. | 2 | Alejandro Mendoza | To-do |
-| US28     | Calificar quizzes  | Como usuario, quiero calificar quizzes con estrellas y comentarios. | 1 | Pablo Geronimo | To-do |
-| US29     | Resumen al finalizar quiz  | Como usuario, quiero ver un resumen completo al finalizar un quiz. | 1 | Abraam Acosta | To-do |
-| US30     | Feedback de quizzes  | Como creador, quiero consultar el feedback de mis quizzes. | 1 | U202418250 | To-do |
+Además, como parte del compromiso con la experiencia del usuario, se implementó una nueva versión de la Landing Page, con un enfoque visual renovado. Esta incluye imágenes representativas de los servicios ofrecidos, buscando captar la atención desde el primer contacto y comunicar de manera más efectiva la propuesta de valor de la plataforma. Esta mejora visual no solo fortalece la identidad de marca, sino que también establece una conexión más directa con las necesidades de los usuarios.
+
+Este es nuestro link de invitación a nuestro Trello : https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI15ee9fd19dc710938caf0d6f96d940e7550358A3/mi-tablero-de-trello
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/spring2tiki.PNG">
+
+
+| Sprint # | Sprint 2 |
+|--------------|--------------|
+
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
+| **US08** | Eliminar cuenta de usuario | T-01 | Implementar eliminación de cuenta | Permitir al usuario eliminar su cuenta de forma permanente. | 2 | Marcelo Mazuelos | Done |
+| **US09** | Cerrar sesión segura | T-02 | Implementar cierre de sesión | Cerrar sesión del usuario de manera segura y limpiar sesión activa. | 1 | Alejandro Mendoza | Done |
+| **US10** | Crear quizzes | T-03 | Implementar creación de quizzes | Permitir al creador diseñar quizzes personalizados. | 3 | Pablo Geronimo | Done |
+| **US11** | Publicar quizzes | T-04 | Implementar publicación de quizzes | Habilitar la opción de publicar quizzes completados. | 2 | Abraam Acosta | Done |
+| **US12** | Editar quizzes | T-05 | Implementar edición de quizzes | Permitir editar quizzes publicados con control de versiones. | 2 | U202418250 | Done |
+| **US13** | Eliminar quizzes | T-06 | Implementar eliminación de quizzes | Permitir eliminar quizzes obsoletos del sistema. | 1 | Jareth Vidal | Done |
+| **US14** | Filtrar quizzes por idioma | T-07 | Agregar filtro por idioma | Mostrar solo quizzes del idioma seleccionado. | 1 | Marcelo Mazuelos | Done |
+| **US15** | Filtrar quizzes por dificultad | T-08 | Agregar filtro por dificultad | Permitir filtrar quizzes según nivel (A1, B1, C1). | 1 | Alejandro Mendoza | Done |
+| **US16** | Filtrar quizzes por categoría | T-09 | Agregar filtro por categoría | Mostrar quizzes por categoría temática (gramática, vocabulario, etc.). | 1 | Pablo Geronimo | Done |
+| **US17** | Resolver quizzes | T-10 | Implementar resolución de quizzes | Permitir responder quizzes y obtener feedback inmediato. | 3 | Abraam Acosta | Done |
+| **US18** | Instrucciones antes de quiz | T-11 | Mostrar instrucciones previas | Mostrar instrucciones al usuario antes de iniciar un quiz. | 1 | U202418250 | Done |
+| **US19** | Navegación entre preguntas | T-12 | Implementar navegación entre preguntas | Permitir avanzar o retroceder entre preguntas de un quiz. | 2 | Jareth Vidal | Done |
+| **US20** | Temporizador en quiz | T-13 | Implementar temporizador | Mostrar un cronómetro durante la resolución del quiz. | 1 | Marcelo Mazuelos | Done |
+| **US21** | Aviso de preguntas sin responder | T-14 | Implementar alerta de preguntas sin responder | Notificar al usuario antes de finalizar si dejó preguntas vacías. | 1 | Alejandro Mendoza | Done |
+| **US22** | Confirmación antes de finalizar quiz | T-15 | Agregar confirmación de finalización | Mostrar ventana de confirmación antes de enviar el quiz. | 1 | Pablo Geronimo | Done |
+| **US23** | Ranking global | T-16 | Implementar ranking global | Mostrar posición global del usuario según puntaje acumulado. | 2 | Abraam Acosta | Done |
+| **US24** | Ranking por nivel | T-17 | Implementar ranking por nivel | Filtrar ranking según nivel del usuario (A1–C2). | 2 | U202418250 | Done |
+| **US25** | Ranking por país | T-18 | Implementar ranking por país | Filtrar ranking según país del usuario. | 2 | Jareth Vidal | Done |
+| **US26** | Historial de quizzes resueltos | T-19 | Implementar historial de quizzes | Mostrar historial de quizzes resueltos y puntajes. | 2 | Marcelo Mazuelos | Done |
+| **US27** | Gráficos de progreso | T-20 | Implementar gráficos de progreso | Visualizar desempeño del usuario mediante gráficos estadísticos. | 2 | Alejandro Mendoza | Done |
+| **US28** | Calificar quizzes | T-21 | Implementar calificación y comentarios | Permitir calificar quizzes con estrellas y comentarios. | 1 | Pablo Geronimo | Done |
+| **US29** | Resumen al finalizar quiz | T-22 | Mostrar resumen final | Mostrar resumen de resultados al finalizar un quiz. | 1 | Abraam Acosta | Done |
+| **US30** | Feedback de quizzes | T-23 | Implementar consulta de feedback | Permitir a los creadores ver comentarios y valoraciones recibidas. | 1 | U202418250 | Done |
+
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
+Durante el Sprint se avanzó en la implementación de los siguientes productos: Landing Page, Aplicaciones Web y Servicios Web. A continuación se presenta la evidencia de desarrollo mediante commits registrados en los repositorios utilizados durante este periodo. La tabla incluye el nombre del repositorio, rama de trabajo, identificador del commit, mensaje del commit, descripción detallada del cambio y la fecha en que se realizó.
 
-En esta sección se presenta la evidencia del desarrollo realizado durante el Sprint 2, mostrando el trabajo técnico y colaborativo del equipo en la implementación de las funcionalidades planificadas.
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|--------------------|
+| QuizBee-frontend | feature-quizzies | a5bd87e | feat(feature-quizzies): add sample of quiz create,quiz play and restructure bounded context with partial for flex data  | Adding endpoint of quizzies and logic busssines core |  7/10/2025 |
+| QuizBee-frontend | feature-quizzies | fe520ef | feat(feature-quizzies): restructure of managament quizz and create question for the bounded context quizzies | fixing db.json and structure of files | 7/10/2025 |
+| QuizBee-Frontend | Billing-and-subscription | 5ba13d3 |feat: add subscription management and payment processing features| Add subscription managament and payment | 26/09/2024 |
+| QuizBee-Frontend | Billing-and-subscription | db32191 |feat: add zone.js for improved Angular performance and add Ultra Mega-Premium subscription plan| Add zone.js for events| 26/09/2024 |
+| QuizBee-Frontend | Billing-and-subscription | 1cd284c |feat: add invoice detail component and routing| Add zone.js for events| 26/09/2024 |
+| QuizBee-Frontend | feature-profile  |8d94822 |feat(profile): implement profile bounded context| adding profile domain entity,Create profile controller for application layer,Add profile component with Material Design UI| 06/09/2024 |
+| QuizBee-Frontend | feature-speakingRoomBC  |ae04048 |  feat(user-entity): add user entity | adding user entity| 07/09/2024 |
+| QuizBee-Frontend | feature-speakingRoomBC  |bb61625 | feat(speaking-repository): add speaking repository service | adding speaking repository service| 07/09/2024 |
+| QuizBee-Frontend | feature-feedback  |597985d | feat(routing): integrate ranking routes into main application| integrate routes for main | 07/09/2024 |
+| QuizBee-Frontend | feature-feedback  |998669a |feat(ranking): set up ranking routes| implementation set up | 07/09/2024 |
 
-| Repository      | Branch   | Commit Message                                                      | Author           | Commit Message Body                                                                                                 | Commited on (Date) |
-|-----------------|----------|---------------------------------------------------------------------|------------------|---------------------------------------------------------------------------------------------------------------------|--------------------|
-| QuizBee-Report  | develop  | docs(chapter-V): update development evidence for Sprint 2            | abraam16         | Se actualizó la evidencia de desarrollo del Sprint 2 en el capítulo V, agregando los principales avances y commits.  | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(user-stories): added an introduction to User Stories and new TS | MarceloMazuelos  | Se añadió una introducción a User Stories y nuevas TS a la sección correspondiente del informe.                      | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(journey-mapping): updated User Journey Mappings (UXpressia)     | MarceloMazuelos  | Se actualizaron los User Journey Mappings utilizando la metodología AS-IS y la herramienta UXpressia.               | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(team-info): added personal information to team sections         | MarceloMazuelos  | Se agregó información personal a las secciones relacionadas al equipo.                                              | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(readme): add tb1 outcome from AlexBoo578                        | AlexBoo578       | Se añadió el resultado TB1 proporcionado por AlexBoo578 al README.                                                  | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(integrantes): add alejandro information                         | AlexBoo578       | Se agregó la información de Alejandro a la sección de integrantes.                                                  | 07/10/2025         |
-| QuizBee-Report  | develop  | docs(database-class-diagram): add img of database and class diagram  | Phatogram        | Se añadieron imágenes del diagrama de base de datos y de clases al informe.                                         | 07/10/2025         |
-| QuizBee-Report  | develop  | fix(antecedentes): fix antecedentes y problematica                   | AlexBoo578       | Se corrigieron detalles en la sección de antecedentes y problemática.                                               | 07/10/2025         |
-| QuizBee-Report  | develop  | feat(readme): added collaboration evidence for Sprint 2              | Jareth341        | Se añadió evidencia de colaboración del equipo durante el Sprint 2.                                                 | 07/10/2025         |
+
+
+
+### 5.2.2.5. Execution Evidence for Sprint Review.
+Durante este Sprint, el equipo logró implementar exitosamente las principales vistas del frontend de la aplicación Quizzbee, priorizando una experiencia de usuario fluida, intuitiva y visualmente coherente con el diseño propuesto. Se completó la estructura de navegación entre módulos clave, así como la visualización de datos simulados y el despliegue de componentes funcionales para cada uno de los bounded contexts asignados.
+
+El enfoque colaborativo permitió que cada integrante trabajara de forma autónoma y coordinada en su respectivo contexto funcional, asegurando así una integración efectiva de los distintos componentes en la interfaz final. Como evidencia del progreso, a continuación se presentan capturas de pantalla de las vistas más representativas desarrolladas durante este Sprint.
+
+
+PABLO GERONIMO
+
+Diseño e implementación del CRUD de Quizz: Se crearon las vistas de creación, edición, visualización y eliminación de quizz y resolucion de question.
+
+Estructura de contenido de los quizz: Se implementó la lógica visual para mostrar preguntas, opciones y categorías organizadas por cada quizz .
+
+Integración simulada con API pública: A través de Beeceptor, se definieron endpoints públicos para simular el comportamiento de la API real, permitiendo probar las interacciones sin necesidad de backend.
+
+Despliegue en Firebase: Toda la aplicación desarrollada fue desplegada exitosamente en Firebase Hosting, lo cual facilitó pruebas visuales, revisiones del equipo y demostración funcional.
+deploy en firebase: https://quizzbee-bc-quizzies.web.app
+
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/frontendpablo.PNG">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/frontendpablo2.PNG">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/frontendpablo3.PNG">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/frontendpablo4.PNG">
+
+JARETH VIDAL
+
+Diseño e implementación del módulo de Subscriptions: Se desarrolló la sección donde el usuario puede adquirir un plan Premium, cancelar su suscripción activa, y visualizar su historial de facturas junto con los detalles de cada una.
+
+Estructura de contenido de las subscriptions: Se implementó la lógica visual para mostrar los diferentes planes disponibles, sus beneficios, precios y estado actual del usuario, manteniendo una interfaz clara y ordenada.
+
+Integración simulada con API pública: A través de Beeceptor, se configuraron endpoints simulados que permiten emular la compra, cancelación y consulta de facturación, asegurando la correcta validación del flujo sin necesidad de un backend real.
+
+Despliegue en Firebase: Toda la aplicación desarrollada fue desplegada exitosamente en Firebase Hosting, lo cual facilitó pruebas visuales, revisiones del equipo y demostración funcional. deploy en firebase:
+
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/SUBS1.PNG">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/SUBS2.PNG">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/SUBS3.PNG">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/SUBS4.PNG">
+<img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/SUBS5.PNG">
+
+
+
+ABRAAM ACOSTA
+
+Me encargué de diseñar y programar el bounded context de profile, permitiendo la gestión y edición de datos de usuario, así como la integración con el sistema de login. Implementé endpoints seguros y colaboré activamente con el equipo para asegurar que el perfil de usuario fuera funcional y seguro. Subí evidencias y diagramas que muestran el funcionamiento y la arquitectura del módulo.<br>
+
+
+
+**Evidencia de Login:**
+![login-evidence](assets/img/chapter-IV/login-evidence.jpeg)
+
+**Evidencia de Perfil:**
+![profile-evidence](assets/img/chapter-IV/profile-evidence.jpeg)
+
 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
-En esta sección se presenta la documentación de los servicios implementados durante el Sprint 2, incluyendo descripciones, diagramas, endpoints y ejemplos de uso relevantes sobre la integración o desarrollo de servicios.
+Durante el Sprint 2, el equipo se centró en el desarrollo de la parte visual y dinámica del frontend de PsychoHelp, utilizando Angular para las funcionalidades interactivas y Firebase para el despliegue
+
+Repositorio de Web Services (Planificado para los próximos sprints): Se ha preparado el repositorio que se utilizará para el desarrollo de la lógica del backend y para la implementación de los endpoints REST que se necesitarán en los próximos sprints
+
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 Aquí se presentará la evidencia del despliegue del software realizado en el Sprint 2. Se podrán añadir capturas de pantalla, enlaces a entornos desplegados, logs de despliegue y cualquier otro recurso que demuestre el proceso y resultado del deployment. (Las imágenes y evidencias serán añadidas posteriormente).
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/beceptor.png">
+Nos registramos 
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets//img/chapter-V/beceptopr2.png">
+Ya registrados podemos crear nuestras endpoints públicas
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/beceptor3.png">
+
+Y en el serverBasePath: Ponemos la url de nuestro endPoint pública
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/beceptopr24png.png">
+
+
+Firebase Firebase es una plataforma de desarrollo de aplicaciones web y móviles proporcionada por Google, diseñada para ayudar a los desarrolladores a crear, gestionar y escalar aplicaciones rápidamente. Firebase ofrece una variedad de servicios que facilitan tanto el desarrollo como la gestión de aplicaciones en tiempo real<br>
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase.png">
+
+ Nos registramos con una cuenta de google y vamos a la consola
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase2.png">
+ 
+ Creamos un nuevo proyecto de firebase
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase3.png">
+ Ponemos un nombre para el proyecto
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase4.png">
+
+
+ Vamos al apartado de hosting
+
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase5.png">
+
+
+ Se configura el firebase hosting en nuestro proyecto de intellij idea
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase6.png">
+
+ 
+ Con esto ya tendríamos nuestro hosting desplegado con los siguientes comandos
+
+ng build
+sudo npm install -g firebase-tools
+firebase login
+firebase init
+firebase deploy
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
 
 En este apartado se presenta un resumen de la dinámica de trabajo colaborativo y la gestión de tareas realizada por el equipo durante el Sprint 2. Se incluyen evidencias visuales que muestran la participación activa de los integrantes, así como el registro de los commits y contribuciones en el repositorio. Estas evidencias reflejan el compromiso, la organización y la comunicación efectiva que caracterizaron el desarrollo de este sprint.
 
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/collaboratorsSpinrt2.jpg">
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/evidenciastiki.PNG">
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/evidenciastiki2.PNG">
 
-<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/commitsSprint2.jpg">
+---   
+
+### 5.2.3. Sprint 3
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 2.
+
+### 5.2.3.1. Sprint Planning 3.
+
+Durante la reunión de planificación del Sprint 3, el equipo identificó los objetivos prioritarios en función del alcance general del proyecto. Se establecieron entregables enfocados en mejorar la funcionalidad de la plataforma y avanzar con la implementación de módulos esenciales. A continuación, se resumen los acuerdos principales:
+
+
+
+
+| **Sprint #** | Sprint 3 |
+|---------------|-----------|
+| **Sprint Planning Background** |  |
+| **Date** | 1/11/2025  |
+| **Time** | 13:00 horas  |
+| **Location** |  Modalidad remota a través de la plataforma Discord  |
+| **Prepared By** | Todos los integrantes del equipo QuizBee |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
+| **Sprint n – 3 Review Summary** |  Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido.   |
+| **Sprint n – 3 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
+| **Sprint Goal & User Stories** |  |
+| **Sprint 3 Goal** |  Nuestro enfoque se centra en el desarrollo y consolidación de la API de Quizbee, que constituye el núcleo funcional de la plataforma. Esta API implementa un conjunto de endpoints clave que soportan la creación, gestión, publicación y resolución                     de quizzes, así como la administración de usuarios, rankings, retroalimentación y progreso.El objetivo principal es garantizar un flujo completo y coherente entre las acciones del usuario y del creador, permitiendo que ambos interactúen con el                             sistema mediante servicios seguros, eficientes y escalables.  |
+| **Sprint 3 Velocity** | 100%|
+| **Sum of Story Points** | La suma de Story Points atendidos es de 30 story points|
+
+
+
+
+### 5.2.3.2. Aspect Leaders and Collaborators.
+
+
+Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
+
+Cada aspecto fue liderado o apoyado por diferentes miembros del equipo, promoviendo la colaboración y el aprendizaje conjunto. La siguiente tabla muestra la distribución de roles y responsabilidades para cada aspecto relevante del Sprint 2:
+
+
+
+| Team Member (Last Name, First Name) | Github Username   | **Quizz and Questions** | **Scoring and Attempt** | **Speaking Room** |**IAM** | **Billing and Subcription**|
+| ----------------------------------- | ---------------- | ---------------------------------------------------------------------- | ---------|---------------|---------------------------------------- | --------------------------------------------------------------- |
+| Mazuelos, Marcelo                   | MarceloMazuelos  | (C)                                  |(C)  |           (C)                        | (C)                      |(C)|                                          | (C)                                                          |
+| Mendoza Vergara, Alejandro Franklin | AlexBoo578       | (C)                                 |(C)  |                    (C)                | (L)                 |(C) |                                              | (C)                                                          |
+| Geronimo Quispe, Pablo Antonio      | Phatogram        | (L)                                 | (C)  |                  (C)                  | (C)                  | (C)|                                            | (C)                                                          |
+| Acosta Elera, Abraam Bernabe        | abraam16         | (C)                       |  (C) |                     (C)                 | (L)                                                               | (C)                                     |(C) |                      |
+| Vidal Malaga, Jareth Beycker        | Jareth Vidal     | (C)                 |     (C)      |  (C)                                        | (C)                                                               | (L)                                                          |
+
+
+### 5.2.3.2.3. Sprint Backlog 3. 
+
+Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa Backend de la aplicación, implementando la lógica de negocio y los servicios necesarios para dar soporte funcional a cada uno de los bounded contexts. Se priorizó la creación de entidades, controladores, servicios y repositorios en base a una arquitectura por capas y principios de diseño orientado a dominios. Cada integrante asumió la implementación del backend correspondiente a su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase ha sido clave para establecer la base de comunicación entre el frontend y la lógica del sistema, asegurando la persistencia de datos y el correcto flujo de la información. 
+
+Este es nuestro link de invitación a nuestro Trello :
+
+### 5.2.3.4. Development Evidence for Sprint Review.
+
+
+- Falta una introducción que resume los principales avances en la implementación.
+
+
+
+ejemplo
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|--------------------|
+| QuizBee-frontend | feature-quizzies | a5bd87e | feat(feature-quizzies): add sample of quiz create,quiz play and restructure bounded context with partial for flex data  | Adding endpoint of quizzies and logic busssines core |  7/10/2025 |
+| QuizBee-frontend | feature-quizzies | fe520ef | feat(feature-quizzies): restructure of managament quizz and create question for the bounded context quizzies | fixing db.json and structure of files | 7/10/2025 |
+| QuizBee-Frontend | Billing-and-subscription | 5ba13d3 |feat: add subscription management and payment processing features| Add subscription managament and payment | 26/09/2024 |
+| QuizBee-Frontend | Billing-and-subscription | db32191 |feat: add zone.js for improved Angular performance and add Ultra Mega-Premium subscription plan| Add zone.js for events| 26/09/2024 |
+| QuizBee-Frontend | Billing-and-subscription | 1cd284c |feat: add invoice detail component and routing| Add zone.js for events| 26/09/2024 |
+| QuizBee-Frontend | feature-profile  |8d94822 |feat(profile): implement profile bounded context| adding profile domain entity,Create profile controller for application layer,Add profile component with Material Design UI| 06/09/2024 |
+| QuizBee-Frontend | feature-speakingRoomBC  |ae04048 |  feat(user-entity): add user entity | adding user entity| 07/09/2024 |
+| QuizBee-Frontend | feature-speakingRoomBC  |bb61625 | feat(speaking-repository): add speaking repository service | adding speaking repository service| 07/09/2024 |
+| QuizBee-Frontend | feature-feedback  |597985d | feat(routing): integrate ranking routes into main application| integrate routes for main | 07/09/2024 |
+| QuizBee-Frontend | feature-feedback  |998669a |feat(ranking): set up ranking routes| implementation set up | 07/09/2024 |
+
+
+### 5.2.3.5.  Execution Evidence for Sprint Review
+
+En esta sección, Tenemos los endpoints para 
+
+  - Falta el resumen que explique lo alcanzado en este Sprint.
+
+
+imagen
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/quizziesbackend.PNG">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Back1.PNG">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Back2.PNG">
+ ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+
+ 
+ 
+ | Método | Endpoint | Descripción |
+|--------|-----------|-------------|
+| GET    | /api/v1/quizzes/{quizId} | Obtener quiz por ID |
+| PUT    | /api/v1/quizzes/{quizId} | Actualizar quiz por ID |
+| DELETE | /api/v1/quizzes/{quizId} | Eliminar quiz por ID |
+| GET    | /api/v1/quizzes | Obtener todos los quizzes |
+| POST   | /api/v1/quizzes | Crear un nuevo quiz |
+| PATCH  | /api/v1/quizzes/{quizId}/plays | Incrementar contador de jugadas del quiz |
+| GET    | /api/v1/quizzes/type/{type} | Obtener quizzes por tipo |
+| GET    | /api/v1/quizzes/search | Buscar quizzes |
+| GET    | /api/v1/quizzes/popular | Obtener quizzes populares |
+| GET    | /api/v1/quizzes/difficulty/{difficultyLevel} | Obtener quizzes por nivel de dificultad |
+| GET    | /api/v1/quizzes/creator/{creatorUserId} | Obtener quizzes creados por un usuario |
+| GET    | /api/v1/quizzes/category/{category} | Obtener quizzes por categoría |
+
+| Método  | Endpoint                                                              | Descripción                                         |
+|---------|-----------------------------------------------------------------------|-----------------------------------------------------|
+| POST    | /api/v1/subscriptions                                                 | Crear una nueva suscripción                         |
+| GET     | /api/v1/subscriptions/{subscriptionId}                                | Obtener suscripción por ID                          |
+| PUT     | /api/v1/subscriptions/{subscriptionId}/plan/{newPlanId}               | Cambiar el plan de una suscripción                  |
+| PUT     | /api/v1/subscriptions/{subscriptionId}/payment-method                 | Actualizar método de pago de la suscripción         |
+| DELETE  | /api/v1/subscriptions/{subscriptionId}                                | Eliminar suscripción por ID                         |
+| GET     | /api/v1/subscriptions/user/{userId}                                   | Obtener suscripciones de un usuario                 |
+| POST    | /ppd/v1/invoices                                                      | Crear una nueva factura                             |
+| GET     | /ppd/v1/invoices/{invoiceId}                                          | Obtener factura por ID                              |
+| GET     | /ppd/v1/invoices/subscription/{subscriptionId}                        | Obtener facturas por suscripción                    |
+| GET     | /ppd/v1/plans                                                         | Obtener todos los planes disponibles                |
+| GET     | /ppd/v1/plans/{planId}                                                | Obtener plan por ID                                 |
+
+
+ 
+ ### 5.2.3.7.  Software Deployment Evidence for Sprint Review. 
+ Link Landing Desplegado: https://landingpagequizzbee.netlify.app/
+ 
+ Evidencias:
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Landing1.png">
+
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Landing3.png">
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Landing4.png">
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Landing5.png">
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Landing6.png">
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Landing7.png">
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Landing8.png">
+
+
+
+
+
+  ### 5.2.3.8.  Team Collaboration Insights during Sprint. 
+
+   
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+En esta sección se presenta el diseño de las entrevistas de validación realizadas para la plataforma **Quizbee**, aplicadas a los segmentos objetivo identificados durante el proceso de investigación.  
+Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **interfaz**, **flujo de navegación**, **motivación**, y **valor percibido** de las funcionalidades principales tanto del *Landing Page* como de la aplicación.
+
 ---
 
+### **Entrevistas por Segmento - Plataforma Quizbee**
 
+#### **Segmento 1: Personas que quieren reforzar lo aprendido de algún idioma**
+
+- ¿Qué tan fácil te resultó registrarte y entender para qué servía Quizbee?  
+- ¿Cómo fue tu experiencia al navegar desde el Home hasta encontrar un quiz para practicar?  
+- ¿La interfaz te resultó clara para identificar tu nivel y el tipo de idioma que querías practicar?  
+- ¿Te pareció intuitiva la forma en que podías resolver quizzes y recibir feedback inmediato?  
+- ¿El sistema de vidas limitadas te pareció motivador o frustrante para seguir practicando?  
+- ¿Qué opinas del diseño visual (colores, íconos, tipografía) de la aplicación? ¿Transmitió diversión o profesionalismo?  
+- ¿Te pareció útil ver tus resultados y progreso después de resolver un quiz?  
+- ¿Qué tan claras te parecieron las instrucciones antes de comenzar un quiz?  
+- ¿La opción de “Reintentar quiz” o “Ver respuestas correctas” te ayudó a aprender mejor?  
+- ¿Qué tan motivante te pareció el sistema de puntos y recompensas dentro de la app?  
+- ¿Te gustaría que se integraran más tipos de retos (audio, vocabulario, conversación)?  
+- ¿Qué mejorarías para que Quizbee te ayude más a mantener la constancia al practicar un idioma?
+
+---
+
+#### **Segmento 2: Personas que ya dominan algún idioma**
+
+- ¿Qué tan fácil fue registrarte y comprender cómo podías crear o compartir quizzes?  
+- ¿Cómo fue tu experiencia creando un quiz? ¿Las opciones y pasos fueron claros?  
+- ¿Te pareció útil poder ver el feedback que otros usuarios dejaron en tus quizzes?  
+- ¿La opción de participar en *speaking rooms* te resultó atractiva o útil para mantener tu nivel?  
+- ¿Te parecieron adecuados los niveles de dificultad disponibles para crear retos?  
+- ¿Qué tan motivante te pareció recibir puntos y poder canjearlos por recompensas o certificados?  
+- ¿Te sentiste reconocido dentro de la plataforma por tus contribuciones como creador o mentor?  
+- ¿Cómo valorarías la posibilidad de competir en rankings globales o por país?  
+- ¿Consideras que el diseño general de la aplicación refleja confianza y profesionalismo?  
+- ¿Qué funcionalidad te gustaría agregar para que la app aporte más valor a los usuarios avanzados (por ejemplo, métricas, feedback avanzado, etc.)?  
+- ¿Te resultó clara la diferencia entre el plan gratuito y el plan premium? ¿Qué te motivaría a pagar por el premium?  
+- ¿Qué te gustaría mejorar o cambiar en la experiencia general para hacerla más fluida y profesional?
+
+
+
+### 5.3.2. Registro de Entrevistas.
+
+#### Segmento 1:
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/diegoavalos2.png">
+
+- Entrevista N°1: Diego Avalos
+- Sexo: Masculino
+- Edad: 22 años
+
+- Ubicación en la que vive: Independencia, Lima, Perú
+
+
+#### Entrevista:1 ####
+
+
+[link https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EXHY9vTo3TVKnJV3A4e2Ha4B1NsXtcJY6HnYjbc_acjhbA?e=aUP9ck)
+
+
+- Momento en el que inicia: 0:03
+
+- Duración: 12:18
+
+**Resumen:**
+Diego avalos  es un entrevistado que ya nos dio una entrevista anteriormente y como parte de esta lo que mas le gusto y fascino es el tema de la rapidez con la que puedes ingresar a los quizzies y resolverlos y recibir feedback inmediato ya que en estos tiempos lo rapido es lo mas escencial tambien nos comento que una de las caracteristicas escenciales de la startup quizbee es que la deficiencia de colores juega muy en contra y que le gustaria mas inputs en registrarse como aprendiz y un tema de sonidos y una evaluacion al registrarse
+
+
+
+
+#### Segmento 2:
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/pierotenorio.png">
+
+- Entrevista N°1: Pierio tenorio
+- Sexo: Masculino
+- Edad: 20 años
+
+- Ubicación en la que vive: san martin de porres, Lima, Perú
+
+
+#### Entrevista 2: ####
+
+
+https://drive.google.com/drive/folders/1KsDnuT3RHbXD6W2qCzFX5WltWo5r6kCz?usp=sharing
+
+- Momento en el que inicia: 0:03
+
+- Duración: 10:00
+
+**Resumen:**
+Piero tenorio al vez la aplicacion y la landing page se hizo un desden de emociones pero tambien tuvo una recaida ya que le parecio demasiado complejo ya que no resaltaba ninguna caracteristica de lo que aprendimos en IHC tambien resalto que le gustaria que hubiera mas caracteristicas como poner mas vidas y que haya una tienda donde pueda canjear los puntos obtenidos
+
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## Evaluación Heurística de Usabilidad y Diseño Inclusivo para la Aplicación Web "QuizzBee"
+
+| Campo | Descripción |
+|--------|--------------|
+| **Carrera** | Ingeniería de Software |
+| **Curso** | Desarrollo de Aplicaciones Open Source |
+| **Sección** | 7385 |
+| **Profesores** | Todos |
+| **Auditor(es)** | Grupo 1 |
+| **Cliente(s)** | Grupo 2 |
+| **Site / App a Evaluar** | **QuizzBee |
+
+## Tareas a Evaluar
+
+El alcance de esta evaluación incluye la revisión de la usabilidad y experiencia del usuario en las siguientes tareas:
+
+1. Identificar funcionalidades principales del servicio.  
+2. Registro de un nuevo usuario.  
+3. Inicio de sesión.  
+4. Creación, edición y eliminación de quizzes.  
+5. Visualización de ranking y estadísticas.  
+6. Consulta de soporte y preguntas frecuentes.  
+7. Gestión del plan gratuito o premium.  
+8. Cierre de sesión.
+
+
+## Escala de Severidad
+
+| Nivel | Descripción |
+|-------|--------------|
+| **1** | Problema superficial: fácilmente superable, ocurre con poca frecuencia. No requiere atención inmediata. |
+| **2** | Problema menor: aparece con algo más de frecuencia o genera leve dificultad. Requiere revisión en próximas versiones. |
+| **3** | Problema mayor: ocurre con frecuencia o afecta notablemente la experiencia del usuario. Debe corregirse con prioridad alta. |
+| **4** | Problema muy grave: impide el uso normal del sistema. Debe corregirse antes del lanzamiento. |
+
+## Tabla Resumen de Problema
+
+| # | Problema identificado | Escala de severidad | Heurística / Principio violado(a) |
+|---|-----------------------|:--:|--------------------------------|
+| 1 | No existe un menú de navegación visible o fijo en la landing para moverse entre secciones principales. | 3 | **Usability:** Libertad y control del usuario |
+| 2 | No hay botón de “volver arriba” ni enlaces de navegación interna (anclas). | 2 | **Usability:** Flexibilidad y eficiencia de uso |
+| 3 | El contraste entre texto y fondo en algunas secciones reduce la legibilidad. | 2 | **Inclusive Design:** Accesibilidad visual |
+| 4 | Íconos sin atributo “alt” ni etiquetas accesibles. | 3 | **Inclusive Design:** Proporcionar experiencias comparables |
+| 5 | Falta un CTA (“Call to Action”) claro y consistente en la landing. | 3 | **Information Architecture:** Is it usable? |
+| 6 | En el registro no se especifican criterios de validación de contraseña ni mensajes de error dinámicos. | 2 | **Usability:** Prevención de errores |
+| 7 | No existe confirmación visual al registrarse, iniciar sesión o realizar acciones principales. | 3 | **Usability:** Visibilidad del estado del sistema |
+| 8 | En el dashboard, íconos sin etiquetas accesibles (`aria-label`). | 3 | **Inclusive Design:** Experiencias comparables |
+| 9 | No hay aviso de confirmación antes de eliminar un quiz o cuenta. | 4 | **Usability:** Prevención de errores |
+| 10 | La sección “Manage plan” aparece vacía sin contenido ni botones funcionales. | 3 | **Information Architecture:** Is it findable / usable? |
+| 11 | No hay retroalimentación al guardar o publicar un quiz. | 3 | **Usability:** Visibilidad del estado del sistema |
+| 12 | Palabras de interfaz sin traducir (“MY_CREATIONS.TITLE”). | 3 | **Information Architecture:** Consistencia y lenguaje del usuario |
+| 13 | Jerarquía visual débil y contraste bajo entre secciones activas e inactivas. | 2 | **Inclusive Design:** Accesibilidad visual |
+| 14 | Campos de idioma y nivel sin texto de ayuda o ejemplos de uso. | 2 | **Usability:** Ayuda y documentación mínima |
+
+## Descripción de Problemas
+
+### PROBLEMA #1: No existe un menú de navegación visible o fijo
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Libertad y control del usuario  
+- **Descripción:** La landing no muestra un header o barra fija para saltar entre secciones (funcionalidades, testimonios, FAQ, soporte). Obliga a hacer scroll largo y dificulta volver a zonas clave.  
+- **Recomendación:** Añadir una barra superior “sticky” con anclas a secciones (“Inicio”, “Funcionalidades”, “Testimonios”, “FAQ”, “Soporte”) y CTA persistente.
+
+### PROBLEMA #2: No hay “volver arriba” ni anclas internas
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Flexibilidad y eficiencia de uso  
+- **Descripción:** Al terminar una sección, no hay enlaces de retorno rápido al inicio ni atajos de navegación interna; esto afecta eficiencia en páginas largas.  
+- **Recomendación:** Agregar botón flotante “↑” y anclas internas entre bloques; incluir accesos rápidos al final de cada sección.
+
+### PROBLEMA #3: Contraste bajo en textos/fondos de la landing
+- **Severidad:** 2  
+- **Heurística violada:** Inclusive Design – Accesibilidad visual  
+- **Descripción:** En tarjetas y fondos celeste/azulado, algunos textos azules pierden contraste con el fondo, dificultando lectura.  
+- **Recomendación:** Ajustar paleta (color de texto y/o fondo).
+
+### PROBLEMA #4: Íconos sin `alt` ni etiquetas accesibles
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Proporcionar experiencias comparables  
+- **Descripción:** Los íconos/emojis de “Funcionalidades” carecen de descripciones para lectores de pantalla; usuarios con discapacidad visual pierden contexto.  
+- **Recomendación:** Incluir `alt`/`aria-label` descriptivos y `role="img"` si procede; si son decorativos, marcarlos como `aria-hidden="true"`.
+
+### PROBLEMA #5: Ausencia de CTA principal en la landing
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Is it usable?  
+- **Descripción:** No existe un botón de acción dominante (p.ej., “Empieza ahora”, “Regístrate”); el objetivo de conversión queda difuso.  
+- **Recomendación:** Incorporar CTA visible y consistente en hero y barra de navegación; usar color contrastante y copy orientado a acción.
+
+### PROBLEMA #6: Validación limitada en formulario de registro
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Prevención de errores  
+- **Descripción:** Solo se indica “Contraseña (mín. 6)”. No hay validación en tiempo real ni requisitos claros (mayúsculas, número, símbolo) ni confirmación de contraseña.  
+- **Recomendación:** Añadir checklist dinámico de requisitos, campo “confirmar contraseña”, medidor de fortaleza y mensajes inline.
+
+### PROBLEMA #7: Sin confirmación/feedback tras acciones clave
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Visibilidad del estado del sistema  
+- **Descripción:** En registro/login y operaciones de contenido no aparecen estados de carga, notificaciones de éxito/fallo, ni “toast/snackbar”.  
+- **Recomendación:** Incluir indicadores de progreso (spinners), toasts de éxito/error, y estados deshabilitados en botones mientras procesan.
+
+### PROBLEMA #8: Menú lateral con íconos sin etiquetas accesibles
+- **Severidad:** 3  
+- **Heurística violada:** Inclusive Design – Experiencias comparables  
+- **Descripción:** Los íconos del sidebar (Profile, Home, Create, etc.) no exponen `aria-label`/`title` ni orden lógico de tabulación; navegación por teclado/lector se ve afectada.  
+- **Recomendación:** Añadir `aria-label` y `aria-current="page"` para el activo; asegurar foco visible y orden de tab index natural.
+
+### PROBLEMA #9: Eliminación de quiz/cuenta sin confirmación
+- **Severidad:** 4  
+- **Heurística violada:** Usability – Prevención de errores  
+- **Descripción:** En “My Creations” el botón **Delete** y en perfil **Delete account** no solicitan confirmación (ni “undo”), lo que puede causar pérdida permanente.  
+- **Recomendación:** Modal de confirmación con resumen del impacto, doble acción **Cancelar/Eliminar**, y opción de recuperación (papelera o “undo”).
+
+### PROBLEMA #10: “Manage plan” vacío/sin opciones
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Is it findable / usable?  
+- **Descripción:** La vista muestra un fondo degradado y título, pero carece de planes, precios, beneficios o flujos de pago; el usuario no puede completar la tarea.  
+- **Recomendación:** Añadir tarjetas de planes (Free/Pro/Team), features comparadas, precio/periodicidad, CTA “Upgrade” y estado de plan actual.
+
+### PROBLEMA #11: Sin feedback al guardar/publicar quiz
+- **Severidad:** 3  
+- **Heurística violada:** Usability – Visibilidad del estado del sistema  
+- **Descripción:** En “Modo Creativo”, los botones **Guardar borrador**/**Publicar** no indican progreso ni resultado; el usuario duda si se guardó o falló.  
+- **Recomendación:** Mostrar loader en botón, deshabilitar durante envío, y notificación de éxito con enlace para ver el quiz; mensajes claros ante error.
+
+### PROBLEMA #12: Textos de interfaz sin traducir (i18n incompleto)
+- **Severidad:** 3  
+- **Heurística violada:** Information Architecture – Consistencia y lenguaje del usuario  
+- **Descripción:** Etiquetas como `MY_CREATIONS.TITLE`, `MY_CREATIONS.POINTS`, `Clear filters` aparecen en inglés/clave de i18n, rompiendo consistencia lingüística.  
+- **Recomendación:** Completar archivos de traducción, fallback localizable, y detección automática de idioma; prueba de regresión lingüística.
+
+### PROBLEMA #13: Bajo contraste/jerarquía en estados activos
+- **Severidad:** 2  
+- **Heurística violada:** Inclusive Design – Accesibilidad visual  
+- **Descripción:** En el editor (pestañas/lista de preguntas) el elemento activo no se distingue con claridad respecto a inactivos; afecta orientación y foco visual.  
+- **Recomendación:** Aumentar contraste y señales de estado (color, grosor de borde, fondo, icono de “activo”); cumplir WCAG Focus Visible.
+
+### PROBLEMA #14: Falta de ayudas/contexto en “Idioma” y “Nivel”
+- **Severidad:** 2  
+- **Heurística violada:** Usability – Ayuda y documentación mínima  
+- **Descripción:** Selectores de **Language**/**Level** carecen de microcopy (para qué sirven, cómo afectan la experiencia) ni ejemplos (p. ej., “Novice = nivel A1”).  
+- **Recomendación:** Añadir texto de ayuda inline/tooltip, descripciones cortas y ejemplos; si modifican el contenido recomendado, explicarlo explícitamente.
+
+
+### 5.4. Video About-the-Product.
+
+El respectivo video sobre el producto de la startup
+imagen
+
+
+https://www.youtube.com/watch?v=Wrf2zORyGac
+
+
+## 📚 **Bibliografía**
+
+- **Angular Cookbook.** (2021). *Packt Publishing.*
+
+- **Angular.** (s. f.). Recuperado de [https://angular.io/guide/i18n-overview](https://angular.io/guide/i18n-overview)
+
+- **Del Aguila-Obra, A. R., Al-dweeri, R. M., & Padilla-Meléndez, A.** (2012). *Factores determinantes de la calidad de los servicios electrónicos en el contexto de los operadores postales.* Universia Business Review, (35), 114–123.  
+  [https://www.redalyc.org/pdf/433/43323842006.pdf](https://www.redalyc.org/pdf/433/43323842006.pdf)
+
+- **Deinum, Marten.** (2018). *Spring Boot 2 Recipes: A Problem-Solution Approach (1st ed. 2018).* Apress.  
+  [https://doi.org/10.1007/978-1-4842-3963-6](https://doi.org/10.1007/978-1-4842-3963-6)
+
+- **Fredrich, T., & Pearson eCollege.** (s. f.). *REST API Tutorial.*  
+  [https://www.restapitutorial.com](https://www.restapitutorial.com)
+
+- **Mohammad-Al-dweeri, R.** (2011). *La calidad en los servicios electrónicos como estrategia competitiva: Modelo de análisis de sus componentes y efectos sobre la satisfacción y la lealtad.*  
+  [https://libros.metabiblioteca.org/handle/001/291](https://libros.metabiblioteca.org/handle/001/291)
+
+- **Ramos, Á. F. V., & Sánchez-Franco, M. J.** (2004). *La calidad de servicio electrónico: un análisis de los efectos moderadores del comportamiento de uso de la web.*  
+  Cuadernos de Economía y Dirección de la Empresa, (21), 121–125.  
+  [https://dialnet.unirioja.es/descarga/articulo/1143462.pdf](https://dialnet.unirioja.es/descarga/articulo/1143462.pdf)
+
+- **Selvaraj, S.** (2024). *Mastering REST APIs: Boosting Your Web Development Journey with Advanced API Techniques (1.a ed.).* Apress L. P.  
+  [https://doi.org/10.1007/979-8-8688-0309-3](https://doi.org/10.1007/979-8-8688-0309-3)
+
+- **Leonard, Anghel.** (2020). *Spring Boot Persistence Best Practices: Optimize Java Persistence Performance in Spring Boot Applications (1st ed. 2020).* Apress.  
+  [https://doi.org/10.1007/978-1-4842-5626-8](https://doi.org/10.1007/978-1-4842-5626-8)
+
+- **Karanam, R. R.** (2017). *Mastering Spring 5.0.* Packt Publishing, Limited.
+
+---
+
+## 📎 **Anexos**
+
+- 🌐 **Landing Page:** https://landingpagequizzbee.netlify.app/
+
+- 🎥 **Videos About the Product:**  
+  [Ver en YouTube]https://www.youtube.com/watch?v=Wrf2zORyGac
+
+- **Frontend aplication:**
+
+- 👥 **Video About the Team:**  
+  [https://youtu.be/dhwZBx9cvtc] https://www.youtube.com/watch?v=cOPzhtjJvE0 
