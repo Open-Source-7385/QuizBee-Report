@@ -478,11 +478,11 @@ Pedro también destacó que es crucial que la plataforma incluya retos avanzados
 <img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-2/entrevista4.PNG">
 
 
-- Entrevista N°2: Liliana Quilcat
+- Entrevista N°2: Liz Sanchez
 - Sexo: Femenino
-- Edad: 38 años
+- Edad: 40 años
 
-- Ubicación en la que vive: Callao, Peru
+- Ubicación en la que vive: San Miguel, Peru
 
 #### Entrevista: ####
 link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/EZWkEJGZFOFDlQkg6khUE5UBJuBFZM_wwmNDtt7jmyMkrw?e=Uo4mVo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -2195,6 +2195,28 @@ https://drive.google.com/drive/folders/1KsDnuT3RHbXD6W2qCzFX5WltWo5r6kCz?usp=sha
 - Momento en el que inicia: 0:03
 
 - Duración: 10:00
+
+**Resumen:**
+Liz Sanchez destacó que la app es fácil de usar, con registro y creación de quizzes claros. Valoró el feedback, las speaking rooms y el sistema de puntos como motivadores. Consideró adecuado el diseño y los niveles de dificultad. Sugirió agregar métricas avanzadas y mejorar la fluidez y dinamismo de la navegación.
+
+
+
+
+- Entrevista N°1: Liz Sanchez
+- Sexo: Femenino
+- Edad: 40 años
+
+- Ubicación en la que vive: San Miguel, Lima, Perú
+
+
+#### Entrevista 2: ####
+
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/IQCdYFGe9FP6TrPcMGWM76kTAUZ4OSwu8v1tfcYoZwvXrcY?e=JQjaHb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+- Momento en el que inicia: 0:03
+
+- Duración: 4:00
 
 **Resumen:**
 Piero tenorio al vez la aplicacion y la landing page se hizo un desden de emociones pero tambien tuvo una recaida ya que le parecio demasiado complejo ya que no resaltaba ninguna caracteristica de lo que aprendimos en IHC tambien resalto que le gustaria que hubiera mas caracteristicas como poner mas vidas y que haya una tienda donde pueda canjear los puntos obtenidos
