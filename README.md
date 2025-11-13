@@ -29,14 +29,17 @@
 | 0.2     | 15/04/2025  | Todos los integrantes           | Desarrollo del capítulo 3              |
 | 0.3     | 15/04/2025  | Todos los integrantes          | Desarrollo del capítulo 4                     |
 | 0.4     | 15/04/2025  | Todos los integrantes                 | Desarrollo del capítulo 4 y sprint 1         |
-
+| 0.5     | 15/04/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 1         |
+| 0.6     | 15/04/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 2         |
+| 0.7     | 15/04/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 2         |
+| 0.8     | 15/04/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 3         |
 
 ---
 
 ### **Project Report Collaboration Insights**
-| URL de la organización del proyecto |             URL del repositorio del reporte             |        URL del repositorio de la landing page        |
-|-------------------------------------|---------------------------------------------------------|------------------------------------------------------|
-| https://github.com/Open-Source-7385    |  https://github.com/Open-Source-7385/QuizBee-Report   |  https://github.com/Open-Source-7385/Landing      |  
+| URL de la organización del proyecto |             URL del repositorio del reporte             |        URL del repositorio de la landing page        |         URL del repositorio del frontend      |   URL del repositorio del  backend |
+|-------------------------------------|---------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------  |
+| https://github.com/Open-Source-7385    |  https://github.com/Open-Source-7385/QuizBee-Report   |  https://github.com/Open-Source-7385/Landing      | https://github.com/Open-Source-7385/QuizBee-Frontend  | https://github.com/Open-Source-7385/Quizbee-Backend-Official|
 
 
 
@@ -932,7 +935,7 @@ Por otro lado, las Technical Stories (TS) representan los requerimientos técnic
 Trello:
 - Link: https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI5eb5f50ecd13739627eec4f8907c3c4003CF6FB7/mi-tablero-de-trello
   
-<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/sprintbacklog3.PNG"  width="600"/>
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/trello.PNG" alt="trello" width="600"/>
  
 ---
 
@@ -1874,18 +1877,18 @@ Despliegue en Firebase: Toda la aplicación desarrollada fue desplegada exitosam
 
 
 
-ABRAAM ACOSTA
+ABRAAM ACOSTA 
 
-Me encargué de diseñar y programar el bounded context de profile, permitiendo la gestión y edición de datos de usuario, así como la integración con el sistema de login. Implementé endpoints seguros y colaboré activamente con el equipo para asegurar que el perfil de usuario fuera funcional y seguro. Subí evidencias y diagramas que muestran el funcionamiento y la arquitectura del módulo.<br>
+Diseño e implementación del módulo de Profile: Se desarrolló la funcionalidad que permite a los usuarios gestionar su información personal, visualizar y editar su perfil, y mantener actualizados sus datos dentro de la plataforma.
 
+Implementación de login y registro: Se crearon las vistas y lógica para el proceso de autenticación, permitiendo a los usuarios registrarse, iniciar sesión de forma segura y acceder a sus cuentas. Se incluyeron validaciones y mensajes de retroalimentación para mejorar la experiencia de usuario.
 
+Vista del perfil de usuario: Se diseñó una interfaz clara y ordenada para mostrar la información relevante del usuario, incluyendo datos personales, progreso y opciones de edición, asegurando una navegación intuitiva y coherente con el resto de la aplicación.
 
-**Evidencia de Login:**
-![login-evidence](assets/img/chapter-IV/login-evidence.jpeg)
-
-**Evidencia de Perfil:**
-![profile-evidence](assets/img/chapter-IV/profile-evidence.jpeg)
-
+Integración simulada con API pública: Se configuraron endpoints simulados mediante Beeceptor para validar el flujo de autenticación y gestión de perfil sin necesidad de backend real, facilitando pruebas y demostraciones.
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/login.jpg">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/register.jpg">
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/profile.jpg">
 
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -1934,6 +1937,7 @@ Firebase Firebase es una plataforma de desarrollo de aplicaciones web y móviles
  Se configura el firebase hosting en nuestro proyecto de intellij idea
  <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase6.png">
 
+Limk del frontend : https://quizbee-frontendunid.web.app
  
  Con esto ya tendríamos nuestro hosting desplegado con los siguientes comandos
 
@@ -1973,10 +1977,10 @@ Durante la reunión de planificación del Sprint 3, el equipo identificó los ob
 | **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
 | **Sprint n – 3 Review Summary** |  Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido.   |
 | **Sprint n – 3 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
-| **Sprint Goal & User Stories** | TS1, TS2, TS3, TS4, TS5, TS6, TS7, TS8 |
+| **Sprint Goal & User Stories** | TS1, TS2, TS3, TS4, TS5, TS6, TS7, TS8  |
 | **Sprint 3 Goal** |  Nuestro enfoque se centra en el desarrollo y consolidación de la API de Quizbee, que constituye el núcleo funcional de la plataforma. Esta API implementa un conjunto de endpoints clave que soportan la creación, gestión, publicación y resolución                     de quizzes, así como la administración de usuarios, rankings, retroalimentación y progreso.El objetivo principal es garantizar un flujo completo y coherente entre las acciones del usuario y del creador, permitiendo que ambos interactúen con el                             sistema mediante servicios seguros, eficientes y escalables.  |
 | **Sprint 3 Velocity** | 100%|
-| **Sum of Story Points** | La suma de Story Points atendidos es de 30 story points|
+| **Sum of Story Points** | La suma de Story Points atendidos es de 21 story points|
 
 
 
@@ -1984,11 +1988,9 @@ Durante la reunión de planificación del Sprint 3, el equipo identificó los ob
 ### 5.2.3.2. Aspect Leaders and Collaborators.
 
 
-Durante este sprint, la asignación de responsabilidades técnicas se mantuvo por bounded contexts. Cada miembro asumió un rol activo en la implementación de endpoints REST y lógica de dominio. Se fortaleció la colaboración entre integrantes para asegurar la integración fluida entre componentes y la consistencia en las reglas de negocio.
+En esta sección se presenta la Leadership-and-Collaboration Matrix (LACX) para el Sprint 3, enfocada en la integración casi completa entre la Frontend Web Application y los Web Services RESTful del backend de Quzbee. Esta matriz define los roles y responsabilidades de cada miembro del equipo durante el proceso de integración y pruebas.
 
-Cada aspecto fue liderado o apoyado por diferentes miembros del equipo, promoviendo la colaboración y el aprendizaje conjunto. La siguiente tabla muestra la distribución de roles y responsabilidades para cada aspecto relevante del Sprint 2:
-
-
+Principales Aspectos Considerados en el Sprint 3: Para el Sprint 3, se han identificado cuatro aspectos fundamentales que abarcan la integración y pruebas completas: API Integration (Integración de API): Este aspecto engloba la conexión de la aplicación frontend con los servicios RESTful del backend, incluyendo llamadas a endpoints, manejo de respuestas y errores. End-to-End Testing (Pruebas de extremo a extremo): Comprende la implementación de pruebas automatizadas que validan flujos completos desde la interfaz de usuario hasta el backend. Error Handling & User Feedback (Manejo de errores y retroalimentación al usuario): Incluye la implementación de mecanismos para manejar errores de API y proporcionar retroalimentación clara a los usuarios. Documentation & Deployment (Documentación y Despliegue): Abarca la actualización de la documentación técnica y la estrategia de despliegue continuo para la aplicación integrada.
 
 | Team Member (Last Name, First Name) | Github Username   | **Quizz and Questions** | **Scoring and Attempt** | **Speaking Room** |**IAM** | **Billing and Subcription**|
 | ----------------------------------- | ---------------- | ---------------------------------------------------------------------- | ---------|---------------|---------------------------------------- | --------------------------------------------------------------- |
@@ -2003,47 +2005,48 @@ Cada aspecto fue liderado o apoyado por diferentes miembros del equipo, promovie
 
 Durante este Sprint, el equipo enfocó sus esfuerzos en el desarrollo de la capa Backend de la aplicación, implementando la lógica de negocio y los servicios necesarios para dar soporte funcional a cada uno de los bounded contexts. Se priorizó la creación de entidades, controladores, servicios y repositorios en base a una arquitectura por capas y principios de diseño orientado a dominios. Cada integrante asumió la implementación del backend correspondiente a su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase ha sido clave para establecer la base de comunicación entre el frontend y la lógica del sistema, asegurando la persistencia de datos y el correcto flujo de la información. 
 
-Este es nuestro link de invitación a nuestro Trello :
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/sprintbacklog3.PNG"  width="600"/>
+
+
+
+Este es nuestro link de invitación a nuestro Trello :https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI5eb5f50ecd13739627eec4f8907c3c4003CF6FB7/mi-tablero-de-trello
 
 ### 5.2.3.4. Development Evidence for Sprint Review.
 
-
-- Falta una introducción que resume los principales avances en la implementación.
-
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de  Quizbee. Esta integración habilitó flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo, permitiendo a los usuarios interactuar con la plataforma de manera fluida y eficiente
 
 
-ejemplo
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|--------------------|--------------------|
-| QuizBee-frontend | feature-quizzies | a5bd87e | feat(feature-quizzies): add sample of quiz create,quiz play and restructure bounded context with partial for flex data  | Adding endpoint of quizzies and logic busssines core |  7/10/2025 |
-| QuizBee-frontend | feature-quizzies | fe520ef | feat(feature-quizzies): restructure of managament quizz and create question for the bounded context quizzies | fixing db.json and structure of files | 7/10/2025 |
-| QuizBee-Frontend | Billing-and-subscription | 5ba13d3 |feat: add subscription management and payment processing features| Add subscription managament and payment | 26/09/2024 |
-| QuizBee-Frontend | Billing-and-subscription | db32191 |feat: add zone.js for improved Angular performance and add Ultra Mega-Premium subscription plan| Add zone.js for events| 26/09/2024 |
-| QuizBee-Frontend | Billing-and-subscription | 1cd284c |feat: add invoice detail component and routing| Add zone.js for events| 26/09/2024 |
-| QuizBee-Frontend | feature-profile  |8d94822 |feat(profile): implement profile bounded context| adding profile domain entity,Create profile controller for application layer,Add profile component with Material Design UI| 06/09/2024 |
-| QuizBee-Frontend | feature-speakingRoomBC  |ae04048 |  feat(user-entity): add user entity | adding user entity| 07/09/2024 |
-| QuizBee-Frontend | feature-speakingRoomBC  |bb61625 | feat(speaking-repository): add speaking repository service | adding speaking repository service| 07/09/2024 |
-| QuizBee-Frontend | feature-feedback  |597985d | feat(routing): integrate ranking routes into main application| integrate routes for main | 07/09/2024 |
-| QuizBee-Frontend | feature-feedback  |998669a |feat(ranking): set up ranking routes| implementation set up | 07/09/2024 |
+| QuizBee-Backend-Official |  feature-profile|  e86a898 | feat(iam): implement IAM bounded context  | Adding jwt authentification |  21/10/2025 |
+|  QuizBee-Backend-Official | feature-quizzies |  49cf192 | feat(feature-quizzies):"adding logic for bounded context core and change of JWT for testing" | add logic of quizzes and controlles and jwt authentification | 3/11/2025 |
+|  QuizBee-Backend-Official | Billing-and-subscription | 53d87c4 |add query and command classes for roles, users, and profiles; introduce value objects for roles and invoice statuses| Add  logic and crud of bounded context | 9/11/2024 |
+
+
+
+| **Integrante** | **Frontend directories** | **Backend directories** |
+|----------------|---------------------------|--------------------------|
+| Pablo Antonio,Geronimo Quispe |https://github.com/Open-Source-7385/QuizBee-Frontend/tree/feature-quizzies | https://github.com/Open-Source-7385/Quizbee-Backend-Official/tree/feature-quizzies |
+| Vidal Malaga, Jareth Beycker  |https://github.com/Open-Source-7385/QuizBee-Frontend/tree/Billing-and-Suscription |  https://github.com/Open-Source-7385/Quizbee-Backend-Official/tree/feature-subscriptions |
+| Acosta Elera, Abraam Bernabe  | https://github.com/Open-Source-7385/QuizBee-Frontend/tree/feature-profile | https://github.com/Open-Source-7385/Quizbee-Backend-Official/tree/feature-profile |
+
+
+
 
 
 ### 5.2.3.5.  Execution Evidence for Sprint Review
 
-En esta sección, Tenemos los endpoints para 
-
-  - Falta el resumen que explique lo alcanzado en este Sprint.
+En esta sección, Tenemos los endpoints para quizbee:
 
 
-imagen
 <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/quizziesbackend.PNG">
 
 <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Back1.PNG">
 
 <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Back2.PNG">
+
+
  ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
-
-
- 
  
  | Método | Endpoint | Descripción |
 |--------|-----------|-------------|
@@ -2078,11 +2081,14 @@ imagen
  
  ### 5.2.3.7.  Software Deployment Evidence for Sprint Review. 
  Link Landing Desplegado: https://landingpagequizzbee.netlify.app/
- 
+ Link del frontend despluegado: https://quizbee-frontendunid.web.app
  Evidencias:
 
  <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Landing1.png">
 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/landingpageabout.png">
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/pantallaslanding.png">
 
  <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Landing3.png">
 
@@ -2102,8 +2108,10 @@ imagen
 
   ### 5.2.3.8.  Team Collaboration Insights during Sprint. 
 
-   
+  
 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/sprint3evidences.PNG">
+ 
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
@@ -2152,6 +2160,9 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 ### 5.3.2. Registro de Entrevistas.
 
 #### Segmento 1:
+
+#### Entrevista:1 ####
+
 <img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/diegoavalos2.png">
 
 - Entrevista N°1: Diego Avalos
@@ -2160,8 +2171,6 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 
 - Ubicación en la que vive: Independencia, Lima, Perú
 
-
-#### Entrevista:1 ####
 
 
 [link https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EbkmdeLghNhGjq4V5uYy5esBiOXestT9hokV-ZV7bz5WRg?e=UARbDo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/EXHY9vTo3TVKnJV3A4e2Ha4B1NsXtcJY6HnYjbc_acjhbA?e=aUP9ck)
@@ -2175,19 +2184,15 @@ Cada entrevista busca recopilar percepciones sobre la **facilidad de uso**, **in
 Diego avalos  es un entrevistado que ya nos dio una entrevista anteriormente y como parte de esta lo que mas le gusto y fascino es el tema de la rapidez con la que puedes ingresar a los quizzies y resolverlos y recibir feedback inmediato ya que en estos tiempos lo rapido es lo mas escencial tambien nos comento que una de las caracteristicas escenciales de la startup quizbee es que la deficiencia de colores juega muy en contra y que le gustaria mas inputs en registrarse como aprendiz y un tema de sonidos y una evaluacion al registrarse
 
 
+#### Entrevista 2: ####
 
-
-#### Segmento 2:
 <img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/pierotenorio.png">
 
-- Entrevista N°1: Pierio tenorio
+- Entrevista N°2: Pierio tenorio
 - Sexo: Masculino
 - Edad: 20 años
 
 - Ubicación en la que vive: san martin de porres, Lima, Perú
-
-
-#### Entrevista 2: ####
 
 
 https://drive.google.com/drive/folders/1KsDnuT3RHbXD6W2qCzFX5WltWo5r6kCz?usp=sharing
@@ -2199,6 +2204,12 @@ https://drive.google.com/drive/folders/1KsDnuT3RHbXD6W2qCzFX5WltWo5r6kCz?usp=sha
 **Resumen:**
 Piero tenorio al vez la aplicacion y la landing page se hizo un desden de emociones pero tambien tuvo una recaida ya que le parecio demasiado complejo ya que no resaltaba ninguna caracteristica de lo que aprendimos en IHC tambien resalto que le gustaria que hubiera mas caracteristicas como poner mas vidas y que haya una tienda donde pueda canjear los puntos obtenidos
 
+
+
+#### Segmento 2:
+
+#### Entrevista:1 ####
+
 <img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/EntrevistaFront.PNG">
 
 - Entrevista N°3: Liz Sanchez
@@ -2208,8 +2219,6 @@ Piero tenorio al vez la aplicacion y la landing page se hizo un desden de emocio
 - Ubicación en la que vive: San Miguel, Lima, Perú
 
 
-#### Entrevista 3: ####
-
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/IQCdYFGe9FP6TrPcMGWM76kTAUZ4OSwu8v1tfcYoZwvXrcY?e=JQjaHb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -2218,8 +2227,30 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202316878_upc_edu_pe/IQCdYFGe
 - Duración: 4:00
 
 **Resumen:**
-Piero tenorio al vez la aplicacion y la landing page se hizo un desden de emociones pero tambien tuvo una recaida ya que le parecio demasiado complejo ya que no resaltaba ninguna caracteristica de lo que aprendimos en IHC tambien resalto que le gustaria que hubiera mas caracteristicas como poner mas vidas y que haya una tienda donde pueda canjear los puntos obtenidos
+Le parecio bastante bien la aplicacion pero hubo bastante discordancias y los objetivos que tenia que cumplir para asi poder tener la mejor recompensa le parecio bastante abrumadora y que se cansaria en algun momento de crear quizzies ya que le gustaria las recompensas inmediatas
 
+
+#### Entrevista 2: ####
+
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/entrevistaanyelin.png">
+
+- Entrevista N°4: Anyelo Alejos
+- Sexo: Masculino
+- Edad: 20 años
+
+- Ubicación en la que vive: Independencia, Lima, Perú
+
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202314304_upc_edu_pe/IQBQrdjWE0PLQqjWWwcNEXe9AcxrwC8J9gkYqc8ec-OwcDw?e=DZFrN9&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+- Momento en el que inicia: 0:03
+
+- Duración: 9:10
+
+  **Resumen:**
+  
+A anyelo alejos le parecio bastante interesante la aplicacion pero que tuvo problemas al intentar ingresar seccion y que no hubieran todos los objetivos ya dados pero que igual le gustaria poder interactuar un poco mas con la aplicacion 
 
 
 ### 5.3.3. Evaluaciones según heurísticas
@@ -2368,8 +2399,8 @@ El alcance de esta evaluación incluye la revisión de la usabilidad y experienc
 ### 5.4. Video About-the-Product.
 
 El respectivo video sobre el producto de la startup
-imagen
 
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/aboutheproduct.png">
 
 https://www.youtube.com/watch?v=Wrf2zORyGac
 
@@ -2413,7 +2444,7 @@ https://www.youtube.com/watch?v=Wrf2zORyGac
 - 🎥 **Videos About the Product:**  
   [Ver en YouTube]https://www.youtube.com/watch?v=Wrf2zORyGac
 
-- **Frontend aplication:**
+- **Frontend aplication:**https://quizbee-frontendunid.web.app
 
 - 👥 **Video About the Team:**  
   [https://youtu.be/dhwZBx9cvtc] https://www.youtube.com/watch?v=cOPzhtjJvE0 
