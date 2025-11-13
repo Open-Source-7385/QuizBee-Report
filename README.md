@@ -932,7 +932,7 @@ Por otro lado, las Technical Stories (TS) representan los requerimientos técnic
 Trello:
 - Link: https://trello.com/invite/b/68e5311169cf7a2bf6248dad/ATTI5eb5f50ecd13739627eec4f8907c3c4003CF6FB7/mi-tablero-de-trello
   
-<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/trello.PNG" alt="trello" width="600"/>
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/sprintbacklog3.PNG"  width="600"/>
  
 ---
 
@@ -1973,7 +1973,7 @@ Durante la reunión de planificación del Sprint 3, el equipo identificó los ob
 | **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
 | **Sprint n – 3 Review Summary** |  Durante el Sprint anterior, se realizaron correcciones sugeridas por el profesor en el informe del proyecto, y se logró desarrollar la primera versión de la aplicación Front End. Este avance permitió establecer la base del sistema, con un diseño visual inicial y funcionalidades básicas. Aunque algunas pantallas no fueron completadas, el producto resultante fue funcional y bien recibido.   |
 | **Sprint n – 3 Retrospective Summary** | El equipo expresó satisfacción con el trabajo colaborativo, destacando la mejora en la comunicación interna y la distribución de tareas. Se identificaron oportunidades de mejora en la organización del tiempo y planificación de actividades. Se acordó priorizar la definición clara de objetivos semanales para mejorar la eficiencia del equipo. |
-| **Sprint Goal & User Stories** |  |
+| **Sprint Goal & User Stories** | TS1, TS2, TS3, TS4, TS5, TS6, TS7, TS8 |
 | **Sprint 3 Goal** |  Nuestro enfoque se centra en el desarrollo y consolidación de la API de Quizbee, que constituye el núcleo funcional de la plataforma. Esta API implementa un conjunto de endpoints clave que soportan la creación, gestión, publicación y resolución                     de quizzes, así como la administración de usuarios, rankings, retroalimentación y progreso.El objetivo principal es garantizar un flujo completo y coherente entre las acciones del usuario y del creador, permitiendo que ambos interactúen con el                             sistema mediante servicios seguros, eficientes y escalables.  |
 | **Sprint 3 Velocity** | 100%|
 | **Sum of Story Points** | La suma de Story Points atendidos es de 30 story points|
