@@ -2199,7 +2199,7 @@ https://drive.google.com/drive/folders/1KsDnuT3RHbXD6W2qCzFX5WltWo5r6kCz?usp=sha
 **Resumen:**
 Piero tenorio al vez la aplicacion y la landing page se hizo un desden de emociones pero tambien tuvo una recaida ya que le parecio demasiado complejo ya que no resaltaba ninguna caracteristica de lo que aprendimos en IHC tambien resalto que le gustaria que hubiera mas caracteristicas como poner mas vidas y que haya una tienda donde pueda canjear los puntos obtenidos
 
-IMAGEN
+<img width ="555" height="300" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/EntrevistaFront.PNG">
 
 - Entrevista N°3: Liz Sanchez
 - Sexo: Femenino
