@@ -33,7 +33,7 @@
 | 0.6     | 15/10/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 2         |
 | 0.7     | 15/10/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 2         |
 | 0.8     | 15/10/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 3         |
-| 0.7     | 15/11/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 4         |
+| 0.7     | 15/11/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y          |
 | 0.8     | 25/11/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 4        |
 | 0.8     | 29/11/2025  | Todos los integrantes                 | Desarrollo del capítulo 5 y sprint 4        |
 ---
@@ -2198,9 +2198,26 @@ Durante este Sprint 4, el equipo enfocó sus esfuerzos en la integración comple
 | **US41** | Cancelar suscripción | **T-12** | Implementar cancelación de plan | Conectar botón de cancelación con DELETE /api/v1/subscriptions/{id}. | 2 | Jareth Vidal | Done |
 | **US42** | Ver historial de pagos | **T-13** | Conectar vista de facturas con API | Integrar tabla de historial con GET /api/v1/invoices. | 2 | Jareth Vidal | Done |
 
-### 5.2.3.4. Development Evidence for Sprint Review.
+### 5.2.4.4. Development Evidence for Sprint Review.
 
-Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de  Quizbee. Esta integración habilitó flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo, permitiendo a los usuarios interactuar con la plataforma de manera fluida y eficiente
+Durante el Sprint 4, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de  Quizbee. Esta integración habilitó flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo, permitiendo a los usuarios interactuar con la plataforma de manera fluida y eficiente
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|--------------------|--------------------|
+| QuizBee-Backend-Official |  feature-profile|  e86a898 | feat(iam): implement IAM bounded context  | Adding jwt authentification |  21/10/2025 |
+|  QuizBee-Backend-Official | feature-quizzies |  49cf192 | feat(feature-quizzies):"adding logic for bounded context core and change of JWT for testing" | add logic of quizzes and controlles and jwt authentification | 3/11/2025 |
+|  QuizBee-Backend-Official | Billing-and-subscription | 53d87c4 |add query and command classes for roles, users, and profiles; introduce value objects for roles and invoice statuses| Add  logic and crud of bounded context | 9/11/2024 |
+|  QuizBee-Backend-Official | develop | 3abc1d6 |feat(develop):"first version for backend united"| Integración de los contextos funcionales y la lógica central en la rama develop, representando la primera versión unificada del backend. | 1/12/2024 |
+|  QuizBee-Backend-Official | master | ca005b7 |feat(master):"backend 79% others files"| Add logic and crud of bounded context | 1/12/2024 |
+
+### 5.2.4.5.  Execution Evidence for Sprint Review
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/quizziesbackend.PNG">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Back1.PNG">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/Back2.PNG">
+
 
 ## 5.3. Validation Interviews
 
