@@ -2179,6 +2179,7 @@ Durante este Sprint 4, el equipo enfocó sus esfuerzos en la integración comple
 
 | **Sprint #** | **Sprint 4** |
 |--------------|--------------|
+
 | **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
 |-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
 | **US08** | Registro de usuario | **T-01** | Conectar formulario de registro con API | Integrar el componente de registro Angular con el endpoint POST /api/v1/auth/register del backend. | 3 | Abraam Acosta | Done |
