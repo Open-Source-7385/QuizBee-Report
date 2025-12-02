@@ -2253,6 +2253,42 @@ Durante el Sprint 4, se logró la integración completa entre la Frontend Web Ap
 
  ### 5.2.4.7.  Software Deployment Evidence for Sprint Review. 
  
+ Para la landing page, se utilizará Netlify para el despliegue de la página.
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment2.png">
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment4.png">
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment5.png">
+
+<img width ="auto" height="auto" src="https://github.com/Open-Source-7385/QuizBee-Report/blob/main/assets/img/chapter-V/deployment.png">
+
+ Para el Frontend se uso Firebase el cual es una plataforma de desarrollo de aplicaciones web y móviles proporcionada por Google, diseñada para ayudar a los desarrolladores a crear, gestionar y escalar aplicaciones rápidamente. Firebase ofrece una variedad de servicios que facilitan tanto el desarrollo como la gestión de aplicaciones en tiempo real<br>
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase.png">
+
+ Nos registramos con una cuenta de google y vamos a la consola
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase2.png">
+ 
+ Creamos un nuevo proyecto de firebase
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase3.png">
+ Ponemos un nombre para el proyecto
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase4.png">
+
+
+ Vamos al apartado de hosting
+
+ 
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase5.png">
+
+
+ Se configura el firebase hosting en nuestro proyecto de intellij idea
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/firebase6.png">
+
+Limk del frontend : https://quizbee-frontendunid.web.app
+
  ### 5.2.4.8.  Team Collaboration Insights during Sprint. 
  
   <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/sprint3evidences.PNG">
