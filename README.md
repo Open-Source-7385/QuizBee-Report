@@ -2294,18 +2294,22 @@ Limk del frontend : https://quizbee-frontendunid.web.app
 
 Para el backend como la base de datos optamos por desplegar ambos en render, ya que render tiene un servicio para crear base de datos PostGree, una vez creada la base de datos mediante variables de entorno lo conectamos a nuestro backend.
 
+ Creacion de la db en render
  <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence1.jpeg">
 
- <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence
- 2.jpeg">
+Credenciales que nos da el db de render
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence2.jpeg">
 
+Backend en render
 <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence3.jpeg">
 
+Configuracion de variables de entorno para la conexion de ambos
 <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence4.jpeg">
   
+Desplieque exitoso
 <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence5.jpeg">
 
-
+Link del backend: https://quizbee-backend-official-7qrw.onrender.com/swagger-ui/index.html
 
  ### 5.2.4.8.  Team Collaboration Insights during Sprint. 
  
