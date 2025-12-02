@@ -2125,7 +2125,80 @@ En esta sección, Tenemos los endpoints para quizbee:
   
 
  <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/sprint3evidences.PNG">
- 
+
+### 5.2.4. Sprint 4
+En esta sección se registra el avance del producto y las acciones colaborativas realizadas por el equipo durante el desarrollo del Sprint 4.
+
+### 5.2.4.1. Sprint Planning 4.
+
+| **Sprint #** | Sprint 4 |
+|---------------|-----------|
+| **Sprint Planning Background** |  |
+| **Date** | 1/11/2025  |
+| **Time** | 13:00 horas  |
+| **Location** |  Modalidad remota a través de la plataforma Discord  |
+| **Prepared By** | Todos los integrantes del equipo QuizBee |
+| **Attendees (to planning meeting)** | Todos los integrantes del equipo QuizBee |
+| **Sprint 4 – 3 Review Summary** | Durante el Sprint 3, se completó exitosamente el desarrollo del Backend API REST de QuizBee con Spring Boot, implementando los bounded contexts core del sistema: gestión de quizzes y preguntas, autenticación de usuarios (IAM), perfil de usuario, salas de speaking, sistema de intentos y puntuación, y billing/suscripciones. Se configuró la persistencia de datos con PostgreSQL y se documentó la API de forma interactiva con Swagger/OpenAPI. El backend fue desplegado exitosamente en Render, quedando disponible públicamente para su consumo. Además, se realizaron mejoras significativas en las User Stories y Technical Stories del proyecto. El producto resultante fue funcional, bien documentado y está listo para la integración con el frontend Angular desarrollado en el Sprint 2.   |
+| **Sprint 4 – 3 Retrospective Summary** |El equipo expresó satisfacción con el trabajo colaborativo durante el desarrollo y despliegue del backend, destacando la mejora en la coordinación técnica y la implementación exitosa de los bounded contexts con arquitectura limpia. Se identificaron oportunidades de mejora en la documentación de algunos endpoints y en la sincronización de los esquemas de datos entre el frontend y backend. Se acordó priorizar la integración completa entre ambas capas en el Sprint 4, estableciendo sesiones de pair programming para resolver bloqueos de integración, definir contratos de API claros y realizar pruebas end-to-end. La API REST desplegada en Render proporcionó una base sólida y estable para comenzar la integración. |
+| **Sprint Goal & User Stories** |   |
+| **Sprint 4 Goal** | Nos centramos en lograr una integración completa entre el frontend de Angular y el backend de Spring Boot de QuizBee, conectando todos los componentes de la interfaz de usuario con sus correspondientes puntos finales de API REST para ofrecer un sistema integral y completamente funcional. Creemos que ofrece una experiencia de usuario fluida y completa tanto para estudiantes como para creadores, permitiéndoles registrarse, autenticarse, crear y resolver cuestionarios, ver clasificaciones, gestionar sus perfiles y acceder a funciones premium a través de una plataforma unificada y estable. Esto se confirmará cuando el frontend consuma correctamente todos los puntos finales de API del backend implementados en Render, los usuarios puedan completar todos los flujos críticos (registro, inicio de sesión, creación y resolución de cuestionarios, visualización de clasificaciones, gestión de perfiles y compra de suscripciones) sin errores de principio a fin, todos los mecanismos de autenticación y autorización funcionen correctamente con tokens JWT, y se ejecuten con éxito al menos cinco escenarios de prueba de integración integral que demuestren una comunicación adecuada entre el frontend y el backend.  |
+| **Sprint 4 Velocity** | 100%|
+| **Sum of Story Points** | La suma de Story Points atendidos es de 21 story points|
+
+
+### 5.2.4.2. Aspect Leaders and Collaborators. 
+En esta sección se presenta la **Leadership-and-Collaboration Matrix (LACX)** para el **Sprint 4**, enfocada en la **integración completa entre la Frontend Web Application (Angular) y los Web Services RESTful del backend (Spring Boot)** de QuizBee. Esta matriz define los roles y responsabilidades de cada miembro del equipo durante el proceso de integración, pruebas end-to-end y despliegue del sistema completo.
+
+## Principales Aspectos Considerados en el Sprint 4
+
+Para el Sprint 4, se han identificado cinco aspectos fundamentales que abarcan la integración completa del sistema:
+
+1. **API Integration (Integración de API)**: Este aspecto engloba la conexión de la aplicación frontend Angular con los servicios RESTful del backend Spring Boot desplegado en Render, incluyendo llamadas a endpoints, manejo de respuestas HTTP, gestión de tokens JWT y tratamiento de errores de comunicación.
+
+2. **Authentication Flow Integration (Integración del Flujo de Autenticación)**: Comprende la implementación completa del flujo de registro, login y gestión de sesiones con tokens JWT, conectando los componentes de autenticación del frontend con los endpoints de IAM del backend.
+
+3. **Core Features Integration (Integración de Funcionalidades Core)**: Incluye la conexión de las funcionalidades principales: creación y resolución de quizzes, visualización de rankings, gestión de perfiles, salas de speaking y sistema de suscripciones premium.
+
+4. **End-to-End Testing (Pruebas de extremo a extremo)**: Abarca la implementación y ejecución de pruebas automatizadas que validan flujos completos desde la interfaz de usuario Angular hasta el backend Spring Boot, verificando la correcta comunicación entre ambas capas.
+
+5. **Deployment & Documentation (Despliegue y Documentación)**: Comprende el despliegue integrado de frontend y backend, actualización de documentación técnica de integración y configuración de variables de entorno para producción.
+
+| **Team Member (Last Name, First Name)** | **Github Username** | **API Integration** | **Authentication Flow** | **Core Features Integration** | **End-to-End Testing** | **Deployment & Documentation** |
+|------------------------------------------|---------------------|---------------------|-------------------------|-------------------------------|------------------------|-------------------------------|
+| **Geronimo Quispe, Pablo Antonio**        | Phatogram           | L                   | C                       | L                             | C                      | C                             |
+| **Acosta Elera, Abraam Bernabe**          | abraam16            | C                   | L                       | C                             | L                      | C                             |
+| **Vidal Malaga, Jareth Beycker**          | JarethVidal         | C                   | C                       | C                             | C                      | L                             |
+
+### 5.2.4.2.3. Sprint Backlog 4. 
+
+Durante este Sprint 4, el equipo enfocó sus esfuerzos en la integración completa entre el Frontend (Angular) y el Backend (Spring Boot) de QuizBee, conectando todos los componentes de la interfaz de usuario con sus correspondientes endpoints REST. Se priorizó la implementación de flujos de autenticación con JWT, integración de servicios core, pruebas end-to-end y despliegue del sistema completo. Cada integrante asumió la responsabilidad de conectar su bounded context asignado, permitiendo un desarrollo distribuido y coherente. Esta fase fue clave para lograr una plataforma funcional y lista para su lanzamiento.
+
+<img src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-3/sprintbacklog3.PNG"  width="600"/>
+
+
+| **Sprint #** | **Sprint 4** |
+|--------------|--------------|
+| **User Story Id** | **User Story Title** | **Task Id** | **Task Title** | **Description** | **Estimation (Hours)** | **Assigned To** | **Status** |
+|-------------------|----------------------|--------------|----------------|-----------------|------------------------|-----------------|-------------|
+| **US08** | Registro de usuario | **T-01** | Conectar formulario de registro con API | Integrar el componente de registro Angular con el endpoint POST /api/v1/auth/register del backend. | 3 | Abraam Acosta | Done |
+| **US09** | Inicio de sesión | **T-02** | Implementar flujo de autenticación JWT | Conectar login Angular con POST /api/v1/auth/login y almacenar token JWT en localStorage. | 3 | Abraam Acosta | Done |
+| **US10** | Crear quizzes | **T-03** | Integrar creador de quizzes con API | Conectar componente de creación con POST /api/v1/quizzes para persistir quizzes en backend. | 4 | Pablo Geronimo | Done |
+| **US11** | Publicar quizzes | **T-04** | Implementar publicación de quizzes | Integrar botón de publicar con endpoint PATCH /api/v1/quizzes/{id}/publish. | 2 | Pablo Geronimo | Done |
+| **US12** | Editar quizzes | **T-05** | Conectar editor con API de actualización | Integrar formulario de edición con PUT /api/v1/quizzes/{id}. | 3 | Pablo Geronimo | Done |
+| **US13** | Eliminar quizzes | **T-06** | Implementar eliminación con confirmación | Conectar modal de confirmación con DELETE /api/v1/quizzes/{id}. | 2 | Pablo Geronimo | Done |
+| **US14** | Filtrar quizzes por idioma | **T-07** | Integrar filtro de idioma con búsqueda | Conectar selector de idioma con GET /api/v1/quizzes?language={lang}. | 2 | Pablo Geronimo | Done |
+| **US15** | Filtrar quizzes por dificultad | **T-08** | Integrar filtro de dificultad | Conectar selector de nivel con GET /api/v1/quizzes?difficulty={level}. | 2 | Pablo Geronimo | Done |
+| **US16** | Filtrar quizzes por categoría | **T-09** | Integrar filtro de categoría temática | Conectar selector con GET /api/v1/quizzes?category={cat}. | 2 | Pablo Geronimo | Done |
+| **US17** | Resolver quizzes | **T-10** | Conectar componente de quiz con API | Integrar resolución con POST /api/v1/attempts y calcular puntaje. | 4 | Pablo Geronimo | Done |
+| **US40** | Suscripción premium | **T-11** | Implementar flujo de suscripción | Conectar formulario de suscripción con POST /api/v1/subscriptions para activar plan premium. | 4 | Jareth Vidal | Done |
+| **US41** | Cancelar suscripción | **T-12** | Implementar cancelación de plan | Conectar botón de cancelación con DELETE /api/v1/subscriptions/{id}. | 2 | Jareth Vidal | Done |
+| **US42** | Ver historial de pagos | **T-13** | Conectar vista de facturas con API | Integrar tabla de historial con GET /api/v1/invoices. | 2 | Jareth Vidal | Done |
+
+### 5.2.3.4. Development Evidence for Sprint Review.
+
+Durante el Sprint 3, se logró la integración completa entre la Frontend Web Application y los Web Services RESTful del backend de  Quizbee. Esta integración habilitó flujos de trabajo completos y funcionalidades integradas para ambos segmentos objetivo, permitiendo a los usuarios interactuar con la plataforma de manera fluida y eficiente
+
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
