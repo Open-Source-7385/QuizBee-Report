@@ -2243,6 +2243,14 @@ Durante el Sprint 4, se logró la integración completa entre la Frontend Web Ap
 <img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/SUBS5.PNG">
 
  ### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+ 
+ <img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/POST1.png">
+ <img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/POST2.png">
+ <img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/POST3.png">
+ <img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/POST4.png">
+ <img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/POST5.png">
+ <img width="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/POST6.png">
+ 
 
 ## 5.3. Validation Interviews
 
