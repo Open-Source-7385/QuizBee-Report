@@ -2289,6 +2289,24 @@ Durante el Sprint 4, se logró la integración completa entre la Frontend Web Ap
 
 Limk del frontend : https://quizbee-frontendunid.web.app
 
+
+#### Despliegue del backend:
+
+Para el backend como la base de datos optamos por desplegar ambos en render, ya que render tiene un servicio para crear base de datos PostGree, una vez creada la base de datos mediante variables de entorno lo conectamos a nuestro backend.
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence1.jpeg">
+
+ <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence
+ 2.jpeg">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence3.jpeg">
+
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence4.jpeg">
+  
+<img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/develop/assets/img/chapter-IV/deploy_evidence5.jpeg">
+
+
+
  ### 5.2.4.8.  Team Collaboration Insights during Sprint. 
  
   <img width ="auto" height="auto" src="https://raw.githubusercontent.com/Open-Source-7385/QuizBee-Report/main/assets/img/chapter-V/sprint3evidences.PNG">
